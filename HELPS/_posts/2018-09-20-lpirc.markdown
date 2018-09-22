@@ -1,7 +1,0 @@
----
-layout: post
-title: "Low-Power Image Recognition Challenge (LPIRC)"
-published: true
-categories: jekyll update
----
-[LINK](https://rebootingcomputing.ieee.org/lpirc)

@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Countinuous Analysis of Many Cameras (CAM2)"
-categories: jekyll update
----
-[LINK](https://www.cam2project.net)
