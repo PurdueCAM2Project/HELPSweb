@@ -7,7 +7,7 @@ tag: [project_sec]
 ---
 #### **Autonomous Information Dissemination in Randomly Deployed Sensor Networks (2007-2012)**
 ##### Primary researcher: [Jing (Jackie) Feng](https://engineering.purdue.edu/ResearchGroups/HELPS/index.html#Jackie)
-* Thesis: [Energy-Efficient Collaborative Data Transmissions in Wireless Sensor Networks]()
+* Thesis: [Energy-Efficient Collaborative Data Transmissions in Wireless Sensor Networks](https://drive.google.com/uc?id=1iJu9soL2OKkeNRiD8_QlwNOWrwvnzSB_)
 
 ##### A wireless sensor network (WSN) is a wireless network consisting of spatially distributed autonomous devices using sensors to cooperatively monitor physical or environmental conditions, such as temperature, sound, vibration, pressure, motion or pollutants, at different locations. When sensors are far from the receiver, individual sensor or hop-by-hop transmission doesn't have enough energy. This project is to create a new sensor network architecture, AIDA, that uses antenna arrays of the distributed sensor nodes to create directional radio waves which can give stronger signals than individual antenna of the sensor nodes. Because of wave reinforcement and cancellation, the signals need to be highly directional and in phase at the receiver point. 
 
@@ -17,7 +17,7 @@ tag: [project_sec]
 ---
 #### **Energy Conservation for Multimedia Systems on Mobile Devices** 
 ##### Primary researchers: [Karthik Kumar](https://engineering.purdue.edu/ResearchGroups/HELPS/index.html#Karthik)
-* Thesis: [Application-Based Energy-Efficient Mobile and Server Computing](https://engineering.purdue.edu/HELPS/People/thesis/Kumar.pdf)
+* Thesis: [Application-Based Energy-Efficient Mobile and Server Computing](https://drive.google.com/uc?id=18la16Q5fKPpiZinD9DJCnVlTAWbUEWU0)
 
 ##### Multimedia content such as image and video usually require memory- and computation-intensive processing and thus cost a large amount of energy. In this project, we devise energy-efficient implementations of several multimedia applications on mobile device. We also explore the server-client communication and computation cost to make offloading decisions. The ultimate goal is to develop a general and efficient framework for multimedia applications on mobile devices.
 
@@ -38,7 +38,7 @@ tag: [project_sec]
 ---
 #### **Resource Driven Transmission and Display of Multimedia in Mobile Devices (2005-2010)**
 ##### Primary researcher: [Yamini Nimmagadda](http://web.ics.purdue.edu/~ynimmaga)
-* Thesis: [Application-Based Energy-Efficient Mobile and Server Computing]()
+* Thesis: [Application-Based Energy-Efficient Mobile and Server Computing](https://drive.google.com/uc?id=1fLT1R1gfssZBGXZfPVVzhhGxQuMa6cnn)
 
 ##### There has been a dramatic growth in the usage of images and videos in mobile devices for fields like personal communication, surveillance and tracking, and health-care. Since mobile devices are battery-operated, energy conservation is very important. We develop techniques for transmission and display of multimedia for devices with different amounts of resources. We remove fine details from images and videos, while preserving significant structural information. Removal of fine details reduces the sizes of images and videos, thereby reducing their transmission energy. We also develop layout generation techniques for adapting multimedia presentations for devices with different display resolutions.
 

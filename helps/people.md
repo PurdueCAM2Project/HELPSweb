@@ -6,7 +6,7 @@ permalink: /people/
 
 ## **Leading Faculty**
 
-<img src="https://engineering.purdue.edu/HELPS/Faculty/images/yunghsianglu.jpg" width="200">
+<img src="https://drive.google.com/uc?id=1EqxgXBuEQNiQ5pNVvg42AfWMFKByjKh1" width="200">
 
 ### Yung-Hsiang Lu
 > ### yanglu@purdue.edu
