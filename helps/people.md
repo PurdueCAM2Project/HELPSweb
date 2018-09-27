@@ -4,15 +4,26 @@ title: People
 permalink: /people/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## **Leading Faculty**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<img src="https://engineering.purdue.edu/HELPS/Faculty/images/yunghsianglu.jpg" width="200">
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Yung-Hsiang Lu
+> ### yanglu@purdue.edu
 
+#### Yung-Hsiang Lu is a professor in the School of Electrical and Computer Engineering and (by courtesy) the Department of Computer Science of Purdue University. He is an ACM distinguished scientist and ACM distinguished speaker. He is a member in the organizing committee of the IEEE Rebooting Computing Initiative. He is the lead organizer of the first Low-Power Image Recognition Challenge in 2015, the chair (2014-2016) of the Multimedia Communication Systems Interest Group in IEEE Multimedia Communications Technical Committee.  He obtained the Ph.D. from the Department of Electrical Engineering at Stanford University.
 
-[jekyll-organization]: https://github.com/jekyll
+#### Office: *__MSEE 222__*
+
+#### TEL: *765-494-2668*
+
+<br>
+
+***
+<br>
+
+## **Members**
+
+#### For members who work for HELPS project, please refer to:
+
+[CAM2-TEAM](https://www.cam2project.net/team/)
