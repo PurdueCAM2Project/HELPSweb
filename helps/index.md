@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+excerpt_separator: <!--more-->
 ---
 
 ## Current Projects
@@ -20,3 +21,4 @@ layout: home
 
 |  ![](https://shopify-customerio.s3.amazonaws.com/tools/image_attachment/image/custom_resized_09060f5e-e892-4704-b092-86e7ae352f9c.jpg)   |  ![](https://shopify-customerio.s3.amazonaws.com/tools/image_attachment/image/custom_resized_da813e9b-a44b-4401-aeed-084ce0e0e6cd.jpg)
 
+<!--more-->
