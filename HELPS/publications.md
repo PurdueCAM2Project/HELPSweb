@@ -4,13 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+{% for pub_type in site.categories.publication %}
+    
+- [{{ pub_type.title }}]({{ pub_type.url }})
 
-{% assign papers = site.data.journal_pubs %}
-
-{% for paper in papers %}
-<!-- {% if paper.document_type == item.type %} -->
-
-- {{ paper.authors }}, *{{ paper.paper_name }}*, {{ paper.conference }}
-
-<!-- {% endif %} -->
 {% endfor %}
+
