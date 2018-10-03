@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-{% assign papers = site.data.pubs %}
+{% assign papers = site.data.journal_pubs %}
 
 {% for paper in papers %}
 <!-- {% if paper.document_type == item.type %} -->
