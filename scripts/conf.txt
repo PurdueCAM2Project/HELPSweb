@@ -1,0 +1,133 @@
+Conference Papers
+These papers are protected by copyrights. The copyright owners (such as ACM and IEEE) allow authors to post own papers to the public for personal and noncommercial uses.
+
+Special Session on Low-Power Image Recognition Challenges
+
+Matthew Ardi, Alexander C Berg, Bo Chen, Yen-Kuang Chen, Yiran Chen, Donghyun Kang, Junhyeok Lee, Seungjae Lee, Yang Lu, Yung-Hsiang Lu, Fei Sun, "Special Session: 2018 Low-Power Image Recognition Challenge and Beyond", IEEE International Conference on Artificial Intelligence Circuits and Systems 2019
+Kent Gauen, Ryan Dailey, Yung-Hsiang Lu, Eunbyung Park, Wei Liu, Alexander C. Berg, Yiran Chen "Three Years of Low-Power Image Recognition Challenge: Introduction to Special Session", Design Automation and Test in Europe 2018 [PDF]
+Kent Gauen, Rohit Rangan, Anup Mohan, Yung-Hsiang Lu Wei Liu, Alexander C. Berg," Low-Power Image Recognition Challenge", Asia and South Pacific Design Automation Conference 2017 [PDF]
+Yung-Hsiang Lu, Alan M. Kadin, Alexander C. Berg, Thomas M. Conte, Erik P. DeBenedictis, Rachit Garg, Ganesh Gingade, Bichlien Hoang, Yongzhen Huang, Boxun Li, Jingyu Liu, Wei Liu, Huizi Mao, Junran Peng, Tianqi Tang, Elie K. Track, Jingqiu Wang, Tao Wang, Yu Wang, Jun Yao, "Rebooting Computing and Low-Power Image Recognition Challenge", International Conference on Computer Aided Design 2015 (invited paper in a special session). [PDF]
+Continuous Analysis of Many Cameras (CAM2)
+
+Chittayong Surakitbanharn, Calvin Yau, Guizhen Wang, Aniesh Chawla, Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu, George K. Thiruvathukal, " Cross-referencing social media and public surveillance camera data for disaster response", IEEE Symposium on Technologies for Homeland Security 2018.
+Ahmed S. Kaseb, Bo Fu, Anup Mohan, Yung-Hsiang Lu, Amy Reibman, George K. Thiruvathukal, "Analyzing Real-Time Multimedia Content From Network Cameras Using CPUs and GPUs in the Cloud", IEEE International Conference on Multimedia Information Processing and Retrieval 2018 [PDF]
+Anup Mohan, Ahmed S. Kaseb, Kent W. Gauen, Yung-Hsiang Lu, Amy R. Reibman, and Thomas J. Hacker, "Determining the Necessary Frame Rate of Video Data for Object Tracking under Accuracy and Cost Constraints", IEEE International Conference on Multimedia Information Processing and Retrieval 2018 [PDF]
+Samira Pouyanfar, Yudong Tao, Anup Mohan, Haiman Tian, Ahmed S. Kaseb, Kent Gauen Ryan Dailey, Sarah Aghajanzadeh, Yung-Hsiang Lu, Shu-Ching Chen, Mei-Ling Shyu Dynamic Sampling in Convolutional Neural Networks for Imbalanced Data Classification, IEEE Conference on Multimedia Information Processing and Retrieval 2018 [PDF]
+Yung-Hsiang Lu, Andrea Cavallaro, Catherine Crump, Gerald Friedland, Keith Winstein, "Panel: Privacy Protection in Online Multimedia", ACM Multimedia 2017 [PDF]
+Kent Gauen, Ryan Dailey, John Laiman, Yuxiang Zi, Nirmal Asokan, Yung-Hsiang Lu, George Thiruvathukal, Mei-Ling Shyu, Shu-Ching Chen, "Comparison of Visual Datasets for Machine Learning" (Invited Paper) IEEE International Conference on Information Reuse 2017 [PDF]
+Bo Fu, Anup Mohan, Yifan Li, Sanghyun Cho, Kent Gauen, Yung-Hsiang Lu, "Parallel Video Processing using Embedded Computers", IEEE Global Conference on Signal and Information Processing 2017 [PDF]
+Ryan Dailey, Ahmed S Kaseb, Chandler Brown, Sam Jenkins, Sam Yellin, Fengjian Pan, Yung-Hsiang Lu, "Creating the World's Largest Real-Time Camera Network", Imaging and Multimedia Analytics in a Web and Mobile World 2017 [PDF]
+Anup Mohan, Kent Gauen, Yung-Hsiang Lu, Wei Wayne Li, Xuemin Chen, "Internet of Video Things in 2030: a World with Many Cameras", IEEE International Symposium of Circuits and Systems 2017. [PDF]
+Anup Mohan, Ahmed S. Kaseb, Yung-Hsiang Lu, Thomas J. Hacker, "Location Based Cloud Resource Management for Analyzing Real-Time Video from Globally Distributed Network Cameras", IEEE International Conference on Cloud Computing Technology and Science (CloudCom) 2016 [PDF]
+Saurav Nanda Thomas J Hacker Yung-Hsiang Lu, "Predictive Model for Dynamically Provisioning Resources in Multi-Tier Web Applications", IEEE International Conference on Cloud Computing Technology and Science (CloudCom) 2016  [PDF]
+Youngsol Koh, Anup Mohan, Guizhen Wang, Hanye Xu, Abish Malik, Yung-Hsiang Lu, and David S. Ebert, Improve Safety using Public Network Cameras, IEEE Symposium on Technologies for Homeland Security 2016 [PDF]
+Yung-Hsiang Lu, Milind Kulkarni, and Xiaojin Zhu Programming Language Support for Analyzing Non-Persistent Data IEEE Symposium on Technologies for Homeland Security 2016 [PDF]
+Youngsol Koh and Yung-Hsiang Lu, "Large-scale Image Processing using Amazon EC2 Spot Instances", IS&T International Symposium on Electronic Imaging in the Image Quality and System Performance Conference 2016 [PDF]
+Milind Kulkarni and Yung-Hsiang Lu, Beyond Big Data-Rethinking Programming Languages for Non-Persistent Data, International Conference on Cloud Computing and Big Data 2015 [PDF]
+Ahmed S. Kaseb, Anup Mohan and Yung-Hsiang Lu, Cloud Resource Management for Image and Video Analysis of Big Data from Network Cameras, International Conference on Cloud Computing and Big Data 2015 (best paper award) [PDF]
+Everett Berry, Yung-Hsiang Lu, and Wei-Tsung Su, Using Global Camera Networks to Create Multimedia Content, International Conference on Cloud Computing and Big Data 2015  [PDF]
+Wenyi Chen, Yung-Hsiang Lu and Thomas Hacker, "Adaptive Cloud Resource Allocation for Analysing Many Video Streams", IEEE International Conference on Cloud Computing Technology and Science (CloudCom) 2015 [PDF]
+Joanna Batstone, Touradj Ebrahimi, Tiejun Huang, Yung-Hsiang Lu, and Yonggang Wen, "Opportunities and Challenges of Global Network Cameras", Panel in ACM Multimedia 2015 [PDF].
+Ahmed S. Kaseb, Youngsol Koh, Everett Berry, Kyle McNulty,Yung-Hsiang Lu, Edward J. Delp, "Multimedia Content Creation using Global Network Cameras: The Making of CAM2", GlobalSIP 2015 (invited paper) [PDF]
+S. M. Iftekharul Alam, Sonia Fahmy, and Yung-Hsiang Lu, "LiTMaS: Live road Traffic Maps for Smartphones",  IEEE WoWMoM Workshop on Video Everywhere 2015.[PDF]
+Wei-Tsung Su, Kyle McNulty, and Yung-Hsiang Lu, "Teaching Large-Scale Image Processing over Worldwide Network Cameras", IEEE International Conference on Digital Signal Processing 2015 [PDF]
+Line C Pouchard,  Megan Sapp Nelson, Yung-Hsiang Lu, "Comparing policies for open data from publicly accessible international sources", Annual Conference International Association for Social Science Information Services & Technology 2015 [PDF].
+Wei-Tsung Su, Yung-Hsiang Lu, and Ahmed S. Kaseb, "Harvest the Information from Multimedia Big Data in Global Camera Networks", IEEE International Conference on Multimedia Big Data 2015. [PDF]
+Ahmed S. Kaseb, Everett Berry, Erik Rozolis, Kyle McNulty, Seth Bontrager, Youngsol Koh, Yung-Hsiang Lu, Edward J. Delp, "An interactive web-based system for large-scale analysis of distributed cameras", Imaging and Multimedia Analytics in a Web and Mobile World 2015. [PDF]
+Ahmed S. Kaseb, Wenyi Chen, Ganesh Gingade, Yung-Hsiang Lu, "Worldview and route planning using live public cameras", Imaging and Multimedia Analytics in a Web and Mobile World 2015. [PDF]
+Thitiporn Pramoun, Jeehyun Choe, He Li, Qingshuang Chen, humrongrat Amornraksa, Yung-Hsiang Lu, Edward J. Delp III, "Webcam classification using simple features", Computational Imaging 2015. [PDF]
+Ahmed S. Kaseb, Everett Berry, Youngsol Koh, Anup Mohan, Wenyi Chen, He Li, Yung-Hsiang Lu, and Edward J. Delp, "A System for Large-Scale Analysis of Distributed Cameras", IEEE Global Conference on Signal and Information Processing 2014. [PDF]
+Thomas J. Hacker, Yung-Hsiang Lu, "An Instructional Cloud-Based Testbed for Image and Video Analytics", the Emerging Issues in Cloud Workshop of CloudCom 2014 [PDF]
+Jeehyun Choe, Thitiporn Pramoun, Thumrongrat Amornraksa, Yung-Hsiang Lu, and Edward J. Delp, "Image-Based Geographical Location Estimation Using Web Cameras", Southwest Symposium on Image Analysis and Interpretation 2014 [PDF]
+Mobile Systems
+
+Karthik Kumar, Yamini Nimmagadda, and Yung-Hsiang Lu, "Ranking Servers based on Energy Savings for Computation Offloading", International Symposium on Low Power Electronics and Design 2009. [PDF]
+Karthik Kumar, Yamini Nimmagadda, and Yung-Hsiang Lu, "Establishing Trust for Computation Offloading", International Conference on Computer Communications and Networks 2009. [PDF]
+Karthik Kumar, Yamini Nimmagadda, Yu-Ju Hong, and Yung-Hsiang Lu, "Energy Conservation by Adaptive Feature Loading for Mobile Content-Based Image Retrieval", International Symposium on Low Power Electronics and Design 2008, pages 153-158. [PDF]
+Jibang Liu and Yung-Hsiang Lu, "Energy Savings in Privacy-Preserving Computation Offloading with Protection by Homomorphic Encryption", HotPower 2010. [PDF]
+Jibang Liu, Karthik Kumar, and Yung-Hsiang Lu, "Tradeoff between Energy Savings and Privacy Protection in Computation Offloading", International Symposium on Low Power Electronics and Design 2010 (poster), pages 213-218. [PDF]
+Yamini Nimmagadda, Karthik Kumar and Yung-Hsiang Lu, "Energy-Efficient Image Compression in Mobile Devices for Wireless Transmission", International Conference on Multimedia & Expo 2009. [PDF]
+Yamini Nimmagadda, Karthik Kumar and Yung-Hsiang Lu, "Preference-Based Adaptation of Multimedia Presentations for Different Display Sizes", International Conference on Multimedia & Expo 2009. [PDF]
+Yamini Nimmagadda, Yung-Hsiang Lu, Edward J. Delp, and David Ebert, "Non-photorealistic Rendering for Energy Conservation in Portable Devices", IS&T/SPIE Symposium on Electronic Imaging, Multimedia on Mobile Devices Vol. 6821, 2008, San Jose, CA. [PDF]
+Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "Adaptive Computation Offloading for Energy Conservation on Battery-Powered Systems", International Conference on Parallel and Distributed Systems 2007. [PDF]
+Yu-Ju Hong, Karthik Kumar, and Yung-Hsiang Lu, "Energy Efficient Content-based Image Retrieval for Mobile Systems", IEEE International Symposium on Circuits and Systems 2009, pages 1673-1676. [PDF]
+Shantanu Gautam, Gabi Sarkis, Edwin Tjandranegara, Evan Zelkowitz, Yung-Hsiang Lu, and Edward J. Delp, "Multimedia for Mobile Users: Image Enhanced Navigation", Multimedia Content Analysis, Management, and Retrieval, IS&T/SPIE Symposium on Electronic Imaging 2006.[PDF]
+Yung-Hsiang Lu, David Ebert, and Edward J Delp, "Resource-Driven Content Adaptation", Computational Imaging IV, IS&T/SPIE Symposium on Electronic Imaging 2006. [PDF]
+Yung-Hsiang Lu and Edward J. Delp, "An Overview of Problems in Image-Based Location Awareness and Navigation", Visual Communications and Image Processing 2004, pages 102-109 [PDF]
+Yung-Hsiang Lu and Edward J. Delp, "Image-Based Location Awareness and Navigation: Who Cares?", Southwest Symposium on Image Analysis and Interpretation 2004, pages 26-30. [PDF]
+Yang Ge, Yukan Zhang, Qinru Qiu, and Yung-Hsiang Lu, "A Game Theoretic Resource Allocation for Overall Energy Minimization in Mobile Cloud Computing System", International Symposium on Low Power Electronics and Design 2012. [PDF]
+David S. Ebert, Yung-Hsiang Lu, Edward J. Delp, William Cleveland, Ahmed Elmagarmid, Alok Chaturvedi, and Mourad Ouzzani, "Resource- and Task-Driven Visualization Adaptation", Information Visualization and Interaction Techniques for Collaboration across Multiple Displays, Workshop associated with CHI International Conference 2006.
+General-Purpose Computing
+
+Karthik Kumar, Kshitij Doshi, Martin Dimitrov, and Yung-Hsiang Lu, "Energy Management in an Enterprise Decision Support System", International Symposium on Low Power Electronics and Design 2011. [PDF]
+Karthik Kumar, Jing Feng, Yamini Nimmagadda, and Yung-Hsiang Lu, "Resource Allocation for Real-Time Tasks using Cloud Computing", IEEE Workshop on Grid and P2P Systems and Applications, International Conference on Computer Communications and Networks 2011. [PDF]
+Nathaniel Pettis and Yung-Hsiang Lu, "Improving Quality-of-Service of File Migration Power Management Policies in High-Performance Servers", International Conference on Parallel and Distributed Systems 2007.  [PDF]
+Nathaniel Pettis, Le Cai, and Yung-Hsiang Lu, "Dynamic Power Management for Streaming Data", International Symposium on Low Power Electronics and Design 2004, pages 62-65. (poster) [PDF]
+Nathaniel Pettis, Jason Ridenour, and Yung-Hsiang Lu, "Automatic Run-Time Selection of Power Policies for Operating Systems", Design Automation and Test in Europe 2006, pages 508-513. [PDF]
+Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "A Programming Environment with Runtime Energy Characterization for Energy-Aware Applications", International Symposium on Low Power Electronics and Design 2007, pages 141-146. [PDF]
+Changjiu Xian, Yung-Hsiang Lu, and Zhiyuan Li, "Energy-Aware Scheduling for Real-Time Multiprocessor Systems with Uncertain Task Execution Time", Design Automation Conference 2007, pages 664-669. [PDF]
+Changjiu Xian and Yung-Hsiang Lu, "Energy Reduction by Workload Adaptation in a Multi-Process Environment", Design Automation and Test in Europe 2006, pages 514-519.  [PDF]
+Changjiu Xian and Yung-Hsiang Lu, "Dynamic Voltage Scaling for Multitasking Real-Time Systems with Uncertain Execution Time", GLSVLSI 2006, pages 392-397. [PDF]
+Le Cai and Yung-Hsiang Lu, "Dynamic Power Management Using Data Buffers", Design Automation and Test in Europe 2004, pages 526-531. [PDF]
+Le Cai, Yung-Hsiang Lu, "Joint Power Management of Memory and Disk", Design Automation and Test in Europe 2005, pages 86-91. [PDF]
+Le Cai and Yung-Hsiang Lu, "Power Reduction of Multiple Disks Using Dynamic Cache Resizing and Speed Control", International Symposium on Low Power Electronics and Design 2006, pages 186-190. [PDF]
+Jason W. Horihan and Yung-Hsiang Lu, "Improving FSM Evolution with Progressive Fitness Functions", Great Lakes Symposium on VLSI 2004, pages 123-126. [PDF]
+Yung-Hsiang Lu, Eui-Young Chung, Tajana Simunic, Luca Benini, and Giovanni De Micheli, "Quantitative Comparison of Power Management Algorithms", Design Automation and Test in Europe 2000, pages 20-26. [PDF]
+Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "Low-Power Task Scheduling for Multiple Devices", International Workshop on Hardware/Software Codesign 2000, pages 39-43. [PDF]
+Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "Operating-System Directed Power Reduction", International Symposium on Low Power Electronics and Design 2000, pages 37-42. [PDF]
+Yung-Hsiang Lu, Luca Benini, and Giovanni De Micheli, "Requester-Aware Power Reduction", International Symposium on System Synthesis 2000, pages 18-23. [PDF]
+Yung-Hsiang Lu and Giovanni De Micheli, "Adaptive Hard Disk Power Management on Personal Computers", Great Lakes Symposium on VLSI 1999, pages 50-53. [PDF]
+Yung-Hsiang Lu, Tajana Simunic, and Giovanni De Micheli, "Software Controlled Power Management", International Workshop on Hardware/Software Codesign 1999, pages 157-161. [PDF]
+Jianghai Hu and Yung-Hsiang Lu, "Buffer Management for Power Reduction Using Hybrid Control", IEEE Conference on Decision and Control and European Control Conference 2005, pages 6997-7002. [PDF]
+Chris Gniady, Y. Charlie Hu, and Yung-Hsiang Lu, "Program Counter Based Techniques for Dynamic Power Management", International Symposium on High-Performance Computer Architecture 2004, pages 24-35. [PDF]
+Wei Zhang, Jianghai Hu, and Yung-Hsiang Lu, "Optimal Power Modes Scheduling Using Hybrid Systems", American Control Conference 2007. [PDF]
+Jason Ridenour, Jianghai Hu, and Yung-Hsiang Lu, "Low-Power Buffer Management Using Hybrid Control", American Control Conference 2006, pages 2670-2675. [PDF]
+Wireless Sensor Networks
+
+Jing Feng, Serkan Sayilir, Che-Wei Chang, Yung-Hsiang Lu, Byunghoo Jung, Dimitrios Peroulis, Y. Charlie Hu," Energy-Efficient Transmission for Beamforming in Wireless Sensor Networks", IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks 2010. [PDF]
+Jing Feng, Yamini Nimmagadda, Yung-Hsiang Lu, Byunghoo Jung, Dimitrios Peroulis, Y. Charlie Hu, "Analysis of Energy Consumption on Data Sharing in Beamforming for Wireless Sensor Networks", International Conference on Computer Communications and Networks 2010. [PDF]
+Jing Feng, Yung-Hsiang Lu, Byunghoo Jung, and Dimitrios Peroulis, "Energy Efficient Collaborative Beamforming in Wireless Sensor Networks", IEEE International Symposium on Circuits and Systems 2009, pages 2161-2164. [PDF]
+Douglas Herbert, Yung-Hsiang Lu, Saurabh Bagchi, and Zhiyuan Li, "Detection and Repair of Software Errors in Hierarchical Sensor Networks", IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing 2006, pages 403-410. [PDF]
+Douglas Herbert, Vinaitheerthan Sundaram, Lila Albin, Yung-Hsiang Lu, Saurabh Bagchi, and Zhiyuan Li, "Pervasive Carbon Dioxide and Temperature Monitoring Utilizing Large Numbers of Low-Cost Wireless Sensors", American Industrial Hygiene Conference and Exposition 2007.
+Man Wang, Zhiyuan Li, Feng Li, Xiaobing Feng, Saurabh Bagchi, and Yung-Hsiang Lu, "Dependence-Based Multi-Level Tracing and Replay for Wireless Sensor Networks Debugging";, SIGPLAN/SIGBED Conference on Languages, Compilers and Tools for Embedded Systems 2011. [PDF]
+Serkan Sayilir, Yung-Hsiang Lu, Dimitrios Peroulis, Y. Charlie Hu, and Byunghoo Jung, "Phase Difference and Frequency Offset Estimation for Collaborative Beamforming in Sensor Networks", IEEE International Symposium on Circuits and Systems 2010. [PDF]
+Serkan Sayilir, Yung-Hsiang Lu, Dimitrios Peroulis, Y. Charlie Hu, and Byunghoo Jung, "Collaborative Beamforming in Wireless Sensor Networks", IEEE  Asilomar Conference on Signals, Systems, and Computers 2011. [PDF]
+Matthew Tan Creti, Matthew Beaman, Saurabh Bagchi, Zhiyuan Li, Yung-Hsiang Lu, "Multigrade Security Monitoring for Ad-Hoc Wireless Networks", IEEE International Conference on Mobile Ad-hoc and Sensor Systems. [PDF]
+Vinai Sundaram, Saurabh Bagchi, Yung-Hsiang Lu, and Zhiyuan Li, "SeNDORComm: An Energy-Efficient Priority-Driven Communication Layer for Reliable Wireless Sensor Networks", International Symposium on Reliable Distributed Systems 2008. [PDF]
+Distributed Mobile Robots
+
+Yamini Nimmagadda, Karthik Kumar, Yung-Hsiang Lu, and C. S. George Lee," Real-time Moving Object Recognition and Tracking Using Computation Offloading", IEEE/RSJ International Conference on Intelligent Robots and Systems 2010. [PDF]
+Jeff Brateman, Changjiu Xian, and Yung-Hsiang Lu, "Energy-Efficient Scheduling for Autonomous Mobile Robots", IFIP International Conference on Very Large Scale Integration VLSI-SoC 2006, pages 361-366. [PDF]
+Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee, "Energy-Efficient Mobile Robot Exploration", IEEE International Conference on Robotics and Automation 2006, pages 505-511. [PDF]
+Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee, "Reducing the Number of Mobile Sensors for Coverage Tasks", IEEE/RSJ International Conference on Intelligent Robots and Systems 2005, pages 754-759. [PDF]
+Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee, "A Case Study of Mobile Robot's Energy Consumption and Conservation Techniques", International Conference on Advanced Robotics 2005, pages 492-497. [PDF]
+Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, C.S. George Lee, "Deployment Strategy for Mobile Robots with Energy and Timing Constraints", International Conference on Robotics and Automation 2005, pages 2827-2832. [PDF]
+Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee, "Determining the Fleet Size of Mobile Robots with Energy Constraints", IEEE/RSJ International Conference on Intelligent Robots and Systems 2004, pages 1420-1425. [PDF]
+Yongguo Mei, Changjiu Xian, Saumitra Das, Y. Charlie Hu and Yung-Hsiang Lu, "Replacing Failed Sensor Nodes by Mobile Robots", Workshop on Wireless Ad hoc and Sensor Networks 2006. [PDF]
+Yongguo Mei, Yung-Hsiang Lu, Y. Charlie Hu, and C.S. George Lee, "Energy-Efficient Motion Planning for Mobile Robots", International Conference on Robotics and Automation 2004, pages 4344-4349. [PDF]
+Saumitra Das, Y. Charlie Hu, C.S. George Lee, and Yung-Hsiang Lu, "Supporting Many-to-One Communication in Mobile Multi-Robot Ad Hoc Sensing Networks", International Conference on Robotics and Automation 2004, pages 659-664. [PDF]
+Saumitra Das, Y. Charlie Hu, C.S. George Lee, and Yung-Hsiang Lu, "An Efficient Group Communication Protocol for Mobile Robots", International Conference on Robotics and Automation 2005, pages 88-93. [PDF]
+Saumitra Das, Y. Charlie Hu, C.S. George Lee, and Yung-Hsiang Lu, "Efficient Unicast Messaging for Mobile Robots", International Conference on Robotics and Automation 2005, pages 94-99. [PDF]
+Dimitrios Koutsonikolas, Saumitra M. Das, Y. Charlie Hu, Yung-Hsiang Lu, and C.S. George Lee, "CoCoA: Coordinated Cooperative Localization for Mobile Multi-Robot Ad Hoc Networks", International Workshop on Dynamic Distributed Systems 2006. [PDF]
+H. Jacky Chang, C.S. George Lee, Yung-Hsiang Lu, and Y. Charlie Hu, "Energy-Time-Efficient Adaptive Dispatching Algorithms for Ant-Like Robot Systems", International Conference on Robotics and Automation 2004, pages 3294-3299. [PDF]
+H. Jacky Chang, C. S. George Lee, Y. Charlie Hu, Yung-Hsiang Lu, "Multi-Robot SLAM with Topological/Metric Maps", IEEE/RSJ International Conference on Intelligent Robots and Systems 2007, pages 1467-1472. [PDF]
+H. Jacky Chang, C.S. George Lee, Yung-Hsiang Lu, and Y. Charlie Hu, "A Computational Efficient SLAM Algorithm Based on Logarithmic-Map Partitioning", IEEE/RSJ International Conference on Intelligent Robots and Systems 2004, pages 1041-1046. [PDF]
+H. Jacky Chang, C.S. George Lee, Yung-Hsiang Lu, and Y. Charlie Hu, "Simultaneous Localization and Mapping with Environmental Structure Prediction", IEEE International Conference on Robotics and Automation 2006, pages 4069-4074. [PDF]
+Yuldi Tirta, Zhiyuan Li, Yung-Hsiang Lu, and Saurabh Bagchi, "Efficient Collection of Sensor Data in Remote Fields Using Mobile Collectors", International Conference on Computer Communications and Networks 2004, pages 515-519. [PDF]
+Engineering Education
+
+Tian Qiu, Mengshi Feng, Sitian Lu, Zhuofan Li, Yudi Wu, Carla B. Zoltowski, and Dr. Yung-Hsiang Lu, "Online Programming System for Code Analysis and Activity Tracking", American Society for Engineering Education Annual Conference 2017
+Behnaam Aazhang, et al. "Vertically Integrated Projects (VIP) Programs: Multidisciplinary Projects with Homes in Any Discipline", American Society for Engineering Education Annual Conference 2017
+Yung-Hsiang Lu, Thomas Hacker, Carla B. Zoltowski, Jan P Allebach, "Cross-Cohort Research Experience for Project Management and Leadership Development", American Society for Engineering Education Annual Conference 2016
+Jinyi Zhang, Fengjian Pan, Mrigank S Jha, Pranav Marla, Kee Wook Lee, David B Nelson, Yung-Hsiang Lu, "A System for Analysis of Code on Cloud as An Educational Service to Students", American Society for Engineering Education Annual Conference 2016
+Cordelia Brown, Yung-Hsiang Lu, and Samuel Midkiff, "Introducing Parallel Programming in Undergraduate Curriculum", NSF/TCPP Workshop on Parallel and Distributed Computing Education 2013.
+Cordelia Brown and Yung-Hsiang Lu, "Teaming in an Engineering Programming Course", American Society for Engineering Education Annual Conference 2011. [PDF]
+Michael Gasser, Yung-Hsiang Lu, and Cheng-Kok Koh, "Outreach Project Introducing Computer Engineering to High School Students", Frontiers in Education 2010. [PDF]
+Yung-Hsiang Lu, Guangwei Zhu, and Cheng-Kok Koh, "Using the Tetris Game to Teach Computing", American Society for Engineering Education Annual Conference 2010. [PDF]
+Cordelia Brown and Yung-Hsiang Lu, "Integration of Real-World Teaming into a Programming Course", American Society for Engineering Education Annual Conference 2010. [PDF]
+Melissa Seward Yale, Deborah Bennett, Cordelia Brown, Guangwei Zhu, and Yung-Hsiang Lu, "Effects of Learning Styles in a Programming Course using Hybrid Content Delivery", Frontiers in Education Conference 2009. [PDF]
+Cordelia Brown, Yung-Hsiang Lu, Melissa Yale, and Deborah Bennett, "On-Line Examinations for Object-Oriented Programming", American Society for Engineering Education Annual Conference 2009. [PDF]
+Cordelia Brown, Yung-Hsiang Lu, David Meyer, and Mark C Johnson, "Hybrid Content Delivery: On-Line Lectures and Interactive Lab Assignments", American Society for Engineering Education Annual Conference 2008. [PDF]
+Edward J Delp and Yung-Hsiang Lu, "The Use of Undergraduate Project Courses for Teaching Image and Signal Processing Techniques at Purdue University", Signal Processing Education Workshop 2006, pages 281-284. [PDF]
+Evan Zelkowitz, Mark C Johnson, and Yung-Hsiang Lu, "Quantitative Analysis of Programs: Comparing Open-Source Software with Student Projects", American Society for Engineering Education Annual Conference 2006. [PDF]
+Mark C Johnson and Yung-Hsiang Lu, "Teaching Software Engineering Through Competition and Collaboration", American Society for Engineering Education Annual Conference 2006. [PDF]
