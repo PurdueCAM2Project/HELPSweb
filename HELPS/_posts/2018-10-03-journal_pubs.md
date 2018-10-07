@@ -13,6 +13,6 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
 
 {% for paper in papers %}
 
-- {{ paper.authors }}, *{{ paper.paper_name }}*, {{ paper.conference }}.
+- {{ paper.authors }} **{{ paper.paper_name }}**{% if paper.conference %} {{ paper.conference }}{% endif %}  {% if paper.link %}[[PDF]]({{ paper.link }}){% endif %}
 
 {% endfor %}

@@ -12,6 +12,6 @@ categories: [publication, reports]
 
 {% for report in reports %}
 
-- {{ report.authors }}, *{{ report.report_name }}*, {{ report.details }}.
+- {{ report.authors }} **{{ report.report_name }}**, {{ report.details }} {% if report.link %}[[PDF]]({{ report.link }}){% endif %}
 
 {% endfor %}
