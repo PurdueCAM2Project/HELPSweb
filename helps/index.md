@@ -4,6 +4,7 @@
 
 layout: home
 excerpt_separator: <!--more-->
+permalink: /
 ---
 
 ## Current Projects
