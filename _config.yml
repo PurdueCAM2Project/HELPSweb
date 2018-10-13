@@ -17,7 +17,7 @@ title: Purdue HELPS
 email: yunglu@purdue.edu
 description: >- # this means to ignore newlines until "baseurl:"
     High Efficiency Low Power System (HELPS) Group
-baseurl: "HELPS" # the subpath of your site, e.g. /blog
+baseurl: "/HELPS" # the subpath of your site, e.g. /blog
 include: [helps]
 url: "https://purduecam2project.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
