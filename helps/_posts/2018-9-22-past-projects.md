@@ -28,15 +28,6 @@ tag: [project_sec]
 
 ---
 #### **Resource Driven Transmission and Display of Multimedia in Mobile Devices (2005-2010)**
-##### Primary researchers: [Yamini Nimmagadda](http://web.ics.purdue.edu/~ynimmaga)
-
-##### There has been a dramatic growth in the usage of images and videos in mobile devices for fields like personal communication, surveillance and tracking, and health-care. Since mobile devices are battery-operated, energy conservation is very important. We develop techniques for transmission and display of multimedia for devices with different amounts of resources. We remove fine details from images and videos, while preserving significant structural information. Removal of fine details reduces the sizes of images and videos, thereby reducing their transmission energy. We also develop layout generation techniques for adapting multimedia presentations for devices with different display resolutions.
-
-##### Videos: [Energy Conservation by Adaptive Feature Loading for Mobile Content-Based Image Retrieval](http://web.ics.purdue.edu/%7Ekumar25/islped08/islped08.html)
----
-
----
-#### **Resource Driven Transmission and Display of Multimedia in Mobile Devices (2005-2010)**
 ##### Primary researcher: [Yamini Nimmagadda](http://web.ics.purdue.edu/~ynimmaga)
 * Thesis: [Application-Based Energy-Efficient Mobile and Server Computing](https://drive.google.com/uc?id=1fLT1R1gfssZBGXZfPVVzhhGxQuMa6cnn)
 
