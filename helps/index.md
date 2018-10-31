@@ -11,10 +11,20 @@ permalink: /
 * [Countinuous Analysis of Many Cameras (CAM2)](https://www.cam2project.net)
 * [Low-Power Image Recognition Challenge (LPIRC)](https://rebootingcomputing.ieee.org/lpirc)
 
-## News
+## News 
 * [Purdue-based company developing software to improve customer service receives $750,000 grant](https://www.purdue.edu/newsroom/releases/2017/Q4/purdue-based-company-developing-software-to-improve-customer-service-receives-750,000-grant.html)
 
 * Kent Gauen, Rohit Rangan, Anup Mohan, Yung-Hsiang Lu Wei Liu, Alexander C. Berg," Low-Power Image Recognition Challenge", Asia and South Pacific Design Automation Conference 2017
+
+* Chittayong Surakitbanharn, Calvin Yau, Guizhen Wang, Aniesh Chawla, Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu, George K. Thiruvathukal receives the Best Paper Award in Humanitarian Assistance & Disaster Relief in IEEE Symposium on Technologies for Homeland Security 2018 
+	<div style="display: flex; justify-content: center;">
+		<img src="https://docs.google.com/uc?id=1ywFdidr3lLEMF3JREWXUZl-8Yel2upUj" height="300px">
+	</div>
+
+* Andrew Ulmer receives the Top Research Talk Award of Excellence in 2018 SURF Research Symposium
+	<div style="display: flex; justify-content: center;">
+	<img src="https://docs.google.com/uc?id=1SooB3yncGbwDTPGYgx1_gvI-zYS4qvIR" height="300px" style="justify-content: center;">
+	</div>
 
 ## Event Snapshot
  
