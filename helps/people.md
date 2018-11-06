@@ -22,7 +22,8 @@ permalink: /people/
 ***
 <br>
 
+
 ## **Members**
 
-#### For members who work for HELPS project, please refer to:
+#### For members who work for HELPS project, please refer to: 
 [CAM2-TEAM](https://www.cam2project.net/team/)
