@@ -24,16 +24,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="/assets/css/style.css?v=fb8b07b440dc2f771d275239ffc0d4d08f3fdc7e">
-    <script>
-      function toggle(id) {
-    var x = document.getElementById(id.id);
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
-    </script>
+   
   </head>
   <body>
     <header class="page-header" role="banner">
@@ -51,52 +42,62 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <!-- <h2 id="current-projects">Current Projects</h2> -->
-      <button onclick="toggle(ProjectList)" class = "toggle-btn">Current Projects</button>
+      <h2 id="current-projects">Current Projects</h2>
+    
       
-<ul id = "ProjectList">
+
   <li><a href="https://www.cam2project.net">Countinuous Analysis of Many Cameras (CAM2)</a></li>
   <li><a href="https://rebootingcomputing.ieee.org/lpirc">Low-Power Image Recognition Challenge (LPIRC)</a></li>
-</ul>
 
-<script type="text/javascript">
-  document.getElementById('ProjectList').style.display='none';
-</script>
+
 
 </br>
 
-<!-- <h2 id="news">News</h2> -->
-<button onclick="toggle(NewsList)" class = "toggle-btn">News</button>
+<h2 id="news">News</h2>
 
-<ul id = "NewsList">
-  <li>
-    <p><a href="https://www.purdue.edu/newsroom/releases/2017/Q4/purdue-based-company-developing-software-to-improve-customer-service-receives-750,000-grant.html">Purdue-based company developing software to improve customer service receives $750,000 grant</a></p>
+
+  <li style = "margin: 0; padding: 0">
+    <p>
+      <a href="https://www.purdue.edu/newsroom/releases/2017/Q4/purdue-based-company-developing-software-to-improve-customer-service-receives-750,000-grant.html">
+        Purdue-based company developing software to improve customer service receives $750,000 grant
+      </a>
+    </p>
   </li>
   <li>
     <p>Kent Gauen, Rohit Rangan, Anup Mohan, Yung-Hsiang Lu Wei Liu, Alexander C. Berg,” Low-Power Image Recognition Challenge”, Asia and South Pacific Design Automation Conference 2017</p>
   </li>
-  <li>Chittayong Surakitbanharn, Calvin Yau, Guizhen Wang, Aniesh Chawla, Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu, George K. Thiruvathukal receives the Best Paper Award in Humanitarian Assistance &amp; Disaster Relief in IEEE Symposium on Technologies for Homeland Security 2018
-    <div style="display: flex; justify-content: center;">
+    <li>
+  <li style = "display: inline-flex;">
+   
+    <div style="flex: 1;">
+      <p> Chittayong Surakitbanharn, Calvin Yau, Guizhen Wang, Aniesh Chawla, Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu, George K. Thiruvathukal receives the Best Paper Award in Humanitarian Assistance &amp; Disaster Relief in IEEE Symposium on Technologies for Homeland Security 2018,</p>
+    </div>
+  
+    <div style="flex: 1;">
       <img src="https://docs.google.com/uc?id=1ywFdidr3lLEMF3JREWXUZl-8Yel2upUj" height="300px" />
-  </div>
+    </div>
+  
   </li>
-  <li>Andrew Ulmer receives the Top Research Talk Award of Excellence in 2018 SURF Research Symposium
-    <div style="display: flex; justify-content: center;">
+
+</li>
+  
+<li>
+  <li style = "display: inline-flex;">
+      <div style="flex: 1;">
+    Andrew Ulmer receives the Top Research Talk Award of Excellence in 2018 SURF Research Symposium
+  </div>
+  <div style="flex: 1;">
   <img src="https://docs.google.com/uc?id=1SooB3yncGbwDTPGYgx1_gvI-zYS4qvIR" height="300px" style="justify-content: center;" />
   </div>
   </li>
-</ul>
+</li>
 
-<script type="text/javascript">
-  document.getElementById('NewsList').style.display='none';
-</script>
 
 </br>
 
-<!-- <h2 id="event-snapshot">Event Snapshot</h2> -->
-<button onclick="toggle(EventSnapshotTable)" class = "toggle-btn">Event Snapshot</button>
+<h2 id="event-snapshot">Event Snapshot</h2>
 
-<div id = "EventSnapshotTable">
+
     <table >
         <tbody>
           <tr>
@@ -113,11 +114,7 @@
           </tr>
         </tbody>
       </table>
-</div>
 
-<script type="text/javascript">
-  document.getElementById('EventSnapshotTable').style.display='none';
-</script>
 
 </br>
 <!--more-->
