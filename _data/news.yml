@@ -1,0 +1,44 @@
+dan-merrick:
+  img: 'https://drive.google.com/uc?id=1FlXnG5kluVRy8gEJXtlMS9F9r0J46TBJ'
+  imgHeight: 420
+  body: <h2><a href='/helps/2019/02/17/improving-object-detection-consistency.html'>Improving the Consistency of Object Detection</a></h2><h3>Dan Marrick</h3><p>Our team has collected data and identified certain settings that result in unstable object detection. Click for </p>
+
+noah-curran:
+  img: 'https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG'
+  imgHeight: 420
+  body: "<h2>Code Review Workshop</h2><h3>Noah Curran</h3><p>The software engineering team is putting on a workshop to improve code review within CAM<sup>2</sup>. The workshop, which will be held on March 23rd, will use real production code to demonstrate the importance of code review.</p>"
+
+ashley-kim:
+  img: 'https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX'
+  imgHeight: 419
+  body: "<h2><a href='/helps/2019/02/11/dataset-bias-team.html'>Dataset Bias Team</a></h2><h3>Ashley Kim</h3><p>We are in the process of validating how dataset's distinctiveness impacts a model's accuracy meaning validating biases within the datasets.</p>"
+
+anish-chawla:
+  img: 'https://drive.google.com/uc?id=1JFomalNL9zvFe4Cnc1fgsnDfR23Cbnu2'
+  imgHeight: 235
+  body: "<h2><a href='/helps/2019/02/11/ieee-hst-2018.html'>Cross-referencing social media and public surveillance camera data for disaster purpose</a></h2><p>Best paper award in conference:  IEEE HST 2018 category: Humanitarian Assistance and Disaster Relief</p>"
+
+yezhi-shen:
+  imgHeight: 420
+  img: 'https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd'
+  body: "<h2>Yezhi Shen</h2><p>I am grateful to be the first freshman to lead a research team in CAM<sup>2</sup>. Our team is focused to measure trees' diameter with sensors and gather more image data at the same time. We are using cameras equipped with distance sensors to obtain information and using AI to recognize trees from those videos. We hope that we can make a change to other fields by implementing computer vision.</p>"
+
+caleb-tung:
+  imgHeight: 418
+  img: 'https://drive.google.com/uc?id=14sT5M8m-iicBuLkr8je1Wx9vs_6NSHPO'
+  body: '<h2>Caleb Tung receives Honorable Mention for CRA Outstanding Undergraduate Researcher</h2><p>Caleb Tung, ECE Senior, along with <!--<a href="#ling-zhang">-->Ling Zhang was honored by the Computing Research Association for their undergraduate research with CAM<sup>2</sup>. Caleb, along with the rest of the Parallel Computing for Vision subteam, is researching the capability of modern object detectors to accurately and consistently detect objects in CAM<sup>2</sup> cameras. He will also be presenting on their research so far as lead author of a paper for the IEEE International Conference on Multimedia Information Processing and Retrieval.</p>'
+
+kent-gauen:
+  imgHeight: 314
+  img: 'https://drive.google.com/uc?id=1CMBNhb8Y6PjuWE_a9CzEc6ZmEa4TNvv8'
+  body: '<h2>Visiting Student to National University of Singapore (NUS) and Seoul National University (SNU)</h2><p>Funded by an NSF Grant, Kent Gauen visited two universities over summer 2018 for one month each: NUS and SNU. At NUS, Kent helped in the writing of the NUS Human Activity Recognition (HAR) grant for wearable devices. At SNU, Kent further developed the collaboration between SNU and Purdue University.</p>'
+
+percieve:
+  imgHeight: 278
+  img: 'https://news.uns.purdue.edu/images/2017/perceive-teamLO.jpg'
+  body: "<h2><a href='https://www.purdue.edu/newsroom/releases/2017/Q4/purdue-based-company-developing-software-to-improve-customer-service-receives-750,000-grant.html'>Purdue-based company developing software to improve customer service receives $750,000 grant</a></h2>"
+
+andrew-ulmer:
+  imgHeight: 558
+  img: 'https://docs.google.com/uc?id=1SooB3yncGbwDTPGYgx1_gvI-zYS4qvIR'
+  body: '<h2>Andrew Ulmer receives the Top Research Talk Award of Excellence in 2018 SURF Research Symposium</h2>'
