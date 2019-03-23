@@ -17,7 +17,6 @@ body { font-family: sans-serif; }
 .grid-item-content {
   background: #fff;
   border: 2px solid #1EA6B0;
-  border-color: #1EA6B0;
   border-radius: 5px;
   -webkit-transition: width 0.4s, height 0.4s;
           transition: width 0.4s, height 0.4s;
