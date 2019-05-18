@@ -6,7 +6,7 @@
 Welcome to Purdue HELPS Laboratory
 ==================================
 
-The HELPS laboratory in the Purdue ECE Department develops the technology to improve the efficiency and performance of computing systems. Our research includes cloud and mobile computing, image/video processing, resource management.
+The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE Department develops the technology to improve the efficiency and performance of computing systems. Our research includes cloud and mobile computing, image/video processing, resource management.
 
 .. warning::
 
