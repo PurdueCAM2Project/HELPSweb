@@ -98,7 +98,7 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
      - `[PDF] <https://drive.google.com/open?id=1aePALvKAOg_E9lhMHcBVGbOW2yKTqe3y>`__
 
    * - Jing Feng, Yung-Hsiang Lu, Byunghoo Jung, Dimitrios Peroulis, and Y. Charlie Hu, **Energy-Efficient Data Dissemination Using Beamforming in Wireless Sensor Networks’** ACMTransactions on Sensor Networks, May 2013.
-     - `[PDF] <>`__
+     - N/A
 
    * - Douglas Herbert, Vinaitheerthan Sundaram, Yung-Hsiang Lu, Saurabh Bagchi , and Zhiyuan Li, **Adaptive Correctness Monitoring for Wireless Sensor Networks Using Hierarchical Distributed Run-Time Invariant Checking** ACM Transactions on Autonomous and Adaptive Systems, 2(3), September 2007, Article No. 8, 23 pages.
      - `[PDF] <https://drive.google.com/open?id=1Qbbw32kOCItBNppBEX5UuslCE0KnW_Xc>`__

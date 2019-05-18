@@ -14,6 +14,8 @@ Welcome to Purdue HELPS Laboratory
    people
    projects
    publications
+   audio-video
+   funding
 
 
 Indices and tables
