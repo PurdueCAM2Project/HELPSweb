@@ -1,0 +1,90 @@
+Join Us
+--------
+
+Join the Research Team
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Dr. Lu (almost every professor) receives too many meaningless messages from careless students. In most cases, the students do not even know where the messages are sent to. Many messages ask to join Dr. Lu's research team even though Dr. Lu has never done anything on the topics of the senders' interest. Dr. Lu will not respond to these messages. Dr. Lu will respond to only questions from students that are already at Purdue or have already received admissions from Purdue. If you are not at Purdue, please contact the admission office. Dr. Lu will not answer questions like "Can I get an admission to Purdue?" or "Can you give me funding?"
+
+Before you contact Dr. Lu, ask yourself these questions:
+
+- Do I know what this research team is doing?
+- Have I read this team's recent papers and understood?
+- Do I want to conduct research on these topics?
+- Can I contribute to solving the research problems?
+- Do not send email to Dr. Lu if you have no answer. Don't waste your time. 
+
+Should you do Research? Research, like any other activities that require long-term efforts (such as marathon, chess, painting...), is not for everyone. "Everyone should do research." is as valid as "Everyone should run marathon." or "Everyone should play chess." Before you join a research team (any team), think about the reasons. What do you want to accomplish? Why do you want to do research with this team? Remember, time is your most precious asset. Do you want to spend your time with these people? Why? Do these people want to spend time with you? Why?
+
+If you want to talk to Dr. Lu, his office is MSEE 222.
+
+Still want to join?
+~~~~~~~~~~~~~~~~~~~
+If you are serious about solving research problems and interested joining the research team, please fill in `this form <https://www.cam2project.net/email/join_us/>`__.
+
+The team's mission is to create leaders. The research projects' mission is to create the technologies saving lives.
+
+For undergraduate students: This research team gives undergraduate students the true experience of research. You will be given research problems, not classroom homework assignments. You need to solve these research problems and have contributions to the research community (such as research papers, open-source software, data). This is a large research team in the number of undergraduate students on Purdue campus. You will get the opportunities learning from other students, making life-long friends, solving problems that are too difficult for small teams. 
+
+For graduate students: This team has many undergraduate students and you can get rare experience working with these students solving large research problems. They may help you review literature or conduct experiments. They may critique your methods. You may get the opportunity leading a team.
+
+It is expected that you are comfortable writing computer programs. You should have the skills equivalent to ECE 264 (or CS 240) at Purdue. CS 159 is insufficient. You must be able to learn Python.
+
+Research requires a lot of self learning. If you learn in classroom only and need step-by-step guidance by teaching assistants, you are not ready for research.
+
+This research provides unique experience that is uncommon on campus: all students (including undergraduate students) solve research problems. Since research problems are difficult, this team has the following requirements:
+
+- Every student is expected to stay for at least two semesters (summer counts as a semester). Many students stay in the team for 2 years or even longer. Why? They want to solve research problems. If you intend to stay for only semester, do not come.
+- Every new member must pass an interview with current members.
+- Every new member will receive fast-pace training. This takes the efforts of current members. 
+- During spring or fall semester, every new member must take a research course (ECE 279, 379, 479, CS 490, or similar). The reason is simple: without taking a research course, new members always vanish when their coursework becomes heavy. This wastes everyone's time.
+- Teamwork is absolutely critical. If you want to work alone, do not come.
+- Every member must make a commitment to solving research problems. This team demands serious efforts. This is a research team and entertainment is not the purpose.
+- Learning is an essential part of doing research but research is much more than learning. Research must create new things (new software, new data, new theory, new algorithms, new interpretation...). If you do not create anything new, you are not doing research. "New" means new to human knowledge, not new to you. If your only intention is to "learn" without solving research problems, do not come. If you want to learn, take classes or read books (or papers).
+- Members are expected to interact in both professional and social settings. Many solutions are discovered when people talk outside research laboratories. Communication with your team is an essential part of research.
+
+
+Expectation of Team Members
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a research team. It is not an amusement park. This team solves research problems and does not host tourists. Join this team only if you want to solve research problems. Here are the expectations:
+
+Spend at least six hours per week on the research project
+Attend weekly team meeting
+Report progress in writing and speaking
+Participate social events (about once a month) as much as your schedule permits. The social events are important parts of member interactions. If you do not want to participate in any social event, do not join this research team.
+Q: It seems that you are discouraging people to join your team, why? Will anyone actually want to join?
+
+A: Too many people treat "research" as visiting an amusement park. They are looking for "fun" without the intention of taking efforts. They show up when they want to; they may leave at any moment. They expect to get A easily. This research team does not need those people. This research team welcomes only the people that are serious about solving research problems. Many people want to join this team because these people know everyone in this team is serious about solving research problems. 
+
+Q: How many hours do I need to spend per week?
+
+A: What do you want to accomplish? You need to spend at least six hours a week. If you cannot, you are wasting your time because you can accomplish nothing.
+
+Q: If I am selected, I will stay for at least two semesters, right?
+
+A: Not necessarily. The team may be reorganized. A particular topic may be eliminated if enough progress has been made. A member may be released (not "fired") if the memember shows no progress.
+
+Q: Your team demands a lot. What do members get?
+
+A: The pride of solving research problems. Friendship with excellent researchers. Sense of accomplishments. Authorship (or co-authorship) of research papers. Strong recommendation letters. Occassionally, pizza. 
+
+Q: I do not want to take a research course because I already have too many credits.
+
+A: If you have too many credits, you will not have time doing research. You will definitely vanish when your coursework becomes heavy. Do not come.
+
+Q: This is my last semester and I do not want to take too many credits.
+
+A: If this is your last semester, you will not stay for two semester. Do not come.
+
+Q: I guarantee that I will stay, even though I do not take a research course.
+
+A: You will not stay. You know very clearly. You do not want to take a research course becase you want to flexibility to leave. Do not come. Many people "assured" that they would stay without taking credits, everyone left. In fact, these people simply vanished without saying "Good Bye". This team does not need these people. 
+
+Q: If you are so restrictive, how many people actually apply for joining the team?
+
+A: For Spring 2019, about 120 people wanted to join or stay in this team. This team's size has been growing rapidly in recent semesters. Many people want to join this team because they want to spend time with those that are serious about solving research problems. 
+
+Q: Do you set a limit on the team's size?
+
+A: No. We welcome everyone that wants to solve research problems.
