@@ -1,4 +1,5 @@
 Projects
 -----------
 
-Coming soon.
+- `CAM2 <http://cam2project.net>`__
+
