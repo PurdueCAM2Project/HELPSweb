@@ -4,7 +4,10 @@ Funding
 National Science Foundation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- CNS-0958487
+.. note::
+   Yung-Hsiang, please give me dollar amount, dates, and title for the additional ones.
+
+- CNS-0958487, $432,000, 2/23/2010-3/10/2015, *CI-ADDO-NEW: Collaborative Research: Development of DARwIn Humanoid Robots for Research, Education and Outreach*
 - CNS-0855098
 - CNS-0716271
 - CNS-0751101
