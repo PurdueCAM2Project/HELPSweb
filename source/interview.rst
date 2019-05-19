@@ -262,11 +262,9 @@ students to evaluate whether Dr. Lu’s group would be a good match.
 
  
 
-.. container::
+.. warning::
 
-   =====================================
    You should never lie in an interview.
-   =====================================
 
 Interviews before joining a research group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
