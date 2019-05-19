@@ -29,6 +29,7 @@ The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE D
    financial
    letters
    progress
+   leadership
 
 
 Indices and tables
