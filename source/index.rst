@@ -8,9 +8,11 @@ Welcome to Purdue HELPS Laboratory
 
 The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE Department develops the technology to improve the efficiency and performance of computing systems. Our research includes cloud and mobile computing, image/video processing, resource management.
 
-.. warning::
+.. note::
 
-   This site is still under construction. We expect to release on 6/30/2019 but are ahead of schedule. So it might be earlier.
+   This site replaces the pages at https://engineering.purdue.edu/HELPS, which is being deprecated. Please report issues using the GitHub
+   issue tracker at https://github.com/PurdueCAM2Project/HELPSweb/issues.
+
 
 .. toctree::
    :hidden:
