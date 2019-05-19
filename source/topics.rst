@@ -1,5 +1,5 @@
-Choose Research Topics
------------------------
+Choosing Research Topics
+-----------------------------
 
 A common problem among many students (in fact, most people) is that they cannot decide. Many people hesitate to choose because they are afraid of choosing something wrong and then regret later. Some studies suggest that people feel less happy when they have more options. In some retail experiments, customers leave without buying anything if too many items are on sale. 
 
