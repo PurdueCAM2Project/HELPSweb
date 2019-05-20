@@ -14,10 +14,24 @@ For many members, this is the first experience working in a team. Here are some 
 - Upload your passport photo (no cartoon, no funny faces) to github, slack, trello.
 - Use only Purdue email and our approved collaboration services (GitHub, Slack, Trello; others TBD) for communciation. You must know that your purdue.edu email is the first layer of verfication of your identify. If you use any free email service, you immediately lose credibility.
 
-Conduct
-~~~~~~~~~
+Code of Conduct
+~~~~~~~~~~~~~~~~~
 
-.. note::
 
-   We do not have a formal code of conduct but are believers in following best practices, especially in communities where there is evidence of sound policy and practice on conduct. See `Python Code of Conduct <https://www.python.org/psf/codeofconduct/>`__ for a good example to follow.
+We do not have a group-specific code of conduct *per se* but are believers in following best practices.
+
+As our group is focused on academic research and software development, we derive inspiration from the open source community and our professional 
+societies. The following should be read by all prospective team members.
+
+- `Python Code of Conduct <https://www.python.org/psf/codeofconduct/>`__
+- `Association for Computing Machinery, Code of Ethics and Professional Conduct <https://www.acm.org/code-of-ethics>`__
+- `IEEE-CS/ACM Joint Task Force on Software Engineering Ethics and Professional Practices <https://www.computer.org/education/code-of-ethics>`__
+
+Diversity
+~~~~~~~~~~
+
+Our research group includes members from diverse backgrounds and experiences. We follow the principles of the IEEE Special Technical Community
+in Broadening Participation (`stcbp.org <https://stcbp.org>`__) to improve improve inclusion of diverse people, especially those from underrepresented populations.
+
+
 
