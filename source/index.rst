@@ -35,12 +35,6 @@ The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE D
    helps-systems
 
 
-Indices and tables
-==================
-
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
 
 .. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
    :width: 45 %
