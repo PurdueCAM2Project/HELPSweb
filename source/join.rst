@@ -1,5 +1,11 @@
-Join Us
---------
+Join the Team
+---------------
+
+.. note::
+
+   We recommend reading this page fully before submitting the `application form <https://forms.gle/Q27KTbahpGbHMEGq8>`__.
+   However, if you have alread spoken with members of the research team, it is ok to proceed directly to the form.
+
 
 Join the Research Team
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -20,7 +26,9 @@ If you want to talk to Dr. Lu, his office is MSEE 222.
 
 Still want to join?
 ~~~~~~~~~~~~~~~~~~~
-If you are serious about solving research problems and interested joining the research team, please fill in `this form <https://www.cam2project.net/email/join_us/>`__.
+If you are serious about solving research problems and interested joining the research team,
+please fill in `this Google form <https://forms.gle/Q27KTbahpGbHMEGq8>`__.
+
 
 The team's mission is to create leaders. The research projects' mission is to create the technologies saving lives.
 
