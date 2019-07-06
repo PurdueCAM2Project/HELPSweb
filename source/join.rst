@@ -117,11 +117,11 @@ following requirements:
   to learn, take classes or read books (or papers).
 
 - Members are expected to interact in both professional and social
-settings. Many solutions are discovered when people talk outside
-research laboratories. Communication with your team is an essential
-part of research. The social events are important parts of member
-interactions. If you do not want to participate in any social event,
-do not join this research team.
+  settings. Many solutions are discovered when people talk outside
+  research laboratories. Communication with your team is an essential
+  part of research. The social events are important parts of member
+  interactions. If you do not want to participate in any social event,
+  do not join this research team.
 
 - This is a research team. It is not an amusement park. This team
   solves research problems and does not host tourists. Join this team
@@ -137,31 +137,31 @@ Frequently Asked Questions
 --------------------------
   
 - Q: It seems that you are discouraging people to join your team, why?
-Will anyone actually want to join?
+  Will anyone actually want to join?
 
 - A: Too many people treat "research" as visiting an amusement
-park. They are looking for "fun" without the intention of taking
-efforts. They show up when they want to; they may leave at any
-moment. They expect to get A easily. This research team does not need
-those people. This research team welcomes only the people that are
-serious about solving research problems. Many people want to join this
-team because these people know everyone in this team is serious about
-solving research problems.
+  park. They are looking for "fun" without the intention of taking
+  efforts. They show up when they want to; they may leave at any
+  moment. They expect to get A easily. This research team does not
+  need those people. This research team welcomes only the people that
+  are serious about solving research problems. Many people want to
+  join this team because these people know everyone in this team is
+  serious about solving research problems.
 
 - Q: How many hours do I need to spend per week?
 
-- A: What do you want to accomplish? You need to spend at least six
-hours a week. If you cannot, you are wasting your time because you can
-accomplish nothing.  Many people spend more than six hours a week. If
-you are leading a research paper, it is possible that you spend 30
-hours (or more) the week before submission.
+- A: **What do you want to accomplish?** You need to spend at least
+  six hours a week. If you cannot, you are wasting your time because
+  you can accomplish nothing.  Many people spend more than six hours a
+  week. If you are leading a research paper, it is possible that you
+  spend 30 hours (or more) the week before submission.
 
 
 - Q: If I am selected, I will stay for at least two semesters, right?
 
 - A: Not necessarily. The team may be reorganized. A particular topic
-may be eliminated if enough progress has been made. A member may be
-released (not "fired") if the member shows no progress.
+  may be eliminated if enough progress has been made. A member may be
+  released (not "fired") if the member shows no progress.
 
 - Q: Your team demands a lot. What do members get?
 
@@ -209,7 +209,11 @@ released (not "fired") if the member shows no progress.
 About Financial Support
 =======================
 
-Most students do not know how universities operate in terms of finance. As a result, they think professors magically have unlimited funds to support as many students as the professors decide. Before you ask Dr. Lu to provide financial support, please be aware of the following facts:
+Most students do not know how universities operate in terms of
+finance. As a result, they think professors magically have unlimited
+funds to support as many students as the professors decide. Before you
+ask Dr. Lu to provide financial support, please be aware of the
+following facts:
 
 - Dr. Lu does not print money. Research fund does not fall from sky like rain drops.
   
