@@ -10,37 +10,79 @@ Join the Team
 Join the Research Team
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Dr. Lu (almost every professor) receives too many meaningless messages from careless students. In most cases, the students do not even know where the messages are sent to. Many messages ask to join Dr. Lu's research team even though Dr. Lu has never done anything on the topics of the senders' interest. Dr. Lu will not respond to these messages. Dr. Lu will respond to only questions from students that are already at Purdue or have already received admissions from Purdue. If you are not at Purdue, please contact the admission office. Dr. Lu will not answer questions like "Can I get an admission to Purdue?" or "Can you give me funding?"
+Dr. Lu (almost every professor) receives too many meaningless messages
+from careless students. In most cases, the students do not even know
+where the messages are sent to. Many messages ask to join Dr. Lu's
+research team even though Dr. Lu has never done anything on the topics
+of the senders' interest. Dr. Lu will not respond to these
+messages. Dr. Lu will respond to only questions from students that are
+already at Purdue or have already received admissions from Purdue. If
+you are not at Purdue, please contact the admission office. Dr. Lu
+will not answer questions like "Can I get an admission to Purdue?" or
+"Can you give me funding?"
 
 Before you contact Dr. Lu, ask yourself these questions:
 
 - Do I know what this research team is doing?
+  
 - Have I read this team's recent papers and understood?
+  
 - Do I want to conduct research on these topics?
+  
 - Can I contribute to solving the research problems?
+  
 - Do not send email to Dr. Lu if you have no answer. Don't waste your time. 
 
-Should you do research? Research, like any other activities that require long-term efforts (such as marathon, chess, painting...), is not for everyone. "Everyone should do research." is as valid as "Everyone should run marathon." or "Everyone should play chess." Before you join a research team (any team), think about the reasons. What do you want to accomplish? Why do you want to do research with this team? Remember, time is your most precious asset. Do you want to spend your time with these people? Why? Do these people want to spend time with you? Why?
+Should you do research? Research, like any other activities that
+require long-term efforts (such as marathon, chess, painting...), is
+not for everyone. "Everyone should do research." is as valid as
+"Everyone should run marathon." or "Everyone should play chess."
+Before you join a research team (any team), think about the
+reasons. What do you want to accomplish? Why do you want to do
+research with this team? Remember, time is your most precious
+asset. Do you want to spend your time with these people? Why? Do these
+people want to spend time with you? Why?
 
 If you want to talk to Dr. Lu, his office is MSEE 222.
 
 Still want to join?
 ~~~~~~~~~~~~~~~~~~~
-If you are serious about solving research problems and interested joining the research team,
-please fill in `this Google form <https://forms.gle/Q27KTbahpGbHMEGq8>`__.
+
+If you are serious about solving research problems and interested
+joining the research team, please fill in `this Google form
+<https://forms.gle/Q27KTbahpGbHMEGq8>`__.
 
 
 The team's mission is to create leaders. The research projects' mission is to create the technologies saving lives.
 
-For undergraduate students: This research team gives undergraduate students the true experience of research. You will be given research problems, not classroom homework assignments. You need to solve these research problems and have contributions to the research community (such as research papers, open-source software, data). This is a large research team in the number of undergraduate students on Purdue campus. You will get the opportunities learning from other students, making life-long friends, solving problems that are too difficult for small teams. 
+For undergraduate students: This research team gives undergraduate
+students the true experience of research. You will be given research
+problems, not classroom homework assignments. You need to solve these
+research problems and have contributions to the research community
+(such as research papers, open-source software, data). This is a large
+research team in the number of undergraduate students on Purdue
+campus. You will get the opportunities learning from other students,
+making life-long friends, solving problems that are too difficult for
+small teams.
 
-For graduate students: This team has many undergraduate students and you can get rare experience working with these students solving large research problems. They may help you review literature or conduct experiments. They may critique your methods. You may get the opportunity leading a team.
+For graduate students: This team has many undergraduate students and
+you can get rare experience working with these students solving large
+research problems. They may help you review literature or conduct
+experiments. They may critique your methods. You may get the
+opportunity leading a team.
 
-It is expected that you are comfortable writing computer programs. You should have the skills equivalent to ECE 264 (or CS 240) at Purdue. CS 159 is insufficient. You must be able to learn Python.
+It is expected that you are comfortable writing computer programs. You
+should have the skills equivalent to ECE 264 (or CS 240) at Purdue. CS
+159 is insufficient. You must be able to learn Python.
 
-Research requires a lot of self learning. If you learn in classroom only and need step-by-step guidance by teaching assistants, you are not ready for research.
+Research requires a lot of self learning. If you learn in classroom
+only and need step-by-step guidance by teaching assistants, you are
+not ready for research.
 
-This research provides unique experience that is uncommon on campus: all students (including undergraduate students) solve research problems. Since research problems are difficult, this team has the following requirements:
+This research provides unique experience that is uncommon on campus:
+all students (including undergraduate students) solve research
+problems. Since research problems are difficult, this team has the
+following requirements:
 
 - Every student is expected to stay for at least two semesters (summer
   counts as a semester). Many students stay in the team for 2 years or
@@ -50,20 +92,29 @@ This research provides unique experience that is uncommon on campus: all student
   
 - Every new member must pass an interview with current members.
   
-- Every new member will receive fast-pace training. This takes the efforts of current members.
+- Every new member will receive fast-pace training. This takes the
+  efforts of current members.
   
-- During spring or fall semester, every new member must take a research course (ECE 279, 379, 479, CS 490, or similar). The reason is simple: without taking a research course, new members always vanish when their coursework becomes heavy. This wastes everyone's time.
-- Teamwork is absolutely critical. If you want to work alone, do not come.
-- Every member must make a commitment to solving research problems. This team demands serious efforts. This is a research team and entertainment is not the purpose.
+- During spring or fall semester, every new member must take a
+  research course (ECE 279, 379, 479, CS 490, or similar). The reason
+  is simple: without taking a research course, new members always
+  vanish when their coursework becomes heavy. This wastes everyone's
+  time.
+
+- Teamwork is absolutely critical. If you want to work alone, do not
+  come.
+
+- Every member must make a commitment to solving research
+  problems. This team demands serious efforts. This is a research team
+  and entertainment is not the purpose.
 
 - Learning is an essential part of doing research but research is much
-    more than learning. Research must create new things (new software,
-    new data, new theory, new algorithms, new interpretation...). If
-    you do not create anything new, you are not doing research. "New"
-    means new to human knowledge, not new to you. If your only
-    intention is to "learn" without solving research problems, do not
-    come. If you want to learn, take classes or read books (or
-    papers).
+  more than learning. Research must create new things (new software,
+  new data, new theory, new algorithms, new interpretation...). If you
+  do not create anything new, you are not doing research. "New" means
+  new to human knowledge, not new to you. If your only intention is to
+  "learn" without solving research problems, do not come. If you want
+  to learn, take classes or read books (or papers).
 
 - Members are expected to interact in both professional and social
 settings. Many solutions are discovered when people talk outside
@@ -143,10 +194,100 @@ released (not "fired") if the member shows no progress.
 
 - Q: If you are so restrictive, how many people actually apply for joining the team?
 
-- A: For Spring 2019, about 120 people wanted to join or stay in this team. This team's size has been growing rapidly in recent semesters. Many people want to join this team because they want to spend time with those that are serious about solving research problems. 
+- A: For Spring 2019, about 120 people wanted to join or stay in this
+  team. This team's size has been growing rapidly in recent
+  semesters. Many people want to join this team because they want to
+  spend time with those that are serious about solving research
+  problems.
 
 - Q: Do you set a limit on the team's size?
 
 - A: We welcome everyone that wants to solve research problems.  
 
   
+
+About Financial Support
+=======================
+
+Most students do not know how universities operate in terms of finance. As a result, they think professors magically have unlimited funds to support as many students as the professors decide. Before you ask Dr. Lu to provide financial support, please be aware of the following facts:
+
+- Dr. Lu does not print money. Research fund does not fall from sky like rain drops.
+  
+- Purdue University does not give students' tuition to professors for
+  doing research. The tuition goes to facilities such as networks,
+  buildings, furniture, electricity, staff, administration, cleaning
+  ...
+  
+- For every $100 Dr. Lu spends on research (including machines, travel
+  to conferences, salary for students ...), Purdue takes $55 for
+  facilities such as networks, buildings, furniture, electricity,
+  cleaning ... Thus, Dr. Lu has to request $155 from project sponsors.
+  
+- Purdue does not give research money to professors because the
+  professors have a lot of students.
+  
+- Dr. Lu works with many students because he wants to give more
+  students research experience. He enjoys the intellectual
+  interactions with many excellent students. He also thinks the
+  interactions among students help them succeed. The size of his
+  research team has no effect on how much Purdue gives for research
+  (always $0).
+  
+- Dr. Lu has zero influence about how Purdue spends tuition. Please
+  talk to Purdue President if you have any suggestions.
+  
+- Dr. Lu has zero influence on other professors' decisions. Dr. Lu
+  cannot tell any other professor to provide any student financial
+  support.
+  
+- Dr. Lu obtains research funding by writing proposals.
+  
+- Financial supports are divided into three types: fellowship,
+  teaching assistantship, and research assistantship. Dr. Lu has no
+  control of fellowship or teaching assistantship.
+  
+- Research assistantship is a type of employment: a research assistant
+  is an employee of Purdue University for conducting research
+  described in the corresponding research proposal.  If you do not do
+  what is written in the proposal, you cannot receive research
+  assistantship.
+
+- Professors provide research assistantship because the work in the
+  proposals have to be carried out, not because professors are "nice".
+
+Common Mistakes by Students
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Some students think "doing research" means disappearing for five
+  years and coming back with world-changing discovery or invention.
+  It does not work that way. You need to regularly (about once a week)
+  report progress.
+  
+- Financial support is free money and students have complete freedom doing whatever they want.  
+  
+- Some students go to professors and say, "Give me money." They do not
+  know that, in a bank office, this is called robbery and is a crime.
+  
+- Some students think sending emails to professors and money will be
+  transferred to the students' bank accounts the next day.
+
+How to Get Financial Support from Dr. Lu?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Understand that Dr. Lu has no obligation giving you financial support. You have to earn it.
+  
+- Getting financial support from Dr. Lu will take you a lot of efforts.
+  
+- Read at least five of his papers published in the last three
+  years. Do not initiate any conversation before you finish reading
+  the papers.
+  
+- Prepare to have multiple, long, and deep technical discussions.
+  
+- Dr. Lu has a large established research program. You must do what
+  the research program needs.
+  
+- Dr. Lu can support only Purdue students.
+  
+- Dr. Lu emphasizes teamwork greatly. You have to work with a
+  team. You must have good communication skills.
