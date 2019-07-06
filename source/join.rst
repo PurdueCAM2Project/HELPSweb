@@ -1,5 +1,5 @@
-Join the Team
----------------
+Join the Team: What Do You Need to Know?
+========================================
 
 .. note::
 
@@ -203,8 +203,6 @@ Frequently Asked Questions
 - Q: Do you set a limit on the team's size?
 
 - A: We welcome everyone that wants to solve research problems.  
-
-  
 
 About Financial Support
 =======================
