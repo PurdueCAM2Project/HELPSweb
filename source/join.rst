@@ -1,4 +1,4 @@
-Join the Team: What Do You Need to Know?
+Join the Team
 ========================================
 
 .. note::
