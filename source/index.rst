@@ -25,7 +25,6 @@ The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE D
    audio-video
    funding
    research-advice
-   interview
    topics
    letters
    progress
