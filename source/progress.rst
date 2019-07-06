@@ -52,3 +52,163 @@ Poster Examples
 ~~~~~~~~~~~~~~~~~~~
 
 `example 1 <https://engineering.purdue.edu/HELPS/Management/poster1.pptx>`__
+
+
+`Checklist <https://docs.google.com/document/d/12ecufv-G6tC-hanfg0Gwb 
+i02lBDuNEkNWO0wZFm5DCM/edit?usp=sharing>`__\ \ of
+skills needed for new members.
+
+
+Set up Development Environment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is recommended that you create a Linux virtual machine for the
+development environment. A virtual machine allows you to experiment
+different settings (such as different versions of software packages)  
+without affecting your real machine. You have several options for
+creating virtual machines. One of them
+is\ \ `Virtualbox <https://www.virtualbox.org/>`__\ \ . It supports
+Windows, Mac, and Linux.
+
+ 
+Learn git
+~~~~~~~~~~~~~
+
+A new member needs to learn many tools for communication and
+collaboration. One of the most important is git and the GitHub platform.
+ 
+#. Please create an account in github. Your account should include
+   your first name and last name (no exception).
+
+#. Upload your photograph to github.
+
+#. Do not create any funny namethat is different from your real name. 
+   This is a large team and nobody has time connecting a funny
+   account name with the real person.
+
+See https://guides.github.com/.
+ 
+.. todo:: George, add info on distributed workflows.
+
+Please understand how to use branches and merge correctly. There are  
+three types of branches
+
+#. Master branch. It is used to release software. It should be the
+   most stable version.
+
+#. Development branch: It should contain everything in the master
+   branch and additional features. It should be usually stable. This  
+   branch serves as the staging area for integration tests. This
+   branch should not be too far ahead of the master branch. After a
+   (or a few) feature is added and tested, this branch and the master 
+   branch should merge and the new feature (or features) should be
+   released.
+
+#. Feature branches: These branches are created to adding new
+   features. Each feature branch should have a short life-span: a
+   branch is created for a feature, the feature is tested, and then
+   the branch is merged into the development branch.
+
+Please understand that the purposes of the branches are to stage
+changes into the master branch. Each branch should last only a few
+days. A common problem among students is that they do not merge
+quickly. As time passes, the differences among branches become
+greater and the chances of merge conflict increase. If a branch is
+not merged within two weeks, the branch may have too many conflicts
+and cannot be merged. As a result, the branch has to be abandoned and 
+all efforts making that branch is lost.
+
+ 
+Learn Python
+~~~~~~~~~~~~~~~
+
+You can find many tutorials online. This is\ \ `an
+example <https://docs.python.org/3/tutorial/>`__\ \ . If you want
+practice problems, Consider to solve\ \ `these
+problems <https://github.com/yunghsianglu/IntermediateCProgramming>`_ 
+_\ \ using
+Python. If you want to understand objects, please watch\ \ `my
+lectures for ECE
+30862 <https://engineering.purdue.edu/OOSD/F2009/Lectures/lecture.htm 
+l>`__\ \ (called
+ECE 462 earlier).
+
+Learn OpenCV (for Image Team)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+If you are in the image team, please
+learn\ \ `OpenCV <http://docs.opencv.org/2.4/doc/tutorials/tutorials. 
+html>`__\ \ .
+
+
+Teamwork
+--------
+ 
+
+One of the most important difference between doing class homework and 
+research is the need of “team thinking”. You are part of a team and
+your must contribute to the team. Many students make significant
+progress in their computers but they do not share what they have done 
+with the team. As a result, whatever they have done is restricted to  
+themselves.
+
+What does it mean sharing work with the team? At the minimum, each
+member should document contributions
+
+Document Your Work
+~~~~~~~~~~~~~~~~~~~~~~
+ 
+You need to clearly document everything you want to do, you have
+done, and the results. One of the most common mistakes when students  
+start doing research is that “student thinking”: as long as I have
+learned, I don’t need to document. This is wrong.
+
+You are responsible explaining to the other group members that you
+are doing. Your document must provide enough details so thatother
+people can reproduce your work.
+
+Sample Interview Questions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Joining Yung-Hsiang Lu’s research group
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+Dr. Lu’s research is computer systems. He does not conduct research
+in the following topics: device physics, laser, optics, electric
+motor, hybrid vehicles, renewable energy, mix-signal circuits, and
+many other topics. Reading his recent papers (at least the titles) is 
+a good way to understand his research topics. Students in his group
+should have good programming skills. The following are sample
+questions for interviews to join his research group.
+
+These interview questions emphasize understanding, thinking, and
+creativity,not memorization. “Why” is much more important than “what” 
+and “how”.  If you do not know the answers, explain how you would
+find the answers.
+
+ 
+Communication and Team Interaction
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 
+Do you understand that participation in discussion is extremely
+important in a research project?
+
+ 
+
+When you do not understand the content of a discussion, do you ask
+questions or keep quiet? If you prefer silence, you are not ready to  
+join a research project.
+
+ 
+
+
+Project Management and Team
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 
+
+Describe the tools, procedures, and methodologies you use for project 
+management
+

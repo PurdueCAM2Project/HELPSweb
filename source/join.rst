@@ -477,304 +477,61 @@ program I purchased. I appreciate your understanding.
      -  `docx <https://engineering.purdue.edu/HELPS/ResearchAdvice/script/Ownership.docx>`__
 
 
+Interview is not an oral exam
+-----------------------------
+
+
+Many students think interviews are oral exams: interviewers ask
+questions and interviewees answer the questions. This is incorrect.
+An interview is two-way communication. An interviewee should also ask
+questions. To ask meaningful questions, an interviewee should study
+the characteristics of the research team. Some students think
+interview questions are “fill in the blank” and provide short answers,
+without much explanation. Such an interviewee is “passive”: responding
+to questions without deeper thought. Such an attitude would be
+considered negative. It is advisable to dig deeper by providing more
+insightful information. It is perfectly reasonable for an interviewee
+to ask back “Why do you ask me this question?”
+
+Do not intend to prepare an interview by memorization. Good
+interviewers do not ask memorization questions. Dr. Lu *always* gives
+open-book exams because he *strongly encourages* understanding, not
+memorization. To enter Dr. Lu's research team, you need to demonstrate
+that you can think. It is acceptable to say, “I don’t know.” and then
+ask the interviewer to provide more information and guidance toward an
+answer. A common mistake by students is to provide lengthy explanation
+without answering the questions. Some students can take several
+minutes without giving any definite answer.  Why? They are afraid
+giving wrong answers. This is a bad attitude. It is better to answer
+the question and then explain the reason of the answer. Interviewers
+want answers before explanation. For a “Yes-No” question, answer “Yes”
+or “No” first and then give the explanation.
+
+Honesty is extremely important. An interviewee should never lie. If an
+interviewee does not know the answer, it is acceptable to say, “I
+don’t know the answer.” The interviewee should not pretend to know the
+answer and say meaningless things. After admitting not knowing the
+answer, an interviewee can try to answer the question through
+reasoning. “I don’t know the answer but I think it should be … because
+…” The “because” part is very important.
+	
+
 Sample Interview Questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Teamwork
---------
- 
-
-One of the most important difference between doing class homework and 
-research is the need of “team thinking”. You are part of a team and
-your must contribute to the team. Many students make significant
-progress in their computers but they do not share what they have done 
-with the team. As a result, whatever they have done is restricted to  
-themselves.
-
-What does it mean sharing work with the team? At the minimum, each
-member should document contributions
-
-Document Your Work
-~~~~~~~~~~~~~~~~~~~~~~
- 
-You need to clearly document everything you want to do, you have
-done, and the results. One of the most common mistakes when students  
-start doing research is that “student thinking”: as long as I have
-learned, I don’t need to document. This is wrong.
-
-You are responsible explaining to the other group members that you
-are doing. Your document must provide enough details so thatother
-people can reproduce your work.
-
-`Checklist <https://docs.google.com/document/d/12ecufv-G6tC-hanfg0Gwb 
-i02lBDuNEkNWO0wZFm5DCM/edit?usp=sharing>`__\ \ of
-skills needed for new members.
-
-Set up Development Environment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-It is recommended that you create a Linux virtual machine for the
-development environment. A virtual machine allows you to experiment
-different settings (such as different versions of software packages)  
-without affecting your real machine. You have several options for
-creating virtual machines. One of them
-is\ \ `Virtualbox <https://www.virtualbox.org/>`__\ \ . It supports
-Windows, Mac, and Linux.
-
- 
-Learn git
-~~~~~~~~~~~~~
-
-A new member needs to learn many tools for communication and
-collaboration. One of the most important is git and the GitHub platform.
- 
-#. Please create an account in github. Your account should include
-   your first name and last name (no exception).
-
-#. Upload your photograph to github.
-
-#. Do not create any funny namethat is different from your real name. 
-   This is a large team and nobody has time connecting a funny
-   account name with the real person.
-
-See https://guides.github.com/.
- 
-.. todo:: George, add info on distributed workflows.
-
-Please understand how to use branches and merge correctly. There are  
-three types of branches
-
-#. Master branch. It is used to release software. It should be the
-   most stable version.
-
-#. Development branch: It should contain everything in the master
-   branch and additional features. It should be usually stable. This  
-   branch serves as the staging area for integration tests. This
-   branch should not be too far ahead of the master branch. After a
-   (or a few) feature is added and tested, this branch and the master 
-   branch should merge and the new feature (or features) should be
-   released.
-
-#. Feature branches: These branches are created to adding new
-   features. Each feature branch should have a short life-span: a
-   branch is created for a feature, the feature is tested, and then
-   the branch is merged into the development branch.
-
-Please understand that the purposes of the branches are to stage
-changes into the master branch. Each branch should last only a few
-days. A common problem among students is that they do not merge
-quickly. As time passes, the differences among branches become
-greater and the chances of merge conflict increase. If a branch is
-not merged within two weeks, the branch may have too many conflicts
-and cannot be merged. As a result, the branch has to be abandoned and 
-all efforts making that branch is lost.
-
- 
-Learn Python
-~~~~~~~~~~~~~~~
-
-You can find many tutorials online. This is\ \ `an
-example <https://docs.python.org/3/tutorial/>`__\ \ . If you want
-practice problems, Consider to solve\ \ `these
-problems <https://github.com/yunghsianglu/IntermediateCProgramming>`_ 
-_\ \ using
-Python. If you want to understand objects, please watch\ \ `my
-lectures for ECE
-30862 <https://engineering.purdue.edu/OOSD/F2009/Lectures/lecture.htm 
-l>`__\ \ (called
-ECE 462 earlier).
-
-Learn OpenCV (for Image Team)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-If you are in the image team, please
-learn\ \ `OpenCV <http://docs.opencv.org/2.4/doc/tutorials/tutorials. 
-html>`__\ \ .
-
-This is a public document.
-
- 
-This document is provided to people that intend to join Dr.
-Yung-Hsiang Lu’s research group.
-
-A candidate is expected to read this document before an interview.
-
-
-Sample Interview Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Q. Why is the document written?
-
-A. The purpose of this article is to help the students that are
-interested joining Dr. Yung-Hsiang Lu’s research group.
-
-You have already learned one important lesson from the first two
-sentences: before you do something, identify the reasons why you want 
-to do it.
-
-An interview is not a “test”. Instead, an interview is an opportunity 
-for people (interviewers and interviewees) to know each other. If a
-student does not know the answer toanyquestion in this document, it
-is advisable taking relevant courses or reading relevant books before 
-contacting Dr. Lu.
-
-Before you join Dr. Lu’s group, ask yourself why you want to join the 
-group.
-
-Some students want to join a group but their background does not
-match the research topics investigated by this group. Mismatch does
-not mean anything negative to the candidate’s knowledge, talent, or
-skills. A great baseball player may be terrible in cooking. An
-inspiring speaker can be terrible playing chess. Different people
-have different talents. This document serves as a reference for
-students to evaluate whether Dr. Lu’s group would be a good match.
-
- 
 
 .. warning::
 
    You should never lie in an interview.
 
-Interviews before joining a research group
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
 
-Why does an organization have an interview before accept a new
-member? An obvious answer is “to ensure the qualifications of the new 
-member”. This is only partially correct. In reality, interviews are
-bidirectional:
-
-#. The organization wants to know whether the candidate would succeed 
-   in the organization.
-
-#. The candidate wants to know whether the organization would be a
-   good fit.
-
-The organization’s representatives (i.e., interviewers) should
-appreciate the candidate's (i.e., interviewee) interests and time.
-The candidate should also appreciate the interviewers’ effort and
-time. Some people are new to workplace and treat interviews as a
-hostile encounter; the reality is the opposite. The interviewers and  
-the interviewee are in fact collaborative because they have the same  
-goal: finding the right match of the candidate and the organization.  
-Interviewers determine whether the candidate has the right knowledge  
-and skills for the organization. The candidate determine whether this 
-organization would be the right place for build a career.
-
-An interview would be a good indication what types of problems are
-the organization’s top priorities. In many cases,  the organization
-has resources (such as salary) that are desirable to the candidate.
-The candidate, however, must resist the temptation of accepting an
-offer for the sole reason of financial support. Joining a wrong
-organization can significantly hurt one’s career development.
-
-It is also important to know the people before joining a group. Each  
-organization has its unique culture and it is important for the
-candidate to understand the expectations. It is usually difficult
-changing an organization’s culture. Instead, a new comer almost
-always has to adjust to match the organization’s culture.
-
-Dr. Lu’s research group includes people from different countries and  
-fluent English is needed for communication. If you wish not to speak  
-English, this group would not be a good fit.
-
-It is always advisable to know the organization as much as
-possiblebeforeeven initiating communication. Many people send the
-same email to hundreds of people and hope one of them gets lucky.
-This is unlikely to pay off. Before contacting a professor, it is
-better to know this professor’srecentwork. Read some papers published 
-by this professor and imagine whether this type of project would be
-exciting. Please notice the word “recent”. Due to many reasons,
-professors’ projects may change. What a professor did ten years ago
-may not correctly reflect this professor’s recent work. It is also
-helpful to know what courses the professor teaches. These courses
-often serve as the baseline of the professor’s research projects.
-Before contacting a professor, it is better to know the materials in  
-these courses.
-
-Even though most students join research groups to learn and learning  
-is likely part of the experience, “learning” should not be the main
-purpose of any research project. Research groups are looking for
-people that cansolve research problems. A person that “learns a lot”  
-without any contribution to solving problems is not helpful to the
-group and, thus, is undesirable to the group. Before joining a group, 
-it is important to understand the differences.
-
-Interview is not an oral exam
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-
-Many students think interviews are oral exams—interviewers ask
-questions and interviewees answer the questions. This is incorrect.
-An interview is interactive. An interviewee should also ask questions 
-back. To ask meaningful questions, an interviewee should study the
-characteristics of the group in advance. Some students think
-interview questions are “fill in the blank” and provide short
-answers, without much explanation. Such an interviewee is “passive”:  
-responding to questions without deeper thought. Such an attitude
-would be considered negative. It is advisable to dig deeper by
-providing more insightful information. It is perfectly reasonable for 
-an interviewee to ask back “Why do you ask me this question?”
-
-Do not intend to prepare an interview by memorization. Good
-interviewers do not ask memorization questions. Instead, they ask
-questions that require thinking. It is acceptable to say, “I don’t
-know.” and then ask the interviewer to provide more information and
-guidance toward the answer. A common mistake by students is to
-provide lengthy explanation without answering the questions. Some
-students can take several minutes without giving any definite answer. 
-Why? They are afraid giving wrong answers. This is a bad attitude. It 
-is better to answer the question and then explain the reason of the
-answer. Interviewers want answersbeforeexplanation. For a “Yes-No”
-question, answer “Yes” or “No” first and then give the explanation.
-
-Honesty is extremely important.An interviewee should never lie.If an  
-interviewee does not know the answer, it is acceptable to say, “I
-don’t know the answer.” The interviewee should not pretend to know
-the answer and say meaningless things. After admitting not knowing
-the answer, an interviewee can try to answer the question through
-reasoning. “I don’t know the answer but I think it should be
-…because…” The “because” part is very important.
-
-Joining Yung-Hsiang Lu’s research group
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-Dr. Lu’s research is computer systems. He does not conduct research
-in the following topics: device physics, laser, optics, electric
-motor, hybrid vehicles, renewable energy, mix-signal circuits, and
-many other topics. Reading his recent papers (at least the titles) is 
-a good way to understand his research topics. Students in his group
-should have good programming skills. The following are sample
-questions for interviews to join his research group.
-
-These interview questions emphasize understanding, thinking, and
-creativity,not memorization. “Why” is much more important than “what” 
-and “how”.  If you do not know the answers, explain how you would
-find the answers.
-
- 
-Communication and Team Interaction
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
- 
+Teamwork
+--------
 
 .. warning::
 
-   Communication and interaction is more important than any technical skill.
-   If you cannot communicate, it does not matter what programming languages
-   or algorithms you know.
-
-Do you understand that participation in discussion is extremely
-important in a research project?
-
- 
-
-When you do not understand the content of a discussion, do you ask
-questions or keep quiet? If you prefer silence, you are not ready to  
-join a research project.
-
- 
+   Communication and interaction is more important than any technical
+   skill.  If you cannot communicate, it does not matter what you
+   know.
 
 How do you respond to discussion and critique?
 
@@ -827,75 +584,12 @@ were adjusted as needs arose?
 
  
 
-Past Experience and Evidence
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
- 
-
-Show evidence of your past projects. What did you do? Is it an
-individual project or a team project? What are your contributions?
-
- 
-
-How long would you stay in this project. It is strongly encouraged
-that each person stays in this team for at least two semesters.
-
- 
-
-Research Projects
-~~~~~~~~~~~~~~~~~~~~
-
- 
-
-Please explain which of Dr.Lu’s research projects interests you the
-most. Why? How would you fit in this project?
-
- 
-
-Explain why you want to join this project. How much do you know about 
-this project? How would you contribute to the project?
-
- 
-
-Who would benefit from the success of this project? Why? How?
-
- 
-
-What knowledge and skills do you have? Why do you think you can
-contribute to the project?
-
- 
-
-If you could redesign the project from the beginning, what
-differences would you make?
-
- 
-
-Given the current state of the project, what are the most important
-improvements needed by the project?
-
- 
-
-What factors are most likely to cause the project to fail? How would  
-you prevent the failure?
-
- 
-
-Project Management and Team
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
- 
-
-Describe the tools, procedures, and methodologies you use for project 
-management
-
- 
-
 Have you worked in a team project? How big was the team?
 
  
 
-Can you describe the ideal characteristics of team members?
+Can you describe the ideal characteristics of team members? Are you a
+good team member? Why?
 
  
 
@@ -917,8 +611,33 @@ prevent this from happening?
 
  
 
+Past Project Experience
+-----------------------
+
+ 
+
+Show evidence of your past projects. What did you do? Is it an
+individual project or a team project? What are your contributions?
+
+ 
+
+What knowledge and skills do you have? Why do you think you can
+contribute to the project?
+
+ 
+
+Can you describe the factors that made your past projects successful
+or unsuccessful?
+
+ 
+
+If you could redesign one of your past projects from the beginning,
+what differences would you make?
+
+ 
+
 Logic Thinking
-~~~~~~~~~~~~~~~
+--------------
 
  
 
@@ -946,27 +665,11 @@ Neither?
  
 
 A pharmaceutical company wants to understand the effects of a new
-medicine. The researchers give this new medicine to lab animals
-andnothing else. Within six days, all lab animals are dead. The
+medicine. The researchers give this new medicine to lab animals and
+nothing else. Within six days, all lab animals are dead. The
 researchers conclude that the medicine is toxic and should never be
 used for treatment. Do you agree with this conclusion? Explain your
 answer.
-
- 
-
- 
-
---------------
-
- 
-
- 
-
-It is expected that every student in his group has the programming
-skills described in his book “Intermediate C Programming” (CRC Press, 
-ISBN 9781-4987-11630). Knowledge about the following topics would be  
-helpful: data structures, discrete mathematics, algorithms, computer  
-architecture, operating systems, and networks.
 
  
 
@@ -1012,9 +715,10 @@ edges if you replace “>” by “<=” or “>” by “>=”? Explain the rea
 
 Continue from the previous question. Describe an algorithm to find
 the longest path between two vertices without any cycle. Why is it
-important to emphasize that cycles are not allowed? Hint: Changing <  
-in the algorithm for shortest paths to > wouldnotwork. Please explain 
-the reason.
+important to emphasize that cycles are not allowed?
+
+Hint: Changing "<" in the algorithm for shortest paths to ">" would not
+work. Please explain the reason.
 
  
 
@@ -1024,6 +728,13 @@ Why is quicksort quick?
 
 Data structures
 ~~~~~~~~~~~~~~~~~~~
+
+
+It is expected that every student in his group has the programming
+skills described in his book “Intermediate C Programming” (CRC Press, 
+ISBN 9781-4987-11630). Knowledge about the following topics would be  
+helpful: data structures, discrete mathematics, algorithms, computer  
+architecture, operating systems, and networks.
 
  
 
@@ -1053,7 +764,7 @@ You need to design sorting algorithms for two different scenarios.
    much slower disks.
 
 Would the sorting algorithms be different for these two scenarios?
-How?
+Why? How?
 
  
 
@@ -1071,27 +782,22 @@ How would you implement an associative array?
 
  
 
-Two binary tree have the same shape if they have the same numbers of  
-nodes on the left and the right sides at each level. For n distinct
-numbers, there are n! different permutations. If these numbers form
-binary search trees, how many different shapes will there be? Is that 
-n!?
+Two binary tree have the same shape if they have the same numbers of
+nodes on the left and the right sides at each level. For `n` distinct
+numbers, there are `n!` different permutations. If these numbers form
+binary search trees, how many different shapes will there be? Is that
+`n!`?
 
  
 
-How would you store a very large array whose most elements are zero?  
- 
-
- 
-
-How would you store a very large matrix whose most elements are zero? 
- What matrix operations would be easy in this data structure? What
+How would you store a very large matrix whose most elements are zero?
+What matrix operations would be easy in this data structure? What
 operations would be more difficult? Why?
 
  
 
 Programming (independent of language)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------
 
  
 
@@ -1104,8 +810,8 @@ What is heap memory? How is it used?
  
 
 When would you use recursion? You can describe general principles or  
-examples. When is recursion better than for (or while) for solving
-problems? Hint: the Fibonacci sequence, f(n) = f(n-1) + f(n-2), is
+examples. When is recursion better than `for` (or `while`) for solving
+problems? Hint: the Fibonacci sequence, `f(n) = f(n-1) + f(n-2)`, is
 not a good example of recursion. Please read Section 13.6 in
 “Intermediate C Programming”.
 
@@ -1123,8 +829,8 @@ What is unit test? What is integration test?
 
  
 
-What version control tool(s) do you use? What is the purpose of
-version control?
+What version control tool do you use? What is the purpose of version
+control?
 
  
 
@@ -1133,7 +839,7 @@ Explain how you debug programs.
  
 
 C Programming
-~~~~~~~~~~~~~~
+-------------
 
  
 .. code-block:: c
