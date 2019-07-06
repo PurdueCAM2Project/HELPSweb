@@ -46,7 +46,7 @@ people want to spend time with you? Why?
 If you want to talk to Dr. Lu, his office is MSEE 222.
 
 Still want to join?
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 If you are serious about solving research problems and interested
 joining the research team, please fill in `this Google form
@@ -258,7 +258,7 @@ following facts:
   proposals have to be carried out, not because professors are "nice".
 
 Common Mistakes by Students
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 
 - Some students think "doing research" means disappearing for five
   years and coming back with world-changing discovery or invention.
@@ -274,7 +274,7 @@ Common Mistakes by Students
   transferred to the students' bank accounts the next day.
 
 How to Get Financial Support from Dr. Lu?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------
 
 - Understand that Dr. Lu has no obligation giving you financial support. You have to earn it.
   
@@ -338,7 +338,7 @@ not come to learn. If you want to learn, go to take courses or read
 books.This team does not accept anyone that wants to join and learn,  
 without contributions to solving research problems. This team accepts 
 only the people that wants to solve research problems.The purpose of  
-interviews is to help applicants and current members\ **evaluate
+interviews is to help applicants and current members **evaluate
 whether the applicants are ready to contribute.**
 
 What is an interview?
@@ -358,11 +358,6 @@ not honest, this team will never accept the applicant. Communication
 and technical skills can be acquired. Honesty and integrity cannot be
 compromised.
 
-
-** This research team's mission is to create leaders.  This research
-probject's mission is to discover, present, and analyze real-time data
-from worldwide sources.**
-
 Sample questions are listed below for your reference. Your are
 encouraged to study these questions in advance.  You need to prepare
 for the interview.
@@ -371,38 +366,72 @@ Differences between Students and Researchers
 --------------------------------------------
 
 Before an interview, please make sure you understand the differences
-between students and researchers. If you want to be a student, not a
-researcher, do not join this team. Don't waste your time.
+between students and researchers.  A student with high GPA is not
+necessarily a good researcher. Some excellent researchers do not have
+high GPA.  Why? Because taking classes are doing research are very
+very different.
 
-Please read the `sample interview questions <https://docs.google.com/document/d/1XHHtyOa5_YbbOGAeHq9 
-Xfjha-tTK2UxSUjCfrZ21hZY/edit?usp=sharing>`__.
+How does a student get a good grade? Usually, by submitting
+assignments and answering exam questions. Due to the semester (or
+quarter) structure, a course can last only 15 (or 10) weeks. As a
+result, every assignment has to be finished within several
+weeks. Also, most exam questions are limited to well-defined problems
+that can be answered within one or two hours.  This structure has
+tremendous impacts on how students think.  Many students (mistakenly)
+think everything can be done within a few weeks because students never
+have experience doing anything longer than a few weeks. Most students
+cannot comprehend the complexity of any problem that takes more than
+several weeks.
 
-If you are unable to answer any questions, you are not ready to
-join this group yet. Please come back later. Joining a group
-before you are ready means you are going to waste time.
+Unfortunately, research is almost the opposite of everything in
+classroom. The following table summarizes the main differences between
+"student thinking" and "researcher thinking":
 
- 
-This is the `grading guide for new
-members <https://docs.google.com/document/d/1qQY6nFaHbP7eP2BvPvSP1QWs 
-cU-xgqs0UfWvIGQEUnU/edit?usp=sharing>`__.
-One of the most important differences between “student thinking” and  
-“real world” is that
 
-No organization in the world would ask you to join and learn.
++------------------------------------------------------------+--------------------------------------------------------+
+| Student Thinking                                           | Researcher Thinking                                    |
++============================================================+========================================================+
+| The adviser knows the answers                              | Nobody knows the answers                               |
++------------------------------------------------------------+--------------------------------------------------------+
+| Short reports to the adviser                               | Write reports for others to understand and reproduce   |
++------------------------------------------------------------+--------------------------------------------------------+
+| Ask for help when encountering difficulty                  | Solve the problem by self                              |
++------------------------------------------------------------+--------------------------------------------------------+
+| Wait for assignments and exams                             | Anticipate questions                                   |
++------------------------------------------------------------+--------------------------------------------------------+
+| Work alone                                                 | Collaborate                                            |
++------------------------------------------------------------+--------------------------------------------------------+
+| Listen quietly in classroom                                | Explain and present to other researchers               |
++------------------------------------------------------------+--------------------------------------------------------+
+| Do not care after a semester ends                          | Research projects last many years                      |
++------------------------------------------------------------+--------------------------------------------------------+
+| Accumulate technical debts                                 | Avoid technical debts                                  |
++------------------------------------------------------------+--------------------------------------------------------+
+| Try to find answers in books                               | Discover answers by self                               |
++------------------------------------------------------------+--------------------------------------------------------+
+| Talk to professors only                                    | Talk to other researchers                              |
++------------------------------------------------------------+--------------------------------------------------------+
+| Procrastinate until a report is due                        | Work on the project continuously                       |
++------------------------------------------------------------+--------------------------------------------------------+
+| Take different courses each semester                       | Stay until a solution is found, written, and presented |
++------------------------------------------------------------+--------------------------------------------------------+
+| Take several courses  simultaneously                       | Focus on solving one problem                           |
++------------------------------------------------------------+--------------------------------------------------------+
+| Focus on learning (taking in)                              | Focus on contributions (getting out)                   |
++------------------------------------------------------------+--------------------------------------------------------+
+| Wait for evaluations by professors (assignments and exams) | Develop metrics to evaluate solutions                  |
++------------------------------------------------------------+--------------------------------------------------------+
+| Treat research as sightseeing                              | Treat research as weight training                      |
++------------------------------------------------------------+--------------------------------------------------------+
+| Wait for professors' instructions                          | Take initiative, suggest solutions                     |
++------------------------------------------------------------+--------------------------------------------------------+
+| Ignore assignments that are not graded                     | Pay attention to every step                            |
++------------------------------------------------------------+--------------------------------------------------------+
+| Treat questions as tests                                   | Treat questions as discussion                          | 
++------------------------------------------------------------+--------------------------------------------------------+
+| No need to document since everything is in textbook        | Carefully document every step                          |
++------------------------------------------------------------+--------------------------------------------------------+
 
-You join an organization to contribute and solve problems.
-
-If you cannot solve problems, the organization does not need you.
-
-An organization would invite you to join because the members in the
-organization believe that you would be able to contribute to the
-organization. A research group needs to solve problems.  If your only 
-purpose to join a research group is to learn, you will soon be ask to 
-leave.
-
-You will probably learn many technical skills so that you can
-contribute. However, always remember thatyour purpose in this
-research group is not to learn. Yourpurpose is to contribute.
 
 Please watch the videos in :doc:`research-advice`.
 

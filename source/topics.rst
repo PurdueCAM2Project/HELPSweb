@@ -61,3 +61,18 @@ How to get out of Stage 2 and Stage 3? There is no method that always works. Her
 - Repeat published studies. You may get different results because you take slightly different approach and the details are not published. Discover the differences.
 
 Read biographies of great inventors. Learn how they solve problems.
+
+Please read the `sample interview questions <https://docs.google.com/document/d/1XHHtyOa5_YbbOGAeHq9 
+Xfjha-tTK2UxSUjCfrZ21hZY/edit?usp=sharing>`__.
+
+If you are unable to answer any questions, you are not ready to
+join this group yet. Please come back later. Joining a group
+before you are ready means you are going to waste time.
+
+ 
+This is the `grading guide for new
+members <https://docs.google.com/document/d/1qQY6nFaHbP7eP2BvPvSP1QWs 
+cU-xgqs0UfWvIGQEUnU/edit?usp=sharing>`__.
+One of the most important differences between “student thinking” and  
+“real world” is that
+
