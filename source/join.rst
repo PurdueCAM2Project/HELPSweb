@@ -4,7 +4,7 @@ Join the Team
 .. note::
 
    We recommend reading this page fully before submitting the `application form <https://forms.gle/Q27KTbahpGbHMEGq8>`__.
-   However, if you have alread spoken with members of the research team, it is ok to proceed directly to the form.
+   However, if you have already spoken with members of the research team, it is ok to proceed directly to the form.
 
 
 Join the Research Team
@@ -71,11 +71,11 @@ A: What do you want to accomplish? You need to spend at least six hours a week. 
 
 Q: If I am selected, I will stay for at least two semesters, right?
 
-A: Not necessarily. The team may be reorganized. A particular topic may be eliminated if enough progress has been made. A member may be released (not "fired") if the memember shows no progress.
+A: Not necessarily. The team may be reorganized. A particular topic may be eliminated if enough progress has been made. A member may be released (not "fired") if the member shows no progress.
 
 Q: Your team demands a lot. What do members get?
 
-A: The pride of solving research problems. Friendship with excellent researchers. Sense of accomplishments. Authorship (or co-authorship) of research papers. Strong recommendation letters. Occassionally, pizza. 
+A: The pride of solving research problems. Friendship with excellent researchers. Sense of accomplishments. Authorship (or co-authorship) of research papers. Strong recommendation letters. Occasionally, pizza. 
 
 Q: I do not want to take a research course because I already have too many credits.
 
@@ -87,7 +87,7 @@ A: If this is your last semester, you will not stay for two semester. Do not com
 
 Q: I guarantee that I will stay, even though I do not take a research course.
 
-A: You will not stay. You know very clearly. You do not want to take a research course becase you want to flexibility to leave. Do not come. Many people "assured" that they would stay without taking credits, everyone left. In fact, these people simply vanished without saying "Good Bye". This team does not need these people. 
+A: You will not stay. You know very clearly. You do not want to take a research course because you want to flexibility to leave. Do not come. Many people "assured" that they would stay without taking credits, everyone left. In fact, these people simply vanished without saying "Good Bye". This team does not need these people. 
 
 Q: If you are so restrictive, how many people actually apply for joining the team?
 
