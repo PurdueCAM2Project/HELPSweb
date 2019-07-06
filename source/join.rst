@@ -727,7 +727,7 @@ Why is quicksort quick?
  
 
 Data structures
-~~~~~~~~~~~~~~~~~~~
+---------------
 
 
 It is expected that every student in his group has the programming
@@ -866,7 +866,7 @@ What would happen when `f()` is called?
  
 
 Object-Oriented Programming (independent of language)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------
  
 
 What is encapsulation? Why is it important?
@@ -887,7 +887,7 @@ What are the main differences between a class and a structure in C
  
 
 Networking
-~~~~~~~~~~~~~
+----------
 
  
 
@@ -917,7 +917,7 @@ carries 100,000 of hard disks cruising at 36 km/h?
 
 
 C++ 
-~~~~
+---
  
 
 Explain the purpose of virtual.
@@ -943,7 +943,7 @@ programs.
  
 
 Java
-~~~~~~
+----
 
  
 
@@ -967,10 +967,10 @@ this mean?
   
 
 Machine Learning
-~~~~~~~~~~~~~~~~~~~~
+----------------
  
 
-Briefly explain deep learning.  Why is it called “deep”?
+Briefly explain deep learning. Why is it called “deep”?
 
  
 
