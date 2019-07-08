@@ -10,31 +10,37 @@ Join the Team
 Join the Research Team
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. |helpsj0| image:: https://engineering.purdue.edu/HELPS/Images/2018game01.jpg
+|joinimg0| |joinimg1|
+
+|joinimg2| |joinimg3|
+
+
+
+.. |joinimg0| image:: https://engineering.purdue.edu/HELPS/Images/2018game01.jpg
    :width: 45 %
 
-.. |helpsj1| image:: https://engineering.purdue.edu/HELPS/Images/201812birthday.jpg
+.. |joinimg1| image:: https://engineering.purdue.edu/HELPS/Images/201812birthday.jpg
    :width: 45 %
 
-.. |helpsj2| image:: https://engineering.purdue.edu/HELPS/Images/201807fossball.jpg
+.. |joinimg2| image:: https://engineering.purdue.edu/HELPS/Images/201807fossball.jpg
    :width: 45 %
 
-.. |helpsj3| image:: https://engineering.purdue.edu/HELPS/Images/201902birthday.png
+.. |joinimg3| image:: https://engineering.purdue.edu/HELPS/Images/201902birthday.png
    :width: 45 %
 
 
-.. |helpsj4| image:: https://engineering.purdue.edu/HELPS/Images/20190323.jpg
+.. |joinimg4| image:: https://engineering.purdue.edu/HELPS/Images/20190323.jpg
    :height: 200px
 
-.. |helpsj5| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
+.. |joinimg5| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
    :height: 200px
 
 
-.. |helpsj6| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
+.. |joinimg6| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
    :height: 200px
 
 
-.. |helpsj7| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
+.. |joinimg7| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
    :height: 200px
 
 
