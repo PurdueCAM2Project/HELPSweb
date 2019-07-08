@@ -30,18 +30,18 @@ Join the Research Team
 
 
 .. |joinimg4| image:: https://engineering.purdue.edu/HELPS/Images/20190323.jpg
-   :width: 47 %
+   :width: 48 %
 
 .. |joinimg5| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
-   :width: 43 %
+   :width: 42 %
 
 
 .. |joinimg6| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
-   :width: 43 %
+   :width: 42 %
 
 
 .. |joinimg7| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
-   :width: 47 %
+   :width: 48 %
 
 
 Dr. Lu (almost every professor) receives too many meaningless messages
