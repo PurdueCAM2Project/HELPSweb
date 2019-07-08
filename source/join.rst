@@ -10,6 +10,34 @@ Join the Team
 Join the Research Team
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+.. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/2018game01.jpg
+   :width: 45 %
+
+.. |helps1| image:: https://engineering.purdue.edu/HELPS/Images/201812birthday.jpg
+   :width: 45 %
+
+.. |helps2| image:: https://engineering.purdue.edu/HELPS/Images/201807fossball.jpg
+   :width: 45 %
+
+.. |helps3| image:: https://engineering.purdue.edu/HELPS/Images/201902birthday.png
+   :width: 45 %
+
+
+.. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/20190323.jpg
+   :height: 200px
+
+.. |helps1| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
+   :height: 200px
+
+
+.. |helps2| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
+   :height: 200px
+
+
+.. |helps3| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
+   :height: 200px
+
+
 Dr. Lu (almost every professor) receives too many meaningless messages
 from careless students. In most cases, the students do not even know
 where the messages are sent to. Many messages ask to join Dr. Lu's
@@ -293,6 +321,8 @@ How to Get Financial Support from Dr. Lu?
   
 - Dr. Lu emphasizes teamwork greatly. You have to work with a
   team. You must have good communication skills.
+
+
 
   
 Interviews
