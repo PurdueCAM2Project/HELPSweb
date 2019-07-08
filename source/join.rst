@@ -23,25 +23,25 @@ Join the Research Team
    :width: 45 %
 
 .. |joinimg2| image:: https://engineering.purdue.edu/HELPS/Images/201807fossball.jpg
-   :width: 45 %
+   :width: 47 %
 
 .. |joinimg3| image:: https://engineering.purdue.edu/HELPS/Images/201902birthday.png
-   :width: 45 %
+   :width: 43 %
 
 
 .. |joinimg4| image:: https://engineering.purdue.edu/HELPS/Images/20190323.jpg
-   :height: 200px
+   :width: 45 %
 
 .. |joinimg5| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
-   :height: 200px
+   :width: 45 %
 
 
 .. |joinimg6| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
-   :height: 200px
+   :width: 45 %
 
 
 .. |joinimg7| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
-   :height: 200px
+   :width: 45 %
 
 
 Dr. Lu (almost every professor) receives too many meaningless messages
@@ -329,7 +329,12 @@ How to Get Financial Support from Dr. Lu?
   team. You must have good communication skills.
 
 
+|joinimg4| |joinimg5|
 
+|joinimg6| |joinimg7|
+
+
+  
   
 Interviews
 ~~~~~~~~~~
