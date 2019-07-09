@@ -1,5 +1,3 @@
-Current Team
-
 People
 -------
 
@@ -42,7 +40,7 @@ Faculty
        
        Professor,  Forestry and Natural Resources, Purdue
 
-   * - .. image:: images/gkt.jpg
+   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
      - `George K. Thiruvathukal
        <https://thiruvathukal.com>`__
        
@@ -64,11 +62,33 @@ Faculty
        
        Computer Science, Purdue
 
-       
+
+Members and Topics
+~~~~~~~~~~~~~~~~~~
+
+Graduate Students
+^^^^^^^^^^^^^^^^^
+
+.. list-table::
+   :widths: 10 30
+
+   * - .. image:: https://drive.google.com/uc?id=1YunKydNN7OS_vvBubbME4UykfjNh1CgA
+     - Abhinav Goel: Doctoral Student, Improve Neural Networks' Energy Efficiency
+
+   * - .. image:: https://drive.google.com/uc?id=1GzpDueX6W2e4sx0OGfKm51cru34jyEvp
+     - Sara Aghajanzadeh: Master Student, Detect Faces and Protect Privacy 
+
+   * - .. image:: https://drive.google.com/uc?id=1kIYIrkXnICIb2odq5WWGlsdCYv4fTpVU
+     - Ryan Dailey: Master Student, Discover Network Cameras
+
+Undergraduate Students
+^^^^^^^^^^^^^^^^^^^^^^
        
 
-Team Members
-~~~~~~~~~~~~
+Alumni
+~~~~~~
+
+
 
 For members who work for HELPS project, please refer to:
 [CAM2-TEAM](https://www.cam2project.net/team/)
