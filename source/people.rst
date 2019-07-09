@@ -1,8 +1,11 @@
-People
--------
+People 
+------
+
+2019 Summer
+
 
 Faculty
-~~~~~~~~~~~~
+~~~~~~~
 
 .. list-table::
    :widths: 10 20 10 20
@@ -81,8 +84,38 @@ Graduate Students
    * - .. image:: https://drive.google.com/uc?id=1kIYIrkXnICIb2odq5WWGlsdCYv4fTpVU
      - Ryan Dailey: Master Student, Discover Network Cameras
 
-Undergraduate Students
-^^^^^^^^^^^^^^^^^^^^^^
+Undergraduate Students and Teams
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Image Database
+##############
+
+This team integrates computer vision and database. After the objects in images
+are detected, the information is stored in a database so that it is searchable.
+
+Key Technologies:
+
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1RWw0U_QwKhY8ZioiPdDmlN2_VEros3Zt
+     - `Shunqiao Huang`
+       
+       Leader
+     - 
+     - `Hojoung	Jang`
+
+   * -
+     - `Akshay Pawar`
+     -
+     - `Aditya Chakraborty`
+
+   * -
+     - `Lucas Wiles`
+     -
+     -
+   
        
 
 Alumni
