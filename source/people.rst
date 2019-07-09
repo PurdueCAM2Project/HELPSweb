@@ -90,11 +90,9 @@ Undergraduate Students and Teams
 Image Database
 ##############
 
-This team integrates computer vision and database. After the objects in images
-are detected, the information is stored in a database so that it is searchable.
-
-Key Technologies:
-
+Integrate computer vision and database. After the objects in images
+are detected, the information is stored in a database so that it is
+searchable.
 
 .. list-table::
    :widths: 10 20 10 20
@@ -116,8 +114,112 @@ Key Technologies:
      -
      -
    
-       
 
+Dataset Distinctiveness
+#######################
+
+Identify the specific features (called distinctiveness) of
+different visual dataset. Use one dataset with many labels to help
+train machine models for another datasets with few labels.
+
+
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
+
+     - `Ashley Kim`
+       
+       Leader
+     - 
+     - `Damini	Rijhwani`
+
+   * - .. image:: https://drive.google.com/uc?id=1Qu7L33SNwQtBw8Qx-4s-Fm9oIUq9v7G-
+     - `Kirthi Shankar	Sivamani`
+     -
+     - `Esteban Gorostiaga`
+
+   * -
+     - `Shuhao 	Xing`
+     -
+     -
+   
+Crowdsourcing for Data Bias
+###########################
+
+Use crowd (i.e., humans) to identify unintentional biases in visual
+datasets.
+
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1BgdG9XYcrmdMtdSbePpp324jwdnwl_7p
+     - `Xiao Hu`
+       
+       Co-Leader
+     -  .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
+     - `Haobo Wang`
+
+       Co-Leader
+
+   * - .. image:: https://drive.google.com/uc?id=1GSO6wVspOBuu881yg-5Bg2E5xEA1gSMJ
+     - `Kaiwen Yu`
+     - .. image:: https://drive.google.com/uc?id=1u5dbejyw-62y5x6UPKEtPo3DFd4AtYCc
+     - `Anirudh Vegesana`
+
+   * -
+     - `Somesh	Dube`
+     -
+     -
+     
+
+Forest Inventory
+################
+
+Use computer vision to calculate the sizes of trees
+(called diameter at breath height, or DBH).
+
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1GeeVgSnl4Fwf-rlIFlG5LuSohcMMIpTi
+     - `Nick Eliopoulos`
+     - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
+     - `Yezhi Shen`
+
+   * -
+     - `Yuxin Zhang`
+     -
+     - `Vaastav Arora`
+
+   * -
+     - `Minh Nguyen`
+     -
+     -
+
+Human Behavior
+##############
+
+Track human activities and understand how they use designed space.
+
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=14FxQ_dr9836vXFBx1YknDQ0rn-QVZHWy
+     - `Mohamad Alani`
+     - .. image:: https://drive.google.com/uc?id=1bZxvHiZ-H7ACq55FpJQqbJgj8NZjZlcb
+     - `Peter Huang`
+
+   * -
+     - `Dhruv Swarup`
+     -
+     - `Chau Minh Nguyen`
+   
+     
 Alumni
 ~~~~~~
 
