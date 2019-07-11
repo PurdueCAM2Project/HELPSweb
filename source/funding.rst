@@ -7,10 +7,17 @@ Sponsors and Collaborators
    projects are those of the investigators and do not necessarily
    reflect the views of the sponsors.
 
-
+Sponsors
+~~~~~~~~
 
 National Science Foundation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+|sponsornsf|
+
+
+.. |sponsornsf| image:: https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png
+   :width: 20 %
 
 
 .. list-table::
@@ -20,44 +27,113 @@ National Science Foundation
      - Duration
      - Amount
 
+   * - `OAC-1747694
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1747694>`__
+       Summit of Software Infrastructure for Managing and Processing Big Multimedia Data at the Internet Scale
+     - 2017/12-2018/11
+     - $15,000
+
+
+   * - `OAC-1535108
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1535108>`__
+       SI2-SSE: Analyze Visual Data from Worldwide Network Cameras
+     - 2015/08-2020/07
+     - $599,987
+       
+   * - `IIP-1530914
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1530914>`__
+       I-Corps: Business Analytics for Large Scale Intelligence
+     - 2015/04-2015/09
+     - $50,000
+       
    * - `OISE-1427808
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1427808>`__
        US-Singapore Workshop: Collaborative Research: Understand the World by Analyzing Many Video Streams
      - 2014/12-2015/11
      - $17,985
 
+   * - `IIP-1266318
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1266318>`__
+       Planning Grant: I/UCRC for Net-Centric Software and Systems Center Research Center
+     - 2013/04-2015/03
+     - $24,619
+
+   * - `CNS-0958487
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0958487>`__
+       CI-ADDO-NEW: Collaborative Research: Development of DARwIn Humanoid Robots for Research, Education and Outreach
+     - 2010/13-2016/02
+     - $432,000
+
+   * - `CNS-0721873
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0721873>`__
+       NeTS-NOSS: AIDA: Autonomous Information Dissemination in RAndomly Deployed Sensor Networks
+     - 2007/08-2011/07
+     - $612,000
+
+   * - `CNS-0716271
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0716271>`__
+       CT-ISG: Compiler-Enabled Adaptive Security Monitoring on Networked Embedded Systems
+     - 2007/07-2012/06
+     - $400,000
+
+   * - `CCF-0541267
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0541267>`__
+       CPA: Cross-Layer Energy Management by Architectures, Operating Systems, and Application Programs
+     - 2006/04-2010/03
+     - $281,000
+       
+   * - `CNS-0509394
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0509394>`__
+       CSR-EHS: Resource-Efficient Monitoring, Diagnosis, and Programming Support for Reliable Networked Embedded Systems
+     - 2005/07-2010/06
+     - $492,000
+       
    * - `CNS-0347466
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0347466>`__
        CAREER: A Unified Approach for Energy Management by Operating Systems
      - 2004/06-2010/05
      - $431,775
 
-- CNS-0958487, $432,000, 2/23/2010-3/10/2015, *CI-ADDO-NEW: Collaborative Research: Development of DARwIn Humanoid Robots for Research, Education and Outreach*
-- CNS-0855098
-- CNS-0716271
-- CNS-0751101
-- CNS-0722212
-- CNS-0721873
-- CNS-0509394
-- CCF-0541267
-- IIS-0329061
-- CNS-0347466
-       
-
+   * - `IIS-0329061
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0329061>`__
+       Distributed Energy-Efficient Mobile Robots
+     - 2003/08-2008/07
+     - $429,199
        
        
-Intel
-~~~~~
 
-Facebook
-~~~~~~~~
+|sponsorgoogle| |sponsorfacebook| |sponsorhp| |sponsorintel|	   
 
-Google
-~~~~~~
+|sponsoramazon| |sponsormicrosoft|
+
+.. |sponsorgoogle| image:: https://cdn.vox-cdn.com/thumbor/Pkmq1nm3skO0-j693JTMd7RL0Zk=/0x0:2012x1341/1200x800/filters:focal(0x0:2012x1341)/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg
+   :width: 20 %
+
+.. |sponsorfacebook| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png
+   :width: 15 %			     
+
+.. |sponsorhp| image:: https://1000logos.net/wp-content/uploads/2017/02/HP-Logo.png
+   :width: 15 %
+
+.. |sponsorintel| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Intel-logo.svg/1280px-Intel-logo.svg.png
+   :width: 15 %			     
+
+.. |sponsoramazon| image:: https://pmcvariety.files.wordpress.com/2018/01/amazon-logo.jpg?w=1000
+   :width: 15 %			     	   
+
+.. |sponsormicrosoft| image:: http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74
+   :width: 20 %			     	   
+
+	   
+Equipment, Credit, and Donation
+-------------------------------
+
+Intel, Amazon, Microsoft, Yahoo
 
 
-HP
-~~
+Collaborators
+~~~~~~~~~~~~~
+
 
 
 

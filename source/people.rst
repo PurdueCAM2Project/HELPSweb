@@ -1,5 +1,5 @@
-People 
-------
+People and Topics
+-----------------
 
 2019 Summer
 
@@ -222,6 +222,32 @@ Track human activities and understand how they use designed space.
      
 Alumni
 ~~~~~~
+
+Video by Current and Former Members
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+  .. raw:: html
+
+    <iframe width="600" height = "400" src="http://www.youtube.com/embed/7Ao2zCYV9I8" frameborder="0" allowfullscreen></iframe>
+
+
+  .. raw:: html
+
+    <iframe width="600" height = "400" src="http://www.youtube.com/embed/1LGjSqQ953A" frameborder="0" allowfullscreen></iframe>
+
+
+  .. raw:: html
+
+    <iframe width="600" height = "400" src="http://www.youtube.com/embed/aNuXCCibCRU" frameborder="0" allowfullscreen></iframe>
+
+
+  .. raw:: html
+
+    <iframe width="600" height = "400" src="http://www.youtube.com/embed/oPeKHUHpU2c" frameborder="0" allowfullscreen></iframe>
+
+	   
+    
 
 
 
