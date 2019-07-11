@@ -168,6 +168,12 @@ following requirements:
   is to discover new things. Thus, you must explain what you have
   discovered by speaking and writing.
 
+
+  .. raw:: html
+
+    <iframe width="600" height = "400" src="http://www.youtube.com/embed/JGWHvYs4mQQ" frameborder="0" allowfullscreen></iframe>
+
+
 Frequently Asked Questions
 --------------------------
   
@@ -556,7 +562,12 @@ answer and say meaningless things. After admitting not knowing the
 answer, an interviewee can try to answer the question through
 reasoning. “I don’t know the answer but I think it should be … because
 …” The “because” part is very important.
-	
+
+
+  .. raw:: html
+
+    <iframe width="600" height = "400" src="http://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
+
 
 Sample Interview Questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
