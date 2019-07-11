@@ -22,7 +22,6 @@ The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE D
    people
    publications
    audio-video
-   research-advice
    topics
    letters
    progress
