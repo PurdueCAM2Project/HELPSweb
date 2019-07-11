@@ -143,7 +143,15 @@ Collaborators
 Sponsors of IEEE Low-Power Image Recognition Challenge
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+|lpirc2019|
 
+
+.. |lpirc2019| image:: https://rebootingcomputing.ieee.org/images/files/images/lpirc/2019/IMG_9524.jpg
+   :width: 60 %
+
+The IEEE Low-Power Image Recognition Challenge aims to identify the
+best vision solutions that can simultaneously achieve high accuracy in
+computer vision and energy efficiency. 
 
 |sponsorrc| |sponsorfacebook| |sponsorgoogle|  |sponsorxilinx| |sponsormediatek| |sponsorcass| |sponsorSICT|
 |sponsorCEDA| |sponsorNvidia| |sponsorCSC| 
