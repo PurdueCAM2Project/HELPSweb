@@ -22,84 +22,71 @@ Sponsors
 
 
 .. list-table::
-   :widths: 30 12 8
+   :widths: 38 12 
 
    * - Title
      - Duration
-     - Amount
 
    * - `OAC-1747694
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1747694>`__
        Summit of Software Infrastructure for Managing and Processing Big Multimedia Data at the Internet Scale
      - 2017/12-2018/11
-     - $15,000
 
 
    * - `OAC-1535108
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1535108>`__
        SI2-SSE: Analyze Visual Data from Worldwide Network Cameras
      - 2015/08-2020/07
-     - $599,987
        
    * - `IIP-1530914
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1530914>`__
        I-Corps: Business Analytics for Large Scale Intelligence
      - 2015/04-2015/09
-     - $50,000
        
    * - `OISE-1427808
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1427808>`__
        US-Singapore Workshop: Collaborative Research: Understand the World by Analyzing Many Video Streams
      - 2014/12-2015/11
-     - $17,985
 
    * - `IIP-1266318
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1266318>`__
        Planning Grant: I/UCRC for Net-Centric Software and Systems Center Research Center
      - 2013/04-2015/03
-     - $24,619
 
    * - `CNS-0958487
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0958487>`__
        CI-ADDO-NEW: Collaborative Research: Development of DARwIn Humanoid Robots for Research, Education and Outreach
      - 2010/13-2016/02
-     - $432,000
 
    * - `CNS-0721873
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0721873>`__
        NeTS-NOSS: AIDA: Autonomous Information Dissemination in RAndomly Deployed Sensor Networks
      - 2007/08-2011/07
-     - $612,000
 
    * - `CNS-0716271
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0716271>`__
        CT-ISG: Compiler-Enabled Adaptive Security Monitoring on Networked Embedded Systems
      - 2007/07-2012/06
-     - $400,000
 
    * - `CCF-0541267
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0541267>`__
        CPA: Cross-Layer Energy Management by Architectures, Operating Systems, and Application Programs
      - 2006/04-2010/03
-     - $281,000
        
    * - `CNS-0509394
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0509394>`__
        CSR-EHS: Resource-Efficient Monitoring, Diagnosis, and Programming Support for Reliable Networked Embedded Systems
      - 2005/07-2010/06
-     - $492,000
        
    * - `CNS-0347466
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0347466>`__
        CAREER: A Unified Approach for Energy Management by Operating Systems
      - 2004/06-2010/05
-     - $431,775
 
    * - `IIS-0329061
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=0329061>`__
        Distributed Energy-Efficient Mobile Robots
      - 2003/08-2008/07
-     - $429,199
        
        
 
