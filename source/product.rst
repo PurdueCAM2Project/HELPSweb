@@ -5,23 +5,6 @@ Publications
 ------------
 
 
-Technical Reports
-~~~~~~~~~~~~~~~~~
-
-.. list-table::
-   :widths: 30 10
-
-   * - Jibang Liu, Yung-Hsiang Lu, and Cheng-Kok Koh, **Performance Analysis of Arithmetic Operations in Homomorphic Encryption**, TR-ECE-404, School of Electrical and Computer Engineering, Purdue University, December 2010.
-     - `Digital Library <https://docs.lib.purdue.edu/ecetr/404/>`__
-
-   * - Vinaitheerthan Sundaram, Jae-Woo Lee, Saurabh Bagchi, Yung-Hsiang Lu, and Zhiyuan Li, **SeNDORComm: An Energy-Efficient Priority-Driven Communication Layer for Reliable Wireless Sensor Networks**, TR-ECE-365, Purdue University, December 2007.
-     - N/A
-
-   * - Nathaniel Pettis and Yung-Hsiang Lu, **Implementation Guides for a Homogeneous Architecture for Power Policy Integration in Operating Systems**, TR ECE-351, School of Electrical and Computer Engineering, Purdue University, March 2007.
-     - `Digital Library <https://docs.lib.purdue.edu/ecetr/351/>`__
-
-
-
 Journal Papers
 ~~~~~~~~~~~~~~~
 
@@ -521,6 +504,24 @@ Engineering Education
      - `[PDF] <https://drive.google.com/open?id=1k2I-mObwoXgRgMWs8A8rmui9ShdNl5dSo>`__
 
 
+Technical Reports
+~~~~~~~~~~~~~~~~~
+
+.. list-table::
+   :widths: 30 10
+
+   * - Jibang Liu, Yung-Hsiang Lu, and Cheng-Kok Koh, **Performance Analysis of Arithmetic Operations in Homomorphic Encryption**, TR-ECE-404, School of Electrical and Computer Engineering, Purdue University, December 2010.
+     - `Digital Library <https://docs.lib.purdue.edu/ecetr/404/>`__
+
+   * - Vinaitheerthan Sundaram, Jae-Woo Lee, Saurabh Bagchi, Yung-Hsiang Lu, and Zhiyuan Li, **SeNDORComm: An Energy-Efficient Priority-Driven Communication Layer for Reliable Wireless Sensor Networks**, TR-ECE-365, Purdue University, December 2007.
+     - N/A
+
+   * - Nathaniel Pettis and Yung-Hsiang Lu, **Implementation Guides for a Homogeneous Architecture for Power Policy Integration in Operating Systems**, TR ECE-351, School of Electrical and Computer Engineering, Purdue University, March 2007.
+     - `Digital Library <https://docs.lib.purdue.edu/ecetr/351/>`__
+
+
+
+       
 Book Chapters
 ~~~~~~~~~~~~~
 
@@ -536,3 +537,25 @@ Book Chapters
    * - Yuldi Tirta, Bennett Lau, Nipoon Malhotra, Saurabh Bagchi, Zhiyuan Li, and Yung-Hsiang Lu, **Controlled Mobility for Efficient Data Gathering in Sensor Networks with Passively Mobile Nodes**, Section 3.2, pages 92-113, in Sensor Network Operations, Editors: Shashi Phoha, Thomas La Porta, and Christopher Griffin. Wiley-IEEE Press, 2006, ISBN 0-471-71976-5.
      - N/A
 
+Software
+--------
+
+Technology Spinoff
+------------------
+
+`Perceive <https://perceiveinc.com/>`__ is a technology company started by three Purdue students (Kyle McNulty, Everett Berry, and Andrew Blejde) and Dr. Yung-Hsiang Lu in 2015. The company uses video analytics to understand human interactions in physical stores and improve customer service.  Dr. Lu served as the scientific adviser and a member in the board between 2016/06-2019/05.
+
+Brief History of Perceive
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- 2014/05 `Second Prize in Schurz Innovation Challenge <https://www.schurz.com/2014/05/purdue-university-innovation-prize-winners-announced/>`__
+
+- 2015/04 `NSF I-Corps Team for Business Analytics <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1530914>`__
+
+- 2015/10 Perceive Inc.
+
+- 2016/07 `NSF SBIR-1 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1622082>`__
+
+- 2017/09 `NSF SBIR-2 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738492>`__
+
+- 2018/12 `Purdue Black Award <https://www.purdue.edu/newsroom/releases/2018/Q4/seven-purdue-affiliated-startups-receive-investments-totaling-200,000-from-elevate-purdue-foundry-fund.html>`__  
