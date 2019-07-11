@@ -1,7 +1,7 @@
 Sponsors and Collaborators
 --------------------------
 
-.. warning::
+.. note::
 
    Any opinions, findings, and conclusions or recommendations in the
    projects are those of the investigators and do not necessarily
