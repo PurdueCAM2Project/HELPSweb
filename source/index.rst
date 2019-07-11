@@ -13,6 +13,8 @@ The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE D
 
 |helps0| |helps3| 
 
+|helps4| |helps5|
+
 .. toctree::
    :hidden:
    :maxdepth: 2
@@ -39,3 +41,11 @@ The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE D
 
 .. |helps3| image:: https://engineering.purdue.edu/HELPS/Images/2019DaminiVint.png
    :width: 45 %
+
+.. |helps4| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/hackathon1.jpg
+   :width: 38 %
+
+.. |helps5| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2vip.jpg
+   :width: 52 %
+      
+	   
