@@ -545,8 +545,8 @@ Technology Spinoff
 
 `Perceive <https://perceiveinc.com/>`__ is a technology company started by three Purdue students (Kyle McNulty, Everett Berry, and Andrew Blejde) and Dr. Yung-Hsiang Lu in 2015. The company uses video analytics to understand human interactions in physical stores and improve customer service.  Dr. Lu served as the scientific adviser and a member in the board between 2016/06-2019/05.
 
-Brief History of Perceive
-^^^^^^^^^^^^^^^^^^^^^^^^^
+**Brief History of Perceive**
+
 
 - 2014/05 `Second Prize in Schurz Innovation Challenge <https://www.schurz.com/2014/05/purdue-university-innovation-prize-winners-announced/>`__
 
