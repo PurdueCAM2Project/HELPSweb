@@ -171,7 +171,7 @@ following requirements:
 
   .. raw:: html
 
-    <iframe width="600" height = "400" src="http://www.youtube.com/embed/JGWHvYs4mQQ" frameborder="0" allowfullscreen></iframe>
+    <iframe width="600" height = "400" src="https://www.youtube.com/embed/JGWHvYs4mQQ" frameborder="0" allowfullscreen></iframe>
 
 
 Frequently Asked Questions
@@ -566,7 +566,7 @@ reasoning. “I don’t know the answer but I think it should be … because
 
   .. raw:: html
 
-    <iframe width="600" height = "400" src="http://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
+    <iframe width="600" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
 
 
 Sample Interview Questions
