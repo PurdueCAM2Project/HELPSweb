@@ -23,8 +23,8 @@ The High-Efficiency, Low-Power System Group/HELPS Laboratory in the Purdue ECE D
    product
    currentmember
    professionalism
-   helps-systems
    funding
+   labmachine
 
 
 

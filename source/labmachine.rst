@@ -1,5 +1,5 @@
-HELPS Lab and Systems
-------------------------
+Lab Machines
+============
 
 .. https://engineering.purdue.edu/HELPS/Management/lab.html
 
