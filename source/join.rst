@@ -1,8 +1,8 @@
 Join the Team
 ========================================
 
-The goal of this research team is to *create leaders*!
----------------------------------------------------------
+The goal of this research team is to create leaders.
+----------------------------------------------------
 
 We recommend reading this page fully before submitting the `application form <https://forms.gle/Q27KTbahpGbHMEGq8>`__.
 However, if you have already spoken with members of the research team, it is ok to proceed directly to the form.
