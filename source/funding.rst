@@ -10,8 +10,9 @@ Sponsors and Collaborators
 Sponsors
 ~~~~~~~~
 
-National Science Foundation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(Cash, Equipment, Cloud Credit, Software, Technical Support)
+
+**National Science Foundation**
 
 |sponsornsf|
 
@@ -102,14 +103,12 @@ National Science Foundation
        
        
 
-|sponsorgoogle| |sponsorfacebook| |sponsorhp| |sponsorintel|	   
-
-|sponsoramazon| |sponsormicrosoft|
+|sponsorgoogle| |sponsorfacebook| |sponsorhp| |sponsorintel| |sponsoramazon| |sponsormicrosoft|
 
 .. |sponsorgoogle| image:: https://cdn.vox-cdn.com/thumbor/Pkmq1nm3skO0-j693JTMd7RL0Zk=/0x0:2012x1341/1200x800/filters:focal(0x0:2012x1341)/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg
-   :width: 20 %
+   :width: 15 %
 
-.. |sponsorfacebook| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/1024px-F_icon.svg.png
+.. |sponsorfacebook| image:: https://rebootingcomputing.ieee.org/images/files/images/facebook.jpg
    :width: 15 %			     
 
 .. |sponsorhp| image:: https://1000logos.net/wp-content/uploads/2017/02/HP-Logo.png
@@ -124,17 +123,64 @@ National Science Foundation
 .. |sponsormicrosoft| image:: http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74
    :width: 20 %			     	   
 
-	   
-Equipment, Credit, and Donation
--------------------------------
-
-Intel, Amazon, Microsoft, Yahoo
 
 
 Collaborators
 ~~~~~~~~~~~~~
 
+|collaboratorluc| |collaboratorfiu| |collaboratorduke| |collaboratorunc| |collaboratoranl| |collaboratornus| |collaboratorstanford| 
+
+
+.. |collaboratorluc| image:: https://www.luc.edu/media/lucedu/universitymarketingcommunication/horizontal-3color.jpg
+   :width: 15 %			     	   
+
+.. |collaboratorfiu| image:: https://canvas.fiu.edu/_assets/images/fiu-logo.png
+   :width: 15 %			     	   
+
+.. |collaboratorunc| image:: https://www.cs.unc.edu/xcms/wpfiles/resources/UNC_logo_542_gif.gif
+   :width: 20 %			     	   
+	   
+.. |collaboratorduke| image:: https://rebootingcomputing.ieee.org/images/files/images/duke-university.jpg
+   :width: 15 %			     	   
+
+.. |collaboratoranl| image:: http://chainreaction.anl.gov/wp-content/themes/innovation/imgs/logos/anl-logo.png
+   :width: 20 %			     	   
+
+.. |collaboratornus| image:: http://nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png
+   :width: 15 %			     	   			      
+
+.. |collaboratorstanford| image:: https://1000logos.net/wp-content/uploads/2018/02/Stanford-Logo.png
+   :width: 20 %			     	   			      
+
+
+Sponsors of IEEE Low-Power Image Recognition Challenge
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
+|sponsorrc| |sponsorfacebook| |sponsorgoogle|  |sponsorxilinx| |sponsormediatek| |sponsorcass| |sponsorSICT|
+|sponsorCEDA| |sponsorNvidia| |sponsorCSC| 
 
+.. |sponsorrc| image:: https://rebootingcomputing.ieee.org/images/files/images/ieee-rebooting-computing.png
+   :width: 15 %
+
+.. |sponsorcass| image:: https://rebootingcomputing.ieee.org/images/files/images/ieee-circuits-and-systems-society.jpg
+   :width: 15 %
+
+.. |sponsorxilinx| image:: https://rebootingcomputing.ieee.org/images/files/images/xilinx.jpg
+   :width: 15 %
+	   
+.. |sponsormediatek| image:: https://rebootingcomputing.ieee.org/images/files/images/mediatek.png
+   :width: 15 %
+
+.. |sponsorSICT| image:: https://rebootingcomputing.ieee.org/images/files/images/ieee-sustainable-ict.png
+   :width: 20 %
+
+.. |sponsorCEDA| image:: http://sites.ieee.org/indiacouncil/files/2017/06/CEDA_Logo_large_R.jpg
+   :width: 15 %
+	   
+.. |sponsorNvidia| image:: https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png
+   :width: 15 %
+
+.. |sponsorCSC| image:: https://ieeecsc.org/sites/ieeecsc/files/csc-logo_web.png
+   :width: 20 %
