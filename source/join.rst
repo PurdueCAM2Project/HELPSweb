@@ -387,7 +387,7 @@ interviews is to help applicants and current members **evaluate
 whether the applicants are ready to contribute.**
 
 What is an interview?
----------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 An interview is a two-way communication: An organization wants to
 determine whether an applicant should join the organization.
@@ -408,7 +408,7 @@ encouraged to study these questions in advance.  You need to prepare
 for the interview.
 
 Differences between Students and Researchers
---------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Before an interview, please make sure you understand the differences
 between students and researchers.  A student with high GPA is not
@@ -478,7 +478,7 @@ classroom. The following table summarizes the main differences between
 +------------------------------------------------------------+--------------------------------------------------------+
 
 Video Advice about Doing Research
----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Here is a collection about my advice about doing research. You are
 welcome to share the information with anyone. Many parts are personal
@@ -523,7 +523,7 @@ program I purchased. I appreciate your understanding.
 
 
 Interview is not an oral exam
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Many students think interviews are oral exams: interviewers ask
@@ -1018,7 +1018,7 @@ this mean?
   
 
 Machine Learning
-----------------
+~~~~~~~~~~~~~~~~
  
 
 Briefly explain deep learning. Why is it called “deep”?
