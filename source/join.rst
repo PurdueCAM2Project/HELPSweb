@@ -243,7 +243,7 @@ Frequently Asked Questions
 - A: We welcome everyone that wants to solve research problems.  
 
 About Financial Support
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 Most students do not know how universities operate in terms of
 finance. As a result, they think professors magically have unlimited
@@ -296,7 +296,7 @@ following facts:
   proposals have to be carried out, not because professors are "nice".
 
 Common Mistakes by Students
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Some students think "doing research" means disappearing for five
   years and coming back with world-changing discovery or invention.
@@ -312,7 +312,7 @@ Common Mistakes by Students
   transferred to the students' bank accounts the next day.
 
 How to Get Financial Support from Dr. Lu?
------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Understand that Dr. Lu has no obligation giving you financial support. You have to earn it.
   
@@ -916,7 +916,7 @@ What would happen when `f()` is called?
  
 
 Object-Oriented Programming (independent of language)
------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 
 What is encapsulation? Why is it important?
@@ -937,7 +937,7 @@ What are the main differences between a class and a structure in C
  
 
 Networking
-----------
+~~~~~~~~~~
 
  
 
@@ -967,7 +967,8 @@ carries 100,000 of hard disks cruising at 36 km/h?
 
 
 C++ 
----
+~~~
+
  
 
 Explain the purpose of virtual.
@@ -993,7 +994,7 @@ programs.
  
 
 Java
-----
+~~~~
 
  
 
