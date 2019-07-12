@@ -341,7 +341,7 @@ How to Get Financial Support from Dr. Lu?
   
   
 Interviews
-~~~~~~~~~~
+----------
 
 This research requires that every applicant be interviewed by two or
 three current members. Why?  Any organization exists for a
@@ -567,7 +567,7 @@ reasoning. “I don’t know the answer but I think it should be … because
 
 
 Sample Interview Questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 .. warning::
 
@@ -575,7 +575,7 @@ Sample Interview Questions
 
 
 Teamwork
---------
+~~~~~~~~
 
 .. warning::
 
@@ -662,7 +662,7 @@ prevent this from happening?
  
 
 Past Project Experience
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
  
 
@@ -687,7 +687,7 @@ what differences would you make?
  
 
 Logic Thinking
---------------
+~~~~~~~~~~~~~~
 
  
 
@@ -724,7 +724,7 @@ answer.
  
 
 Algorithms and Discrete Mathematics
------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  
 
@@ -777,7 +777,7 @@ Why is quicksort quick?
  
 
 Data structures
----------------
+~~~~~~~~~~~~~~~
 
 
 It is expected that every student in his group has the programming
@@ -847,7 +847,7 @@ operations would be more difficult? Why?
  
 
 Programming (independent of language)
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  
 
@@ -889,7 +889,7 @@ Explain how you debug programs.
  
 
 C Programming
--------------
+~~~~~~~~~~~~~
 
  
 .. code-block:: c

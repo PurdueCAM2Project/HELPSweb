@@ -1,7 +1,22 @@
 People and Topics
 -----------------
 
-2019 Summer
+2019 Fall Schedule
+~~~~~~~~~~~~~~~~~~
+
+All meetings are held in EE 013.
+
+=========== ========== ============== ==================== ==============
+Time        Monday     Tuesday        Wednesday            Friday
+=========== ========== ============== ==================== ==============
+11:00-12:00 Forest                    Software Engineering Image Database
+12:30-13:30            Human Behavior
+13:30-14:30 Drone                     Crowdsourcing        Embedded 2
+14:30-15:30 Embedded 1
+15:30-16:30 Leaders
+=========== ========== ============== ==================== ==============
+
+
 
 
 Faculty
@@ -84,8 +99,8 @@ Graduate Students
    * - .. image:: https://drive.google.com/uc?id=1kIYIrkXnICIb2odq5WWGlsdCYv4fTpVU
      - Ryan Dailey: Master Student, Discover Network Cameras
 
-Undergraduate Students and Teams
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Undergraduate Students and 2019 Summer Teams
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Image Database
 ##############
