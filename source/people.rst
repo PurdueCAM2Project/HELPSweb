@@ -251,12 +251,6 @@ Video by Current and Former Members
 
     <iframe width="600" height = "400" src="https://www.youtube.com/embed/1LGjSqQ953A" frameborder="0" allowfullscreen></iframe>
 
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/aNuXCCibCRU" frameborder="0" allowfullscreen></iframe>
-
-
   .. raw:: html
 
     <iframe width="600" height = "400" src="https://www.youtube.com/embed/oPeKHUHpU2c" frameborder="0" allowfullscreen></iframe>
@@ -264,7 +258,3 @@ Video by Current and Former Members
 	   
     
 
-
-
-For members who work for HELPS project, please refer to:
-[CAM2-TEAM](https://www.cam2project.net/team/)
