@@ -27,6 +27,11 @@ Sponsors
    * - Title
      - Duration
 
+   * - `CNS-1925713
+       <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`__
+       CCRI: Planning: Collaborative Research: Planning to Develop a Low-Power Computer Vision Platform to Enhance Research in Computing Systems
+     - 2019/10/01-2020/09/30
+       
    * - `OAC-1747694
        <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1747694>`__
        Summit of Software Infrastructure for Managing and Processing Big Multimedia Data at the Internet Scale

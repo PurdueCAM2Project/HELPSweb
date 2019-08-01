@@ -2,14 +2,21 @@ For Current Members
 ===================
 
 Choosing Research Topics
------------------------------
+------------------------
 
 A common problem among many students (in fact, most people) is that they cannot decide. Many people hesitate to choose because they are afraid of choosing something wrong and then regret later. Some studies suggest that people feel less happy when they have more options. In some retail experiments, customers leave without buying anything if too many items are on sale. 
 
 When students join research teams, they may face the options of choosing topics. Here are some common misunderstanding about choosing research topics:
 
-- Students decide research topics. 
-- If a student chooses a topic, the student cannot change the topic for the next forty years. 
+- Students decide research topics. Some students think research means
+  disappearing from civilization for several years, coming out "crazy
+  ideas", and completely changing the world after they reappear giving
+  the final oral presentations.
+  
+- If a student chooses a topic, the student cannot change the topic
+  for the next forty years. Once in a while, a person makes a major
+  breakthrough in science gives a speech about the processs to the
+  success, saying, "I have been solving this problem for forty years."
 
 The most important factor of deciding research topics is the needs of the research teams, not a student's preference. A research team is often similar to a baseball team. If the team needs a left field now, you have to fill that position, or you are out of the team. The research topics are decided by professors according to multiple factors, for example, the existing expertise of the teams, the projection of the teams' future needs, etc. It is rare that a professor allows a student to choose a topic without any boundary. Sometimes news reports major breakthroughs in science or technologies and says the people have been working on solving the same problems for decades. What is covered in news is rare; common situations are not covered in news. In other words, most researchers change topics over their careers. 
 

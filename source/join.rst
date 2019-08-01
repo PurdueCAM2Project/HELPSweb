@@ -343,6 +343,19 @@ How to Get Financial Support from Dr. Lu?
 Interviews
 ----------
 
+.. note::
+
+   If you are not ready for an interview or you do not perform well in an interview, that's all right. Come back later.
+
+.. warning::
+
+   Do you like sports? Are you ready to join a professional team that
+   compete internationally? This research team solves problems whose
+   answers are not known to anyone in the world. We compete
+   internationally.  We produce open-source software and data. We
+   publish papers in top venues.
+
+
 This research requires that every applicant be interviewed by two or
 three current members. Why?  Any organization exists for a
 purpose. The organization can succeed if the members can work together

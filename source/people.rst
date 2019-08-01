@@ -16,7 +16,59 @@ Time        Monday     Tuesday        Wednesday            Friday
 15:30-16:30 Leaders
 =========== ========== ============== ==================== ==============
 
+Topics
+~~~~~~
 
+Forest Inventory Analysis
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Use computer vision to calculate the sizes of trees (called diameter
+at breath height, or DBH).
+
+The following images show the result from a distance sensor and the tree image (before and after denoising).
+
+|forest03| |forest04| |forest05|
+
+.. |forest03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/distanceimage01.png
+   :width: 59%
+
+	   
+.. |forest04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/treeimage02.png
+   :width: 18%
+
+	   
+.. |forest05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/treeimage01.png
+   :width: 18%
+
+The following images show how the team measures the diameter at breath height.
+
+|forest00| |forest01| |forest02|
+
+
+.. |forest00| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree01.jpeg
+   :width: 35%
+
+.. |forest01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree02.jpeg
+   :width: 20%
+
+.. |forest02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree03.jpeg
+   :width: 35%
+
+	   
+
+Image Database
+^^^^^^^^^^^^^^
+
+Integrate computer vision and database. After the objects in images
+are detected, the information is stored in a database so that it is
+searchable.
+
+
+Embedded Vision 1
+^^^^^^^^^^^^^^^^^
+
+Embedded Vision 2
+^^^^^^^^^^^^^^^^^
 
 
 Faculty
@@ -81,8 +133,8 @@ Faculty
        Computer Science, Purdue
 
 
-Members and Topics
-~~~~~~~~~~~~~~~~~~
+Members
+~~~~~~~
 
 Graduate Students
 ^^^^^^^^^^^^^^^^^
@@ -104,10 +156,6 @@ Undergraduate Students and 2019 Summer Teams
 
 Image Database
 ##############
-
-Integrate computer vision and database. After the objects in images
-are detected, the information is stored in a database so that it is
-searchable.
 
 .. list-table::
    :widths: 10 20 10 20
