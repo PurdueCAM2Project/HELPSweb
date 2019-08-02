@@ -23,7 +23,7 @@ Forest Inventory Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Use computer vision to calculate the sizes of trees (called diameter
-at breath height, or DBH).
+at breath height, or DBH), recognize the species of trees, and their locations.
 
 The following images show the result from a distance sensor and the tree image (before and after denoising).
 
@@ -54,7 +54,36 @@ The following images show how the team measures the diameter at breath height.
 .. |forest02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree03.jpeg
    :width: 35%
 
+Analysis Drone Video
+^^^^^^^^^^^^^^^^^^^^
+
+This project creates computer vision solutions recognizing objects
+captured by cameras mounted on drones.
+
+
+Embedded Vision 1
+^^^^^^^^^^^^^^^^^
+
+Crowdsourcing
+^^^^^^^^^^^^^
+
+Computer vision is still not perfect and humans outperform computers in many situations. This team builds computer tools for humans toidentify unexpected properties (called "bias") in data used to train computer programs.
+
+
+|crowdsource03| |crowdsource04| |crowdsource05|
+
+.. |crowdsource03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourcehome.png
+   :width: 30%
+
 	   
+.. |crowdsource04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceintro.gif
+   :width: 30%
+
+	   
+.. |crowdsource05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceposter.jpg
+   :width: 30%
+
+
 
 Image Database
 ^^^^^^^^^^^^^^
@@ -63,9 +92,6 @@ Integrate computer vision and database. After the objects in images
 are detected, the information is stored in a database so that it is
 searchable.
 
-
-Embedded Vision 1
-^^^^^^^^^^^^^^^^^
 
 Embedded Vision 2
 ^^^^^^^^^^^^^^^^^
