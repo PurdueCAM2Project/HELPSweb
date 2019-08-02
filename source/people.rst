@@ -76,7 +76,7 @@ Computer vision is still not perfect and humans outperform computers in many sit
    :width: 30%
 
 	   
-.. |crowdsource04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceintro.gif
+.. |crowdsource04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceteam.jpg
    :width: 30%
 
 	   
