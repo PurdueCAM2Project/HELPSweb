@@ -67,21 +67,33 @@ Embedded Vision 1
 Crowdsourcing
 ^^^^^^^^^^^^^
 
-Computer vision is still not perfect and humans outperform computers in many situations. This team builds computer tools for humans toidentify unexpected properties (called "bias") in data used to train computer programs.
+Computer vision is still not perfect and humans outperform computers
+in many situations. This team builds computer tools (human interfaces)
+for humans to identify unexpected properties (called "bias") in data
+used to train computer programs. These tools are computer games and
+the players (crowds) describe the characteristics in the data.
 
 
-|crowdsource03| |crowdsource04| |crowdsource05|
+|crowdsource03| |crowdsource04|
+
+|crowdsource05| |crowdsource02|
+
+
+
+.. |crowdsource03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceexample.png
+   :width: 45%
+
 
 .. |crowdsource03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourcehome.png
-   :width: 30%
+   :width: 45%
 
 	   
 .. |crowdsource04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceteam.jpg
-   :width: 30%
+   :width: 45%
 
 	   
 .. |crowdsource05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceposter.jpg
-   :width: 30%
+   :width: 45%
 
 
 
