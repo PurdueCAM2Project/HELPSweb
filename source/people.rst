@@ -80,7 +80,7 @@ the players (crowds) describe the characteristics in the data.
 
 
 
-.. |crowdsource03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceexample.png
+.. |crowdsource02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceexample.png
    :width: 45%
 
 
