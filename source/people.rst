@@ -58,7 +58,21 @@ Analysis Drone Video
 ^^^^^^^^^^^^^^^^^^^^
 
 This project creates computer vision solutions recognizing objects
-captured by cameras mounted on drones.
+captured by cameras mounted on drones.  In Fall 2019, the team will
+create a set of video clips for the following purposes:
+
+- Construct three-dimensional geometries of objects: The video clips
+  will capture cardboard boxes of different sizes, together with a
+  wide range of objects and several with known sizes.
+
+- Detect and track multiple moving objects: The clips include moving
+  objects.  The drone itself is also moving. The purpose is to
+  correctly identify these objects and track their movements.
+
+- Segmentation: Create pixel-wise labels of different objects.
+
+- Re-identify people: Determine whether the same person has been
+  before.
 
 
 Embedded Vision 1
@@ -73,10 +87,21 @@ for humans to identify unexpected properties (called "bias") in data
 used to train computer programs. These tools are computer games and
 the players (crowds) describe the characteristics in the data.
 
+Reading for new members:
 
-|crowdsource03| |crowdsource04|
+- `Unbiased look at dataset bias <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.944.9518&rep=rep1&type=pdf>`__
 
-|crowdsource05| |crowdsource02|
+- `Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations <https://arxiv.org/abs/1602.07332>`__
+
+- `VQA: Visual Question Answering <https://arxiv.org/abs/1505.00468>`__
+
+- `Crowdsourcing in Computer Vision (Chapters 1 and 2) <https://drive.google.com/file/d/1vuTRkuU9DLPI4zJvAWqRrYX2R7PlWUtS/view>`__
+
+- `Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification <http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf>`__
+
+|crowdsource03| |crowdsource02|
+
+|crowdsource05| |crowdsource04|
 
 
 
@@ -107,6 +132,26 @@ searchable.
 
 Embedded Vision 2
 ^^^^^^^^^^^^^^^^^
+
+This project investigates computer vision solutions that can perform
+the following tasks in an embedded computer (small enough to be inside
+a typical camera)
+
+- Obtain aggregate information (such as the number of people and their genders)
+
+- Detect faces
+
+- Encrypt the faces before sending the data to storage
+
+Only authorized people with the decryption key can see the faces. The concept is illustrated below.
+
+|embeddedprivacy|
+
+
+
+.. |embeddedprivacy| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/embeddedprivacy.png
+   :width: 90%
+
 
 
 Faculty
