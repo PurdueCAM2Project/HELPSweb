@@ -74,6 +74,9 @@ create a set of video clips for the following purposes:
 - Re-identify people: Determine whether the same person has been
   before.
 
+This project is supported by `NSF CNS-1925713
+<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`__
+
 
 Embedded Vision 1
 ^^^^^^^^^^^^^^^^^
@@ -127,7 +130,19 @@ Image Database
 
 Integrate computer vision and database. After the objects in images
 are detected, the information is stored in a database so that it is
-searchable.
+searchable.  The team has built a prototype of the system processing
+multiple video streams simultaneously. The team will focus on
+improving the performance (scalability) for lower latency as well as
+investigating new storage systems.
+
+Reading for new members:
+
+- `Recent Advances in Convolutional Neural Networks <https://arxiv.org/abs/1512.07108>`__
+
+- `You Only Look Once: Unified, Real-Time Object Detection <https://arxiv.org/abs/1506.02640>`__
+
+- `YOLOv3: An Incremental Improvement <https://arxiv.org/abs/1804.02767>`__
+
 
 
 Embedded Vision 2
