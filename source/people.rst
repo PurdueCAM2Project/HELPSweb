@@ -54,8 +54,8 @@ The following images show how the team measures the diameter at breath height.
 .. |forest02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree03.jpeg
    :width: 35%
 
-Analysis Drone Video
-^^^^^^^^^^^^^^^^^^^^
+Analysis of Drone Video
+^^^^^^^^^^^^^^^^^^^^^^^
 
 This project creates computer vision solutions recognizing objects
 captured by cameras mounted on drones.  In Fall 2019, the team will
@@ -80,6 +80,16 @@ This project is supported by `NSF CNS-1925713
 
 Embedded Vision 1
 ^^^^^^^^^^^^^^^^^
+
+Recent progress in computer vision has focused primarily in
+general-purpose object detection using datasets with many (hundreds)
+categories of objects (such as humans, dogs, vehicles, furniture,
+buildings, etc.).  For many applications, however, the number of
+possible objects can be limited.  For example, inside an airport
+terminal, elephants or eagles are not expected. This project will use
+*computer graphics* to synthesize images and videos of these
+scenarios.  The synthesized data is used to train computer vision
+running on embedded systems.
 
 Crowdsourcing
 ^^^^^^^^^^^^^
