@@ -13,8 +13,13 @@ Time        Monday     Tuesday        Wednesday            Friday
 12:30-13:30            Human Behavior
 13:30-14:30 Drone                     Crowdsourcing        Embedded 2
 14:30-15:30 Embedded 1
-15:30-16:30 Leaders
+15:30-16:30 
+17:30-18:20                           VIP lectures
 =========== ========== ============== ==================== ==============
+
+Due to safety, Purdue disallows changing the regular meeting time. If
+your schedule does not fit into a particular team, you have to move to
+another team.
 
 Topics
 ~~~~~~
