@@ -85,11 +85,15 @@ Recent progress in computer vision has focused primarily in
 general-purpose object detection using datasets with many (hundreds)
 categories of objects (such as humans, dogs, vehicles, furniture,
 buildings, etc.).  For many applications, however, the number of
-possible objects can be limited.  For example, inside an airport
+possible objects can be limited. For example, inside an airport
 terminal, elephants or eagles are not expected. This project will use
-*computer graphics* to synthesize images and videos of these
-scenarios.  The synthesized data is used to train computer vision
-running on embedded systems.
+**computer graphics** to synthesize images and videos of these
+scenarios. The synthesized data is used to train computer vision
+running on embedded systems (also called **edge devices**).  Doing so
+can reduce network traffic and make the system more
+scalable. Moreover, sensitive information (such as human faces) may be
+detected and protected before the data leaves the cameras.
+
 
 Crowdsourcing
 ^^^^^^^^^^^^^
@@ -168,7 +172,9 @@ a typical camera)
 
 - Encrypt the faces before sending the data to storage
 
-Only authorized people with the decryption key can see the faces. The concept is illustrated below.
+The sensitive data (faces) never leaves the camera.  Only authorized
+people with the decryption key can see the faces. The concept is
+illustrated below.
 
 |embeddedprivacy|
 
