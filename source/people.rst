@@ -99,6 +99,17 @@ can reduce network traffic and make the system more
 scalable. Moreover, sensitive information (such as human faces) may be
 detected and protected before the data leaves the cameras.
 
+Analyze Human Behavior in Video
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+Software Engineering for Machine Learning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This project creates a process for developing **reproducible**
+software used in machine learning.
+
 
 Crowdsourcing
 ^^^^^^^^^^^^^
@@ -147,12 +158,12 @@ Reading for new members:
 Image Database
 ^^^^^^^^^^^^^^
 
-Integrate computer vision and database. After the objects in images
-are detected, the information is stored in a database so that it is
-searchable.  The team has built a prototype of the system processing
-multiple video streams simultaneously. The team will focus on
-improving the performance (scalability) for lower latency as well as
-investigating new storage systems.
+This system integrates computer vision and database.  After the
+objects in images are detected, the information is stored in a
+database so that it is searchable.  The team has built a prototype of
+the system processing multiple video streams simultaneously. The team
+will focus on improving the performance (scalability) for lower
+latency as well as investigating new storage systems.
 
 Reading for new members:
 
