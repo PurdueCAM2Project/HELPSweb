@@ -309,6 +309,10 @@ Rogress reports are not homework assignments. The following table compares the d
 +------------------------------------------------------------+--------------------------------------------------------+
 | Often encounter unexpected obstacles and take long time    | Assignments can usually be done within a few days      |
 +------------------------------------------------------------+--------------------------------------------------------+
+| Why? Explain to the team                                   | Why? Professors assign the problems                    |
++------------------------------------------------------------+--------------------------------------------------------+
+| What? Explain to the team                                  | What? Professors assign the problems                   |
++------------------------------------------------------------+--------------------------------------------------------+
 | To inform other members of the progress and difficulty     | To inform the instructor that "I know the answer."     |
 +------------------------------------------------------------+--------------------------------------------------------+
 | A research problem cannot be solved easily                 | Most homework problems can be solved by studying       |
@@ -401,7 +405,10 @@ you can use many other possible solutions, such as making a table,
 using another tool, or simply looking at the data and hand draw the
 figure.
 
-
+Ask yourself often whether you are solving a problem or fixing a
+solution.  If it is the latter, are there other solutions? If there
+are (usually there are), why do you stay with the current solution
+that needs to be fixed? Can you choose another solution?
 
 
 Honesty, Integrity, and Trust
@@ -409,7 +416,32 @@ Honesty, Integrity, and Trust
 
 Honesty, integrity, and trust are the foundation of research. Never lie. Never fake data.
 
-It is understandable that you encounter problems that are harder than expected. It is understandable that your other commitment may prevent you from making enough progress. It is understandable that unexpected things happen. Be honest. If you have not made progress, tell the truth. If something does not work, explain what happens. 
+It is understandable that you encounter problems that are harder than expected. It is understandable that your other commitment may prevent you from making enough progress. It is understandable that unexpected things happen. Be honest. If you have not made progress, tell the truth. If something does not work, explain what happens.
+
+Why? What? Then How?
+~~~~~~~~~~~~~~~~~~~~
+
+Students usually focus exclusively on *how* to solve
+problems. Students usually do not ask *why* nor *what*. When asked
+"Why are you doing this?", many students would say, "I don't know. The
+professor told us to do this." When asked, "What are you doing?  Can
+you describe it?", many students would say, "I am following the
+instructions given by the professor."
+
+When professors teach large classes, it is often necessary giving
+homework assignments with precise requirements so that students
+understand what to do.  As explained earlier, research is very
+different from classroom. Researchers need explain why first so that
+others understand the motivation.  Then, researchers need to explain
+what the problems are and what actions are taken for solving the
+problems. After explaining why and what, then the methods to solve the
+problems can make sense.
+
+
+How to Get Good Grades in Research?
+-----------------------------------
+
+
 
 Common Mistakes
 ~~~~~~~~~~~~~~~~

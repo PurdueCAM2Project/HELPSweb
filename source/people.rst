@@ -17,9 +17,9 @@ Time        Monday     Tuesday        Wednesday            Friday
 17:30-18:20                           VIP lectures
 =========== ========== ============== ==================== ==============
 
-Due to safety, Purdue disallows changing the regular meeting time. If
-your schedule does not fit into a particular team, you have to move to
-another team.
+Due to the large number of team mebers, it is not possible changing
+the regular meeting time. If your schedule does not fit into a
+particular team, you have to move to another team.
 
 Topics
 ~~~~~~
