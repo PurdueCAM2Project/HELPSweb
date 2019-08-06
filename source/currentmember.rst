@@ -265,9 +265,16 @@ can first build the front page with buttons, textboxes, menu...
 *without* building anything else.  Show this front page to potential
 users.  It is possible that nobody likes the user interface and nobody
 will use the program.  It is unnecessary building the rest of the
-program because there is no user.
+program because there is no user. When you build a complex system, you
+need to build a few small parts, "fake" some unbuilt parts so that you
+can test what has already been built. If you do not fake those parts,
+you cannot test what you have built.
 
-
+The concept of "fail fast" forces researchers to think critically what
+is the most important and evaluate whether that is indeed worth
+doing. Make a little progress and then evaluate again. In many cases,
+"great ideas" are not worth pursuing because nobody cares (other than
+writing papers citing each other's work).
 
 
 Why Don't Professors Just Give Prolems to Students?
@@ -278,7 +285,6 @@ assignments in classrooms. This is not ideal because nobody (even
 "professors") can know all the most recent progress.  The ability to
 identify a problem worth solving is an important skill for students to
 learn.  Students need to become thinkers, not only doers.
-
 
 
 
@@ -367,7 +373,7 @@ It is extremely important understanding "why" before asking "how".
 Distinguish "Solving a Problem" from "Fixing a Solution"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Too often, peoplare a confused between "solving a problem" and "fixing
+Too often, people are confused between "solving a problem" and "fixing
 a solution". Here are two examples explaining the differences.
 
 Imagine that you are going to take a vacation and a friend will take
