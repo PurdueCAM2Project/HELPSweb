@@ -593,8 +593,8 @@ people can reproduce your work.
 
 
 
-Leading a Research Team
-------------------------
+How To Become a Team Leader
+---------------------------
 
 *I was writing a chapter of Beautiful Evidence on the subject of the sculptural pedestal, which led to my thinking about what's up on the pedestal - the great leader.* - Edward Tufte
 
@@ -616,16 +616,14 @@ Benefits of Being a Leader
 - If the research project publishes a conference paper, the leader is the first choice to present the paper. 
 - If you need recommendation letters from the advisers, the letters will be much, much, much stronger if you are an excellent leader. 
 
-How to Become a Leader
-~~~~~~~~~~~~~~~~~~~~~~~
 
 - Talk to the advisers, often. The leaders are selected by the advisers. If you do not talk to the advisers, you will not be selected.
 - Talk to team members often and know their skills. 
 - In most cases, new members are not leaders. A leader has to be in the project for at least one semester.
 
 
-Letters of Recommendation
----------------------------
+How to Get Strong Letters of Recommendation
+-------------------------------------------
 
 Helping students succeed is one of the missions of university professors. Dr. Lu writes recommendation letters for graduate schools, awards, jobs, etc. Before you ask Dr. Lu to write a letter for you, please ask yourself these question:
 
@@ -640,17 +638,62 @@ If you answer No to any question, STOP. Don't waste your time. If you took his c
 
 Dr. Lu writes letters for a student only after talking to the student. **If you want a letter from him, you have to talk to him.** If you are not on Purdue campus, please schedule a video call.
 
-Dr. Lu's letters always focus on accomplishments. You need to provide evidence of your accomplishments. "I really enjoy your class" is not an accomplishment and Dr. Lu cannot write a letter because a student enjoys his class. 
+Do not ask Dr. Lu to write a letter because you cannot find anyone else. It is your problem, not Dr. Lu's. 
 
-When you ask Dr. Lu for a letter, he will always ask you the following questions (because graduate schools ask them). Please bring your answers **with evidence**.
+Dr. Lu's letters always focus on accomplishments. You need to provide
+evidence of your accomplishments. "I really enjoy your class" is not
+an accomplishment and Dr. Lu cannot write a letter because a student
+enjoys his class. "I do not know who else to ask" is not an
+accomplishment and Dr. Lu cannot write a letter for this reason.
 
-Your ability to speak and write. You can answer this question by giving an excellent technical presentation and a well-written technical document.
-Your ability to work in teams.
-You must give Dr. Lu at least three weeks to write your letter. When you ask him to write, you must give him a list of universities you want to apply. He will send letters to only these universities. You must send all applications within one week. You are busy. So is everyone. 
+When you ask Dr. Lu for a letter, he will always ask you the following questions (because graduate schools ask them). Please bring your answers **with evidence** (such as your project reports).
+
+- Your ability to speak and write. You can answer this question by giving an excellent technical presentation and a well-written technical document.
+
+- Your ability to work in teams.
+
+You must give Dr. Lu at least three weeks to write your letter.  When
+you ask him to write, you must give him a list of universities you
+want to apply. He will send letters to only these universities. You
+must send all applications **within one week**.
+
+You do not decide the content of the letters.  Dr. Lu will **never**
+say anything if he has no supporting evidence. Dr. Lu will **never** sign a
+letter written by you.
+
+Some students think sending email to professors is the only needed
+action for getting recommendation letters. This is not true for
+Dr. Lu. Dr. Lu works with individual students and writes many
+details. If you are unwilling spending time with him through this
+process, do not ask him to write letters.  Every letter must have a
+known destination.
+
+You are busy. So is everyone.  Your time is precious. So is his.
 
 If you need a letter, pleass fill `this form <https://docs.google.com/forms/d/e/1FAIpQLScgJPMfgR7gFd5D1eJPAK7A7AfCGPYfgxzitH2A-3TNfyZmLw/viewform?usp=sf_link>`__. 
 
+How To Interview New Members
+----------------------------
 
+This research team requires that all new members go through
+interviews. If you are a new member (i.e., an interviewee), please
+visit `visit this
+page<https://purduehelps.org/join.html#interviews>`__. This page is
+for current members (i.e., interviewers).
+The purposes of interviews include:
+
+- Understand the new members' expertise and determine the most appropriate tasks given to the new members
+
+- Explain the organizations, goals, and culture of this research team to new members
+
+- Understand and practice interviews
+
+- Evaluate communication skills
+
+- Encourage leadership
+
+- Develop the knowledge and techniques in assessing the strength of weakness of new members
+  
 
  
 This is the `grading guide for new
