@@ -455,6 +455,7 @@ Know the Purpose and Audience, Then Practice
 How to Get Good Grades in Research?
 -----------------------------------
 
+Research is very very (very very) different from classroom learning.
 
 
 Common Mistakes
@@ -473,6 +474,7 @@ In many cases, students can get good grades without speaking a word in class. In
 Many students never realize that classroom environment is not real. Many students would be completely surprised that other people solve different problems and that professors do not have answers ready for research problems.
 
 If you are in a research team, you must become an expert in the problem you are solving and nobody else should know as much as you do. If someone else knows as much as you (or more than you), by definition, you are unnecessary and should solve a different problem.
+
 
 
 How To Work in a Team
@@ -573,22 +575,22 @@ letter written by you.
 
 Some students think sending email to professors is the only needed
 action for getting recommendation letters. This is not true for
-Dr. Lu. Dr. Lu works with individual students and writes many
-details. If you are unwilling spending time with him through this
-process, do not ask him to write letters.  Every letter must have a
-known destination.
+Dr. Lu. Dr. Lu works with individual students and writes many details
+in the letters. If you are unwilling spending time with him through
+this process, do not ask him to write letters.  Every letter must have
+a known destination.
 
 You are busy. So is everyone.  Your time is precious. So is his.
 
-If you need a letter, pleass fill `this form <https://docs.google.com/forms/d/e/1FAIpQLScgJPMfgR7gFd5D1eJPAK7A7AfCGPYfgxzitH2A-3TNfyZmLw/viewform?usp=sf_link>`__. 
+If you need a letter, pleass fill `this form <https://docs.google.com/forms/d/e/1FAIpQLScgJPMfgR7gFd5D1eJPAK7A7AfCGPYfgxzitH2A-3TNfyZmLw/viewform?usp=sf_link>`__. Please send email to Dr. Lu after you have filled the form.
+
 
 How To Interview New Members
 ----------------------------
 
 This research team requires that all new members go through
 interviews. If you are a new member (i.e., an interviewee), please
-visit `visit this
-page<https://purduehelps.org/join.html#interviews>`__. This page is
+visit `visit this page <https://purduehelps.org/join.html#interviews>`__. This page is
 for current members (i.e., interviewers).
 The purposes of interviews include:
 
@@ -611,97 +613,4 @@ members <https://docs.google.com/document/d/1qQY6nFaHbP7eP2BvPvSP1QWs
 cU-xgqs0UfWvIGQEUnU/edit?usp=sharing>`__.
 One of the most important differences between “student thinking” and  
 “real world” is that
-
-
-Poster Examples
-~~~~~~~~~~~~~~~~~~~
-
-`example 1 <https://engineering.purdue.edu/HELPS/Management/poster1.pptx>`__
-
-
-`Checklist <https://docs.google.com/document/d/12ecufv-G6tC-hanfg0Gwb 
-i02lBDuNEkNWO0wZFm5DCM/edit?usp=sharing>`__\ \ of
-skills needed for new members.
-
-
-Set up Development Environment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-It is recommended that you create a Linux virtual machine for the
-development environment. A virtual machine allows you to experiment
-different settings (such as different versions of software packages)  
-without affecting your real machine. You have several options for
-creating virtual machines. One of them
-is\ \ `Virtualbox <https://www.virtualbox.org/>`__\ \ . It supports
-Windows, Mac, and Linux.
-
- 
-Learn git
-~~~~~~~~~~~~~
-
-A new member needs to learn many tools for communication and
-collaboration. One of the most important is git and the GitHub platform.
- 
-#. Please create an account in github. Your account should include
-   your first name and last name (no exception).
-
-#. Upload your photograph to github.
-
-#. Do not create any funny namethat is different from your real name. 
-   This is a large team and nobody has time connecting a funny
-   account name with the real person.
-
-See https://guides.github.com/.
- 
-.. todo:: George, add info on distributed workflows.
-
-Please understand how to use branches and merge correctly. There are  
-three types of branches
-
-#. Master branch. It is used to release software. It should be the
-   most stable version.
-
-#. Development branch: It should contain everything in the master
-   branch and additional features. It should be usually stable. This  
-   branch serves as the staging area for integration tests. This
-   branch should not be too far ahead of the master branch. After a
-   (or a few) feature is added and tested, this branch and the master 
-   branch should merge and the new feature (or features) should be
-   released.
-
-#. Feature branches: These branches are created to adding new
-   features. Each feature branch should have a short life-span: a
-   branch is created for a feature, the feature is tested, and then
-   the branch is merged into the development branch.
-
-Please understand that the purposes of the branches are to stage
-changes into the master branch. Each branch should last only a few
-days. A common problem among students is that they do not merge
-quickly. As time passes, the differences among branches become
-greater and the chances of merge conflict increase. If a branch is
-not merged within two weeks, the branch may have too many conflicts
-and cannot be merged. As a result, the branch has to be abandoned and 
-all efforts making that branch is lost.
-
- 
-Learn Python
-~~~~~~~~~~~~~~~
-
-You can find many tutorials online. This is\ \ `an
-example <https://docs.python.org/3/tutorial/>`__\ \ . If you want
-practice problems, Consider to solve\ \ `these
-problems <https://github.com/yunghsianglu/IntermediateCProgramming>`_ 
-_\ \ using
-Python. If you want to understand objects, please watch\ \ `my
-lectures for ECE
-30862 <https://engineering.purdue.edu/OOSD/F2009/Lectures/lecture.htm 
-l>`__\ \ (called
-ECE 462 earlier).
-
-Learn OpenCV (for Image Team)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-If you are in the image team, please
-learn\ \ `OpenCV <http://docs.opencv.org/2.4/doc/tutorials/tutorials. 
-html>`__\ \ .
 
