@@ -469,10 +469,10 @@ Expectations
 ~~~~~~~~~~~~
 
 - Each person is expected to attend the weekly meetings. Absence must
-be reported to the team leader and Dr. Lu by email.  Having an exam is
-an acceptable reason **only** if the exam is held at the same time of
-the meeting. It is not acceptable if the exam is on the same day at a
-different time.
+  be reported to the team leader and Dr. Lu by email.  Having an exam
+  is an acceptable reason **only** if the exam is held at the same
+  time of the meeting. It is not acceptable if the exam is on the same
+  day at a different time.
 
 - During the weekley meetings, each person has to report progress for
   3-5 minutes: What has been done? Why should it be done? What is the
@@ -663,6 +663,13 @@ How To Arrange Business Trips
 
 Please work with Gabby Rainwater in MSEE 268 and 
 Christy Millen in MSEE 112.
+
+Please download
+`Travel Form <https://github.com/PurdueCAM2Project/HELPSweb/blob/master/source/document/travelform.docx?raw=true>`__.
+
+Some general principles in arranging trips.
+
+
   
  
 This is the `grading guide for new
@@ -670,4 +677,5 @@ members <https://docs.google.com/document/d/1qQY6nFaHbP7eP2BvPvSP1QWs
 cU-xgqs0UfWvIGQEUnU/edit?usp=sharing>`__.
 One of the most important differences between “student thinking” and  
 “real world” is that
+
 
