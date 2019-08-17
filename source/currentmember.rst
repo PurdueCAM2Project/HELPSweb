@@ -451,11 +451,60 @@ Know the Purpose and Audience, Then Practice
 - Remove all irrelevant decoration (anything that is irrelevant to the research problem or your contributions). 
 
 
-
 How to Get Good Grades in Research?
 -----------------------------------
 
-Research is very very (very very) different from classroom learning.
+Research is very very (very very) different from classroom
+learning. Learning focuses on getting knowledge and skills into
+you. Research focuses on creating something new, new to everyone in
+the world, not new to you only. In many cases, classroom learning
+means attending lectures, taking notes, read textbooks, submitting
+homeworks, answering exam questions. It is possible not getting a good
+grade without saying a single word in a class.  Research has *none* of
+these.  There is no lecture, textbooks, exam questions.  Instead, you
+need to think about how to evaluate your work.  **Communication is
+extremely important in research.**
+
+Expectations
+~~~~~~~~~~~~
+
+- Each person is expected to attend the weekly meetings. Absence must
+be reported to the team leader and Dr. Lu by email.  Having an exam is
+an acceptable reason **only** if the exam is held at the same time of
+the meeting. It is not acceptable if the exam is on the same day at a
+different time.
+
+- During the weekley meetings, each person has to report progress for
+  3-5 minutes: What has been done? Why should it be done? What is the
+  result? Please provide details.  It is **not** acceptable saying "It
+  does not work." as a progress report.
+
+- Approximately near the middle of a semester, each person needs to
+  give a presentation (8-10 minutes) explaining the problem this
+  person is solving, not the problem for the team.  The presentation
+  must provide enough details about the problem, the reason why this
+  problem needs to be solved, the relationship between this problem
+  and the team's goals, and the planned approach.
+
+- Approximately near the middle of a semester, each person needs to
+  fill a peer evaluation of the team members. This is an opportunity
+  to find the members that have performed well or poorly.
+
+- Before the semester ends, each person needs to give a presentation
+  (15-20 minutes) about the results. This presentation needs to
+  include three important things: **details, details, and details**.
+  What has been done? How is the method evaluated? What are the
+  results?  If something "works", please provide evidence. If
+  something is "better", please provide detailed comparison.  If
+  something "does not work", please provide diagnosis. Remember
+  **details**.  It is absolutely required that the presenter practices
+  in advance. Everything on every slide must be carefully explained.
+  It is acceptable if you include code, as long as you explain.  It is
+  strongly discouraged that you types words in slides.  Slides are
+  "visual aids": showing things that cannot be said easily. Slides
+  should show figures, images, equations, tables, .... **not words**.
+
+
 
 
 Common Mistakes
@@ -585,6 +634,8 @@ You are busy. So is everyone.  Your time is precious. So is his.
 If you need a letter, pleass fill `this form <https://docs.google.com/forms/d/e/1FAIpQLScgJPMfgR7gFd5D1eJPAK7A7AfCGPYfgxzitH2A-3TNfyZmLw/viewform?usp=sf_link>`__. Please send email to Dr. Lu after you have filled the form.
 
 
+
+
 How To Interview New Members
 ----------------------------
 
@@ -607,6 +658,12 @@ The purposes of interviews include:
 - Develop the knowledge and techniques in assessing the strength of weakness of new members
   
 
+How To Arrange Business Trips
+-----------------------------
+
+Please work with Gabby Rainwater in MSEE 268 and 
+Christy Millen in MSEE 112.
+  
  
 This is the `grading guide for new
 members <https://docs.google.com/document/d/1qQY6nFaHbP7eP2BvPvSP1QWs 

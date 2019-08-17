@@ -102,6 +102,16 @@ detected and protected before the data leaves the cameras.
 Analyze Human Behavior in Video
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+The purpose of this team is to use real-time video analytics to detect
+dangerous behavior or safety violation in workplace (such as
+factories), raise alerts to prevent injury, or provide post-event
+analysis to prevent future occurrences. In Fall 2019, the team will
+focus on solving these problems in an indoor
+environment with multiple cameras:
+
+- Where are the people (including re-identifying the same person in different cameras)?
+
+- Where does each person face?
 
 
 Software Engineering for Machine Learning
