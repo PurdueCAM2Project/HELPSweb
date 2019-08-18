@@ -667,10 +667,53 @@ Christy Millen in MSEE 112.
 Please download
 `Travel Form <https://github.com/PurdueCAM2Project/HELPSweb/blob/master/source/document/travelform.docx?raw=true>`__.
 
-Some general principles in arranging trips.
+Purdue Rules about Travel:
 
+- `Air Travel <https://www.purdue.edu/business/travel/Transportation/Air_Travel/airfaretravel.html>`__
+
+- `Lodging <https://www.purdue.edu/business/travel/Lodging/index.html>`__
+
+- `Ground Transportation <https://www.purdue.edu/business/travel/Transportation/Car/index.html>`__
 
   
+Some general principles in arranging trips:
+
+- Use your judgment. Balance among safety, convenience, comfort, and cost.
+
+- Use money wisely. Do not think "This is not my money. I am going to
+  spend as much as possible." Research fund is not easy to get. If you
+  spend too much money on travel, less money can be used for other
+  things (such as a new machine or another business trip).
+
+- Your time is precious. Do not spend a lot of time looking for cheap
+  airfare or inexpensive hotels. Do not choose a cheap hotel that
+  requires long commute to your business destination. Do not choose a
+  very longover to save a few dollars.
+
+- Safety is your highest priority.  If you feel unsafe, take
+  reasonable actions to reduce the chance of harm (stay in the
+  conference hotel, call a taxi, ...)
+
+- Take advantage of the local opportunities. Can you visit a
+  collaborator or a sponsor in the same city?
+
+- Make as many friends as possible.  The main reason for you to travel
+  is to meet people. Talk to them. Learn what they are doing. Ask them
+  questions. Do not hide at corners and wish you are invisible (many
+  students do that). You will not be eaten if you say, "Hello, I am
+  from Purdue University. Can you tell me more about your recent
+  research?"
+
+
+How To Write a Research Paper
+-----------------------------
+
+First, forget everything about your "semester papers". These are not
+real research papers.  A research paper typically takes one or two
+*years* (not weeks, not months) to write. If you want to write a
+research paper quickly, this team is not for you.
+
+
  
 This is the `grading guide for new
 members <https://docs.google.com/document/d/1qQY6nFaHbP7eP2BvPvSP1QWs 

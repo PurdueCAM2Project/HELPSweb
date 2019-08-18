@@ -82,6 +82,16 @@ create a set of video clips for the following purposes:
 This project is supported by `NSF CNS-1925713
 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`__
 
+Readings for new members:
+
+- `Vision Meets Drones: A Challenge <https://arxiv.org/pdf/1804.07437.pdf>`__
+
+- `Context Encoding for Semantic Segmentation <http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf>`__
+
+- `Vehicle Re-identification in Aerial Imagery: Dataset and Approach <https://arxiv.org/pdf/1904.01400.pdf>`__
+
+- `Airborne visual tracking and reidentification system <https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117/1.JEI.28.2.023003&casa_token=Rs6JtKyTL6cAAAAA:_5C4cfQ5XkKqoeFqiyXl7r-xNdDH27PTYeq52ag1Va8udjeU3ykDF2-6B082Fdqt9JQHioCPXjE>`__
+
 
 Embedded Vision 1
 ^^^^^^^^^^^^^^^^^
