@@ -28,7 +28,10 @@ Forest Inventory Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Use computer vision to calculate the sizes of trees (called diameter
-at breath height, or DBH), recognize the species of trees, and their locations.
+at breath height, or DBH), recognize the species of trees, and their
+locations.  For Fall 2019, the team has two major goals: (1) handle
+multiple trees in a single frame and (2) handle trees in a nautral
+forest.
 
 The following images show the result from a distance sensor and the tree image (before and after denoising).
 
@@ -108,6 +111,15 @@ running on embedded systems (also called **edge devices**).  Doing so
 can reduce network traffic and make the system more
 scalable. Moreover, sensitive information (such as human faces) may be
 detected and protected before the data leaves the cameras.
+
+Readings for new members:
+
+- `Playing for Data: Ground Truth from Computer Games <https://arxiv.org/pdf/1608.02192.pdf>`__
+
+- `Sim4CV: A Photo-Realistic Simulator for Computer Vision Applications <https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1073-7.pdf`__
+
+- `The ParallelEye Dataset: A Large Collection of Virtual Images for Traffic Vision Research <https://www.researchgate.net/profile/Fei_Yue_Wang/publication/334390716_The_ParallelEye_Dataset_A_Large_Collection_of_Virtual_Images_for_Traffic_Vision_Research/links/5d270204a6fdcc2462d490c9/The-ParallelEye-Dataset-A-Large-Collection-of-Virtual-Images-for-Traffic-Vision-Research.pdf>`__
+
 
 Analyze Human Behavior in Video
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -219,8 +231,14 @@ illustrated below.
 .. |embeddedprivacy| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/embeddedprivacy.png
    :width: 90%
 
+Readings for new members:
+
+- `An Improved Neural Network Cascade for Face Detection in Large Scene Surveillance <https://www.mdpi.com/2076-3417/8/11/2222/htm>`__
+
+  
 
 
+	   
 Faculty
 ~~~~~~~
 
