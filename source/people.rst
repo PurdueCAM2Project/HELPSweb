@@ -82,8 +82,7 @@ create a set of video clips for the following purposes:
 - Re-identify people: Determine whether the same person has been
   before.
 
-This project is supported by `NSF CNS-1925713
-<https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`__
+This project is supported by `NSF CNS-1925713 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`__
 
 Readings for new members:
 
@@ -116,7 +115,7 @@ Readings for new members:
 
 - `Playing for Data: Ground Truth from Computer Games <https://arxiv.org/pdf/1608.02192.pdf>`__
 
-- `Sim4CV: A Photo-Realistic Simulator for Computer Vision Applications <https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1073-7.pdf`__
+- `Sim4CV: A Photo-Realistic Simulator for Computer Vision Applications <https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1073-7.pdf>`__
 
 - `The ParallelEye Dataset: A Large Collection of Virtual Images for Traffic Vision Research <https://www.researchgate.net/profile/Fei_Yue_Wang/publication/334390716_The_ParallelEye_Dataset_A_Large_Collection_of_Virtual_Images_for_Traffic_Vision_Research/links/5d270204a6fdcc2462d490c9/The-ParallelEye-Dataset-A-Large-Collection-of-Virtual-Images-for-Traffic-Vision-Research.pdf>`__
 
