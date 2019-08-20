@@ -62,6 +62,8 @@ The following images show how the team measures the diameter at breath height.
 .. |forest02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree03.jpeg
    :width: 35%
 
+----
+	   
 Analysis of Drone Video
 ^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -94,6 +96,8 @@ Readings for new members:
 
 - `Airborne visual tracking and reidentification system <https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117/1.JEI.28.2.023003&casa_token=Rs6JtKyTL6cAAAAA:_5C4cfQ5XkKqoeFqiyXl7r-xNdDH27PTYeq52ag1Va8udjeU3ykDF2-6B082Fdqt9JQHioCPXjE>`__
 
+
+----  
 
 Embedded Vision 1
 ^^^^^^^^^^^^^^^^^
@@ -135,12 +139,16 @@ environment with multiple cameras:
 - Where does each person face?
 
 
+----  
+
 Software Engineering for Machine Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This project creates a process for developing **reproducible**
 software used in machine learning.
 
+
+----
 
 Crowdsourcing
 ^^^^^^^^^^^^^
@@ -184,7 +192,7 @@ Reading for new members:
 .. |crowdsource05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceposter.jpg
    :width: 45%
 
-
+----
 
 Image Database
 ^^^^^^^^^^^^^^
@@ -204,7 +212,7 @@ Reading for new members:
 
 - `YOLOv3: An Incremental Improvement <https://arxiv.org/abs/1804.02767>`__
 
-
+----
 
 Embedded Vision 2
 ^^^^^^^^^^^^^^^^^
@@ -234,7 +242,20 @@ Readings for new members:
 
 - `An Improved Neural Network Cascade for Face Detection in Large Scene Surveillance <https://www.mdpi.com/2076-3417/8/11/2222/htm>`__
 
+- `WIDER FACE: A Face Detection Benchmark  <http://shuoyang1213.me/WIDERFACE/>`__
+
+- `Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks <https://arxiv.org/abs/1506.01497>`__
+
+- `SSD: Single Shot MultiBox Detector <https://arxiv.org/abs/1512.02325>`__
+
+- `Optimizing the Trade-off between Single-Stage and Two-Stage Object Detectors using Image Difficulty Prediction <https://arxiv.org/abs/1803.08707>`__
+
+- `PyramidBox: A Context-assisted Single Shot Face Detector <https://arxiv.org/abs/1803.07737>`__
+
+- `Real-Time Multi-Scale Face Detector on Embedded Devices <https://www.mdpi.com/1424-8220/19/9/2158/pdf>`__
+
   
+----
 
 
 	   
