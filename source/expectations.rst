@@ -8,7 +8,7 @@ Version: |today|
 Introduction
 ~~~~~~~~~~~~~~
 
-Each semester students who participate in CAM2 research are expected to fulfill the requirements outlined in this document. These requirements you will be given an opportunity to **prove** you deserve a good grade in the class. The focus of the class is **not** effort but contribution to the project and ability to communicate that contribution to your teammates and advisors. Your contribution is the work you have done during the semester and the progress you made. 
+Each semester students who participate in CAM2 research are expected to fulfill the requirements outlined in this document. These requirements will give you an opportunity to **prove** you deserve a good grade in the class. The focus of the class is your contribution to the project and ability to communicate that contribution to your teammates and advisors. Your contribution is the work you have done during the semester and the progress you made. 
 
 Contribution to the project will be evaluated by completion of the following requirements:
 
@@ -26,89 +26,76 @@ Course Calender
 +-------------+--------------------------------------------------------------------------------------------+
 | **Week**    | **Deliverables**                                                                           |
 +-------------+--------------------------------------------------------------------------------------------+
-| 1           |                                                                                            |
-|             | Setup Notebook on Confluence (See `Setting up you Confluence Page`_)                       |
-| **(8/19)**  |                                                                                            |
+| **(8/19)**  | Setup Notebook on Confluence (See `Setting up your Confluence Page`_)                      |
 +-------------+--------------------------------------------------------------------------------------------+
-| 2           |                                                                                            |
-|             | Make sure notebook is updated                                                              |
-| **(8/26)**  |                                                                                            |
+| **(8/26)**  | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 3           |                                                                                            |
-|             | Make sure notebook is updated                                                              |
-| **(9/2)**   |                                                                                            |
+| **(9/2)**   | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 4           | `Description of the Problem Presentation`_ given during lab this week and                  |
-|             | provide Peer Feedback using the link in `Peer Feedback`_.                                  |
-| **(9/9)**   |                                                                                            |
+|             | `Description of the Problem Presentation`_ given during lab this week and                  |
+| **(9/9)**   | provide Peer Feedback using the link in `Peer Feedback`_.                                  |
+|             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 5           | `Abstract Draft`_ due **Sunday 9/22 @ 11:59PM on BlackBoard**                              |
-|             | (Submission should be PDF and link to Overleaf Project)                                    |
-| **(9/16)**  |                                                                                            |
+|             | `Abstract Draft`_ due **Sunday 9/22 @ 11:59PM on BlackBoard**                              |
+| **(9/16)**  | (Submission should be PDF and link to Overleaf Project)                                    |
+|             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 6           |                                                                                            |
-|             | Make sure notebook is updated                                                              |
-| **(9/23)**  |                                                                                            |
+| **(9/23)**  | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 7           | `Related Work Draft`_ due **Sunday 10/6 @ 11:59PM on BlackBoard**                          |
-|             | (Submission should be PDF and link to Overleaf Project)                                    |
-| **(9/30)**  |                                                                                            |
-|             | First CATME Peer Review Due **Monday 9/30 @ 11:59PM**                                      |
+| **(9/30)**  | First CATME Peer Review Due **Monday 9/30 @ 11:59PM**                                      |
 |             | (Link will be sent via email)                                                              |
 |             |                                                                                            |
-|             | Make sure notebook is updated                                                              |
-+-------------+--------------------------------------------------------------------------------------------+
-| 8           | *October Break (7th - 8th)*                                                                |
-|             |                                                                                            |
-| **(10/7)**  | Make sure notebook is updated                                                              |
-+-------------+--------------------------------------------------------------------------------------------+
-| 9           | `Introduction and Problem Description Draft`_ due **Sunday 10/20 @ 11:59PM on BlackBoard** |
+|             | `Related Work Draft`_ due **Sunday 10/6 @ 11:59PM on BlackBoard**                          |
 |             | (Submission should be PDF and link to Overleaf Project)                                    |
-| **(10/14)** |                                                                                            |
+|             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 10          | Make sure notebook is updated                                                              |
+| **(10/7)**  | *October Break (7th - 8th)*                                                                |
 |             |                                                                                            |
-| **(10/21)** |                                                                                            |
+|             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 11          | `Solution Design and Development Approach Presentation`_ given during lab this week and    |
+| **(10/14)** | `Introduction and Problem Description Draft`_ due **Sunday 10/20 @ 11:59PM on BlackBoard** |
+|             | (Submission should be PDF and link to Overleaf Project)                                    |
+|             |                                                                                            |
+|             | Make sure notebook is updated                                                              |
++-------------+--------------------------------------------------------------------------------------------+
+| **(10/21)** | Make sure notebook is updated                                                              |
++-------------+--------------------------------------------------------------------------------------------+
+| **(10/28)** | `Solution Design and Development Approach Presentation`_ given during lab this week and    |
 |             | provide Peer Feedback using the link in `Peer Feedback`_.                                  |
-| **(10/28)** |                                                                                            |
+|             |                                                                                            |
 |             | Undergraduate Research Exposition Abstract Submission Deadline                             |
-|             | **October 29, 2019 @ 11:59pm**                                                             |
+|             | **Tuesday 10/29 @ 11:59pm**                                                                |
 |             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 12          | Make sure notebook is updated                                                              |
-|             |                                                                                            |
-| **(11/4)**  |                                                                                            |
+| **(11/4)**  | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 13          | Make sure notebook is updated                                                              |
-|             |                                                                                            |
-| **(11/11)** |                                                                                            |
+| **(11/11)** | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 14          | `Method Draft`_ due **Sunday 11/24 @ 11:59PM on BlackBoard**                               |
+| **(11/18)** | `Method Draft`_ due **Sunday 11/24 @ 11:59PM on BlackBoard**                               |
 |             | (Submission should be PDF and link to Overleaf Project)                                    |
-| **(11/18)** |                                                                                            |
+|             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 15          | *Thanksgiving Break (27th - 30th)*                                                         |
+| **(11/25)** | *Thanksgiving Break (27th - 30th)*                                                         |
 |             |                                                                                            |
-| **(11/25)** | Make sure notebook is updated                                                              |
+|             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 16          | **Final Group Paper Due Monday 12/8 @ 11:59PM on BlackBoard**                              |
-|             | (Submission should be PDF and link to Overleaf Project)                                    |
 | **(12/2)**  |                                                                                            |
 |             | Second CATME Peer Review Due **Friday 12/6 @ 11:59PM**                                     |
 |             | (Link will be sent via email)                                                              |
 |             |                                                                                            |
+|             | **Final Group Paper Due Monday 12/8 @ 11:59PM on BlackBoard**                              |
+|             | (Submission should be PDF and link to Overleaf Project)                                    |
+|             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| 17          | Group Paper Review Due **Friday 12/13 @ 11:59PM on BlackBoard**                            |
+| **(12/9)**  | Group Paper Review Due **Friday 12/13 @ 11:59PM on BlackBoard**                            |
 |             |                                                                                            |
-| **(12/9)**  | `Final Presentation`_ (Scheduled with Professor Lu)                                        |
+|             | `Final Presentation`_ (Scheduled with Professor Lu)                                        |
 |             |                                                                                            |
 |             | Final Notebook Due                                                                         |
 +-------------+--------------------------------------------------------------------------------------------+
@@ -140,7 +127,7 @@ The contents of your notes should include (but is not limited to):
 The notes you create must be shared on your team Confluence page. Each student should create their own confluence page under their CAM2 team page. 
 
 
-Setting up you Confluence Page
+Setting up your Confluence Page
 +++++++++++++++++++++++++++++++
 
 Instructions coming soon!
@@ -183,7 +170,6 @@ Description of the Problem Presentation
 .. `Template <https://docs.google.com/presentation/d/1oGwknThCWaJs_wU3m6dQrJq5FiN2rgHivvC-1frQVZU/edit?usp=sharing>`_
 .. `Example <>`_
 
-
 **This presentation should answer some of the following questions:**
 
  - What is the current state of the project?
@@ -213,7 +199,7 @@ Solution Design and Development Approach Presentation
 
 **This presentation should answer some of the following questions:**
 
- - How can you develop a roadmap to solve the problem.
+ - How can you develop a roadmap to solve the problem?
  - What contextual and technical knowledge do you need to acquire to solve this problem?
  - What steps do you need to complete to be satisfied with your solution?
  - What steps must be completed to prove that the problem is solved?
@@ -253,11 +239,11 @@ Peer Feedback
 
 You are expected to give feedback to each of your team members during the "Problem Presentation" and the "Solution Design and Development Approach Presentation". Feedback you gives helps the speaker improve their presentations and speaking ability for the final presentation. 
 
-Although you will likely be be listing to information you may already be familiar with you are expected to give helpful and constructive feedback to your teammates. 
+Although you will likely be listening to information you may already be familiar with you are expected to give helpful and constructive feedback to your teammates. 
 
 Use this `Peer Feedback Form <https://docs.google.com/forms/d/e/1FAIpQLSf12jBhBWNPgwmw7sAjZp5RhTI7P2dNQ3aIVQ2Ui7lKJ09fXA/viewform?usp=sf_link>`_ to provide peer feedback for presenters. 
 
-Not that failure to provide thoughtful and in-depth feedback will effect your grade. 
+Note that failure to provide thoughtful and in-depth feedback will effect your grade. 
 
 
 Final Report
@@ -303,16 +289,16 @@ Related Work Draft
 
 Related work section helps give context and creditability to the work you have done. It shows that your team has reviewed the state of the art work in your topic area and improved on it. In many cases you will introduce metrics that can be used to judge how your work improves on the previous state of the art. 
 
-Related articles can be searched for using `Google Scholar <https://scholar.google.com>`_ or on `Purdue Libraries <https://www.lib.purdue.edu/>`_. Many times articles can be found in the `IEEE Xplore Digital Library <https://ieeexplore-ieee-org.ezproxy.lib.purdue.edu/Xplore/home.jsp>`_ and the `ACM Digital Library <https://dl-acm-org.ezproxy.lib.purdue.edu/dl.cfm>`_. If your team is planning to submit to a specific journal or conference you should focus on citing related work from that. Do not imagine that your work is so special and there is no related work. It is not possible that you are the very first person in human history solving this problem. Some people must have investigate similar, possibly exactly the same, problems. If you do not find anything similar, you have not worked hard enough finding related work.
+Related articles can be searched for using `Google Scholar <https://scholar.google.com>`_ or on `Purdue Libraries <https://www.lib.purdue.edu/>`_. Many times articles can be found in the `IEEE Xplore Digital Library <https://ieeexplore-ieee-org.ezproxy.lib.purdue.edu/Xplore/home.jsp>`_ and the `ACM Digital Library <https://dl-acm-org.ezproxy.lib.purdue.edu/dl.cfm>`_. If your team is planning to submit to a specific journal or conference you should focus on citing related work from that. Do not imagine that your work is so special and there is no related work. It is not possible that you are the very first person in human history solving this problem. Some people must have investigated similar, possibly exactly the same, problems. If you do not find anything similar, you have not worked hard enough finding related work.
 
-The final number of references should be approximately 2 to 2.5 x the number of pages.
+The final number of references should be approximately 2 to 2.5x the number of pages.
 
 Related work section examples can be found in previous HELPS papers found `here <https://purduehelps.org/product.html#publications>`_.
 
 Introduction and Problem Description Draft
 +++++++++++++++++++++++++++++++++++++++++++
 
-Each research paper has a Introduction section. This section provides an introduction to the problem and the area around the research work you have completed. This section should be generally accessible to non-technical readers and show a need for the work you have done in the broader research community. This section is usually about one page and contains the following paragraphs: 
+Each research paper has an Introduction section. This section provides an introduction to the problem and the area around the research work you have completed. This section should be generally accessible to non-technical readers and show a need for the work you have done in the broader research community. This section is usually about one page and contains the following paragraphs: 
 
  #. "Big picture", what is the problem? Who cares?
  #. Description of the problem and related work, with citations. The paragraph ends with description of the deficiencies of existing solutions. This section can optionally be included in more detail as a Problem Description section.
@@ -322,7 +308,7 @@ Each research paper has a Introduction section. This section provides an introdu
  #. (Optional) Implications. What can be learned from your method?
  #. (Optional) An overview of the structure of the paper. 
 
-Usually, there is no subsections in Introduction. You **absolutely must** compare your method with other methods, qualitatively or quantitatively. Without comparison, the paper has no value. Do not submit a paper if there is no comparison.
+Usually, there are no subsections in the Introduction. You **absolutely must** compare your method with other methods, qualitatively or quantitatively. Without comparison, the paper has no value. Do not submit a paper if there is no comparison.
 
 To write a paper, you need to know the following:
 
@@ -337,7 +323,7 @@ A common mistake among students is the concept "*I will do all the experiments, 
 Method Draft
 ++++++++++++
 
-This is the main part of the paper that tells exactly what you did. It is usually about 50% of the entire paper. It should be detailed and include multiple figures and drawings to explain the methods and why it is better than other methods.
+This is the part of the paper that tells exactly what you did. It is usually about 50% of the paper. It should be detailed and include multiple figures and drawings to help explain your methods and why they are better.
 
 This section will detail to the world what contributions you have made to the CAM2 project and the broader research community. In this section you explain experiments you designed and describe how you carried out your experiments. 
 
@@ -363,9 +349,9 @@ You will receive feedback on each draft from the TA on Blackboard. You should re
 
 **NO LATE WORK WILL BE ACCEPTED**
 
-The Final Report submission will be evaluated by your peers. This peer evaluation process is similar to the process used by many academic journals and will allow you to get first hand experience evaluating others work and giving constructive feedback. 
+The Final Report submission will be evaluated by your peers. This peer evaluation process is similar to the process used by many academic journals and will allow you to get first hand experience evaluating others work and giving constructive feedback.
 
-Peer feedback will be conducted via Blackboard and will be due for 2 papers during finals week. More information will be available on Blackboard towards the end of the semester. 
+Peer feedback will be conducted via Blackboard. Each student is expected to review 2 papers and submit the `Final Report Peer Review Form <https://docs.google.com/forms/d/e/1FAIpQLSegUp1_h6AxHnrpug4zwwCzFE7LzloqIfxkrKegV92YLG9njQ/viewform?usp=sf_link>`_ during finals week. More information will be available on Blackboard towards the end of the semester. 
 
 Poster Presentation
 ~~~~~~~~~~~~~~~~~~~~
