@@ -14,7 +14,7 @@ Time        Monday     Tuesday        Wednesday            Friday
 13:30-14:30 Drone                     Crowdsourcing        Embedded 2
 14:30-15:30 Embedded 1
 15:30-16:30 
-17:30-18:20                           VIP lectures
+17:30-18:20                           VIP lecture (EE 129)
 =========== ========== ============== ==================== ==============
 
 Due to the large number of team mebers, it is not possible changing
@@ -146,6 +146,14 @@ Software Engineering for Machine Learning
 
 This project creates a process for developing **reproducible**
 software used in machine learning.
+
+Readings
+
+- `Explainable Software Bot Contributions: Case Study of Automated Bug Fixes <https://arxiv.org/pdf/1905.02597.pdf>`__
+
+- `Automated Code Review via Software Repository Mining  <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8330261>`__
+
+- `(Patent)Automated program code analysis and reporting <https://patentimages.storage.googleapis.com/2a/da/ad/e8fa817408f010/US20180275989A1.pdf>`__
 
 
 ----
