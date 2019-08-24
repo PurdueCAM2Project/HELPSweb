@@ -62,6 +62,16 @@ The following images show how the team measures the diameter at breath height.
 .. |forest02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree03.jpeg
    :width: 35%
 
+Readings for new members:
+
+- `Forest Inventory and Analysis (FIA) Program of the U.S. Forest Service <https://www.fia.fs.fed.us/>`__
+
+- `Forest Data Collection Using Terrestrial Image-Based Point Clouds From a Handheld Camera Compared to Terrestrial and Personal Laser Scanning <https://ieeexplore.ieee.org/abstract/document/7109840>`__
+
+- `Estimation of Tree Stem Attributes Using Terrestrial Photogrammetry with a Camera Rig <https://www.mdpi.com/1999-4907/7/3/61>`__
+
+- `Development and Testing of a New Ground Measurement Tool to Assist in Forest GIS Surveys <https://www.mdpi.com/1999-4907/10/8/643/htm>`__
+
 ----
 	   
 Analysis of Drone Video
@@ -145,7 +155,9 @@ Software Engineering for Machine Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This project creates a process for developing **reproducible**
-software used in machine learning.
+software used in machine learning. In Fall 2019, the team's focus is
+to create tools that faciliate code review. The tools analyze the
+histories of version control repositories and identify
 
 Readings
 
