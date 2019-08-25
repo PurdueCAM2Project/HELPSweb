@@ -167,7 +167,9 @@ Software Engineering for Machine Learning
 This project creates a process for developing **reproducible**
 software used in machine learning. In Fall 2019, the team's focus is
 to create tools that faciliate code review. The tools analyze the
-histories of version control repositories and identify
+histories of version control repositories and automatically identify
+possible defects within a pull request. The tools will also collect
+metrics relating to the code review.
 
 Readings
 
@@ -177,6 +179,7 @@ Readings
 
 - `(Patent)Automated program code analysis and reporting <https://patentimages.storage.googleapis.com/2a/da/ad/e8fa817408f010/US20180275989A1.pdf>`__
 
+- `Software Engineering for Machine Learning: Code Review <https://se4ml.org/software/chapter_cr.html>`__
 
 ----
 
