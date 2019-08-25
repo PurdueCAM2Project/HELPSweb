@@ -148,6 +148,16 @@ environment with multiple cameras:
 
 - Where does each person face?
 
+Readings
+
+- `Person Re-identification by Local Maximal Occurrence Representation and Metric Learning <https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liao_Person_Re-Identification_by_2015_CVPR_paper.pdf>`__
+
+- `An Improved Deep Learning Architecture for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf>`__
+
+- `MARS: A Video Benchmark for Large-Scale Person Re-Identification <https://www.researchgate.net/profile/Liang_Zheng17/publication/308277502_MARS_A_Video_Benchmark_for_Large-Scale_Person_Re-Identification/links/5a1272daa6fdccc2d79b6da3/MARS-A-Video-Benchmark-for-Large-Scale-Person-Re-Identification.pdf>`__
+
+- `Harmonious Attention Network for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Harmonious_Attention_Network_CVPR_2018_paper.pdf>`__
+  
 
 ----  
 
