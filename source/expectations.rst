@@ -132,7 +132,6 @@ Setting up your Confluence Page
 The CAM2 Confluence Pages for all the teams can be accessed from the `Purdue CAM2 Research Team Directory <https://wiki.itap.purdue.edu/display/PCAM2/Purdue+CAM2+Research+Team+Directory>`_. After you navigate to the team directory page select your team from the schedule. For this example I will use the Forest Inventory Analysis team. 
 
 .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/TeamDirectory.png
-   :width: 50%
    :align: center
    :target: https://wiki.itap.purdue.edu/display/PCAM2/Purdue+CAM2+Research+Team+Directory
    :alt: Team Directory
@@ -141,7 +140,6 @@ After you have selected your team, select your name from the team member list. E
 
 
 .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/TeamPage.png
-   :width: 50%
    :align: center
    :target: https://wiki.itap.purdue.edu/display/PCAM2/Forest+Inventory+Analysis
    :alt: Team Page
@@ -163,7 +161,6 @@ Using two column format will allow you to keep track of each day in a separate e
 You should insert data, graphs, and links to any other resources you mention in your posts. Pictures can be uploaded from other web pages or directly to your page. 
 
 .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/InsertPictures.png
-   :width: 50%
    :align: center
    :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/InsertPictures.png
    :alt: Insert Pictures
@@ -171,7 +168,6 @@ You should insert data, graphs, and links to any other resources you mention in 
 If you reference code that you have written in your notes insert a link to the pull request or to the lines in GitHub. This allows you to go back and give detailed examples of exactly what you contributed throughout the semester. 
 
 .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/InsertPRLink.png
-   :width: 50%
    :align: center
    :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/InsertPRLink.png
    :alt: Insert PR Link
@@ -179,7 +175,6 @@ If you reference code that you have written in your notes insert a link to the p
 You should create new sections each new entry to your notes. New sections can be created by clicking the "Add section" button in the tool bar. Make sure you can follow each entry in your notebook and that they are easy to understand. The more detail you add the better your notes will be. 
 
 .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/NewSection.png
-   :width: 50%
    :align: center
    :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/NewSection.png
    :alt: Insert New Section
@@ -187,14 +182,12 @@ You should create new sections each new entry to your notes. New sections can be
 Make sure you also take detailed notes during the weekly meeting. If you are missing meeting notes it will be easy for points to be deducted from your note grades. You can also add task lists and check boxes to your meeting notes to remind yourself of tasks you are assigned for each week. When you are done updating your notes for the week be sure to click "Update" at the bottom of the page. Confluence also allows you to add comments to your updates and notify people who follow your page.
 
 .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/Update.png
-   :width: 50%
    :align: center
    :alt: Update
 
 Remember, you are expected to update your notes several times a week. Confluence provides many other tools that were not reviewed in this section. You are free to use any and all of these tools to keep track of your progress. You may also create new types of pages under your notebook page if this helps you better organize your notes. This can be done by clicking the "..." button next to the "Create" button **in your note directory**. When you click the "Create" or "..." button a new page will automatically be created under your current directory. This should be avoided on pages above your personal notes page because you **will not be able to remove any pages you crate**. If you accidentally create a new page you will have to ask an admin to remove the page. 
 
 .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/CreateNewPage.png
-   :width: 50%
    :align: center
    :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/CreateNewPage.png
    :alt: Create New Page
