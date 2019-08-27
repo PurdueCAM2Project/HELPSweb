@@ -14,7 +14,7 @@ Time        Monday     Tuesday        Wednesday            Friday
 13:30-14:30 Drone                     Crowdsourcing        Embedded 2
 14:30-15:30 Embedded 1
 15:30-16:30 
-17:30-18:20                           VIP lectures
+17:30-18:20                           VIP lecture (EE 129)
 =========== ========== ============== ==================== ==============
 
 Due to the large number of team mebers, it is not possible changing
@@ -61,6 +61,16 @@ The following images show how the team measures the diameter at breath height.
 
 .. |forest02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree03.jpeg
    :width: 35%
+
+Readings for new members:
+
+- `Forest Inventory and Analysis (FIA) Program of the U.S. Forest Service <https://www.fia.fs.fed.us/>`__
+
+- `Forest Data Collection Using Terrestrial Image-Based Point Clouds From a Handheld Camera Compared to Terrestrial and Personal Laser Scanning <https://ieeexplore.ieee.org/abstract/document/7109840>`__
+
+- `Estimation of Tree Stem Attributes Using Terrestrial Photogrammetry with a Camera Rig <https://www.mdpi.com/1999-4907/7/3/61>`__
+
+- `Development and Testing of a New Ground Measurement Tool to Assist in Forest GIS Surveys <https://www.mdpi.com/1999-4907/10/8/643/htm>`__
 
 ----
 	   
@@ -138,6 +148,16 @@ environment with multiple cameras:
 
 - Where does each person face?
 
+Readings
+
+- `Person Re-identification by Local Maximal Occurrence Representation and Metric Learning <https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liao_Person_Re-Identification_by_2015_CVPR_paper.pdf>`__
+
+- `An Improved Deep Learning Architecture for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf>`__
+
+- `MARS: A Video Benchmark for Large-Scale Person Re-Identification <https://www.researchgate.net/profile/Liang_Zheng17/publication/308277502_MARS_A_Video_Benchmark_for_Large-Scale_Person_Re-Identification/links/5a1272daa6fdccc2d79b6da3/MARS-A-Video-Benchmark-for-Large-Scale-Person-Re-Identification.pdf>`__
+
+- `Harmonious Attention Network for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Harmonious_Attention_Network_CVPR_2018_paper.pdf>`__
+  
 
 ----  
 
@@ -145,8 +165,21 @@ Software Engineering for Machine Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This project creates a process for developing **reproducible**
-software used in machine learning.
+software used in machine learning. In Fall 2019, the team's focus is
+to create tools that faciliate code review. The tools analyze the
+histories of version control repositories and automatically identify
+possible defects within a pull request. The tools will also collect
+metrics relating to the code review.
 
+Readings
+
+- `Explainable Software Bot Contributions: Case Study of Automated Bug Fixes <https://arxiv.org/pdf/1905.02597.pdf>`__
+
+- `Automated Code Review via Software Repository Mining  <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8330261>`__
+
+- `(Patent)Automated program code analysis and reporting <https://patentimages.storage.googleapis.com/2a/da/ad/e8fa817408f010/US20180275989A1.pdf>`__
+
+- `Software Engineering for Machine Learning: Code Review <https://se4ml.org/software/chapter_cr.html>`__
 
 ----
 
