@@ -30,7 +30,7 @@ Course Calender
 +-------------+--------------------------------------------------------------------------------------------+
 | **(8/26)**  | Read the `Research Notebook`_ requirements carefully and begin to update your notebook.    |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(9/2)**   | Make sure notebook is updated                                                              |
+| **(9/2)**   | Make sure notebook is updated this is the first week it may be checked.                    |
 +-------------+--------------------------------------------------------------------------------------------+
 |             | `Description of the Problem Presentation`_ given during lab this week and                  |
 | **(9/9)**   | provide Peer Feedback using the link in `Peer Feedback`_.                                  |
@@ -75,7 +75,14 @@ Course Calender
 +-------------+--------------------------------------------------------------------------------------------+
 | **(11/11)** | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(11/18)** | `Method Draft`_ due **Sunday 11/24 @ 11:59PM on BlackBoard**                               |
+| **(11/18)** |                                                                                            |
+|             | Purdue Fall Undergraduate Research Exposition **Monday, November 18, 2019**                |
+|             |                                                                                            |
+|             | Oral presentations: 8:30AM-11:30AM in STEW 214                                             |
+|             |                                                                                            |
+|             | Poster Symposium: 1:30PM-3:30PM in PMU Ballrooms                                           |
+|             |                                                                                            |
+|             | `Method Draft`_ due **Sunday 11/24 @ 11:59PM on BlackBoard**                               |
 |             | (Submission should be PDF and link to Overleaf Project)                                    |
 |             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
@@ -84,20 +91,17 @@ Course Calender
 |             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(12/2)**  |                                                                                            |
-|             | Second CATME Peer Review Due **Friday 12/6 @ 11:59PM**                                     |
+| **(12/2)**  | Second CATME Peer Review Due **Friday 12/6 @ 5:00PM**                                      |
 |             | (Link will be sent via email)                                                              |
 |             |                                                                                            |
-|             | **Final Group Paper Due Monday 12/8 @ 11:59PM on BlackBoard**                              |
+|             | **Final Group Paper Due Friday 12/6 @ 5:00PM on BlackBoard**                               |
 |             | (Submission should be PDF and link to Overleaf Project)                                    |
 |             |                                                                                            |
-|             | Make sure notebook is updated                                                              |
+|             | Final Notebook Due **Friday 12/6 @ 5:00PM** (Will be checked on Confluence)                |
 +-------------+--------------------------------------------------------------------------------------------+
 | **(12/9)**  | Group Paper Review Due **Friday 12/13 @ 11:59PM on BlackBoard**                            |
 |             |                                                                                            |
 |             | `Final Presentation`_ (Scheduled with Professor Lu)                                        |
-|             |                                                                                            |
-|             | Final Notebook Due                                                                         |
 +-------------+--------------------------------------------------------------------------------------------+
 
 Research Notebook
