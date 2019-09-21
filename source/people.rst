@@ -419,10 +419,9 @@ train machine models for another datasets with few labels.
      - 
      - `Damini	Rijhwani`
    * - .. image:: https://drive.google.com/file/d/1etAImRFxQgc-Fru8Zch0CknuzwS3P9tf/view?usp=sharing
-
      - `Chiche Tsai`
-     - 
-     - `Damini	Rijhwani`
+     - .. image:: https://drive.google.com/open?id=1db-0VtllDb1sU5MeqnmOT9WKNMYsPy5z
+     - `Li Yon Tan`
 
    * - .. image:: https://drive.google.com/uc?id=1Qu7L33SNwQtBw8Qx-4s-Fm9oIUq9v7G-
      - `Kirthi Shankar	Sivamani`
