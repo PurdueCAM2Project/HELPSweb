@@ -418,7 +418,7 @@ train machine models for another datasets with few labels.
        Leader
      - 
      - `Damini	Rijhwani`
-   * - .. image:: https://drive.google.com/open?id=1etAImRFxQgc-Fru8Zch0CknuzwS3P9tf
+   * - .. image:: https://drive.google.com/file/d/1etAImRFxQgc-Fru8Zch0CknuzwS3P9tf/view?usp=sharing
 
      - `Chiche Tsai`
      - 
