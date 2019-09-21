@@ -399,7 +399,7 @@ Image Database
      -
    
 
-Dataset Distinctiveness
+Embedded Vision 2
 #######################
 
 Identify the specific features (called distinctiveness) of
@@ -416,6 +416,11 @@ train machine models for another datasets with few labels.
      - `Ashley Kim`
        
        Leader
+     - 
+     - `Damini	Rijhwani`
+   * - .. image:: https://drive.google.com/file/d/1bRRgMDNL1GA8tofA1orS_T47dp-thl4A/view?usp=sharing
+
+     - `Chiche Tsai`
      - 
      - `Damini	Rijhwani`
 
