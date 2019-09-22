@@ -383,9 +383,11 @@ Image Database
 
    * - .. image:: https://drive.google.com/uc?id=1F38cu70XGcBK2Z-HWBWdcYMAB9EClQZd
      - `Sripath Mishra`
+
        Leader
      -
      - `Akshay Pawar`
+
        Co-leader
 
    * -
@@ -406,9 +408,11 @@ Drone Video
 
    * - .. image:: https://drive.google.com/uc?id=1QerVKIreOrBjZdoANEm4D0PlNcoyv79Q
      - `Karthik Maiya`
+
        Leader
      - .. image:: https://avatars3.githubusercontent.com/u/41479950?s=400&u=d252078920abb4e07f448b0c83c5ad14c32a1ef4&v=4
      - `Jacob Harmon`
+
        Co-leader
 
    * -
@@ -434,9 +438,11 @@ Embedded Vision 1
 
    * - .. image:: https://drive.google.com/uc?id=1QE0RJBLacv9q-zbAvMf5JrZiHTx2htl_
      - `Nobelle Tay`
+
        Leader
      - .. image:: https://drive.google.com/uc?id=1C3jQYpkav8xVx80COdNjevix5kJ6kovh
      - `Alex Xu`
+
        Co-leader
 
    * -
@@ -458,6 +464,8 @@ Embedded Vision 1
      - `Vaastav Arora`
      - .. image:: https://drive.google.com/uc?id=1iYwls-HfhBTdhomnDydzSjf-TqXVZ5XJ
      - `Abhinav Goel`
+
+       Doctoral Student
    
 Embedded Vision 2
 #################
@@ -473,10 +481,13 @@ train machine models for another datasets with few labels.
 
    * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
      - `Ashley Kim`
+
        Leader
+
        CAM² Leader
      - .. image:: https://drive.google.com/uc?id=1db-0VtllDb1sU5MeqnmOT9WKNMYsPy5z
      - `Li Yon Tan`
+
        Co-leader
 
    * - .. image:: https://drive.google.com/uc?id=1RbbxJV5LEmUpPmfMcUU9V457Ww4wtN2t
@@ -501,8 +512,14 @@ train machine models for another datasets with few labels.
 
    * - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
      - `Caleb Tung`
+
+       Doctoral Student
      - .. image:: https://drive.google.com/uc?id=12g4phl1MKM0ajAALyiChi91guQAG9HtJ
      - `Ryan Dailey`
+
+       Masters Student
+
+       Teaching Assistant
    
 Crowdsourcing for Data Bias
 ###########################
@@ -516,9 +533,11 @@ datasets.
 
    * - .. image:: https://drive.google.com/uc?id=1BgdG9XYcrmdMtdSbePpp324jwdnwl_7p
      - `Xiao Hu`
+
        Leader
      - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
      - `Haobo Wang`
+
        Co-leader
 
    * -
@@ -543,13 +562,16 @@ Use computer vision to calculate the sizes of trees
 
    * - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
      - `Yezhi Shen`
+
        Leader
      -
      - `Minh Luong Nguyen`
+
        Co-leader
 
    * - .. image:: https://drive.google.com/uc?id=1GeeVgSnl4Fwf-rlIFlG5LuSohcMMIpTi
      - `Nick Eliopoulos`
+
        CAM² Leader
      -
      - `Ya Ling Tsai`
@@ -575,9 +597,11 @@ Track human activities and understand how they use designed space.
 
    * - .. image:: https://avatars3.githubusercontent.com/u/20303922?s=460&v=4
      - `Moiz Rasheed`
+
        Leader
      - .. image:: https://media.licdn.com/dms/image/C4E03AQHxkkJzNsdJIQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=stc2udoK3PmShUEkelW3M-XpkalZ4mo9_iHmU7YERJ8
      - `Ethan Glaser`
+
        Co-leader
 
    * -
@@ -594,6 +618,8 @@ Track human activities and understand how they use designed space.
      - `Seungjoon Rhie`
      - .. image:: https://drive.google.com/uc?id=12tE6ZiBLraMpfRq_C1HrqtN8Xv5PFEYY
      - `Sara Aghajanzadeh`
+
+       Masters Student
    
 Software Engineering
 #######################
@@ -603,6 +629,7 @@ Software Engineering
 
    * - .. image:: https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG
      - `Noah Curran`
+
        Leader
      - .. image:: https://drive.google.com/uc?id=1UVhUsYnT9iUUBgFq6GAv6hFEtjxjZcND
      - `Weiqing Huang`
@@ -629,6 +656,97 @@ Software Engineering
      
 Alumni
 ~~~~~~
+
+.. list-table::
+   :widths: 20 20 20
+
+   * - Achinthya Soordelu
+     - James Lee
+     - He Li
+   * - Anthony Fennell
+     - Jenil Patel
+     - Ehren Marschall
+   * - Fengjian Pan
+     - Nirmal Asokan
+     - Sanghyun Cho
+   * - Shengli Sui
+     - Woojin Kim
+     - Ajay Gopakumar
+   * - Jiancheng Wang
+     - Sitian Lu
+     - Juncheng Tang
+   * - Milos Malesevic
+     - Mina Guo
+     - Hanyang Liu
+   * - Zhenming Zhang
+     - Zaiwei Zhang
+     - Jiaju Yue
+   * - Huanyi Guo
+     - Jeanne Deng
+     - Zhenming Zhao
+   * - Anthony Kang
+     - Qingshuang Chen
+     - Yuhao Chen
+   * - Borui Chen
+     - Sriram Rangaramanujan
+     - James Tay
+   * - Kyle Mcnulty
+     - Seth Bontrager
+     - Pranjit Kalita
+   * - Subhav Ramachandran
+     - Everett Berry
+     - Erik Rozolis
+   * - Bolun Zhang
+     - Andrew Green
+     - Yukun An
+   * - Daniel Dilger
+     - Yexin Wang
+     - Zhifan Zeng
+   * - Joseph Sweeney
+     - Ryan Schlueter
+     - John Laiman
+   * - Jay Patel
+     - Yutong Huang
+     - Yuxiang Zi
+   * - Zhanxiang Hua
+     - Weizhi Li
+     - Yash Pundlik
+   * - Ramyak Singh
+     - Nanxin Jin
+     - Kyle Martin
+   * - Hao Zou
+     - Sam Yellin
+     - Wenzhong Duan
+   * - Aparna Pidaparthi
+     - Changyu Li
+     - Deepika Aggrawal
+   * - Hanwen Huang
+     - Hussni Mohd Zakir
+     - Sihao Yin
+   * - Weiqing Huang
+     - Christopher Jovanovic
+     - Ahmed Kaseb
+   * - Wengyan Chan
+     - Meera Haridasa
+     - Deeptanshu Malik
+   * - Vadim Nikiforov
+     - Matthew Fitzgerald
+     - Youngsol Koh
+   * - Mehmet Alp Aysan
+     - Cailey Farrell
+     - Yifan Li
+   * - Lucas Neumann
+     - Robert Gitau
+     - Zhi Kai Tan
+   * - Spencer Huston
+     - Mohamad Alani
+     - Lucas Wiles
+   * - Yuxin Zhang
+     - Chau Minh Nguyen
+     - Shunqiao Huang
+   * - Minh Nguyen
+     - Dhruv Swarup
+     -
 
 Video by Current and Former Members
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
