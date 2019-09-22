@@ -410,29 +410,33 @@ train machine models for another datasets with few labels.
 
 .. list-table::
    :widths: 10 20 10 20
-
    * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
-
      - `Ashley Kim`
-       
        Leader
-     - 
-     - `Damini	Rijhwani`
-   * - .. image:: https://drive.google.com/file/d/1etAImRFxQgc-Fru8Zch0CknuzwS3P9tf/view?usp=sharing
-     - `Chiche Tsai`
-     - .. image:: https://drive.google.com/open?id=1db-0VtllDb1sU5MeqnmOT9WKNMYsPy5z
+     - .. image:: https://drive.google.com/uc?id=1db-0VtllDb1sU5MeqnmOT9WKNMYsPy5z
      - `Li Yon Tan`
-
-   * - .. image:: https://drive.google.com/uc?id=1Qu7L33SNwQtBw8Qx-4s-Fm9oIUq9v7G-
-     - `Kirthi Shankar	Sivamani`
+       Leader
+   * - .. image:: https://drive.google.com/uc?id=1RbbxJV5LEmUpPmfMcUU9V457Ww4wtN2t
+     - `Isha Ghodgaonkar`
+     - .. image:: https://drive.google.com/uc?id=1Y7Ew3_OUSKDagQ7nOkRKOpYV1DhrPdi7
+     - `Fischer Bordwell`
+   * - .. image:: https://drive.google.com/uc?id=1PoRMRN5OFqoEFkuTo5IBZ3F1P07qDYBr
+     - `Kirthi Shankar Sivamani`
      -
-     - `Esteban Gorostiaga`
-
+     - `Shuhao Xing`
    * -
-     - `Shuhao 	Xing`
+     - `Ziyad Alajmi`
      -
-     -
-   
+     - `Jackson Moffet`
+   * -
+     - `Arnav Ballani`
+     - .. image:: https://drive.google.com/uc?id=1bRRgMDNL1GA8tofA1orS_T47dp-thl4A
+     - `Chiche Tsai`
+   * - .. image:: https://1drv.ms/u/s!AvvT9f1RiwGbgYh0Q1zOsl1NMMv6mA?e=UdP08H
+     - `Caleb Tung`
+     - .. image:: https://drive.google.com/uc?id=12g4phl1MKM0ajAALyiChi91guQAG9HtJ
+     - `Ryan Dailey`
+
 Crowdsourcing for Data Bias
 ###########################
 
@@ -473,20 +477,20 @@ Use computer vision to calculate the sizes of trees
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://drive.google.com/uc?id=1GeeVgSnl4Fwf-rlIFlG5LuSohcMMIpTi
-     - `Nick Eliopoulos`
-     - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
+   * - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
      - `Yezhi Shen`
-
+     -
+     - `Minh Luong Nguyen`
+   * - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
+     - `Nick Eliopoulos`
+     -
+     - `Ya Ling Tsai`
    * -
-     - `Yuxin Zhang`
+     - `Carolyn Tustin`
      -
-     - `Vaastav Arora`
-
+     - `Zoe Yang`
    * -
-     - `Minh Nguyen`
-     -
-     -
+     - `David Jarufe`
 
 Human Behavior
 ##############
