@@ -304,7 +304,7 @@ Faculty
        
        Landscape Architecture, Purdue
      - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image92690
-     - `Dave Capperlleri
+     - `Dave Cappelleri
        <https://engineering.purdue.edu/ME/People/ptProfile?id=92669>`__
        
        Mechanical Engineering, Purdue
