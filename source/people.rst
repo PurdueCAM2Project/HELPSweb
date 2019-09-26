@@ -378,6 +378,9 @@ Undergraduate Students and 2019 Summer Teams
 Image Database
 ##############
 
+Manage images and video so that they can be searched.
+
+
 .. list-table::
    :widths: 10 20 10 20
 
@@ -385,23 +388,26 @@ Image Database
      - `Sripath Mishra`
 
        Leader
-     -
+     - .. image:: https://drive.google.com/uc?id=1TfZn-I0Mk_lvY-cMontY8f1u9o5Zvc-y
      - `Akshay Pawar`
 
        Co-leader
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=14OXZoRyCMuddHLMNwDz4NaWZcBq2FECA
      - `Aditya Chakraborty`
-     -
+     - .. image:: https://avatars3.githubusercontent.com/u/42661845?s=400&v=4
      - `Hojoung Jang`
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1mjsB6izNO3fZF1E0umecBtGPN1t7nr_W
      - `Ethan Lee`
      - .. image:: https://drive.google.com/uc?id=1xyr6ruLzgOX8H5H5SrBH7F_rJrRmwx7y
      - `Vina Nguyen`
    
 Drone Video
 ###########
+
+Create datasets of drone video, recognize objects, estimate the sizes.
+
 
 .. list-table::
    :widths: 10 20 10 20
@@ -415,9 +421,9 @@ Drone Video
 
        Co-leader
 
-   * -
+   * - .. image:: https://i.ibb.co/4SB910F/20190617-180018.jpg
      - `Avanish Subbiah`
-     -
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UMG8L5VAL-9052b09b9f0a-512
      - `Rufat Imanov`
 
    * - .. image:: https://drive.google.com/uc?id=1Yv1UB8v2LEjDsRCaCDilNzI68hoDAOXf
@@ -433,6 +439,9 @@ Drone Video
 Embedded Vision 1
 #################
 
+Detect and encrypt faces to protect privacy using embedded computer.
+
+
 .. list-table::
    :widths: 10 20 10 20
 
@@ -445,9 +454,9 @@ Embedded Vision 1
 
        Co-leader
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1aoA9YoFKVrmxOqf3kYcDr6USiYJSIFre
      - `Raghu Selvaraj`
-     -
+     - .. image:: https://drive.google.com/uc?id=1RUriBMS5XchLbjWiRWTwOO2XHCpCrf1R
      - `Siddharth Srinivasan`
 
    * -
@@ -497,15 +506,15 @@ train machine models for another datasets with few labels.
 
    * - .. image:: https://drive.google.com/uc?id=1PoRMRN5OFqoEFkuTo5IBZ3F1P07qDYBr
      - `Kirthi Shankar Sivamani`
-     -
+     - .. image:: https://drive.google.com/uc?id=1CNGW_coyipjeEnaR-53Da0HA0VYZ5dqU
      - `Shuhao Xing`
 
-   * -
+   * - .. image:: https://i.ibb.co/Y3yxZqX/CC2-DCFFF-3559-4727-9179-012-A628-AA161.jpg
      - `Ziyad Alajmi`
-     -
+     - .. image:: https://media.licdn.com/dms/image/C5603AQHUeEhI5uCp9Q/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=f63UsWOOkgHQdK6rIRXOKJ4IShVMj1Csw1Aq5RQo1XM
      - `Jackson Moffet`
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1atjrbMChToGU1xv_pKpQios6tEGRx6yM
      - `Arnav Ballani`
      - .. image:: https://drive.google.com/uc?id=1bRRgMDNL1GA8tofA1orS_T47dp-thl4A
      - `Chiche Tsai`
@@ -524,8 +533,7 @@ train machine models for another datasets with few labels.
 Crowdsourcing for Data Bias
 ###########################
 
-Use crowd (i.e., humans) to identify unintentional biases in visual
-datasets.
+Use crowdsourcing to identify unintended bias in visual data and label data.
 
 
 .. list-table::
@@ -540,7 +548,7 @@ datasets.
 
        Co-leader
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=12rvFZU_tTlGv1j80rsu-qzNliHma_ePJ
      - `Somesh Dube`
      - .. image:: https://drive.google.com/uc?id=1Pik3biv3epBSKMobHHiqH8FcG9679ZSu
      - `Kaiwen Yu`
@@ -553,8 +561,7 @@ datasets.
 Forest Inventory
 ################
 
-Use computer vision to calculate the sizes of trees
-(called diameter at breath height, or DBH).
+Use computer vision to recognize tree species and estimate their sizes.
 
 
 .. list-table::
@@ -564,7 +571,7 @@ Use computer vision to calculate the sizes of trees
      - `Yezhi Shen`
 
        Leader
-     -
+     - .. image:: https://drive.google.com/uc?id=1wP9UDJhC13F_HkUZamnEa__jqSKusrJI
      - `Minh Luong Nguyen`
 
        Co-leader
@@ -573,15 +580,15 @@ Use computer vision to calculate the sizes of trees
      - `Nick Eliopoulos`
 
        CAM² Leader
-     -
+     - .. image:: https://i.ibb.co/Jxfdyb8/IMG-9250.jpg
      - `Ya Ling Tsai`
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1_NsIm075R4bcxzz8pAfUqEmgLKoukgl8
      - `Carolyn Tustin`
      -
      - `Zoe Yang`
 
-   * -
+   * - .. image:: https://i.ibb.co/y5GW8Hk/Selfie-2.jpg
      - `David Jarufe`
      -
      -
@@ -589,7 +596,7 @@ Use computer vision to calculate the sizes of trees
 Human Behavior in Video
 #######################
 
-Track human activities and understand how they use designed space.
+Understand human behavior and obtain aggregate information from video.
 
 
 .. list-table::
@@ -604,17 +611,17 @@ Track human activities and understand how they use designed space.
 
        Co-leader
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1wzCPewNOxMyl3QBXAuwVUN_jeLqL8hnK
      - `Wenxi Zhang`
      - .. image:: https://drive.google.com/uc?id=15MjIOEr5k1XvctTmnAM3yzy3JduC0MJm
      - `Taher Dohadwala`
 
-   * -
+   * - .. image:: https://i.ibb.co/89QDmQn/F7-AFDB67-67-B7-4-D85-BB04-3-D2-A5-C87-C14-A.jpg
      - `Xiangyu Zhang`
-     -
+     - .. image:: https://i.ibb.co/Zmf1XxM/IMG-20190816-WA0084.jpg
      - `Amogh Shanbhag`
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1PJkmhvK36ClMnUlUpWYHRnaAD1bWw8LX
      - `Seungjoon Rhie`
      - .. image:: https://drive.google.com/uc?id=12tE6ZiBLraMpfRq_C1HrqtN8Xv5PFEYY
      - `Sara Aghajanzadeh`
@@ -623,6 +630,9 @@ Track human activities and understand how they use designed space.
    
 Software Engineering
 #######################
+
+Create procedure for developing high-quality and reproducible software.
+
 
 .. list-table::
    :widths: 10 20 10 20
@@ -634,19 +644,19 @@ Software Engineering
      - .. image:: https://drive.google.com/uc?id=1UVhUsYnT9iUUBgFq6GAv6hFEtjxjZcND
      - `Weiqing Huang`
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1IbObkujdVo4Y-ratjmZIHOdl43GYa58b
      - `David Wood`
      - 
      - `Connor Chadwick`
 
-   * -
+   * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
      - `Ryan Firestone`
-     -
+     - .. image:: https://i.imgur.com/KJNnNDT.jpg
      - `Akhil Chinnakotla`
 
-   * -
+   * - .. image:: https://media.licdn.com/dms/image/C5603AQFUK-Ix0GJN5w/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=DKPkhPfHL7bYsoEPXrK7rSB9HRUcuEWwy20zMMlZU6c
      - `Esteban Gorostiaga Zubizarreta`
-     -
+     - .. image:: https://drive.google.com/uc?id=1XLmnG0oSQd_K9EFnKRg9uIQjE63eww9N
      - `ZhiFei Chen`
 
    * -
