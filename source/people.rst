@@ -372,8 +372,11 @@ Graduate Students
    * - .. image:: https://drive.google.com/uc?id=1kIYIrkXnICIb2odq5WWGlsdCYv4fTpVU
      - Ryan Dailey: Master Student, Discover Network Cameras
 
-Undergraduate Students and 2019 Summer Teams
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   * - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
+     - Caleb Tung: Doctoral Student, Using Contextual Information from Network Cameras to Improve and Evaluate Computer Vision Solutions
+
+Undergraduate Students and 2019 Fall Teams
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Image Database
 ##############
@@ -431,7 +434,7 @@ Create datasets of drone video, recognize objects, estimate the sizes.
      - .. image:: https://i.imgur.com/c2lePxA.jpg
      - `Justin Qualley`
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1M3PTWnGPrRkv2ntr_Furr-gh1VezKSL_
      - `Victor Oduduabasi`
      -
      -
@@ -646,7 +649,7 @@ Create procedure for developing high-quality and reproducible software.
 
    * - .. image:: https://drive.google.com/uc?id=1IbObkujdVo4Y-ratjmZIHOdl43GYa58b
      - `David Wood`
-     - 
+     - .. image:: https://media.licdn.com/dms/image/C4D03AQHGv7uBGa82HQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=feI1rxEOBoBqfPS-apH1UP6erLCRYGoKrL4MFLA-RJ4
      - `Connor Chadwick`
 
    * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
