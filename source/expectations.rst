@@ -28,9 +28,9 @@ Course Calender
 +-------------+--------------------------------------------------------------------------------------------+
 | **(8/19)**  | Setup Notebook on Confluence (See `Setting up your Confluence Page`_)                      |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(8/26)**  | Make sure notebook is updated                                                              |
+| **(8/26)**  | Read the `Research Notebook`_ requirements carefully and begin to update your notebook.    |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(9/2)**   | Make sure notebook is updated                                                              |
+| **(9/2)**   | Make sure notebook is updated this is the first week it may be checked.                    |
 +-------------+--------------------------------------------------------------------------------------------+
 |             | `Description of the Problem Presentation`_ given during lab this week and                  |
 | **(9/9)**   | provide Peer Feedback using the link in `Peer Feedback`_.                                  |
@@ -75,7 +75,14 @@ Course Calender
 +-------------+--------------------------------------------------------------------------------------------+
 | **(11/11)** | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(11/18)** | `Method Draft`_ due **Sunday 11/24 @ 11:59PM on BlackBoard**                               |
+| **(11/18)** |                                                                                            |
+|             | Purdue Fall Undergraduate Research Exposition **Monday, November 18, 2019**                |
+|             |                                                                                            |
+|             | Oral presentations: 8:30AM-11:30AM in STEW 214                                             |
+|             |                                                                                            |
+|             | Poster Symposium: 1:30PM-3:30PM in PMU Ballrooms                                           |
+|             |                                                                                            |
+|             | `Method Draft`_ due **Sunday 11/24 @ 11:59PM on BlackBoard**                               |
 |             | (Submission should be PDF and link to Overleaf Project)                                    |
 |             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
@@ -84,27 +91,23 @@ Course Calender
 |             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(12/2)**  |                                                                                            |
-|             | Second CATME Peer Review Due **Friday 12/6 @ 11:59PM**                                     |
+| **(12/2)**  | Second CATME Peer Review Due **Friday 12/6 @ 5:00PM**                                      |
 |             | (Link will be sent via email)                                                              |
 |             |                                                                                            |
-|             | **Final Group Paper Due Monday 12/8 @ 11:59PM on BlackBoard**                              |
+|             | **Final Group Paper Due Friday 12/6 @ 5:00PM on BlackBoard**                               |
 |             | (Submission should be PDF and link to Overleaf Project)                                    |
 |             |                                                                                            |
-|             | Make sure notebook is updated                                                              |
+|             | Final Notebook Due **Friday 12/6 @ 5:00PM** (Will be checked on Confluence)                |
 +-------------+--------------------------------------------------------------------------------------------+
 | **(12/9)**  | Group Paper Review Due **Friday 12/13 @ 11:59PM on BlackBoard**                            |
 |             |                                                                                            |
 |             | `Final Presentation`_ (Scheduled with Professor Lu)                                        |
-|             |                                                                                            |
-|             | Final Notebook Due                                                                         |
 +-------------+--------------------------------------------------------------------------------------------+
-
 
 Research Notebook
 ~~~~~~~~~~~~~~~~~~~
 
-Each student is required to keep a notebook of their activity on the project throughout the semester. Good researchers keep detailed notes so their work can be replicated easily. Keeping good notes is also a primary method used for you to prove your contribution to the project. 
+Each student is required to keep a notebook of their activity on the project throughout the semester. Good researchers keep detailed notes so their work can be replicated easily. Keeping good notes is also a primary method used for you to prove your contribution to the project. You are expected to update your notes a several times a week. Purdue expects you to spend 3-5 hours outside of lab per credit hour on your weekly assignments. This time should be reflected in your notes each week to receive credit. 
 
 **Q:** *What should I put in my notes?*
 ########################################
@@ -130,8 +133,70 @@ The notes you create must be shared on your team Confluence page. Each student s
 Setting up your Confluence Page
 +++++++++++++++++++++++++++++++
 
-Instructions coming soon!
+The CAM2 Confluence Pages for all the teams can be accessed from the `Purdue CAM2 Research Team Directory <https://wiki.itap.purdue.edu/display/PCAM2/Purdue+CAM2+Research+Team+Directory>`_. After you navigate to the team directory page select your team from the schedule. For this example I will use the Forest Inventory Analysis team. 
 
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/TeamDirectory.png
+   :align: center
+   :target: https://wiki.itap.purdue.edu/display/PCAM2/Purdue+CAM2+Research+Team+Directory
+   :alt: Team Directory
+
+After you have selected your team, select your name from the team member list. Each name will appear in red until your page is created. When you click on a link that a page has not been created for it will automatically create a new page. 
+
+
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/TeamPage.png
+   :align: center
+   :target: https://wiki.itap.purdue.edu/display/PCAM2/Forest+Inventory+Analysis
+   :alt: Team Page
+
+The page that is created under your name will be where you keep your notes. By default a black page is created. You can add formatting to organize your notes from here. We recommend you use two column format for your notes as highlighted below.
+
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/NotesPage.png
+   :align: center
+   :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/NotesPage.png
+   :alt: Notes Page
+
+Using two column format will allow you to keep track of each day in a separate entry by labeling it with a date on the left. 
+
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/ExamplePost.png
+   :align: center
+   :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/ExamplePost.png
+   :alt: Example Post
+
+You should insert data, graphs, and links to any other resources you mention in your posts. Pictures can be uploaded from other web pages or directly to your page. 
+
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/InsertPictures.png
+   :align: center
+   :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/InsertPictures.png
+   :alt: Insert Pictures
+
+If you reference code that you have written in your notes insert a link to the pull request or to the lines in GitHub. This allows you to go back and give detailed examples of exactly what you contributed throughout the semester. 
+
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/InsertPRLink.png
+   :align: center
+   :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/InsertPRLink.png
+   :alt: Insert PR Link
+
+You should create new sections each new entry to your notes. New sections can be created by clicking the "Add section" button in the tool bar. Make sure you can follow each entry in your notebook and that they are easy to understand. The more detail you add the better your notes will be. 
+
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/NewSection.png
+   :align: center
+   :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/NewSection.png
+   :alt: Insert New Section
+
+Make sure you also take detailed notes during the weekly meeting. If you are missing meeting notes it will be easy for points to be deducted from your note grades. You can also add task lists and check boxes to your meeting notes to remind yourself of tasks you are assigned for each week. When you are done updating your notes for the week be sure to click "Update" at the bottom of the page. Confluence also allows you to add comments to your updates and notify people who follow your page.
+
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/Update.png
+   :align: center
+   :alt: Update
+
+Remember, you are expected to update your notes several times a week. Confluence provides many other tools that were not reviewed in this section. You are free to use any and all of these tools to keep track of your progress. You may also create new types of pages under your notebook page if this helps you better organize your notes. This can be done by clicking the "..." button next to the "Create" button **in your note directory**. When you click the "Create" or "..." button a new page will automatically be created under your current directory. This should be avoided on pages above your personal notes page because you **will not be able to remove any pages you crate**. If you accidentally create a new page you will have to ask an admin to remove the page. 
+
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/CreateNewPage.png
+   :align: center
+   :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/CreateNewPage.png
+   :alt: Create New Page
+
+Note that you must also create a link to your new page or else it will not be accessible directly. 
 
 **Q:** *How will my notes be evaluated?*
 ########################################################
@@ -142,6 +207,7 @@ The notes will be graded at least 5 times throughout the semester at random inte
 #) **Reproducibility** - Can your progress be reproduced by your teammates only from your notes? Do you link to other resources you used? 
 #) **Regularly Updated** - Are the notes current to your team's progress? Do you have notes for all team meetings?
 
+You are expected to update your notes a several times a week. You are expected to spend 3-5 hours outside of lab per credit hour on your weekly assignments. This time should be reflected in your notes each week to receive credit. 
 
 Presentations
 ~~~~~~~~~~~~~~
@@ -362,13 +428,13 @@ Participation is required for CAM2 students and gives them an opportunity to sho
 
 In the past, many CAM2 teams have participated in this event.
 
-.. |SWEExample| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/SoftwareEngineeringExample_thumb.png
-   :width: 50 %
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/SoftwareEngineeringExample_thumb.png
+   :width: 45 %
    :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/document/SoftwareEngineeringExample.pdf
    :alt: Software Engineering Example
 
-.. |ImageDBExample| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/ImageDBExample_thumb.png
-   :width: 50 %
+.. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/ImageDBExample_thumb.png
+   :width: 45 %
    :target: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/document/ImageDBExample.pdf
    :alt: Image DB Example
 

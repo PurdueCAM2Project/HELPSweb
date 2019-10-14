@@ -304,7 +304,7 @@ Faculty
        
        Landscape Architecture, Purdue
      - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image92690
-     - `Dave Capperlleri
+     - `Dave Cappelleri
        <https://engineering.purdue.edu/ME/People/ptProfile?id=92669>`__
        
        Mechanical Engineering, Purdue
@@ -372,35 +372,115 @@ Graduate Students
    * - .. image:: https://drive.google.com/uc?id=1kIYIrkXnICIb2odq5WWGlsdCYv4fTpVU
      - Ryan Dailey: Master Student, Discover Network Cameras
 
-Undergraduate Students and 2019 Summer Teams
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   * - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
+     - Caleb Tung: Doctoral Student, Using Contextual Information from Network Cameras to Improve and Evaluate Computer Vision Solutions
+
+Undergraduate Students and 2019 Fall Teams
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Image Database
 ##############
 
+Manage images and video so that they can be searched.
+
+
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://drive.google.com/uc?id=1RWw0U_QwKhY8ZioiPdDmlN2_VEros3Zt
-     - `Shunqiao Huang`
-       
+   * - .. image:: https://drive.google.com/uc?id=1F38cu70XGcBK2Z-HWBWdcYMAB9EClQZd
+     - `Sripath Mishra`
+
        Leader
-     - 
-     - `Hojoung	Jang`
-
-   * -
+     - .. image:: https://drive.google.com/uc?id=1TfZn-I0Mk_lvY-cMontY8f1u9o5Zvc-y
      - `Akshay Pawar`
-     -
-     - `Aditya Chakraborty`
 
-   * -
-     - `Lucas Wiles`
+       Co-leader
+
+   * - .. image:: https://drive.google.com/uc?id=14OXZoRyCMuddHLMNwDz4NaWZcBq2FECA
+     - `Aditya Chakraborty`
+     - .. image:: https://avatars3.githubusercontent.com/u/42661845?s=400&v=4
+     - `Hojoung Jang`
+
+   * - .. image:: https://drive.google.com/uc?id=1mjsB6izNO3fZF1E0umecBtGPN1t7nr_W
+     - `Ethan Lee`
+     - .. image:: https://drive.google.com/uc?id=1xyr6ruLzgOX8H5H5SrBH7F_rJrRmwx7y
+     - `Vina Nguyen`
+   
+Drone Video
+###########
+
+Create datasets of drone video, recognize objects, estimate the sizes.
+
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1QerVKIreOrBjZdoANEm4D0PlNcoyv79Q
+     - `Karthik Maiya`
+
+       Leader
+     - .. image:: https://avatars3.githubusercontent.com/u/41479950?s=400&u=d252078920abb4e07f448b0c83c5ad14c32a1ef4&v=4
+     - `Jacob Harmon`
+
+       Co-leader
+
+   * - .. image:: https://i.ibb.co/4SB910F/20190617-180018.jpg
+     - `Avanish Subbiah`
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UMG8L5VAL-9052b09b9f0a-512
+     - `Rufat Imanov`
+
+   * - .. image:: https://drive.google.com/uc?id=1Yv1UB8v2LEjDsRCaCDilNzI68hoDAOXf
+     - `Katherine Sandys`
+     - .. image:: https://i.imgur.com/c2lePxA.jpg
+     - `Justin Qualley`
+
+   * - .. image:: https://drive.google.com/uc?id=1M3PTWnGPrRkv2ntr_Furr-gh1VezKSL_
+     - `Victor Oduduabasi`
      -
      -
    
+Embedded Vision 1
+#################
 
-Dataset Distinctiveness
-#######################
+Detect and encrypt faces to protect privacy using embedded computer.
+
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1QE0RJBLacv9q-zbAvMf5JrZiHTx2htl_
+     - `Nobelle Tay`
+
+       Leader
+     - .. image:: https://drive.google.com/uc?id=1C3jQYpkav8xVx80COdNjevix5kJ6kovh
+     - `Alex Xu`
+
+       Co-leader
+
+   * - .. image:: https://drive.google.com/uc?id=1aoA9YoFKVrmxOqf3kYcDr6USiYJSIFre
+     - `Raghu Selvaraj`
+     - .. image:: https://drive.google.com/uc?id=1RUriBMS5XchLbjWiRWTwOO2XHCpCrf1R
+     - `Siddharth Srinivasan`
+
+   * -
+     - `Uday Thapar`
+     - .. image:: https://media.licdn.com/dms/image/C5603AQFenyO-6ys8tA/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=TCE4sLt89Yt6rdJzSgXqplfv1EV7k54wxdmhhBXK6Vc
+     - `Andrew Liu`
+
+   * - .. image:: https://drive.google.com/uc?id=1bZxvHiZ-H7ACq55FpJQqbJgj8NZjZlcb
+     - `Peter Huang`
+     - .. image:: https://drive.google.com/uc?id=14-x3C-GKjClfZxBL2ZKI7ASRCTa26b9u
+     - `Youngsik Yoon`
+
+   * - .. image:: https://drive.google.com/uc?id=1aHllBZ0vsx_i_5n7P0IQG7ddCvaBcXjZ
+     - `Vaastav Arora`
+     - .. image:: https://drive.google.com/uc?id=1iYwls-HfhBTdhomnDydzSjf-TqXVZ5XJ
+     - `Abhinav Goel`
+
+       Doctoral Student
+   
+Embedded Vision 2
+#################
 
 Identify the specific features (called distinctiveness) of
 different visual dataset. Use one dataset with many labels to help
@@ -412,28 +492,51 @@ train machine models for another datasets with few labels.
    :widths: 10 20 10 20
 
    * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
-
      - `Ashley Kim`
-       
+
        Leader
-     - 
-     - `Damini	Rijhwani`
 
-   * - .. image:: https://drive.google.com/uc?id=1Qu7L33SNwQtBw8Qx-4s-Fm9oIUq9v7G-
-     - `Kirthi Shankar	Sivamani`
-     -
-     - `Esteban Gorostiaga`
+       CAM² Leader
+     - .. image:: https://drive.google.com/uc?id=1db-0VtllDb1sU5MeqnmOT9WKNMYsPy5z
+     - `Li Yon Tan`
 
-   * -
-     - `Shuhao 	Xing`
-     -
-     -
+       Co-leader
+
+   * - .. image:: https://drive.google.com/uc?id=1RbbxJV5LEmUpPmfMcUU9V457Ww4wtN2t
+     - `Isha Ghodgaonkar`
+     - .. image:: https://drive.google.com/uc?id=1Y7Ew3_OUSKDagQ7nOkRKOpYV1DhrPdi7
+     - `Fischer Bordwell`
+
+   * - .. image:: https://drive.google.com/uc?id=1PoRMRN5OFqoEFkuTo5IBZ3F1P07qDYBr
+     - `Kirthi Shankar Sivamani`
+     - .. image:: https://drive.google.com/uc?id=1CNGW_coyipjeEnaR-53Da0HA0VYZ5dqU
+     - `Shuhao Xing`
+
+   * - .. image:: https://i.ibb.co/Y3yxZqX/CC2-DCFFF-3559-4727-9179-012-A628-AA161.jpg
+     - `Ziyad Alajmi`
+     - .. image:: https://media.licdn.com/dms/image/C5603AQHUeEhI5uCp9Q/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=f63UsWOOkgHQdK6rIRXOKJ4IShVMj1Csw1Aq5RQo1XM
+     - `Jackson Moffet`
+
+   * - .. image:: https://drive.google.com/uc?id=1atjrbMChToGU1xv_pKpQios6tEGRx6yM
+     - `Arnav Ballani`
+     - .. image:: https://drive.google.com/uc?id=1bRRgMDNL1GA8tofA1orS_T47dp-thl4A
+     - `Chiche Tsai`
+
+   * - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
+     - `Caleb Tung`
+
+       Doctoral Student
+     - .. image:: https://drive.google.com/uc?id=12g4phl1MKM0ajAALyiChi91guQAG9HtJ
+     - `Ryan Dailey`
+
+       Masters Student
+
+       Teaching Assistant
    
 Crowdsourcing for Data Bias
 ###########################
 
-Use crowd (i.e., humans) to identify unintentional biases in visual
-datasets.
+Use crowdsourcing to identify unintended bias in visual data and label data.
 
 
 .. list-table::
@@ -441,71 +544,222 @@ datasets.
 
    * - .. image:: https://drive.google.com/uc?id=1BgdG9XYcrmdMtdSbePpp324jwdnwl_7p
      - `Xiao Hu`
-       
-       Co-Leader
-     -  .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
+
+       Leader
+     - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
      - `Haobo Wang`
 
-       Co-Leader
+       Co-leader
 
-   * - .. image:: https://drive.google.com/uc?id=1GSO6wVspOBuu881yg-5Bg2E5xEA1gSMJ
+   * - .. image:: https://drive.google.com/uc?id=12rvFZU_tTlGv1j80rsu-qzNliHma_ePJ
+     - `Somesh Dube`
+     - .. image:: https://drive.google.com/uc?id=1Pik3biv3epBSKMobHHiqH8FcG9679ZSu
      - `Kaiwen Yu`
+
+   * - .. image:: https://drive.google.com/uc?id=1mwPyRreZhhwa225Exj_fa5NaG7fV_V5q
+     - `Gore Kao`
      - .. image:: https://drive.google.com/uc?id=1u5dbejyw-62y5x6UPKEtPo3DFd4AtYCc
      - `Anirudh Vegesana`
-
-   * -
-     - `Somesh	Dube`
-     -
-     -
-     
-
+   
 Forest Inventory
 ################
 
-Use computer vision to calculate the sizes of trees
-(called diameter at breath height, or DBH).
+Use computer vision to recognize tree species and estimate their sizes.
 
 
 .. list-table::
    :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
+     - `Yezhi Shen`
+
+       Leader
+     - .. image:: https://drive.google.com/uc?id=1wP9UDJhC13F_HkUZamnEa__jqSKusrJI
+     - `Minh Luong Nguyen`
+
+       Co-leader
 
    * - .. image:: https://drive.google.com/uc?id=1GeeVgSnl4Fwf-rlIFlG5LuSohcMMIpTi
      - `Nick Eliopoulos`
-     - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
-     - `Yezhi Shen`
 
-   * -
-     - `Yuxin Zhang`
+       CAM² Leader
+     - .. image:: https://i.ibb.co/Jxfdyb8/IMG-9250.jpg
+     - `Ya Ling Tsai`
+
+   * - .. image:: https://drive.google.com/uc?id=1_NsIm075R4bcxzz8pAfUqEmgLKoukgl8
+     - `Carolyn Tustin`
      -
-     - `Vaastav Arora`
+     - `Zoe Yang`
 
-   * -
-     - `Minh Nguyen`
+   * - .. image:: https://i.ibb.co/y5GW8Hk/Selfie-2.jpg
+     - `David Jarufe`
      -
      -
+   
+Human Behavior in Video
+#######################
 
-Human Behavior
-##############
-
-Track human activities and understand how they use designed space.
+Understand human behavior and obtain aggregate information from video.
 
 
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://drive.google.com/uc?id=14FxQ_dr9836vXFBx1YknDQ0rn-QVZHWy
-     - `Mohamad Alani`
-     - .. image:: https://drive.google.com/uc?id=1bZxvHiZ-H7ACq55FpJQqbJgj8NZjZlcb
-     - `Peter Huang`
+   * - .. image:: https://avatars3.githubusercontent.com/u/20303922?s=460&v=4
+     - `Moiz Rasheed`
+
+       Leader
+     - .. image:: https://media.licdn.com/dms/image/C4E03AQHxkkJzNsdJIQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=stc2udoK3PmShUEkelW3M-XpkalZ4mo9_iHmU7YERJ8
+     - `Ethan Glaser`
+
+       Co-leader
+
+   * - .. image:: https://drive.google.com/uc?id=1wzCPewNOxMyl3QBXAuwVUN_jeLqL8hnK
+     - `Wenxi Zhang`
+     - .. image:: https://drive.google.com/uc?id=15MjIOEr5k1XvctTmnAM3yzy3JduC0MJm
+     - `Taher Dohadwala`
+
+   * - .. image:: https://i.ibb.co/89QDmQn/F7-AFDB67-67-B7-4-D85-BB04-3-D2-A5-C87-C14-A.jpg
+     - `Xiangyu Zhang`
+     - .. image:: https://i.ibb.co/Zmf1XxM/IMG-20190816-WA0084.jpg
+     - `Amogh Shanbhag`
+
+   * - .. image:: https://drive.google.com/uc?id=1PJkmhvK36ClMnUlUpWYHRnaAD1bWw8LX
+     - `Seungjoon Rhie`
+     - .. image:: https://drive.google.com/uc?id=12tE6ZiBLraMpfRq_C1HrqtN8Xv5PFEYY
+     - `Sara Aghajanzadeh`
+
+       Masters Student
+   
+Software Engineering
+#######################
+
+Create procedure for developing high-quality and reproducible software.
+
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG
+     - `Noah Curran`
+
+       Leader
+     - .. image:: https://drive.google.com/uc?id=1UVhUsYnT9iUUBgFq6GAv6hFEtjxjZcND
+     - `Weiqing Huang`
+
+   * - .. image:: https://drive.google.com/uc?id=1IbObkujdVo4Y-ratjmZIHOdl43GYa58b
+     - `David Wood`
+     - .. image:: https://media.licdn.com/dms/image/C4D03AQHGv7uBGa82HQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=feI1rxEOBoBqfPS-apH1UP6erLCRYGoKrL4MFLA-RJ4
+     - `Connor Chadwick`
+
+   * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
+     - `Ryan Firestone`
+     - .. image:: https://i.imgur.com/KJNnNDT.jpg
+     - `Akhil Chinnakotla`
+
+   * - .. image:: https://media.licdn.com/dms/image/C5603AQFUK-Ix0GJN5w/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=DKPkhPfHL7bYsoEPXrK7rSB9HRUcuEWwy20zMMlZU6c
+     - `Esteban Gorostiaga Zubizarreta`
+     - .. image:: https://drive.google.com/uc?id=1XLmnG0oSQd_K9EFnKRg9uIQjE63eww9N
+     - `ZhiFei Chen`
 
    * -
-     - `Dhruv Swarup`
+     - `Midori Kisanuki`
      -
-     - `Chau Minh Nguyen`
-   
+     -
      
 Alumni
 ~~~~~~
+
+.. list-table::
+   :widths: 20 20 20
+
+   * - Achinthya Soordelu
+     - James Lee
+     - He Li
+   * - Anthony Fennell
+     - Jenil Patel
+     - Ehren Marschall
+   * - Fengjian Pan
+     - Nirmal Asokan
+     - Sanghyun Cho
+   * - Shengli Sui
+     - Woojin Kim
+     - Ajay Gopakumar
+   * - Jiancheng Wang
+     - Sitian Lu
+     - Juncheng Tang
+   * - Milos Malesevic
+     - Mina Guo
+     - Hanyang Liu
+   * - Zhenming Zhang
+     - Zaiwei Zhang
+     - Jiaju Yue
+   * - Huanyi Guo
+     - Jeanne Deng
+     - Zhenming Zhao
+   * - Anthony Kang
+     - Qingshuang Chen
+     - Yuhao Chen
+   * - Borui Chen
+     - Sriram Rangaramanujan
+     - James Tay
+   * - Kyle Mcnulty
+     - Seth Bontrager
+     - Pranjit Kalita
+   * - Subhav Ramachandran
+     - Everett Berry
+     - Erik Rozolis
+   * - Bolun Zhang
+     - Andrew Green
+     - Yukun An
+   * - Daniel Dilger
+     - Yexin Wang
+     - Zhifan Zeng
+   * - Joseph Sweeney
+     - Ryan Schlueter
+     - John Laiman
+   * - Jay Patel
+     - Yutong Huang
+     - Yuxiang Zi
+   * - Zhanxiang Hua
+     - Weizhi Li
+     - Yash Pundlik
+   * - Ramyak Singh
+     - Nanxin Jin
+     - Kyle Martin
+   * - Hao Zou
+     - Sam Yellin
+     - Wenzhong Duan
+   * - Aparna Pidaparthi
+     - Changyu Li
+     - Deepika Aggrawal
+   * - Hanwen Huang
+     - Hussni Mohd Zakir
+     - Sihao Yin
+   * - Weiqing Huang
+     - Christopher Jovanovic
+     - Ahmed Kaseb
+   * - Wengyan Chan
+     - Meera Haridasa
+     - Deeptanshu Malik
+   * - Vadim Nikiforov
+     - Matthew Fitzgerald
+     - Youngsol Koh
+   * - Mehmet Alp Aysan
+     - Cailey Farrell
+     - Yifan Li
+   * - Lucas Neumann
+     - Robert Gitau
+     - Zhi Kai Tan
+   * - Spencer Huston
+     - Mohamad Alani
+     - Lucas Wiles
+   * - Yuxin Zhang
+     - Chau Minh Nguyen
+     - Shunqiao Huang
+   * - Minh Nguyen
+     - Dhruv Swarup
+     -
 
 Video by Current and Former Members
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
