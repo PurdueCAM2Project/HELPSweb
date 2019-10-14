@@ -713,6 +713,204 @@ real research papers.  A research paper typically takes one or two
 *years* (not weeks, not months) to write. If you want to write a
 research paper quickly, this team is not for you.
 
+Books to Read
+~~~~~~~~~~~~~
+
+If you want to write papers, please read these three books:
+
+- Academic Writing for Graduate Students: Essential Tasks and Skills by John M. Swales and Christine B. Feak
+
+- Style: Lessons in Clarity and Grace by Joseph M. Williams and Joseph Bizup
+
+- The Visual Display of Quantitative Information by Edward R. Tufte
+
+If you want to be successful, you should learn efficiently. One way to
+learn is to read books.  Some students do not read these books and
+want to "learn from mistakes". This is inefficient and extremely
+stupid.  It is like you jumping out from a tall building, break a leg,
+and say, "Oh, gravity exists" or putting your hand in a flame and say,
+"Oh, that hurts."
+
+Some students say, "I have learned writing in high school."  What you
+learned is not "technical writing" and is not helpful. In fact, many
+students learn wrong things.  Some students say, "This is different
+from what my teacher at high school taught me."  Do you know how many
+research paper the teacher has published?  If the answer is zero (or a
+few), please forget what the teacher told you.
+
+The most common mistake when students write papers is that they
+misunderstand the purpose of research papers.  They believe that
+everyone is doing the same thing (like all students doing the same
+homework) and there is no need to explain.
+
+
+Types of Papers
+~~~~~~~~~~~~~~~
+
+Before writing a research paper, it is important to understand the
+purpose.  Roughly speaking, there are four types of research papers.
+
+- Research papers: Present a new solution, a new problem, a new
+  interpretation of existing knowledge, etc.  The key here is *new*.
+  The target readers are people investigating the same or similar
+  research topics.  A good research paper should provide enough
+  details so that experts in this topic can learn something. A good
+  research paper should also have enough overview and references so
+  that new researchers can follow the paper. A good research paper may
+  be read by a few thousand people.  Most new researchers (i.e., you)
+  start by writing such papers.
+
+- Magazine papers: These papers target a wider audience that is not
+  doing the same research topic.  These papers are usually color and
+  have good visual aids: figures, images, drawings, tables ....
+  Magazine papers may be read by many thousand people.
+
+- Survey or tutorial papers: Provide overviews about specific
+  topics. These papers help new researchers in these topics. Survey
+  papers are usually more technical than magazine papers.  A survey
+  paper often refers 50 or more papers and writing such a papers would
+  be difficult for new researchers.  A good survey is more than
+  listing what has been done; a good survey paper identifies what is
+  common among existing work and suggests directions for future
+  improvements.
+
+- Vision papers: Inform the research community what topics to work on
+  in the next ten years. New researchers usually do not write vision
+  papers.
+
+Structure of Research Papers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The rest of this section focuses on research papers that present
+something new.  Please focus on the word **new**.  A good research
+paper should have the following components:
+
+- Why this problem needs to be solved?
+
+- What has been done solving this problem? (also called related work)
+
+- What is wrong in existing solutions?
+
+- What is your method? Describe your method with enough details so
+  that readers can understand how to reproduce your work.
+
+- Why it your method better?  If your method is not better, you have
+  no paper to write.
+
+- How do you know your method is better? How do you evaluate? How much
+  is the method better?  Usually, you need to present numbers.
+
+
+Research papers are usually organized into individual sections. You
+are encouraged to follow the same structure:
+
+Title
+#####
+
+Obviously, the title is the first thing readers see.  Usually, a title
+has only one or two lines. Please choose every word in the title
+carefully. This is the first impression to readers. This is the most
+precious real estate in the entire paper. Make sure every word means
+something important to readers.  Obviously, the first word in the
+title is extremely important. Think carefully about what word you want
+to use.
+
+Some students love to create interesting acronyms and put the acronyms
+as the very first word in a title. This is *unwise* because the
+acronym probably means nothing to readers.  For this research team,
+**you must not use an acronym** in the title because every word must
+mean something important to readers (not authors).  This principle is
+not subject to discussion. Dr. Lu will not waste time on this
+issue. If you disagree, leave this research team.
+
+Authors and Affiliations
+########################
+
+Who has contributed to this paper? Different areas treat authors in
+different ways.  Some areas order authors by last names
+alphabetically. Some areas order authors by contributions- the first
+author has the most contributions. Some areas put students first,
+ordered by contributions, and professors last.  This research adopts
+the convention of ordering authors by contributions and students are
+listed before professors.  Each author's affiliation should be clearly
+described. For conference papers, usually emails are also included.
+Please use your *official* business email addresses, not @gmail,
+@hotmail, or anything like that.
+
+Abstract
+########
+  
+An abstract has about 12 sentences and 200 words with the following structure:
+
+- Problem (2 sentences)
+
+- Existing work and deficiencies (2-3 sentences)
+
+- Your method and why it is better (3 sentences)
+
+- Evaluation methods (2-4 sentence)
+
+- Results and comparison (3 sentences)
+
+Introduction
+############
+
+For a paper, the introduction is approximately 15% of the paper.  An
+introduction usually has four or five paragraphs.
+
+1. Big picture. What is this whole thing about?
+   
+2. Description of the problem and related work. What has been done?
+   This paragraph cites many papers.  The end of this paragraph
+   describes what is wrong in existing work, as a way to get ready
+   for the next paragraph.
+   
+3. Your solution and why it is better. This paragraph should start with
+   "This paper presents a solution ...." 
+   
+4. (optional) [More details about your solution]
+   
+5. Evaluation, comparison, and results.
+
+6. Summary of contributions.   
+   
+7. (optional) Implications
+   
+8. (opitonal) [Structure of the paper]
+
+It is very important that you start a new paragrph where you describe
+what you have done. Help readers understand your paper quickly.
+
+Some students say, "My high school teacher told me a technical paper
+must use only passive voice and past tense."  Before you ask Dr. Lu
+any question, please check how many research papers this teacher has
+published and also read 20 recent research papers.
+
+
+Related Work
+############
+
+This section is appxominately 10% of the paper.  This section should
+cite recent papers that solve the same problems or very similar
+problems.  It is advised to cite papers in the same community as the
+venue you are about to submit to.  If you do not cite any paper in the
+community, why do you submit a paper to this community?
+
+This section servers several purposes: First, inform the readers what
+has been done. If you are a new researcher, you also want to show to
+the readers that "you have done your homework".  Second, you position
+your paper to be a peer among the cited papers.  Third, after
+describing what has been done, you can explain your contributions in
+the proper context.  You can compare your method with existing
+methods.
+
+At the end of this section, you may want to creat a table summarizing
+the difference.  Many papers also provide more details about the
+contributions, with comparison of the cited work.  Please be aware
+that "work" is not countable. You must not say, "previous works".
+
+
+
 
  
 This is the `grading guide for new
