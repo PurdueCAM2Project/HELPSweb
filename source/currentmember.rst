@@ -582,6 +582,57 @@ Benefits of Being a Leader
 - Talk to team members often and know their skills. 
 - In most cases, new members are not leaders. A leader has to be in the project for at least one semester.
 
+Responsibilities of a Leader
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Suggestions to New Leaders
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Include Everyone in Meeting
+###########################
+
+A leader has to ensure that everyone in the team is engaged in
+meetings. New leaders sometimes get too excited about the progress by
+a few members and ignore the others. This is particularly common when
+a team has new members and returning members. Returning members are
+more comfortable speaking in meetings sharing their progress. New
+members feel that they have not made much progress and silence is
+often their first option in meetings.
+
+New members (still thinking as students) often incorrectly believe
+that "Everyone knows everything. I cannot offer anything new to the
+team."
+
+A leader has to ensure that all members, particularly new members,
+participate in meetings.  Several things can be done to achieve this:
+
+- The leader limits the amount of time each person speaks. If someone
+  (usually a returning member) has more to say, tell the person to
+  summarize first.  Give everyone a chance to speak and then come back
+  to this person for discussion.
+
+- The leader may meet new members outside the team meeting
+  time. Explain to them the expectation and help them identify the
+  materials to present in meetings. Call their names in meetings.
+
+- If anyone in the team wants to dominate the discussion (i.e., always
+  talking without giving others opportunities to speak), the leader
+  has to stop this person. If this person has the habbit of dominating
+  the discussion, communicate with this person outside the meeting.
+  If this situation persists, inform the advisor to intervene.
+
+Another common mistake of new leaders is to think everyone is equally
+devoted to the team.  The truth is that some members may think this
+project as a high priority, willing to spend 20 hours per week; some
+others may think this project as one of many important things, maybe
+10 hours per week; the others may think this project as a way to get
+credits and graduate, spending as little time as possible.
+
+Understand Members' Differences
+###############################
+
+A good leader has to take advantage of every member's talent, even though
+some members can spend little time.
 
 How to Get Strong Letters of Recommendation
 -------------------------------------------
@@ -738,20 +789,23 @@ from what my teacher at high school taught me."  Do you know how many
 research paper the teacher has published?  If the answer is zero (or a
 few), please forget what the teacher told you.
 
-The most common mistake when students write papers is that they
-misunderstand the purpose of research papers.  They believe that
-everyone is doing the same thing (like all students doing the same
-homework) and there is no need to explain.
+Before writing a research paper, it is important to understand the
+purpose.  If you are doing real research, you must be doing something
+and you are the only person knowing what is going on. You have write
+down the details so that others can understand.  The most common
+mistake when students write papers is that they misunderstand the
+purpose of research papers.  They believe that everyone is doing the
+same thing (like all students doing the same homework) and there is no
+need to explain anything.
 
 
 Types of Papers
 ~~~~~~~~~~~~~~~
 
-Before writing a research paper, it is important to understand the
-purpose.  Roughly speaking, there are four types of research papers.
+Roughly speaking, there are four types of research papers.
 
 - Research papers: Present a new solution, a new problem, a new
-  interpretation of existing knowledge, etc.  The key here is *new*.
+  interpretation of existing knowledge, etc.  The key here is **new**.
   The target readers are people investigating the same or similar
   research topics.  A good research paper should provide enough
   details so that experts in this topic can learn something. A good
@@ -775,8 +829,8 @@ purpose.  Roughly speaking, there are four types of research papers.
   improvements.
 
 - Vision papers: Inform the research community what topics to work on
-  in the next ten years. New researchers usually do not write vision
-  papers.
+  in the next ten years. New researchers rarely write vision papers
+  because new researchers do not know the research community enough.
 
 Structure of Research Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -784,25 +838,6 @@ Structure of Research Papers
 The rest of this section focuses on research papers that present
 something new.  Please focus on the word **new**.  A good research
 paper should have the following components:
-
-- Why this problem needs to be solved?
-
-- What has been done solving this problem? (also called related work)
-
-- What is wrong in existing solutions?
-
-- What is your method? Describe your method with enough details so
-  that readers can understand how to reproduce your work.
-
-- Why it your method better?  If your method is not better, you have
-  no paper to write.
-
-- How do you know your method is better? How do you evaluate? How much
-  is the method better?  Usually, you need to present numbers.
-
-
-Research papers are usually organized into individual sections. You
-are encouraged to follow the same structure:
 
 Title
 #####
@@ -819,9 +854,7 @@ Some students love to create interesting acronyms and put the acronyms
 as the very first word in a title. This is *unwise* because the
 acronym probably means nothing to readers.  For this research team,
 **you must not use an acronym** in the title because every word must
-mean something important to readers (not authors).  This principle is
-not subject to discussion. Dr. Lu will not waste time on this
-issue. If you disagree, leave this research team.
+mean something important to readers (not authors). 
 
 Authors and Affiliations
 ########################
@@ -830,12 +863,12 @@ Who has contributed to this paper? Different areas treat authors in
 different ways.  Some areas order authors by last names
 alphabetically. Some areas order authors by contributions- the first
 author has the most contributions. Some areas put students first,
-ordered by contributions, and professors last.  This research adopts
-the convention of ordering authors by contributions and students are
-listed before professors.  Each author's affiliation should be clearly
-described. For conference papers, usually emails are also included.
-Please use your *official* business email addresses, not @gmail,
-@hotmail, or anything like that.
+ordered by contributions, and professors last.  This research team
+adopts the convention of ordering authors by contributions and
+students are listed before professors.  Each author's affiliation
+should be clearly described. For conference papers, usually emails are
+also included.  Please use your *official* business email addresses
+(i.e., @purdue.edu), not @gmail, @hotmail, or anything like that.
 
 Abstract
 ########
@@ -846,68 +879,94 @@ An abstract has about 12 sentences and 200 words with the following structure:
 
 - Existing work and deficiencies (2-3 sentences)
 
-- Your method and why it is better (3 sentences)
+- Your method and why it is better (3-5 sentences)
 
-- Evaluation methods (2-4 sentence)
+- Evaluation methods (2-3 sentence)
 
-- Results and comparison (3 sentences)
+- Results and comparison (2-3 sentences)
 
 Introduction
 ############
 
-For a paper, the introduction is approximately 15% of the paper.  An
-introduction usually has four or five paragraphs.
+The introduction is approximately 15% of the paper.  An introduction
+usually has four or five paragraphs:
 
-1. Big picture. What is this whole thing about?
+1. Big picture. What is this whole thing about? 
    
-2. Description of the problem and related work. What has been done?
-   This paragraph cites many papers.  The end of this paragraph
-   describes what is wrong in existing work, as a way to get ready
-   for the next paragraph.
+2. Description of the problem to be solved in this paper and related
+   work. What has been done?  This paragraph cites some papers.  The
+   end of this paragraph describes what is wrong in existing work, as
+   a way to get ready for the next paragraph.
    
-3. Your solution and why it is better. This paragraph should start with
-   "This paper presents a solution ...." 
+3. Your solution and why it is better. This paragraph should start
+   with "This paper presents a solution ...."  This must be a new
+   paragraph.  Help readers understand your paper quickly.  You need
+   to use active voice here.  Some students say, "Technical papers
+   must use passive voice." These students are wrong.
    
 4. (optional) [More details about your solution]
    
-5. Evaluation, comparison, and results.
+5. Evaluation, comparison, and results.  If your solution is not
+   better, do not write a paper.
 
 6. Summary of contributions.   
    
 7. (optional) Implications
    
-8. (opitonal) [Structure of the paper]
-
-It is very important that you start a new paragrph where you describe
-what you have done. Help readers understand your paper quickly.
-
-Some students say, "My high school teacher told me a technical paper
-must use only passive voice and past tense."  Before you ask Dr. Lu
-any question, please check how many research papers this teacher has
-published and also read 20 recent research papers.
-
+8. (opitonal) [Structure of the paper] "This paper is organized as
+   follows ..." This is needed only if the paper is longer than 8
+   pages.
 
 Related Work
 ############
 
 This section is appxominately 10% of the paper.  This section should
-cite recent papers that solve the same problems or very similar
-problems.  It is advised to cite papers in the same community as the
-venue you are about to submit to.  If you do not cite any paper in the
-community, why do you submit a paper to this community?
+cite recent papers that solve the same problems or related problems.
+It is advised to cite papers in the same community (same conference,
+same journal) as the venue you are about to submit to.  If you do not
+cite any paper in the community, why do you submit a paper to this
+community?
 
 This section servers several purposes: First, inform the readers what
-has been done. If you are a new researcher, you also want to show to
-the readers that "you have done your homework".  Second, you position
-your paper to be a peer among the cited papers.  Third, after
-describing what has been done, you can explain your contributions in
-the proper context.  You can compare your method with existing
-methods.
+has been done. If you are a new researcher, you also want to show that
+"you have done your homework".  You do not want readers to say, "This
+paper is meaningless because the authors have not read papers XXX and
+YYY."  Second, you position your paper to be a peer among the cited
+papers.  Third, after describing what has been done, you can explain
+your contributions in the proper context.  You can compare your method
+with existing methods.
 
-At the end of this section, you may want to creat a table summarizing
+At the end of this section, you may want to create a table summarizing
 the difference.  Many papers also provide more details about the
 contributions, with comparison of the cited work.  Please be aware
 that "work" is not countable. You must not say, "previous works".
+
+Your Solution
+#############
+
+This is the place where you explain your solution. Give a meaningful
+title describing your method. 
+
+
+How To Give a Technical Presentation
+------------------------------------
+
+The BIGGEST problem when students present their projects is the
+"student thinking": "Everyone is doing exactly the same homework. I do
+not need to explain what I am doing and why I am doing it. Everyone should
+already know."
+
+
+
+
+If you want to make a video, you can use Camtasia. You can download
+the
+
+Spell acronyms.
+
+Give meaningful title. The title cannot be "progress report", "semester report"
+
+General rules: If you can say it, do not put words in the slides.
 
 
 
