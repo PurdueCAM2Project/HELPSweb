@@ -683,30 +683,6 @@ a known destination.
 You are busy. So is everyone.  Your time is precious. So is his.
 
 If you need a letter, pleass fill `this form <https://docs.google.com/forms/d/e/1FAIpQLScgJPMfgR7gFd5D1eJPAK7A7AfCGPYfgxzitH2A-3TNfyZmLw/viewform?usp=sf_link>`__. Please send email to Dr. Lu after you have filled the form.
-
-
-
-
-How To Interview New Members
-----------------------------
-
-This research team requires that all new members go through
-interviews. If you are a new member (i.e., an interviewee), please
-visit `visit this page <https://purduehelps.org/join.html#interviews>`__. This page is
-for current members (i.e., interviewers).
-The purposes of interviews include:
-
-- Understand the new members' expertise and determine the most appropriate tasks given to the new members
-
-- Explain the organizations, goals, and culture of this research team to new members
-
-- Understand and practice interviews
-
-- Evaluate communication skills
-
-- Encourage leadership
-
-- Develop the knowledge and techniques in assessing the strength of weakness of new members
   
 
 How To Arrange Business Trips

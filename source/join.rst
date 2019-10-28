@@ -122,8 +122,6 @@ following requirements:
   intend to stay for only semester, do not come.  One semester is too
   short to accomplish anything meaningful.
   
-- Every new member must pass an interview with current members.
-  
 - Every new member will receive fast-pace training. This takes the
   efforts of current members.
   
@@ -340,30 +338,8 @@ How to Get Financial Support from Dr. Lu?
 
   
   
-Interviews
-----------
-
-.. note::
-
-   If you are not ready for an interview or you do not perform well in an interview, that's all right. Come back later.
-
-.. warning::
-
-   Do you like sports? Are you ready to join a professional team that
-   compete internationally? This research team solves problems whose
-   answers are not known to anyone in the world. We compete
-   internationally.  We produce open-source software and data. We
-   publish papers in top venues.
-
-
-This research requires that every applicant be interviewed by two or
-three current members. Why?  Any organization exists for a
-purpose. The organization can succeed if the members can work together
-toward the common goals. The organization fails if the members do not
-understand the purpose of the organization or cannot work
-together. Interviews are one of the methods to help determine whether
-people interested joining the organization is ready to work together
-with existing members toward the common goals.
+Research Mentality
+------------------
 
 A research group is fundamentally different from a classroom. A
 research group aims to solve research problems that can help
@@ -395,35 +371,13 @@ This is a research team. You come to solve research problem. You do
 not come to learn. If you want to learn, go to take courses or read
 books.This team does not accept anyone that wants to join and learn,  
 without contributions to solving research problems. This team accepts 
-only the people that wants to solve research problems.The purpose of  
-interviews is to help applicants and current members **evaluate
-whether the applicants are ready to contribute.**
-
-What is an interview?
-~~~~~~~~~~~~~~~~~~~~~
-
-An interview is a two-way communication: An organization wants to
-determine whether an applicant should join the organization.
-Meanwhile, this applicant also evaluates whether this organization is
-worth the time and efforts. An interview usually evaluates three
-aspects:(1) Communication skills, (2) Technical skills, (3)
-Personality, honesty, and integrity.
-
-If an applicant is not ready to join the group, it is possible that
-this person can join later and contribute. This research team holds
-honesty and integrity as the highest requirements.If an applicant is
-not honest, this team will never accept the applicant. Communication
-and technical skills can be acquired. Honesty and integrity cannot be
-compromised.
-
-Sample questions are listed below for your reference. Your are
-encouraged to study these questions in advance.  You need to prepare
-for the interview.
+only the people that wants to solve research problems. Please **evaluate
+whether you are ready to contribute.**
 
 Differences between Students and Researchers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Before an interview, please make sure you understand the differences
+Please make sure you understand the differences
 between students and researchers.  A student with high GPA is not
 necessarily a good researcher. Some excellent researchers do not have
 high GPA.  Why? Because taking classes are doing research are very
@@ -535,56 +489,10 @@ program I purchased. I appreciate your understanding.
      -  `docx <https://engineering.purdue.edu/HELPS/ResearchAdvice/script/Ownership.docx>`__
 
 
-Interview is not an oral exam
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sample Questions
+---------------------
 
-
-Many students think interviews are oral exams: interviewers ask
-questions and interviewees answer the questions. This is incorrect.
-An interview is two-way communication. An interviewee should also ask
-questions. To ask meaningful questions, an interviewee should study
-the characteristics of the research team. Some students think
-interview questions are “fill in the blank” and provide short answers,
-without much explanation. Such an interviewee is “passive”: responding
-to questions without deeper thought. Such an attitude would be
-considered negative. It is advisable to dig deeper by providing more
-insightful information. It is perfectly reasonable for an interviewee
-to ask back “Why do you ask me this question?”
-
-Do not intend to prepare an interview by memorization. Good
-interviewers do not ask memorization questions. Dr. Lu *always* gives
-open-book exams because he *strongly encourages* understanding, not
-memorization. To enter Dr. Lu's research team, you need to demonstrate
-that you can think. It is acceptable to say, “I don’t know.” and then
-ask the interviewer to provide more information and guidance toward an
-answer. A common mistake by students is to provide lengthy explanation
-without answering the questions. Some students can take several
-minutes without giving any definite answer.  Why? They are afraid
-giving wrong answers. This is a bad attitude. It is better to answer
-the question and then explain the reason of the answer. Interviewers
-want answers before explanation. For a “Yes-No” question, answer “Yes”
-or “No” first and then give the explanation.
-
-Honesty is extremely important. An interviewee should never lie. If an
-interviewee does not know the answer, it is acceptable to say, “I
-don’t know the answer.” The interviewee should not pretend to know the
-answer and say meaningless things. After admitting not knowing the
-answer, an interviewee can try to answer the question through
-reasoning. “I don’t know the answer but I think it should be … because
-…” The “because” part is very important.
-
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
-
-
-Sample Interview Questions
---------------------------
-
-.. warning::
-
-   You should never lie in an interview.
+The questions below should help you determine if you are ready to work on this research project. 
 
 
 Teamwork
