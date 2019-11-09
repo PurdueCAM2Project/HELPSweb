@@ -1,12 +1,30 @@
 Join the Team
 ========================================
 
+.. note::
+
+   This team no longer interviews the students that want to
+   join. Instead, the team provides materials (in this page below)
+   that can help students evaluate whether this team is right for
+   them. Also, after a new member joins, returning memembers helps the
+   new member determine whether this team is a good fit.
+
+.. warning::
+
+   Using an analogy of sports, this research team is Olympics (or
+   World Cup). The team wants only the top performers.  If you want to
+   become an outstanding researcher, you will prosper in this team. If
+   your goal is to do enough work and get credits, this team is not
+   for you.
+
+
 The goal of this research team is to create leaders.
 ----------------------------------------------------
 
-We recommend reading this page fully before submitting the `application form <https://forms.gle/Q27KTbahpGbHMEGq8>`__.
-However, if you have already spoken with members of the research team, it is ok to proceed directly to the form.
+We recommend reading this page fully before deciding to join this
+team.
 
+.. warning::
 
 |joinimg0| |joinimg1|
 
@@ -69,33 +87,29 @@ Should you do research? Research, like any other activities that
 require long-term efforts (such as marathon, chess, painting...), is
 not for everyone. "Everyone should do research." is as valid as
 "Everyone should run marathon." or "Everyone should play chess."
-Before you join a research team (any team), think about the
-reasons. What do you want to accomplish? Why do you want to do
-research with this team? Remember, time is your most precious
-asset. Do you want to spend your time with these people? Why? Do these
-people want to spend time with you? Why?
+Before you join a research team, think about the reasons. What do you
+want to accomplish? Why do you want to do research with this team?
+Remember, time is your most precious asset. Do you want to spend your
+time with these people? Why? Do these people want to spend time with
+you? Why?
 
 If you want to talk to Dr. Lu, his office is MSEE 222.
 
 Still want to join?
 -------------------
 
-If you are serious about solving research problems and interested
-joining the research team, please fill in `this Google form
-<https://forms.gle/Q27KTbahpGbHMEGq8>`__.
 
+The team's mission is to create leaders. The research projects'
+mission is to create the technologies saving lives.
 
-The team's mission is to create leaders. The research projects' mission is to create the technologies saving lives.
-
-For undergraduate students: This research team gives undergraduate
-students the true experience of research. You will be given research
-problems, not classroom homework assignments. You need to solve these
-research problems and have contributions to the research community
-(such as research papers, open-source software, data). This is a large
-research team in the number of undergraduate students on Purdue
-campus. You will get the opportunities learning from other students,
-making life-long friends, solving problems that are too difficult for
-small teams.
+This research team gives students (including undergraduate students)
+the true experience of research. You will be given research problems,
+not classroom homework assignments. You need to solve these research
+problems and have contributions to the research community (such as
+research papers, open-source software, data). This is a large research
+team in the number of students. You will get the opportunities
+learning from other students, making life-long friends, solving
+problems that are too difficult for small teams.
 
 For graduate students: This team has many undergraduate students and
 you can get rare experience working with these students solving large
@@ -120,9 +134,7 @@ following requirements:
   counts as a semester). Many students stay in the team for 2 years or
   even longer. Why? They want to solve research problems. If you
   intend to stay for only semester, do not come.  One semester is too
-  short to accomplish anything meaningful.
-  
-- Every new member must pass an interview with current members.
+  short to accomplish anything meaningful. Do not waste your time.
   
 - Every new member will receive fast-pace training. This takes the
   efforts of current members.
@@ -130,23 +142,22 @@ following requirements:
 - During spring or fall semester, every new member must take a
   research course (ECE 279, 379, 479, CS 490, or similar). The reason
   is simple: without taking a research course, new members always
-  vanish when their coursework becomes heavy. This wastes everyone's
-  time.
+  vanish when their coursework becomes heavy.  There is no exception:
+  If you are a new member and do not want to take a research course,
+  just go away. Don't waste time.
 
 - Teamwork is absolutely critical. If you want to work alone, do not
-  come.
+  come.  
 
 - Every member must make a commitment to solving research
   problems. This team demands serious efforts. This is a research team
   and entertainment is not the purpose.
 
-- Learning is an essential part of doing research but research is much
-  more than learning. Research must create new things (new software,
-  new data, new theory, new algorithms, new interpretation...). If you
-  do not create anything new, you are not doing research. "New" means
-  new to human knowledge, not new to you. If your only intention is to
-  "learn" without solving research problems, do not come. If you want
-  to learn, take classes or read books (or papers).
+- Research must create new things (new software, new data, new theory,
+  new algorithms, new interpretation...). If you do not create
+  anything new, you are not doing research. "New" means new to human
+  knowledge, not new to you. If your only intention is to "learn"
+  without solving research problems, do not come. 
 
 - Members are expected to interact in both professional and social
   settings. Many solutions are discovered when people talk outside
@@ -165,6 +176,21 @@ following requirements:
   is to discover new things. Thus, you must explain what you have
   discovered by speaking and writing.
 
+- This research team does not accept students that come with their own
+  agenda. This team solves difficult research problems that take many
+  semesters. The topics have been determined long before any new
+  member joins the team. The team's research problems will not change
+  for any new member. As a new member, you are not allowed to suggest
+  new topics. The team does not care what you want to do. If you
+  cannot do research on the topics already selected by this team, go
+  away.
+
+.. warning::
+
+   Do not go to Dr. Lu and say, "I have an idea." He does not care
+   your idea. He selects research problems that take many years to
+   solve. He will not change research topics because of you.  
+  
 
   .. raw:: html
 
@@ -179,36 +205,30 @@ Frequently Asked Questions
 
 - A: Too many people treat "research" as visiting an amusement
   park. They are looking for "fun" without the intention of taking
-  efforts. They show up when they want to; they may leave at any
+  efforts. They show up when they want to; they leave at any
   moment. They expect to get A easily. This research team does not
   need those people. This research team welcomes only the people that
-  are serious about solving research problems. Many people want to
-  join this team because these people know everyone in this team is
-  serious about solving research problems.
+  are serious about solving research problems. Yes, this team has many
+  students (usually 60 or more) because these people are serious about
+  solving research problems.
 
 - Q: How many hours do I need to spend per week?
 
 - A: **What do you want to accomplish?** You need to spend at least
   six hours a week. If you cannot, you are wasting your time because
-  you can accomplish nothing.  Many people spend more than six hours a
-  week. If you are leading a research paper, it is possible that you
-  spend 30 hours (or more) the week before submission.
-
-
-- Q: If I am selected, I will stay for at least two semesters, right?
-
-- A: Not necessarily. The team may be reorganized. A particular topic
-  may be eliminated if enough progress has been made. A member may be
-  released (not "fired") if the member shows no progress.
+  you can accomplish nothing.  Many people spend much more than six
+  hours a week. If you are leading a research paper, it is possible
+  that you spend 30 hours (or more) the several weeks before
+  submission.
 
 - Q: Your team demands a lot. What do members get?
 
 - A: Why do people climb high mountains? Why do people compete in
   World Cup? They want to accomplish something extraordinary.  This
-  team gives members the pride of solving research problems,
-  friendship with excellent researchers, authorship (or co-authorship)
+  team gives members friendship with excellent researchers, authorship
   of research papers, strong recommendation letters, excellent job
-  offers, and occasionally, pizza.
+  offers, and occasionally, pizza. Above everything else, this team
+  gives members the pride of solving research problems,
 
 - Q: I do not want to take a research course because I already have
   too many credits.
@@ -227,8 +247,7 @@ Frequently Asked Questions
 - A: You will not stay. You know very clearly. You do not want to take
   a research course because you cannot spend time. Do not come. Many
   people "assured" that they would stay without taking credits.
-  Everyone vanished. In fact, these people simply vanished without
-  saying "Good Bye". This team does not need these people.
+  Everyone vanished.  This team does not need these people.
 
 - Q: If you are so restrictive, how many people actually apply for joining the team?
 
@@ -270,14 +289,14 @@ following facts:
   students research experience. He enjoys the intellectual
   interactions with many excellent students. He also thinks the
   interactions among students help them succeed. The size of his
-  research team has no effect on how much Purdue gives for research
-  (always $0).
+  research team has no effect on how much Purdue gives him for
+  research (always $0).
   
 - Dr. Lu has zero influence about how Purdue spends tuition. Please
   talk to Purdue President if you have any suggestions.
   
 - Dr. Lu has zero influence on other professors' decisions. Dr. Lu
-  cannot tell any other professor to provide any student financial
+  cannot tell any other professor to give any student financial
   support.
   
 - Dr. Lu obtains research funding by writing proposals.
@@ -300,8 +319,6 @@ Common Mistakes by Students
 
 - Some students think "doing research" means disappearing for five
   years and coming back with world-changing discovery or invention.
-  It does not work that way. You need to regularly (about once a week)
-  report progress.
   
 - Financial support is free money and students have complete freedom doing whatever they want.  
   
@@ -316,7 +333,8 @@ How to Get Financial Support from Dr. Lu?
 
 - Understand that Dr. Lu has no obligation giving you financial support. You have to earn it.
   
-- Getting financial support from Dr. Lu will take you a lot of efforts.
+- Getting financial support from Dr. Lu will take you a lot of
+  efforts. He will not give you money because you send an email.
   
 - Read at least five of his papers published in the last three
   years. Do not initiate any conversation before you finish reading
@@ -325,9 +343,9 @@ How to Get Financial Support from Dr. Lu?
 - Prepare to have multiple, long, and deep technical discussions.
   
 - Dr. Lu has a large established research program. You must do what
-  the research program needs.
+  the research program needs. He does not care about your new ideas.
   
-- Dr. Lu can support only Purdue students.
+- Dr. Lu can support only Purdue students. 
   
 - Dr. Lu emphasizes teamwork greatly. You have to work with a
   team. You must have good communication skills.
@@ -337,40 +355,16 @@ How to Get Financial Support from Dr. Lu?
 
 |joinimg6| |joinimg7|
 
-
   
   
-Interviews
-----------
-
-.. note::
-
-   If you are not ready for an interview or you do not perform well in an interview, that's all right. Come back later.
-
-.. warning::
-
-   Do you like sports? Are you ready to join a professional team that
-   compete internationally? This research team solves problems whose
-   answers are not known to anyone in the world. We compete
-   internationally.  We produce open-source software and data. We
-   publish papers in top venues.
-
-
-This research requires that every applicant be interviewed by two or
-three current members. Why?  Any organization exists for a
-purpose. The organization can succeed if the members can work together
-toward the common goals. The organization fails if the members do not
-understand the purpose of the organization or cannot work
-together. Interviews are one of the methods to help determine whether
-people interested joining the organization is ready to work together
-with existing members toward the common goals.
+Research is NOT Classroom Learning
+----------------------------------
 
 A research group is fundamentally different from a classroom. A
-research group aims to solve research problems that can help
-humanity. A classroom is usually an inclusive environment: most
-instructors allow auditors. In contrast, a research team is a
-"privileged" environment and only selected members can participate.
-Many reasons make research team restrictive, for example,
+classroom is usually an inclusive environment: most instructors allow
+auditors. In contrast, a research team is a "privileged" environment
+and only selected members can participate.  Many reasons make research
+team restrictive, for example,
 
 -  The members in the team use the facilities that are purchased
    using research fund.
@@ -393,40 +387,18 @@ experience and current team members cannot work with you.
 
 This is a research team. You come to solve research problem. You do
 not come to learn. If you want to learn, go to take courses or read
-books.This team does not accept anyone that wants to join and learn,  
+books. This team does not accept anyone that wants to join and learn,  
 without contributions to solving research problems. This team accepts 
-only the people that wants to solve research problems.The purpose of  
-interviews is to help applicants and current members **evaluate
-whether the applicants are ready to contribute.**
+only the people that wants to solve research problems.
 
-What is an interview?
-~~~~~~~~~~~~~~~~~~~~~
-
-An interview is a two-way communication: An organization wants to
-determine whether an applicant should join the organization.
-Meanwhile, this applicant also evaluates whether this organization is
-worth the time and efforts. An interview usually evaluates three
-aspects:(1) Communication skills, (2) Technical skills, (3)
-Personality, honesty, and integrity.
-
-If an applicant is not ready to join the group, it is possible that
-this person can join later and contribute. This research team holds
-honesty and integrity as the highest requirements.If an applicant is
-not honest, this team will never accept the applicant. Communication
-and technical skills can be acquired. Honesty and integrity cannot be
-compromised.
-
-Sample questions are listed below for your reference. Your are
-encouraged to study these questions in advance.  You need to prepare
-for the interview.
 
 Differences between Students and Researchers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Before an interview, please make sure you understand the differences
+Before joining this team, please make sure you understand the differences
 between students and researchers.  A student with high GPA is not
 necessarily a good researcher. Some excellent researchers do not have
-high GPA.  Why? Because taking classes are doing research are very
+high GPA.  Why? Because taking classes and doing research are very
 very different.
 
 How does a student get a good grade? Usually, by submitting
@@ -449,17 +421,23 @@ classroom. The following table summarizes the main differences between
 +------------------------------------------------------------+--------------------------------------------------------+
 | Student Thinking                                           | Researcher Thinking                                    |
 +============================================================+========================================================+
-| The adviser knows the answers                              | Nobody knows the answers                               |
+| Every student do the same homework assignment              | Everyone solves a distinct problem                     |
++------------------------------------------------------------+--------------------------------------------------------+
+| The professor knows the answers                            | Nobody knows the answers                               |
++------------------------------------------------------------+--------------------------------------------------------+
+| Other students know nothing                                | Other researchers know many things                     |
++------------------------------------------------------------+--------------------------------------------------------+
+| Go to classroom and  take notes                            | Participate in discussion                              |
++------------------------------------------------------------+--------------------------------------------------------+
+| Listen quietly in classroom                                | Explain and present to other researchers               |
 +------------------------------------------------------------+--------------------------------------------------------+
 | Short reports to the adviser                               | Write reports for others to understand and reproduce   |
 +------------------------------------------------------------+--------------------------------------------------------+
 | Ask for help when encountering difficulty                  | Solve the problem by self                              |
 +------------------------------------------------------------+--------------------------------------------------------+
-| Wait for assignments and exams                             | Anticipate questions                                   |
+| Wait for assignments and exams                             | Anticipate questions and problems                      |
 +------------------------------------------------------------+--------------------------------------------------------+
 | Work alone                                                 | Collaborate                                            |
-+------------------------------------------------------------+--------------------------------------------------------+
-| Listen quietly in classroom                                | Explain and present to other researchers               |
 +------------------------------------------------------------+--------------------------------------------------------+
 | Do not care after a semester ends                          | Research projects last many years                      |
 +------------------------------------------------------------+--------------------------------------------------------+
@@ -535,56 +513,20 @@ program I purchased. I appreciate your understanding.
      -  `docx <https://engineering.purdue.edu/HELPS/ResearchAdvice/script/Ownership.docx>`__
 
 
-Interview is not an oral exam
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Self Assessment
+---------------
+
+Before you join this team, answer the following questions. These questions help you decide whether
+this team is right for you.
+
+This team has no interest asking you memorization questions.  Instead,
+this team puts great emphasis on understanding "why".
 
 
-Many students think interviews are oral exams: interviewers ask
-questions and interviewees answer the questions. This is incorrect.
-An interview is two-way communication. An interviewee should also ask
-questions. To ask meaningful questions, an interviewee should study
-the characteristics of the research team. Some students think
-interview questions are “fill in the blank” and provide short answers,
-without much explanation. Such an interviewee is “passive”: responding
-to questions without deeper thought. Such an attitude would be
-considered negative. It is advisable to dig deeper by providing more
-insightful information. It is perfectly reasonable for an interviewee
-to ask back “Why do you ask me this question?”
+.. note::
 
-Do not intend to prepare an interview by memorization. Good
-interviewers do not ask memorization questions. Dr. Lu *always* gives
-open-book exams because he *strongly encourages* understanding, not
-memorization. To enter Dr. Lu's research team, you need to demonstrate
-that you can think. It is acceptable to say, “I don’t know.” and then
-ask the interviewer to provide more information and guidance toward an
-answer. A common mistake by students is to provide lengthy explanation
-without answering the questions. Some students can take several
-minutes without giving any definite answer.  Why? They are afraid
-giving wrong answers. This is a bad attitude. It is better to answer
-the question and then explain the reason of the answer. Interviewers
-want answers before explanation. For a “Yes-No” question, answer “Yes”
-or “No” first and then give the explanation.
+   If you are not ready to do research now, that's all right. Come back later.
 
-Honesty is extremely important. An interviewee should never lie. If an
-interviewee does not know the answer, it is acceptable to say, “I
-don’t know the answer.” The interviewee should not pretend to know the
-answer and say meaningless things. After admitting not knowing the
-answer, an interviewee can try to answer the question through
-reasoning. “I don’t know the answer but I think it should be … because
-…” The “because” part is very important.
-
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
-
-
-Sample Interview Questions
---------------------------
-
-.. warning::
-
-   You should never lie in an interview.
 
 
 Teamwork
@@ -597,6 +539,10 @@ Teamwork
    know.
 
 How do you respond to discussion and critique?
+
+ 
+
+Have you worked in a team project? How big was the team?
 
  
 
@@ -645,9 +591,6 @@ or should be done in a different way?
 Have you participated in a project in which members’ responsibilities 
 were adjusted as needs arose?
 
- 
-
-Have you worked in a team project? How big was the team?
 
  
 
@@ -685,7 +628,7 @@ individual project or a team project? What are your contributions?
  
 
 What knowledge and skills do you have? Why do you think you can
-contribute to the project?
+contribute to research?
 
  
 
@@ -770,7 +713,7 @@ describe how the algorithm works.
  
 
 Suppose you have an algorithm that finds the shortest paths in a
-graph of positive weights for edges. Would the algorithm find the
+graph of positive weights for edges. Will the algorithm find the
 longest paths, without cycles, in a graph of positive weights for
 edges if you replace “>” by “<=” or “>” by “>=”? Explain the reason.  
 
@@ -780,12 +723,9 @@ Continue from the previous question. Describe an algorithm to find
 the longest path between two vertices without any cycle. Why is it
 important to emphasize that cycles are not allowed?
 
-Hint: Changing "<" in the algorithm for shortest paths to ">" would not
-work. Please explain the reason.
-
  
 
-Why is quicksort quick?
+Why is quicksort quick? 
 
  
 
@@ -793,7 +733,7 @@ Data structures
 ~~~~~~~~~~~~~~~
 
 
-It is expected that every student in his group has the programming
+It is expected that every student in this team has the programming
 skills described in his book “Intermediate C Programming” (CRC Press, 
 ISBN 9781-4987-11630). Knowledge about the following topics would be  
 helpful: data structures, discrete mathematics, algorithms, computer  
@@ -826,7 +766,7 @@ You need to design sorting algorithms for two different scenarios.
    of the data can fit in memory. The rest of the data must reside on 
    much slower disks.
 
-Would the sorting algorithms be different for these two scenarios?
+Will the sorting algorithms be different for these two scenarios?
 Why? How?
 
  
@@ -837,11 +777,11 @@ binary tree. Why is this the most important?
  
 
 What are the differences between a list and an associate array? When  
-would you use one or the other?
+do you use one or the other?
 
  
 
-How would you implement an associative array?
+How do you implement an associative array?
 
  
 
@@ -853,9 +793,9 @@ binary search trees, how many different shapes will there be? Is that
 
  
 
-How would you store a very large matrix whose most elements are zero?
-What matrix operations would be easy in this data structure? What
-operations would be more difficult? Why?
+How do you store a very large matrix whose most elements are zero?
+What matrix operations are easy in this data structure? What
+operations are difficult? Why?
 
  
 
@@ -872,7 +812,7 @@ What is heap memory? How is it used?
 
  
 
-When would you use recursion? You can describe general principles or  
+When do you use recursion? You can describe general principles or  
 examples. When is recursion better than `for` (or `while`) for solving
 problems? Hint: the Fibonacci sequence, `f(n) = f(n-1) + f(n-2)`, is
 not a good example of recursion. Please read Section 13.6 in
@@ -913,7 +853,7 @@ C Programming
    char x = 'm';
    int * iptr = &x;
 
-What is wrong with this two lines? What problems could this cause?
+What is wrong with this two lines? What problems does this cause?
 
 
 .. code-block:: c
@@ -954,7 +894,7 @@ Networking
 
  
 
-Briefly explain the difference between TCP and UDP.
+Briefly explain the difference among TCP,  UDP, and HTTP.
 
  
 
@@ -972,11 +912,6 @@ is the data rate?
 What is the data rate (in terms of bytes of second) if a cargo ship
 carries 100,000 of hard disks cruising at 36 km/h?
 
- 
-
-.. note::
-
-   If a candidate knows C++ or Java, the candidate should answer the following questions.
 
 
 C++ 
@@ -1050,4 +985,10 @@ learning?
 What are the limitations of support vector machines?
 
 
-  
+
+
+  .. raw:: html
+
+    <iframe width="600" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
+
+
