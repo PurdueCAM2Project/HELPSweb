@@ -297,7 +297,7 @@ writing papers citing each other's work).
 
 
 Why Don't Professors Just Give Problems to Students?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Some students want professors to give problems, like homework
 assignments in classrooms. This is not ideal because nobody (even
@@ -538,7 +538,7 @@ Expectations
 
 
 One of the most important difference between doing class homework and
-research is the need of â€œteam thinking€. You are part of a team and
+research is the need of **team thinking**. You are part of a team and
 your must contribute to the team. Many students make significant
 progress in their computers but they do not share what they have done
 with the team. As a result, whatever they have done is restricted to
@@ -1053,11 +1053,6 @@ General rules: If you can say it, do not put words in the slides.
 
 
 
-Â 
-This is the `grading guide for new
-members <https://docs.google.com/document/d/1qQY6nFaHbP7eP2BvPvSP1QWs 
-cU-xgqs0UfWvIGQEUnU/edit?usp=sharing>`__.
-One of the most important differences between â€œstudent thinkingâ€ and  
-â€œreal world€ is that
+
 
 
