@@ -7,9 +7,22 @@ How To Choose Research Topics
 Choose Now, So That You Can Choose Again
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A common problem among many students (in fact, most people) is that they cannot decide. Many people hesitate to choose because they are afraid of choosing something wrong and then regret later. Some studies suggest that people feel less happy when they have more options. In some retail experiments, customers leave without buying anything if too many items are on sale. 
+A common problem among many students (in fact, most people) is that
+they cannot decide. Many people hesitate to choose because they are
+afraid of choosing something wrong and then regret later. Some studies
+suggest that people feel less happy when they have more options. In
+some retail experiments, customers leave without buying anything if
+too many items are on sale.
 
-Many students say, "I don't know what I want to do. Thus, I am not going to choose." This thinking is wrong in multiple ways:
+Imagine the following scenario. You want to select a place for the
+next vacation.  You cannot possibly be in two different places at the
+same time and you cannot decide. As a result, you sit at an airport
+without going anywhere.  "This is funny and stupid.", you may
+say. However, many people do that: they are afraid of making decisions
+and instead sit at airports without going anywhere.
+
+Many students say, "I don't know what I want to do. Thus, I am not
+going to choose." This thinking is wrong in multiple ways:
 
 - First, you have already chosen a major. 
 - Second, you have already chosen to study at Purdue University.
@@ -22,20 +35,20 @@ When students join research teams, they may face the options of choosing topics.
 
 - Students decide research topics. Some students think research means
   disappearing from civilization for several years, coming out "crazy
-  ideas", and completely changing the world after they reappear giving
-  the final oral presentations. This is wrong. First, it is unlikely
-  that you can disappear from civilization; you still need access to
-  the Internet, right? Second, it is unlikely that you can come out
-  crazy ideas alone. Third, even if you can come out crazy ideas, you
-  need to validate the ideas and compare them with existing
-  studies. Maybe some people have already done similar things.
+  ideas", and completely changing the world after they reappear. This
+  is wrong. First, it is unlikely that you can disappear from
+  civilization; you still need access to the Internet, right? Second,
+  it is unlikely that you can come out crazy ideas alone. Third, even
+  if you can come out crazy ideas, you need to validate the ideas and
+  compare them with existing studies. Maybe some people have already
+  done similar things when you are hiding.
   
 - If a student chooses a topic, the student cannot change the topic
   for the next forty years. Once in a while, a person makes a major
-  breakthrough in science and gives a speech about the processs to the
+  breakthrough in science and gives a speech about the process to the
   success. The person may say, "I have been solving this problem for
   forty years since I was a student."  These cases are rare (that's
-  why they are reported in news). It is common that a research changes
+  why they are reported in news). It is common that a researcher changes
   topics as technologies become mature, new technologies (and
   problems) are created, or simply because these researchers change
   their interests.
@@ -48,11 +61,7 @@ research topics are decided by professors according to multiple
 factors, for example, the existing expertise of the teams, the
 projection of the teams' future needs, etc. It is rare that a
 professor allows a student to choose a topic without any
-boundary. Sometimes news reports major breakthroughs in science or
-technologies and says the people have been working on solving the same
-problems for decades. What is covered in news is rare; common
-situations are not covered in news. In other words, most researchers
-change topics over their careers.
+boundary. 
 
 Many students think not choosing any topic gives them the freedom to
 choose something else later. This is also wrong for multiple reasons:
@@ -123,25 +132,25 @@ Understand the Four Stages of Doing Research
 
 It has been observed that most students go through four stages when they do research:
 
-- Excitement due to ignorance. Students are always excited when they
-  encounter new research problems. They have not started and have not
-  encounter any obstacles. They are ready to change the world by their
-  endless energy and unlimited optimism.
+- Excitement due to ignorance. New researchers are always excited when
+  they encounter new problems. They have not started and have
+  not encounter any obstacles. They are ready to change the world by
+  their endless energy and unlimited optimism.
 
 - Frustration and disappointment with knowledge. The first stage may
   last several days to several weeks. After reading research papers,
-  the students lose excitement. They realize "Everything I want to do
-  has been done."  The more they read, the more frustrated they
+  the researchers lose excitement. They realize "Everything I want to
+  do has been done."  The more they read, the more frustrated they
   become. They conclude that they are late about everything. Anything
   that is worth doing has already been published.
 
 - Experiments and failures. The second stage may last several weeks to
-  many months. Most students give up during the second stage. Some
-  students think deeply enough and move to the third stage. They
-  identify things that have not been published. They think of ways to
-  improve existing solutions. They try these improvements and compare
-  these new methods with existing methods. The new methods do not work
-  at all, or are worse than the existing methods.
+  many months. Most people give up during the second stage. Some think
+  deeply enough and move to the third stage. They identify things that
+  have not been published. They think of ways to improve existing
+  solutions. They try these improvements and compare these new methods
+  with existing methods. The new methods do not work at all, or are
+  worse than the existing methods.
 
 - Improvement and innovation. The third stage may last several months
   to forever. Reading more papers usually does not help getting out of
@@ -156,7 +165,7 @@ How to get out of Stage 2 and Stage 3? There is no method that always
 works. Here are several suggestions that can help:
 
 - Talk to experts. If you find a paper that is truly inspiring,
-  contact the first author and ask whether you can talk by vidoe call
+  contact the first author and ask whether you can talk by video call
   for 10 minutes. Of course, you have to read the paper very carefully
   and understand most of the context. Don't ask trivial
   questions. Instead, ask questions about directions, such as "What
@@ -166,6 +175,12 @@ works. Here are several suggestions that can help:
   times more) to help students. If you use @purdue.edu, you increase
   your chance of response to about 15%. If you use @gmail.com, you
   have only 5% chance getting responses.
+
+- Talk to non-experts.  Sometimes it can help if you talk to people
+  that know nothing about your topic.  These people may ask surprising
+  questions and open new thinking.  Do not intend to do everything
+  alone.  Sleeping less and working longer hours usually does not
+  help.
   
 - Pay attention to details. Maybe all existing studies use images
   taken indoors. If you use outdoor images, will anything change?
@@ -181,18 +196,23 @@ works. Here are several suggestions that can help:
 
 Read biographies of great inventors. Learn how they solve problems.
 
-Talk to People
-~~~~~~~~~~~~~~
+Talk to People: Does Anyone Care?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Academia has many studies that are completely irrelevant and nobody
 cares.  Why? Some researchers imagine some problems, solve these
 problems, and publish papers. Some other researchers read the papers
-and improve the solutions. Over years, many papers are published on
-these topics but thes results will never be adopted in the "real
-world".
+and improve the solutions, without asking deep questions. Over years,
+many papers are published on these topics but these results will never
+be adopted in the "real world".  Many people do research for the only
+purpose of writing papers. Dr. Lu does not.  Dr. Lu wants to conduct
+research that can improve the world.
 
 It is certainly admirable pursuing knowledge for the sake of
-knowledge, and nothing else. However, if you think you are solving a
+knowledge, and nothing else. Please notice the difference between
+research for knowledge and research for writing papers.
+
+However, if you think you are solving a
 problem to help people, you need to know whether people actually care
 about that problem.
 
@@ -251,10 +271,9 @@ you determine whether you are in the right direction or not.
 
 Researchers can learn from the movie industry: Before selecting casts
 and picking up cameras, a movie studio first draw a *story board*
-illustrating the plot of a story.  The story is discussed whether this
-story is worth developing. If this is not an attractive story, stop
-and consider a different story. If this story is worth pursuing some
-more details are added.  After a lot of details have already been
+illustrating the plot of a story.  If this is not an attractive story,
+stop and consider a different story. If this story is worth pursuing
+some more details are added.  After a lot of details have already been
 figured out by drawing the story board, the studio starts selecting
 casts and crew.  A story board allows researchers to evaluate many
 problems without investing a lot of time to each.
@@ -277,7 +296,7 @@ doing. Make a little progress and then evaluate again. In many cases,
 writing papers citing each other's work).
 
 
-Why Don't Professors Just Give Prolems to Students?
+Why Don't Professors Just Give Problems to Students?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Some students want professors to give problems, like homework
@@ -298,12 +317,12 @@ Research is fundamentally different from classroom learning. Please review
 Differences Between Progress Reports and Homework Assignments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Rogress reports are not homework assignments. The following table compares the difference
+Progress reports are not homework assignments. The following table compares the difference
 
 +------------------------------------------------------------+--------------------------------------------------------+
 | Research Progress Reports                                  | Homework Assignments                                   |
 +============================================================+========================================================+
-| Each team member solves unique problems                    | Everyone solves the same problem                       |
+| Each  member solves unique problems                        | Everyone solves the same problem                       |
 +------------------------------------------------------------+--------------------------------------------------------+
 | Need to explain how to evaluate success                    | Grading criteria are given by professors               |
 +------------------------------------------------------------+--------------------------------------------------------+
@@ -320,18 +339,66 @@ Rogress reports are not homework assignments. The following table compares the d
 | Require a lot of thinking                                  | Attend lectures, read textbooks, talk to TAs           |
 +------------------------------------------------------------+--------------------------------------------------------+
 
-Due to these differences, students often make the following mistakes when giving progress reports:
 
-- Give too little information: Since everyone is doing the same thing,
-  everyone knows everything and there is no need to say anything.
+Essential Components of Good Technical Presentations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Hide "failure": Most homework problems are supposed to be solvable
-  within a few days (at most several weeks) after studying. If a
-  student cannot solve a research problem quickly, the student does
-  not want to talk about the difficulty.
+- First, give a meaningful title that describes your work. Read the
+  title once, slowly.  The title should not be "Progress" or "Progress
+  Report".
 
-- Lack documentation: If everyone knows everything and answers are in
-  textbooks, there is no need to document activities.
+- Second, explain the problem (or problems) you are solving. Nobody
+  knows exactly what you are doing. Do not assume anyone knows the
+  problems. Do not assume that your team leader or professor knows the
+  problem. You have to explain.
+
+- Why do you solve this problem? Why does this team need your
+  solution? How is this problem related to other problems solved by
+  other team members? Again, do not say, "I solve this problem because
+  my leader told me to." or "The professor told me to do this."  You
+  need to understand "Why".
+
+- What has been done? What are the alternatives? Why are existing
+  solutions insufficient? What problems, in the context of existing
+  solutions, do you solve?
+
+- What is your solution? Give details. Nobody knows what you are
+  doing. Your presentation needs to explain details. Do not assume
+  that everyone knows the details because everyone is solving the same
+  problem. Do not assume that professor knows all details.
+
+- Evaluation. How do you know your solution actually works? How do you
+  know you actually solve the problem you want to solve? Is your
+  solution better than existing solutions? In what ways? Why?
+
+- How does your solution fit into the work of your team? How will your
+  work be integrated into the team's work? If your work is not
+  integrated, it is lost and you waste time.
+
+You definitely need practice. Do not imagine that you can speak well
+without practice. You cannot. Do not intend to fool anyone. You
+cannot.  You should follow the 1-10 rules: For every minute's
+presentation, spend 10 minutes preparing. If your speech is 15
+minutes, you should spend two and half hours preparing.
+
+Make Effective Visual Aids
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You need to provide details. Use figures, drawings, photos, equations,
+screenshots, source code ... to explain.  Here are some principle in
+making visual aids:
+
+- If you can say it, do not put on the visual aids. Many students type a lot of words into their slides. These words are not effective.
+
+- Anything you put in the slides must mean something important.  Do
+  not put anything because "it looks nice". 
+
+- If it is not readable, remove it. Anything smaller than 16 pt font is not readable.
+
+
+
+It Does Not Work
+~~~~~~~~~~~~~~~~
 
 A very common scenario is when a student tries a few things and does
 not get expected results. During progress report, the student says
@@ -355,24 +422,15 @@ Most students do not know that the unexpected results (do not call
 them "failure") form the foundation of new discoveries or invention.
 The unexpected results provide precious information.
 
-Here are four essential elements in progress reports
+It is understandable that you encounter problems that are harder than
+expected. It is understandable that your other commitment may prevent
+you from making enough progress. It is understandable that unexpected
+things happen. Be honest. If you have not made progress, tell the
+truth. If something does not work, explain what happens.
 
-- What problem are you solving?
-  
-- **Why** are you solving this problem? How is it relevant to the team's purpose?
+Honesty, integrity, and trust are the foundation of research. Never lie. Never fake data.
 
-- What have you done? What is the result? What is the evidence?
 
-- How do you do the problem? **Why** do you do it this way?
-
-You need to provide details. Use figures, drawings, photos, equations, screenshots, source code ... to explain.
-
-Many students focus exclusively on "how" to solve the problems without
-knowing the reason why the problems are worth solving. Very often,
-when asked "Why are you doing this?", students say, "I don't
-know. This problem is given by the professor."
-
-It is extremely important understanding "why" before asking "how".
 
 Distinguish "Solving a Problem" from "Fixing a Solution"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -386,7 +444,7 @@ car breaks down.  You say, "I can fix your car." It turns out fixing
 the car takes longer than expected and you miss the flight.  "How can
 anyone be so stupid?", you may ask. "Too many".  The "problem" is that
 you need transportation to the airport for your flight. One (among
-many) solution is ask to this particular friend to give you a ride to
+many) solution is to ask this particular friend to give you a ride to
 the airport. There are many other solutions for the problem (going to
 the airport for the flight), such as asking another friend, taking a
 bus, or calling a taxi. However, you completely focus on this
@@ -411,44 +469,22 @@ are (usually there are), why do you stay with the current solution
 that needs to be fixed? Can you choose another solution?
 
 
-Honesty, Integrity, and Trust
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Put Down the Laser Pointer
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Honesty, integrity, and trust are the foundation of research. Never lie. Never fake data.
+A laser pointer is bad.  Never touch the laser pointer.  When you use
+a laser pointer, you have to turn your head to the screen and your
+back to the audience. That's the first problem.  If you are nervous, a
+laser pointer amplifies your shaking hand.  If you are really nervous,
+you keep pressing the on button when you talk and shine the laser to
+your audience. Some people lose their eyes and you are arrested.
 
-It is understandable that you encounter problems that are harder than expected. It is understandable that your other commitment may prevent you from making enough progress. It is understandable that unexpected things happen. Be honest. If you have not made progress, tell the truth. If something does not work, explain what happens.
+If you speak in a large room with two or several screens, which screen
+will you point to?
 
-Why? What? Then How?
-~~~~~~~~~~~~~~~~~~~~
+Nothing good can be said about a laser pointer. 
 
-Students usually focus exclusively on *how* to solve
-problems. Students usually do not ask *why* nor *what*. When asked
-"Why are you doing this?", many students would say, "I don't know. The
-professor told us to do this." When asked, "What are you doing?  Can
-you describe it?", many students would say, "I am following the
-instructions given by the professor."
-
-When professors teach large classes, it is often necessary giving
-homework assignments with precise requirements so that students
-understand what to do.  As explained earlier, research is very
-different from classroom. Researchers need explain why first so that
-others understand the motivation.  Then, researchers need to explain
-what the problems are and what actions are taken for solving the
-problems. After explaining why and what, then the methods to solve the
-problems can make sense.
-
-
-Know the Purpose and Audience, Then Practice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- Here is a list of suggestions about giving good presentations:
-- Know the audience.
-- Practice. Make sure all content can be explained clearly. The connections among different materials need to be logic and smooth.
-- Meaure time. A speech should uses approximatley 80% total time and leave 20% for QA. If the presentation is 15 minutes, speak for 12 minutes and leave 3 minutes for QA. 
-- Start with a clear title and your name. The title should be the problem you are solving.
-- Explain details. You must be an expert in solving the specific problems. Provide details so that others can learn from you.
-- Use visual aids effectively. Use figures, drawings, photos, equations, screenshots, source code ... to explain. DO NOT USE A LOT OF WORDS.
-- Remove all irrelevant decoration (anything that is irrelevant to the research problem or your contributions). 
+Use the computer's cursor.
 
 
 How to Get Good Grades in Research?
@@ -459,7 +495,7 @@ learning. Learning focuses on getting knowledge and skills into
 you. Research focuses on creating something new, new to everyone in
 the world, not new to you only. In many cases, classroom learning
 means attending lectures, taking notes, read textbooks, submitting
-homeworks, answering exam questions. It is possible not getting a good
+homeworks, answering exam questions. It is possible getting a good
 grade without saying a single word in a class.  Research has *none* of
 these.  There is no lecture, textbooks, exam questions.  Instead, you
 need to think about how to evaluate your work.  **Communication is
@@ -474,17 +510,16 @@ Expectations
   time of the meeting. It is not acceptable if the exam is on the same
   day at a different time.
 
-- During the weekley meetings, each person has to report progress for
+- During the weekly meetings, each person has to report progress for
   3-5 minutes: What has been done? Why should it be done? What is the
   result? Please provide details.  It is **not** acceptable saying "It
   does not work." as a progress report.
 
 - Approximately near the middle of a semester, each person needs to
-  give a presentation (8-10 minutes) explaining the problem this
-  person is solving, not the problem for the team.  The presentation
-  must provide enough details about the problem, the reason why this
-  problem needs to be solved, the relationship between this problem
-  and the team's goals, and the planned approach.
+  give a presentation (8-10 minutes) explaining the problem.  The
+  presentation must provide enough details, including the reason why
+  this problem needs to be solved, the relationship between this
+  problem and the team's goals, and the planned approach.
 
 - Approximately near the middle of a semester, each person needs to
   fill a peer evaluation of the team members. This is an opportunity
@@ -492,98 +527,99 @@ Expectations
 
 - Before the semester ends, each person needs to give a presentation
   (15-20 minutes) about the results. This presentation needs to
-  include three important things: **details, details, and details**.
-  What has been done? How is the method evaluated? What are the
-  results?  If something "works", please provide evidence. If
+  include three important things: (1) details, (2) details, and (3)
+  details.  What has been done? How is the method evaluated? What are
+  the results?  If something "works", please provide evidence. If
   something is "better", please provide detailed comparison.  If
-  something "does not work", please provide diagnosis. Remember
-  **details**.  It is absolutely required that the presenter practices
-  in advance. Everything on every slide must be carefully explained.
-  It is acceptable if you include code, as long as you explain.  It is
-  strongly discouraged that you types words in slides.  Slides are
-  "visual aids": showing things that cannot be said easily. Slides
-  should show figures, images, equations, tables, .... **not words**.
+  something "does not work", please provide diagnosis. Everyone has to
+  practice in advance. Everything on every slide must be carefully
+  explained.  It is acceptable if you include code, as long as you
+  explain.  
 
 
-
-
-Common Mistakes
-~~~~~~~~~~~~~~~~
-
-The undergraduate program at Purdues does not require research. Hence, you should join a research team only if you want to solve research programs. You need to make progress in solving research problems. 
-
-One of the most difficult parts of being a beginning researcher is to understand how progress is measured. Let's first review what students typically do in classrooms: attend lectures, take notes, submit homework assignments, answer exam questions. In many (probably most) cases, all students in the same classes have the same homework assignments and the same exam questions. This is the source of a lot of confusion for many students: they think everyone in the world is solving exactly the same problem described in the homework or the exams. The implication is that many students deeply believe that everyone in the world is solving exactly the same problem. Everyone knows the problem. Everyone has read the same textbooks. Everyone has seen the same exam questions. Also, professors are supposed to know the answers because professors write the homework assignments and the exam questions. 
-
-No organization will put 100 people sitting together solving the same problem and the answer is already known by the "instructor". 
-
-In many cases, students can get good grades without speaking a word in class. In fact, some students think speaking (asking questions or answering questions) disrupt lectures and should be discouraged.
-
-"Classroom environment is not real." Please read it 10 times and understand the implications. 
-
-Many students never realize that classroom environment is not real. Many students would be completely surprised that other people solve different problems and that professors do not have answers ready for research problems.
-
-If you are in a research team, you must become an expert in the problem you are solving and nobody else should know as much as you do. If someone else knows as much as you (or more than you), by definition, you are unnecessary and should solve a different problem.
-
-
-
-How To Work in a Team
----------------------
-
-
-One of the most important difference between doing class homework and 
-research is the need of “team thinking”. You are part of a team and
+One of the most important difference between doing class homework and
+research is the need of “team thinking��. You are part of a team and
 your must contribute to the team. Many students make significant
-progress in their computers but they do not share what they have done 
-with the team. As a result, whatever they have done is restricted to  
-themselves.
-
-What does it mean sharing work with the team? At the minimum, each
-member should document contributions
-
-Document Your Work
-~~~~~~~~~~~~~~~~~~
-
-You need to clearly document everything you want to do, you have
-done, and the results. One of the most common mistakes when students  
-start doing research is that “student thinking”: as long as I have
-learned, I don’t need to document. This is wrong.
-
-You are responsible explaining to the other group members that you
-are doing. Your document must provide enough details so thatother
-people can reproduce your work.
+progress in their computers but they do not share what they have done
+with the team. As a result, whatever they have done is restricted to
+themselves.  What does it mean sharing work with the team? At the
+minimum, each member should document contributions You need to clearly
+document everything you want to do, you have done, and the results.
+You are responsible explaining to the other group members that you are
+doing. Your document must provide enough details so that other people
+can reproduce your work.
 
 
 
 How To Become a Team Leader
 ---------------------------
 
-*I was writing a chapter of Beautiful Evidence on the subject of the sculptural pedestal, which led to my thinking about what's up on the pedestal - the great leader.* - Edward Tufte
-
-One of the speacial parts of this research team is the comprehensive leadership development program. The experience of leading a research team can define your career for many years after you graduate from Purdue.
+One of the spacial parts of this research team is the comprehensive
+leadership development program. The experience of leading a research
+team can define your career for many years after you graduate from
+Purdue.
 
 The CAM2 team has two types of leaders:
 
-- Project leader: A leader manages a specific project (for example, active learning, drone video, crowdsourcing ...). A project leader needs to know the project's goal (write a research paper, build software, create data ...) and guide members toward the goal. A leader needs to know enough about different parts of the project but does not need to know all details of everyone's work. A project leader is a technical leader.
-- CAM2 leader: The CAM2 team has multiple project and tne entire team needs a leader. The CAM2 leader needs to think about the entire team strategically, for example, how to recruit and screen new members and how to reorganize future projects. The CAM2 leader represents all project leaders and communicate with the advisers. It is typical that the CAM2 leader is also a project leader.
+- Topic leader: A leader manages a specific topic (for example, active
+  learning, drone video, crowdsourcing ...). A topic leader needs to
+  know the topic's goal (write a research paper, build software,
+  create data ...) and guide members toward the goal. A leader needs
+  to know enough about different parts of the topic but does not need
+  to know all details of everyone's work. A topic leader is a
+  technical leader.
 
-Benefits of Being a Leader 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- CAM2 leader: "Leader of all leaders". The CAM2 team has multiple
+  topics and the entire team needs a leader. The CAM2 leader needs to
+  think about the entire team strategically, for example, how to
+  recruit and screen new members and how to reorganize future
+  projects. The CAM2 leader represents all topic leaders and
+  communicate with the advisers. It is typical that the CAM2 leader is
+  also a topic leader.
 
-- You get the opportunity to develop the skills that cannot be obtained in classrooms. In classrooms, most students are used to "mind their own business". Their success depends only on their own abilities and efforts. A leader's success depends on the team members. This is a completely different experience and requires new sets of skills.
-- Leading a research project or the entire research team gives you new prospects about how to interact with people (team members, other leaders, professors, external collaborators, sponsors ...).
-- Leaders need to understand their members: their abilities, their long-term aspiration, their short-term constraints.
-- Leaders need to understand the projects' and the team's needs, such as paper deadlines.
-- A leader has to think about the project's needs and plan ahead.  
-- If the research project publishes a conference paper, the leader is the first choice to present the paper. 
-- If you need recommendation letters from the advisers, the letters will be much, much, much stronger if you are an excellent leader. 
+Benefits and Responsibilities of Leaders 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- You get the opportunity to develop the skills that cannot be
+  obtained in classrooms. In classrooms, most students are used to
+  "mind their own business". Their success depends only on their own
+  abilities and efforts. A leader's success depends on the team
+  members. This is a completely different experience and requires new
+  sets of skills.
+  
+- Leading a research topic or the entire research team gives you new
+  prospects about how to interact with people (team members, other
+  leaders, professors, external collaborators, sponsors ...).
+  
+- Leaders need to understand their members: their abilities, their
+  long-term aspiration, their short-term constraints. Leaders need to
+  understand the topic's and the team's needs, such as paper
+  deadlines.
+  
+- A leader has to think about the project's needs and plan ahead.  If
+  the research project writes a paper, the leader is by default the
+  first author.  If it is a conference paper, the leader is the first
+  choice to present the paper.
+  
+- If you need recommendation letters from the advisers, the letters
+  will be much stronger.  By default, a leader's recommendation letter
+  is one or two levels stronger than members.
+
+- Talk to the advisers, often. The leaders are selected by the
+  advisers. If you do not talk to the advisers, you will not be
+  selected.  In most cases, new members are not leaders. A leader has
+  to be in the project for at least one semester.
+
+- Shape the directions of the projects. Leaders have greater
+  opportunities suggesting projects' directions.
 
 
-- Talk to the advisers, often. The leaders are selected by the advisers. If you do not talk to the advisers, you will not be selected.
-- Talk to team members often and know their skills. 
-- In most cases, new members are not leaders. A leader has to be in the project for at least one semester.
+- Train new members. Explain the organizations, goals, and culture of
+  this research team to new members
+  Understand new members' expertise and determine the most appropriate tasks given to the new members
 
-Responsibilities of a Leader
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+
 
 Suggestions to New Leaders
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -603,8 +639,8 @@ New members (still thinking as students) often incorrectly believe
 that "Everyone knows everything. I cannot offer anything new to the
 team."
 
-A leader has to ensure that all members, particularly new members,
-participate in meetings.  Several things can be done to achieve this:
+A leader has to ensure that all members participate in meetings.
+Several things can be done to achieve this:
 
 - The leader limits the amount of time each person speaks. If someone
   (usually a returning member) has more to say, tell the person to
@@ -617,7 +653,7 @@ participate in meetings.  Several things can be done to achieve this:
 
 - If anyone in the team wants to dominate the discussion (i.e., always
   talking without giving others opportunities to speak), the leader
-  has to stop this person. If this person has the habbit of dominating
+  has to stop this person. If this person has the habit of dominating
   the discussion, communicate with this person outside the meeting.
   If this situation persists, inform the advisor to intervene.
 
@@ -627,30 +663,36 @@ project as a high priority, willing to spend 20 hours per week; some
 others may think this project as one of many important things, maybe
 10 hours per week; the others may think this project as a way to get
 credits and graduate, spending as little time as possible.
-
-Understand Members' Differences
-###############################
-
 A good leader has to take advantage of every member's talent, even though
 some members can spend little time.
 
 How to Get Strong Letters of Recommendation
 -------------------------------------------
 
-Helping students succeed is one of the missions of university professors. Dr. Lu writes recommendation letters for graduate schools, awards, jobs, etc. Before you ask Dr. Lu to write a letter for you, please ask yourself these question:
+Helping students succeed is one of the missions of university
+professors. Dr. Lu writes recommendation letters for graduate schools,
+awards, jobs, etc. Before you ask Dr. Lu to write a letter for you,
+please ask yourself these question:
 
 - Does Dr. Lu know me well?
 - Do I have something special to be recommended?
 - Can Dr. Lu write a strong letter for me?
 - Does he have time writing a letter for me?
 
-If you answer No to any question, STOP. Don't waste your time. If you took his class but never talked to him, he knows nothing about you and has nothing to recommend. Your grade is already in the transcript. If the only thing Dr. Lu can write is about your grade, the letter does not help you. Thus, Dr. Lu will not write a letter for you.
+If you answer No to any question, STOP. Don't waste your time. If you
+took his class but never talked to him, he knows nothing about you and
+has nothing to recommend. Your grade is already in the transcript. If
+the only thing Dr. Lu can write is about your grade, the letter does
+not help you. Thus, Dr. Lu will not write a letter for you.
 
 `This video <https://youtu.be/VMnzmM93W0s>`__ explains how recommendation letters work for applications of graduate schools. Please watch.
 
-Dr. Lu writes letters for a student only after talking to the student. **If you want a letter from him, you have to talk to him.** If you are not on Purdue campus, please schedule a video call.
+Dr. Lu writes letters for a student only after talking to the
+student. **If you want a letter from him, you have to talk to him.**
+If you are not on Purdue campus, please schedule a video call.
 
-Do not ask Dr. Lu to write a letter because you cannot find anyone else. It is your problem, not Dr. Lu's. 
+Do not ask Dr. Lu to write a letter because you cannot find anyone
+else. It is your problem, not Dr. Lu's.
 
 Dr. Lu's letters always focus on accomplishments. You need to provide
 evidence of your accomplishments. "I really enjoy your class" is not
@@ -658,9 +700,13 @@ an accomplishment and Dr. Lu cannot write a letter because a student
 enjoys his class. "I do not know who else to ask" is not an
 accomplishment and Dr. Lu cannot write a letter for this reason.
 
-When you ask Dr. Lu for a letter, he will always ask you the following questions (because graduate schools ask them). Please bring your answers **with evidence** (such as your project reports).
+When you ask Dr. Lu for a letter, he will always ask you the following
+questions (because graduate schools ask them). Please bring your
+answers **with evidence** (such as your project reports).
 
-- Your ability to speak and write. You can answer this question by giving an excellent technical presentation and a well-written technical document.
+- Your ability to speak and write. You can answer this question by
+  giving an excellent technical presentation and a well-written
+  technical document.
 
 - Your ability to work in teams.
 
@@ -682,38 +728,14 @@ a known destination.
 
 You are busy. So is everyone.  Your time is precious. So is his.
 
-If you need a letter, pleass fill `this form <https://docs.google.com/forms/d/e/1FAIpQLScgJPMfgR7gFd5D1eJPAK7A7AfCGPYfgxzitH2A-3TNfyZmLw/viewform?usp=sf_link>`__. Please send email to Dr. Lu after you have filled the form.
+If you need a letter, please fill `this form <https://docs.google.com/forms/d/e/1FAIpQLScgJPMfgR7gFd5D1eJPAK7A7AfCGPYfgxzitH2A-3TNfyZmLw/viewform?usp=sf_link>`__. Please send email to Dr. Lu after you have filled the form.
 
-
-
-
-How To Interview New Members
-----------------------------
-
-This research team requires that all new members go through
-interviews. If you are a new member (i.e., an interviewee), please
-visit `visit this page <https://purduehelps.org/join.html#interviews>`__. This page is
-for current members (i.e., interviewers).
-The purposes of interviews include:
-
-- Understand the new members' expertise and determine the most appropriate tasks given to the new members
-
-- Explain the organizations, goals, and culture of this research team to new members
-
-- Understand and practice interviews
-
-- Evaluate communication skills
-
-- Encourage leadership
-
-- Develop the knowledge and techniques in assessing the strength of weakness of new members
-  
 
 How To Arrange Business Trips
 -----------------------------
 
-Please work with Gabby Rainwater in MSEE 268 and 
-Christy Millen in MSEE 112.
+Please work with Emily Fuller <fuller87@purdue.edu> in MSEE 268 and
+ Christy Millen <millenc@purdue.edu> in MSEE 112.
 
 Please download
 `Travel Form <https://github.com/PurdueCAM2Project/HELPSweb/blob/master/source/document/travelform.docx?raw=true>`__.
@@ -739,7 +761,7 @@ Some general principles in arranging trips:
 - Your time is precious. Do not spend a lot of time looking for cheap
   airfare or inexpensive hotels. Do not choose a cheap hotel that
   requires long commute to your business destination. Do not choose a
-  very longover to save a few dollars.
+  very long over to save a few dollars.
 
 - Safety is your highest priority.  If you feel unsafe, take
   reasonable actions to reduce the chance of harm (stay in the
@@ -791,12 +813,27 @@ few), please forget what the teacher told you.
 
 Before writing a research paper, it is important to understand the
 purpose.  If you are doing real research, you must be doing something
+new
 and you are the only person knowing what is going on. You have write
 down the details so that others can understand.  The most common
 mistake when students write papers is that they misunderstand the
 purpose of research papers.  They believe that everyone is doing the
 same thing (like all students doing the same homework) and there is no
 need to explain anything.
+
+A research paper is *not* a place you show off tricks of grammar.  You
+should keep the writing as simple as possible: The English is easy to
+understand, even though the content may be difficult. Do not write
+long sentences. If a sentence has three or more verbs, you should
+consider to shorten it or break it into several sentences.
+
+Dr. Lu has published many research papers and he knows how to write
+research papers. He will not discuss with you about how to write
+papers.  He will not accept your suggestions.  Dr. Lu does not need
+your advice about how to write research papers.  Do not waste time
+teaching him how to write papers.
+
+**If you disagree, leave.**
 
 
 Types of Papers
@@ -913,7 +950,7 @@ usually has four or five paragraphs:
    
 7. (optional) Implications
    
-8. (opitonal) [Structure of the paper] "This paper is organized as
+8. (optional) [Structure of the paper] "This paper is organized as
    follows ..." This is needed only if the paper is longer than 8
    pages.
 
@@ -956,7 +993,52 @@ The BIGGEST problem when students present their projects is the
 not need to explain what I am doing and why I am doing it. Everyone should
 already know."
 
+Please take *every* presentation seriously.  You must understand that
+each presentation is as important as an exam and you should spend **at
+least** four hours preparing each presentation.  Important decisions
+are made based on your presentations. Dr. Lu uses your presentations
+in making decisions that may have profound impacts in your career, for
+example,
 
+- Your grade.
+
+- Selection of team leaders. 
+
+- Recommendation letters. 
+
+- Nominations of awards. 
+
+- Collaboration with industry partners.
+
+- Financial supports to conferences.
+
+A good presentation must have deep technical content **and**
+well-polished delivery.
+
+If you do not know how to give a good presentation, take a class, join
+a speaking club, join toastmasters ....
+
+When you prepare a presentation, please follow this format:
+
+- Give a meaningful title. The title should **not** be "Progress",
+  "Final Presentation", "Update", "CAM2 Report", ...  The title should
+  describe your work in a meaningful way.
+
+- Your name.   
+
+- The problem your team is solving and the problem YOU are solving
+  (not the entire team).  This is usually the weakest part of
+  students' presentations. Many students cannot describe the problems
+  because "the problems are given by the professors or the leaders".
+
+- Your solution.
+
+- Evaluation. Does your method work? Please make the evaluation
+  **quantitative**.  Many students say, "It works." or "It does not
+  work." What does that mean? In most scenarios, "working" depending
+  on specific inputs.
+
+  
 
 
 If you want to make a video, you can use Camtasia. You can download
@@ -976,6 +1058,6 @@ This is the `grading guide for new
 members <https://docs.google.com/document/d/1qQY6nFaHbP7eP2BvPvSP1QWs 
 cU-xgqs0UfWvIGQEUnU/edit?usp=sharing>`__.
 One of the most important differences between “student thinking” and  
-“real world” is that
+“real world�� is that
 
 
