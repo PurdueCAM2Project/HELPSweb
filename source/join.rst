@@ -2,8 +2,8 @@ Join the Team
 ========================================
 
 
-The goal of this research team is to create leaders.
-----------------------------------------------------
+The mission of this research team is to create leaders.
+-------------------------------------------------------
 
 
 .. note::
