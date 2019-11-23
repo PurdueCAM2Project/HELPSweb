@@ -464,7 +464,7 @@ Detect and encrypt faces to protect privacy using embedded computer.
 
    * -
      - `Uday Thapar`
-     - .. image:: https://media.licdn.com/dms/image/C5603AQFenyO-6ys8tA/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=TCE4sLt89Yt6rdJzSgXqplfv1EV7k54wxdmhhBXK6Vc
+     - 
      - `Andrew Liu`
 
    * - .. image:: https://drive.google.com/uc?id=1bZxvHiZ-H7ACq55FpJQqbJgj8NZjZlcb
@@ -649,7 +649,7 @@ Create procedure for developing high-quality and reproducible software.
 
    * - .. image:: https://drive.google.com/uc?id=1IbObkujdVo4Y-ratjmZIHOdl43GYa58b
      - `David Wood`
-     - .. image:: https://media.licdn.com/dms/image/C4D03AQHGv7uBGa82HQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=feI1rxEOBoBqfPS-apH1UP6erLCRYGoKrL4MFLA-RJ4
+     - 
      - `Connor Chadwick`
 
    * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
