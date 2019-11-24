@@ -1,6 +1,30 @@
 People and Topics
 -----------------
 
+2020 Spring Schedule
+~~~~~~~~~~~~~~~~~~~~
+
+All meetings are held in EE 013.
+
+=========== ========== ==================== ==================== 
+Time        Monday     Tuesday              Wednesday            
+=========== ========== ==================== ==================== 
+09:00-10:00            Image Database
+10:00-11:00            Software Engineering 
+11:00-12:00 
+12:30-13:30 Forest     
+13:30-14:30 Drone                           Human Behavior        
+14:30-15:30 Embedded 1                      Crowdsourcing
+15:30-16:30 Leaders
+16:30-17:30                                 Embedded 2
+17:30-18:20                                 VIP lecture (EE 129)
+=========== ========== ==================== ==================== 
+
+Due to the large number of team mebers, it is not possible changing
+the regular meeting time. If your schedule does not fit into a
+particular team, you have to move to another team.
+
+
 2019 Fall Schedule
 ~~~~~~~~~~~~~~~~~~
 
@@ -17,9 +41,6 @@ Time        Monday     Tuesday        Wednesday            Friday
 17:30-18:20                           VIP lecture (EE 129)
 =========== ========== ============== ==================== ==============
 
-Due to the large number of team mebers, it is not possible changing
-the regular meeting time. If your schedule does not fit into a
-particular team, you have to move to another team.
 
 Topics
 ~~~~~~
