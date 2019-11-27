@@ -669,6 +669,11 @@ some members can spend little time.
 How to Get Strong Letters of Recommendation
 -------------------------------------------
 
+If you have taken ECE 264 with Dr. Lu and you have no additional
+interaction with him, he has 
+`Generic Recommendation Letter <https://github.com/PurdueCAM2Project/HELPSweb/blob/master/source/document/ECE264SampleLetter.pdf>`__.
+As you can see, this is not a strong letter. If you want a stronger letter, please keep reading.
+
 Helping students succeed is one of the missions of university
 professors. Dr. Lu writes recommendation letters for graduate schools,
 awards, jobs, etc. Before you ask Dr. Lu to write a letter for you,

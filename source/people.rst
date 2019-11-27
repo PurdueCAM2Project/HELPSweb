@@ -28,8 +28,6 @@ particular team, you have to move to another team.
 2019 Fall Schedule
 ~~~~~~~~~~~~~~~~~~
 
-All meetings are held in EE 013.
-
 =========== ========== ============== ==================== ==============
 Time        Monday     Tuesday        Wednesday            Friday
 =========== ========== ============== ==================== ==============
