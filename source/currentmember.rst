@@ -669,10 +669,21 @@ some members can spend little time.
 How to Get Strong Letters of Recommendation
 -------------------------------------------
 
-If you have taken ECE 264 with Dr. Lu and you have no additional
-interaction with him, he has 
-`Generic Recommendation Letter <https://github.com/PurdueCAM2Project/HELPSweb/blob/master/source/document/ECE264SampleLetter.pdf>`__.
-As you can see, this is not a strong letter. If you want a stronger letter, please keep reading.
+If you have taken ECE 264 with Dr.  Lu and you have no additional
+interaction with him, he has a `Generic Recommendation Letter
+<https://github.com/PurdueCAM2Project/HELPSweb/blob/master/source/document/ECE264SampleLetter.pdf>`__.
+If you took his class but never talked to him, he knows nothing about
+you and has nothing to recommend. Your grade is already in the
+transcript. If the only thing Dr.  Lu can write is about your grade,
+the letter does not help you.  As you can see, this is not a strong
+letter.  If you want this letter, you must give Dr. Lu at least three
+weeks to write your letter.  When you ask him to write, you must give
+him a list of universities you want to apply. He will send letters to
+only these universities. You must send all applications **within one
+week**.  You are busy. Dr. Lu is also busy. Your problem is not his
+problem.  If you do not like his policy, do not ask him for letters.
+
+If you want a stronger letter, please keep reading.
 
 Helping students succeed is one of the missions of university
 professors. Dr. Lu writes recommendation letters for graduate schools,
@@ -684,11 +695,7 @@ please ask yourself these question:
 - Can Dr. Lu write a strong letter for me?
 - Does he have time writing a letter for me?
 
-If you answer No to any question, STOP. Don't waste your time. If you
-took his class but never talked to him, he knows nothing about you and
-has nothing to recommend. Your grade is already in the transcript. If
-the only thing Dr. Lu can write is about your grade, the letter does
-not help you. Thus, Dr. Lu will not write a letter for you.
+If you answer No to any question, STOP. Don't waste your time. 
 
 `This video <https://youtu.be/VMnzmM93W0s>`__ explains how recommendation letters work for applications of graduate schools. Please watch.
 
