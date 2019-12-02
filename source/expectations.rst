@@ -95,7 +95,7 @@ Course Calender
 +-------------+--------------------------------------------------------------------------------------------+
 | **(12/9)**  | Group Paper Review Due **Friday 12/13 @ 11:59PM on BlackBoard**                            |
 |             |                                                                                            |
-|             | `Final Presentation`_ (Scheduled with Professor Lu)                                        |
+|             | `Final Video Presentation`_                                                                |
 |             |                                                                                            |
 |             | Final Notebook Due                                                                         |
 +-------------+--------------------------------------------------------------------------------------------+
@@ -185,7 +185,7 @@ Make sure you also take detailed notes during the weekly meeting. If you are mis
    :align: center
    :alt: Update
 
-Remember, you are expected to update your notes several times a week. Confluence provides many other tools that were not reviewed in this section. You are free to use any and all of these tools to keep track of your progress. You may also create new types of pages under your notebook page if this helps you better organize your notes. This can be done by clicking the "..." button next to the "Create" button **in your note directory**. When you click the "Create" or "..." button a new page will automatically be created under your current directory. This should be avoided on pages above your personal notes page because you **will not be able to remove any pages you crate**. If you accidentally create a new page you will have to ask an admin to remove the page. 
+Remember, you are expected to update your notes several times a week. Confluence provides many other tools that were not reviewed in this section. You are free to use any and all of these tools to keep track of your progress. You may also create new types of pages under your notebook page if this helps you better organize your notes. This can be done by clicking the "..." button next to the "Create" button **in your note directory**. When you click the "Create" or "..." button a new page will automatically be created under your current directory. This should be avoided on pages above your personal notes page because you **will not be able to remove any pages you create**. If you accidentally create a new page you will have to ask an admin to remove the page. 
 
 .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/CreateNewPage.png
    :align: center
@@ -212,7 +212,7 @@ Each student is expected to give three presentations throughout the semester:
 
 #) `Description of the Problem Presentation`_
 #) `Solution Design and Development Approach Presentation`_
-#) `Final Presentation`_
+#) `Final Video Presentation`_
 
 The goal of these presentations is to assess your ability to verbally share your research. This is an important skill for researchers as they are often asked to share their research at conferences. The first two presentations will give you an opportunity to practice for the final presentation. 
 
@@ -272,8 +272,8 @@ Solution Design and Development Approach Presentation
  - What needs to be tested/proved as soon as possible to validate your proposed solution?
 
 
-Final Presentation
-###################
+Final Video Presentation
+#########################
 +-----------------------+------------------------------------------+
 | **Time**              | **Week of**                              |
 +-----------------------+------------------------------------------+
@@ -283,17 +283,43 @@ Final Presentation
 .. `Template <>`_
 .. `Example <>`_
 
-**In addition to the content of the first two presentations, answer some of the following questions:**
+Please fill this form and include URL of your video
+https://forms.gle/nxKfDVxYSEeuafxR6
 
- - What has changed about your understanding of the problem?
- - Do your contributions correctly address the problem you proposed? (It's okay if they don't say why!)
- - Do you need to modify your proposed problem or solution to better align with the needs of the project?
- - Do your notes and report successfully communicate your contribution?
- - Have you discovered anything that would change the viability of your solution?
- - How can you improve your documentation and ensure that others can continue your work?
- - Do you understand your contribution and the project well enough to communicate it to others?
- - Is your work well organized so that anyone can understand it?
- - Can you answer detailed questions about the material you are working with?
+before December 5. The earlier, the better.
+
+Your video will be reviewed by me and your peers (may be people in other teams). This is the review form
+
+https://forms.gle/tyGXCkL13Jd3vVqLA
+
+Please read the two forms now and understand what is needed.
+
+To encourage everyone to upload the video early, the reviews will be assigned after you have submitted your video. The earlier you submit your video, the earlier you review the others'.  If you do not want to wait till the final exam week, please submit your video early.
+
+Here are some important things about how to make excellent video.
+
+This video is your final exam. You must treat it seriously. You must spend at least 10 hours preparing this video. Practice, practice, and practice again.
+If you make a bad video, everyone knows. Do not intend to fool anyone because nobody can be fooled.
+This is a research team. Everyone is doing something different. Nobody else knows what you are doing. You must provide enough details.
+Read your title and name slowly and clearly. The title must describe YOUR (only your, not anyone else) work. The title must not be "Report", "Progress", "Final Presentation", "CAM2 Report" ...
+Your video must be longer than 15 minutes. If it is shorter than 15 minutes, you have not accomplished enough for a semester. If you are taking a research course, you will receive D, F, or I.
+Focus on what you have accomplished. Nobody cares about your efforts. Nobody cares how much you have learned. Nobody cares how much time you spend. Nobody cares how much you love the project.
+Use white background and black letters. This provides the best contrast.
+If you have no video editing tools, please download https://www.purdue.edu/innovativelearning/supporting-instruction/instructional-technology/camtasia.aspx
+Here is a checklist. You need to clearly explain
+the problems you are solving?
+the reason you are solving these problems? how is your work related to the team's work?
+the relationship between these problems and your team's project?
+the methods you use to solve the problems?
+how do you know your methods are successful or unsuccessful (evaluation)?
+This is a research team. It is understandable that things may not work as planned. If you encounter difficulty, explain the details. What have you done? Why do you do that? What results do you get? Why are the results unexpected? What do you plan to do next? It is unacceptable saying "It does not work" and providing no details.
+where is your work documented and how can the team access your work?
+do you explain everything on your slides? Is anything on any slides unnecessary? Remove all decorations. Everything on your slides must mean something.
+Here are some examples for your references:
+
+https://www.youtube.com/watch?v=bwQPSo4oTTA&feature=youtu.be
+https://www.youtube.com/watch?v=jtoQ5eB-GCE&feature=youtu.be
+https://www.youtube.com/watch?v=LVaZqw1iRIU&feature=youtu.be
 
 
 Peer Feedback
