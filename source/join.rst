@@ -1,11 +1,25 @@
 Join the Team
 ========================================
 
-The goal of this research team is to create leaders.
-----------------------------------------------------
 
-We recommend reading this page fully before submitting the `application form <https://forms.gle/Q27KTbahpGbHMEGq8>`__.
-However, if you have already spoken with members of the research team, it is ok to proceed directly to the form.
+The mission of this research team is to create leaders.
+-------------------------------------------------------
+
+
+.. note::
+
+   This team no longer interviews the students that want to
+   join. Instead, the team provides materials below to help students
+   evaluate whether this team is right for them. 
+
+.. warning::
+
+   Using an analogy of sports, this research team is Olympics (or
+   World Cup). The team wants only the top performers.  If you want to
+   become an outstanding researcher, you will prosper in this team. If
+   your goal is to do as little as possible and to get credits, this
+   team is not for you.
+
 
 
 |joinimg0| |joinimg1|
@@ -57,52 +71,43 @@ Before you contact Dr. Lu, ask yourself these questions:
 
 - Do I know what this research team is doing?
   
-- Have I read this team's recent papers and understood?
+- Have I read this team's recent papers?
   
 - Do I want to conduct research on these topics?
   
 - Can I contribute to solving the research problems?
   
-- Do not send email to Dr. Lu if you have no answer. Don't waste your time. 
+Do not send email to Dr. Lu if you have no answer. Don't waste your time. 
 
 Should you do research? Research, like any other activities that
 require long-term efforts (such as marathon, chess, painting...), is
 not for everyone. "Everyone should do research." is as valid as
 "Everyone should run marathon." or "Everyone should play chess."
-Before you join a research team (any team), think about the
-reasons. What do you want to accomplish? Why do you want to do
-research with this team? Remember, time is your most precious
-asset. Do you want to spend your time with these people? Why? Do these
-people want to spend time with you? Why?
+Before you join a research team, think about the reasons. What do you
+want to accomplish? Why do you want to do research with this team?
+Remember, time is your most precious asset. Do you want to spend your
+time with these people? Why? Do these people want to spend time with
+you? Why?
 
 If you want to talk to Dr. Lu, his office is MSEE 222.
 
 Still want to join?
 -------------------
 
-If you are serious about solving research problems and interested
-joining the research team, please fill in `this Google form
-<https://forms.gle/Q27KTbahpGbHMEGq8>`__.
 
-
-The team's mission is to create leaders. The research projects' mission is to create the technologies saving lives.
-
-For undergraduate students: This research team gives undergraduate
-students the true experience of research. You will be given research
-problems, not classroom homework assignments. You need to solve these
-research problems and have contributions to the research community
-(such as research papers, open-source software, data). This is a large
-research team in the number of undergraduate students on Purdue
-campus. You will get the opportunities learning from other students,
-making life-long friends, solving problems that are too difficult for
-small teams.
-
+This research team gives students (including undergraduate students)
+the true experience of research. You will be given research problems,
+not classroom homework assignments. You need to solve these research
+problems and have contributions to the research community (such as
+research papers, open-source software, data). This is a large research
+team in the number of students. You will get the opportunities
+learning from other students, making life-long friends, solving
+problems that are too difficult for small teams.
 For graduate students: This team has many undergraduate students and
 you can get rare experience working with these students solving large
 research problems. They may help you review literature or conduct
 experiments. They may critique your methods. You may get the
 opportunity leading a team.
-
 It is expected that you are comfortable writing computer programs. You
 should have the skills equivalent to ECE 264 (or CS 240) at Purdue. CS
 159 is insufficient. You must be able to learn Python.
@@ -111,7 +116,7 @@ Research requires a lot of self learning. If you learn in classroom
 only and need step-by-step guidance by teaching assistants, you are
 not ready for research.
 
-This research provides unique experience that is uncommon on campus:
+This research team provides unique experience that is uncommon on campus:
 all students (including undergraduate students) solve research
 problems. Since research problems are difficult, this team has the
 following requirements:
@@ -120,9 +125,7 @@ following requirements:
   counts as a semester). Many students stay in the team for 2 years or
   even longer. Why? They want to solve research problems. If you
   intend to stay for only semester, do not come.  One semester is too
-  short to accomplish anything meaningful.
-  
-- Every new member must pass an interview with current members.
+  short to accomplish anything meaningful. Do not waste your time.
   
 - Every new member will receive fast-pace training. This takes the
   efforts of current members.
@@ -130,23 +133,19 @@ following requirements:
 - During spring or fall semester, every new member must take a
   research course (ECE 279, 379, 479, CS 490, or similar). The reason
   is simple: without taking a research course, new members always
-  vanish when their coursework becomes heavy. This wastes everyone's
-  time.
+  vanish when their coursework becomes heavy.  
 
 - Teamwork is absolutely critical. If you want to work alone, do not
-  come.
+  come.  
 
 - Every member must make a commitment to solving research
-  problems. This team demands serious efforts. This is a research team
-  and entertainment is not the purpose.
+  problems. This team demands serious efforts.
 
-- Learning is an essential part of doing research but research is much
-  more than learning. Research must create new things (new software,
-  new data, new theory, new algorithms, new interpretation...). If you
-  do not create anything new, you are not doing research. "New" means
-  new to human knowledge, not new to you. If your only intention is to
-  "learn" without solving research problems, do not come. If you want
-  to learn, take classes or read books (or papers).
+- Research must create new things (new software, new data, new theory,
+  new algorithms, new interpretation...). If you do not create
+  anything new, you are not doing research. "New" means new to human
+  knowledge, not new to you. If your only intention is to "learn"
+  without solving research problems, do not come. 
 
 - Members are expected to interact in both professional and social
   settings. Many solutions are discovered when people talk outside
@@ -165,6 +164,14 @@ following requirements:
   is to discover new things. Thus, you must explain what you have
   discovered by speaking and writing.
 
+- This research team does not accept students that come with their own
+  agenda. This team solves research problems that take long time. The
+  topics have been determined long before any new member joins the
+  team.  As a new member, you are not allowed to suggest new
+  topics. The team does not care what you want to do. As a new member,
+  you must solve the problems that have already been selected by the
+  team.
+
 
   .. raw:: html
 
@@ -179,36 +186,30 @@ Frequently Asked Questions
 
 - A: Too many people treat "research" as visiting an amusement
   park. They are looking for "fun" without the intention of taking
-  efforts. They show up when they want to; they may leave at any
+  efforts. They show up when they want to; they leave at any
   moment. They expect to get A easily. This research team does not
   need those people. This research team welcomes only the people that
-  are serious about solving research problems. Many people want to
-  join this team because these people know everyone in this team is
-  serious about solving research problems.
+  are serious about solving research problems. Yes, this team has many
+  students because these people are serious about solving research
+  problems.
 
 - Q: How many hours do I need to spend per week?
 
 - A: **What do you want to accomplish?** You need to spend at least
   six hours a week. If you cannot, you are wasting your time because
-  you can accomplish nothing.  Many people spend more than six hours a
-  week. If you are leading a research paper, it is possible that you
-  spend 30 hours (or more) the week before submission.
-
-
-- Q: If I am selected, I will stay for at least two semesters, right?
-
-- A: Not necessarily. The team may be reorganized. A particular topic
-  may be eliminated if enough progress has been made. A member may be
-  released (not "fired") if the member shows no progress.
+  you can accomplish nothing.  Many people spend much more than six
+  hours a week. If you are leading a research paper, it is possible
+  that you spend 30 hours (or more) per week for several weeks before
+  submission.
 
 - Q: Your team demands a lot. What do members get?
 
 - A: Why do people climb high mountains? Why do people compete in
   World Cup? They want to accomplish something extraordinary.  This
-  team gives members the pride of solving research problems,
-  friendship with excellent researchers, authorship (or co-authorship)
+  team gives members friendship with excellent researchers, authorship
   of research papers, strong recommendation letters, excellent job
-  offers, and occasionally, pizza.
+  offers, and occasionally, pizza. Above everything else, **this team
+  gives members the pride of solving research problems**.
 
 - Q: I do not want to take a research course because I already have
   too many credits.
@@ -227,8 +228,7 @@ Frequently Asked Questions
 - A: You will not stay. You know very clearly. You do not want to take
   a research course because you cannot spend time. Do not come. Many
   people "assured" that they would stay without taking credits.
-  Everyone vanished. In fact, these people simply vanished without
-  saying "Good Bye". This team does not need these people.
+  Everyone vanished.  This team does not need these people.
 
 - Q: If you are so restrictive, how many people actually apply for joining the team?
 
@@ -240,7 +240,14 @@ Frequently Asked Questions
 
 - Q: Do you set a limit on the team's size?
 
-- A: We welcome everyone that wants to solve research problems.  
+- A: We welcome everyone that wants to solve research problems.
+
+- Q: I have an idea. Can you help me?
+
+- A: No. Go away. This team selects research problems that take many
+  years to solve. The team will not change research topics because of
+  your idea.
+  
 
 About Financial Support
 -----------------------
@@ -270,14 +277,14 @@ following facts:
   students research experience. He enjoys the intellectual
   interactions with many excellent students. He also thinks the
   interactions among students help them succeed. The size of his
-  research team has no effect on how much Purdue gives for research
-  (always $0).
+  research team has no effect on how much Purdue gives him for
+  research (always $0).
   
 - Dr. Lu has zero influence about how Purdue spends tuition. Please
   talk to Purdue President if you have any suggestions.
   
 - Dr. Lu has zero influence on other professors' decisions. Dr. Lu
-  cannot tell any other professor to provide any student financial
+  cannot tell any other professor to give any student financial
   support.
   
 - Dr. Lu obtains research funding by writing proposals.
@@ -300,8 +307,6 @@ Common Mistakes by Students
 
 - Some students think "doing research" means disappearing for five
   years and coming back with world-changing discovery or invention.
-  It does not work that way. You need to regularly (about once a week)
-  report progress.
   
 - Financial support is free money and students have complete freedom doing whatever they want.  
   
@@ -316,7 +321,8 @@ How to Get Financial Support from Dr. Lu?
 
 - Understand that Dr. Lu has no obligation giving you financial support. You have to earn it.
   
-- Getting financial support from Dr. Lu will take you a lot of efforts.
+- Getting financial support from Dr. Lu will take you a lot of
+  efforts. He will not give you money because you send an email.
   
 - Read at least five of his papers published in the last three
   years. Do not initiate any conversation before you finish reading
@@ -325,9 +331,9 @@ How to Get Financial Support from Dr. Lu?
 - Prepare to have multiple, long, and deep technical discussions.
   
 - Dr. Lu has a large established research program. You must do what
-  the research program needs.
+  the research program needs. He does not care about your new ideas.
   
-- Dr. Lu can support only Purdue students.
+- Dr. Lu can support only Purdue students. 
   
 - Dr. Lu emphasizes teamwork greatly. You have to work with a
   team. You must have good communication skills.
@@ -337,40 +343,16 @@ How to Get Financial Support from Dr. Lu?
 
 |joinimg6| |joinimg7|
 
-
   
   
-Interviews
-----------
-
-.. note::
-
-   If you are not ready for an interview or you do not perform well in an interview, that's all right. Come back later.
-
-.. warning::
-
-   Do you like sports? Are you ready to join a professional team that
-   compete internationally? This research team solves problems whose
-   answers are not known to anyone in the world. We compete
-   internationally.  We produce open-source software and data. We
-   publish papers in top venues.
-
-
-This research requires that every applicant be interviewed by two or
-three current members. Why?  Any organization exists for a
-purpose. The organization can succeed if the members can work together
-toward the common goals. The organization fails if the members do not
-understand the purpose of the organization or cannot work
-together. Interviews are one of the methods to help determine whether
-people interested joining the organization is ready to work together
-with existing members toward the common goals.
+Research is NOT Classroom Learning
+----------------------------------
 
 A research group is fundamentally different from a classroom. A
-research group aims to solve research problems that can help
-humanity. A classroom is usually an inclusive environment: most
-instructors allow auditors. In contrast, a research team is a
-"privileged" environment and only selected members can participate.
-Many reasons make research team restrictive, for example,
+classroom is usually an inclusive environment: most instructors allow
+auditors. In contrast, a research team is a "privileged" environment
+and only selected members can participate.  Many reasons make research
+team restrictive, for example,
 
 -  The members in the team use the facilities that are purchased
    using research fund.
@@ -385,7 +367,7 @@ Many reasons make research team restrictive, for example,
 -  The members are writing a research paper and everyone must be
    qualified to contribute to the content.
 
-If you like sports, you need to ask yourself a simple qustion: "Am I
+If you like sports, you need to ask yourself a simple question: "Am I
 ready to join a professional team?" This research team is professional
 because the team solves research problems that have not been solved by
 anyone yet. If you are not ready to contribute, you will not enjoy the
@@ -393,40 +375,18 @@ experience and current team members cannot work with you.
 
 This is a research team. You come to solve research problem. You do
 not come to learn. If you want to learn, go to take courses or read
-books.This team does not accept anyone that wants to join and learn,  
+books. This team does not accept anyone that wants to join and learn,  
 without contributions to solving research problems. This team accepts 
-only the people that wants to solve research problems.The purpose of  
-interviews is to help applicants and current members **evaluate
-whether the applicants are ready to contribute.**
-
-What is an interview?
-~~~~~~~~~~~~~~~~~~~~~
-
-An interview is a two-way communication: An organization wants to
-determine whether an applicant should join the organization.
-Meanwhile, this applicant also evaluates whether this organization is
-worth the time and efforts. An interview usually evaluates three
-aspects:(1) Communication skills, (2) Technical skills, (3)
-Personality, honesty, and integrity.
-
-If an applicant is not ready to join the group, it is possible that
-this person can join later and contribute. This research team holds
-honesty and integrity as the highest requirements.If an applicant is
-not honest, this team will never accept the applicant. Communication
-and technical skills can be acquired. Honesty and integrity cannot be
-compromised.
-
-Sample questions are listed below for your reference. Your are
-encouraged to study these questions in advance.  You need to prepare
-for the interview.
+only the people that wants to solve research problems. Please **evaluate
+whether you are ready to contribute.**
 
 Differences between Students and Researchers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Before an interview, please make sure you understand the differences
+Before joining this team, please make sure you understand the differences
 between students and researchers.  A student with high GPA is not
 necessarily a good researcher. Some excellent researchers do not have
-high GPA.  Why? Because taking classes are doing research are very
+high GPA.  Why? Because taking classes and doing research are very
 very different.
 
 How does a student get a good grade? Usually, by submitting
@@ -449,17 +409,23 @@ classroom. The following table summarizes the main differences between
 +------------------------------------------------------------+--------------------------------------------------------+
 | Student Thinking                                           | Researcher Thinking                                    |
 +============================================================+========================================================+
-| The adviser knows the answers                              | Nobody knows the answers                               |
+| Every student does the same homework assignment            | Everyone solves a distinct problem                     |
 +------------------------------------------------------------+--------------------------------------------------------+
-| Short reports to the adviser                               | Write reports for others to understand and reproduce   |
+| The professor knows the answers                            | Nobody knows the answers                               |
 +------------------------------------------------------------+--------------------------------------------------------+
-| Ask for help when encountering difficulty                  | Solve the problem by self                              |
+| Other students know nothing                                | Other researchers know many things                     |
 +------------------------------------------------------------+--------------------------------------------------------+
-| Wait for assignments and exams                             | Anticipate questions                                   |
-+------------------------------------------------------------+--------------------------------------------------------+
-| Work alone                                                 | Collaborate                                            |
+| Go to classroom and  take notes                            | Participate in discussion                              |
 +------------------------------------------------------------+--------------------------------------------------------+
 | Listen quietly in classroom                                | Explain and present to other researchers               |
++------------------------------------------------------------+--------------------------------------------------------+
+| Short answer to exam questions                             | Write reports for others to understand and reproduce   |
++------------------------------------------------------------+--------------------------------------------------------+
+| Ask TA for help when encountering difficulty               | Solve the problem by self                              |
++------------------------------------------------------------+--------------------------------------------------------+
+| Wait for assignments and exams                             | Anticipate questions and problems                      |
++------------------------------------------------------------+--------------------------------------------------------+
+| Work alone                                                 | Collaborate                                            |
 +------------------------------------------------------------+--------------------------------------------------------+
 | Do not care after a semester ends                          | Research projects last many years                      |
 +------------------------------------------------------------+--------------------------------------------------------+
@@ -496,7 +462,7 @@ Video Advice about Doing Research
 Here is a collection about my advice about doing research. You are
 welcome to share the information with anyone. Many parts are personal
 opinions and it is certainly possible that my opinions are different
-from yours. Your comments and suggestions would be appreciated.   To
+from yours. Your comments and suggestions would be appreciated.  To
 save my time, the voice of the video is generated by a computer
 program I purchased. I appreciate your understanding.
 
@@ -535,56 +501,20 @@ program I purchased. I appreciate your understanding.
      -  `docx <https://engineering.purdue.edu/HELPS/ResearchAdvice/script/Ownership.docx>`__
 
 
-Interview is not an oral exam
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Self Assessment
+---------------
+
+Before you join this team, answer the following questions. These
+questions help you decide whether this team is right for you.  If you
+cannot answer any of these questions, you are not ready to join this
+team.  Please do not intend to memorize answers. You should
+**understanding**.
 
 
-Many students think interviews are oral exams: interviewers ask
-questions and interviewees answer the questions. This is incorrect.
-An interview is two-way communication. An interviewee should also ask
-questions. To ask meaningful questions, an interviewee should study
-the characteristics of the research team. Some students think
-interview questions are “fill in the blank” and provide short answers,
-without much explanation. Such an interviewee is “passive”: responding
-to questions without deeper thought. Such an attitude would be
-considered negative. It is advisable to dig deeper by providing more
-insightful information. It is perfectly reasonable for an interviewee
-to ask back “Why do you ask me this question?”
+.. note::
 
-Do not intend to prepare an interview by memorization. Good
-interviewers do not ask memorization questions. Dr. Lu *always* gives
-open-book exams because he *strongly encourages* understanding, not
-memorization. To enter Dr. Lu's research team, you need to demonstrate
-that you can think. It is acceptable to say, “I don’t know.” and then
-ask the interviewer to provide more information and guidance toward an
-answer. A common mistake by students is to provide lengthy explanation
-without answering the questions. Some students can take several
-minutes without giving any definite answer.  Why? They are afraid
-giving wrong answers. This is a bad attitude. It is better to answer
-the question and then explain the reason of the answer. Interviewers
-want answers before explanation. For a “Yes-No” question, answer “Yes”
-or “No” first and then give the explanation.
+   If you are not ready to do research now, that's all right. Come back later.
 
-Honesty is extremely important. An interviewee should never lie. If an
-interviewee does not know the answer, it is acceptable to say, “I
-don’t know the answer.” The interviewee should not pretend to know the
-answer and say meaningless things. After admitting not knowing the
-answer, an interviewee can try to answer the question through
-reasoning. “I don’t know the answer but I think it should be … because
-…” The “because” part is very important.
-
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
-
-
-Sample Interview Questions
---------------------------
-
-.. warning::
-
-   You should never lie in an interview.
 
 
 Teamwork
@@ -596,228 +526,142 @@ Teamwork
    skill.  If you cannot communicate, it does not matter what you
    know.
 
-How do you respond to discussion and critique?
+- How do you respond to discussion and critique?
 
- 
+- Have you worked in a team project? How big was the team?
 
-Do you think using jargons and acronyms to ensure that nobody can
-understand you would make people believe that you are knowledge,
-smart, and superior?
+- Do you think using jargon and acronyms to ensure that nobody can
+  understand you would make people believe that you are knowledge,
+  smart, and superior?
 
- 
+- How would you respond when someone tells you that you have made a
+  mistake?
 
-How would you respond when someone tells you that you have made a
-mistake?
+- When you disagree with someone, what would you do?
 
- 
+- When someone disagrees with you, what would you do?
 
-When you disagree with someone, what would you do?
+- What would you do when you cannot finish a task that is assigned to
+  you?
 
- 
+- What would you do when you finish a task early?
 
-When someone disagrees with you, what would you do?
+- What would you do if a team member cannot finish an assigned task?
 
- 
+- How would you inform team members your progress or problems you
+  encounter?
 
-What would you do when you cannot finish a task that is assigned to
-you?
+- What would you do if you think an assigned task is not worth doing,
+  or should be done in a different way?
 
- 
+- Have you participated in a project in which members'
+  responsibilities were adjusted as needs arose?
 
-What would you do when you finish a task early?
+- Can you describe the ideal characteristics of team members? Are you
+  a good team member? Why?
 
- 
+- Did you have experience working with a difficult team member? Why is
+  this member difficult? What did you (or anyone else in the team) do
+  to manage the situation?
 
-What would you do if a team member cannot finish an assigned task?
+- How would you handle the situation when a team member is
+  intelligent, highly-motivated, has solid technical skills but does
+  something that is not the team's priority?
 
- 
+- When a team member writes a report that does not provide sufficient
+  details for you to work together, what would you do? How would you
+  prevent this from happening?
 
-How would you inform team members your progress or problems you
-encounter?
 
- 
-
-What would you do if you think an assigned task is not worth doing,
-or should be done in a different way?
-
- 
-
-Have you participated in a project in which members’ responsibilities 
-were adjusted as needs arose?
-
- 
-
-Have you worked in a team project? How big was the team?
-
- 
-
-Can you describe the ideal characteristics of team members? Are you a
-good team member? Why?
-
- 
-
-Did you have experience working with a difficult team member? Why is  
-this member difficult? What did you (or anyone else in the team) do
-to manage the situation?
-
- 
-
-How would you handle the situation when a team member is intelligent, 
-highly-motivated, has solid technical skills but does something that  
-is not the team’s priority?
-
- 
-
-When a team member writes a report that does not provide sufficient
-details for you to work together, what would you do? How would you
-prevent this from happening?
-
- 
 
 Past Project Experience
 ~~~~~~~~~~~~~~~~~~~~~~~
 
- 
+- What are your past projects? What did you do? Is it an individual
+  project or a team project? What are your contributions?
 
-Show evidence of your past projects. What did you do? Is it an
-individual project or a team project? What are your contributions?
+- What knowledge and skills do you have? Why do you think you can
+  contribute to research?
 
- 
+- Can you describe the factors that made your past projects successful
+  or unsuccessful?
 
-What knowledge and skills do you have? Why do you think you can
-contribute to the project?
+- If you could redesign one of your past projects from the beginning,
+  what differences would you make?
 
- 
 
-Can you describe the factors that made your past projects successful
-or unsuccessful?
-
- 
-
-If you could redesign one of your past projects from the beginning,
-what differences would you make?
-
- 
 
 Logic Thinking
 ~~~~~~~~~~~~~~
 
- 
+- Alice is younger than Bob. Bob is younger than Cathy. Thus, Alice is
+  definitely younger than Cathy.
 
-Alice is younger than Bob. Bob is younger than Cathy. Thus, Alice is  
-definitely younger than Cathy.
+- Alice and Bob are friends. Bob and Cathy are friends. Thus, Alice
+  and Cathy are definitely friends.
 
- 
+- It has been observed that owners of luxurious vehicles are richer
+  than average people. Thus, if a person wants to become rich, this
+  person should purchase a luxurious vehicle.
 
-Alice and Bob are friends. Bob and Cathy are friends. Thus, Alice and 
-Cathy are definitely friends.
+- Alice says, "If an event is observed, it is definitely possible."
+  Bob says, "The opposite is also true. If an event is never observed,
+  it is definitely impossible." Which one is correct? Alice? Bob?
+  Both? Neither?
 
- 
+- A pharmaceutical company wants to understand the effects of a new
+  medicine. The researchers give this new medicine to lab animals and
+  nothing else. Within six days, all lab animals are dead. The
+  researchers conclude that the medicine is toxic and should never be
+  used for treatment. Do you agree with this conclusion? Explain your
+  answer.
 
-It has been observed that owners of luxurious vehicles are richer
-than average people. Thus, if a person wants to become rich, this
-person should purchase a luxurious vehicle.
-
- 
-
-Alice says, “If an event is observed, it is definitely possible.” Bob 
-says, “The opposite is also true. If an event is never observed, it
-is definitely impossible.” Which one is correct? Alice? Bob? Both?
-Neither?
-
- 
-
-A pharmaceutical company wants to understand the effects of a new
-medicine. The researchers give this new medicine to lab animals and
-nothing else. Within six days, all lab animals are dead. The
-researchers conclude that the medicine is toxic and should never be
-used for treatment. Do you agree with this conclusion? Explain your
-answer.
-
- 
 
 Algorithms and Discrete Mathematics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
+- Briefly describe binary search.
 
-Briefly describe binary search.
+- How is binary search done in a sorted array? How is binary search done in a binary search tree?
 
- 
+- What is the best case (in terms of time or the number of operations)
+  when doing binary search in a sorted array? What is the worst case
+  when doing binary search in a sorted array?
 
-How is binary search done in a sorted array? How is binary search
-done in a binary search tree?
+- What is the best case when doing binary search in a binary search
+  tree? What is the worst case when doing binary search in a binary
+  search tree?
 
- 
+- In a graph with positive weights for the edges, describe an
+  algorithm to find the shortest path between two vertices. Hint: "Dijistra's algorithm" is not an acceptable answer. An acceptable
+  answer must describe how the algorithm works.
 
-What is the best case (in terms of time or the number of operations)  
-when doing binary search in a sorted array? What is the worst case
-when doing binary search in a sorted array?
+- Suppose you have an algorithm that finds the shortest paths in a
+  graph of positive weights for edges. Will the algorithm find the
+  longest paths, without cycles, in a graph of positive weights for
+  edges if you replace `>` by `<=` or `>` by `>=`? Explain the reason.
 
- 
+- Continue from the previous question. Describe an algorithm to find
+  the longest path between two vertices without any cycle. Why is it
+  important to emphasize that cycles are not allowed?
 
-What is the best case when doing binary search in a binary search
-tree? What is the worst case when doing binary search in a binary
-search tree?
+- Why is quicksort quick? 
 
- 
-
-In a graph with positive weights for the edges, describe an algorithm 
-to find the shortest path between two vertices. Hint: “Dijistra’s
-algorithm” is not an acceptable answer. An acceptable answer must
-describe how the algorithm works.
-
- 
-
-Suppose you have an algorithm that finds the shortest paths in a
-graph of positive weights for edges. Would the algorithm find the
-longest paths, without cycles, in a graph of positive weights for
-edges if you replace “>” by “<=” or “>” by “>=”? Explain the reason.  
-
- 
-
-Continue from the previous question. Describe an algorithm to find
-the longest path between two vertices without any cycle. Why is it
-important to emphasize that cycles are not allowed?
-
-Hint: Changing "<" in the algorithm for shortest paths to ">" would not
-work. Please explain the reason.
-
- 
-
-Why is quicksort quick?
-
- 
 
 Data structures
 ~~~~~~~~~~~~~~~
 
+- Binary tree is a widely used data structure. Why is "binary"
+  sufficient? Is trinary tree better? In what ways? Why do most books
+  not emphasize trinary tree?
 
-It is expected that every student in his group has the programming
-skills described in his book “Intermediate C Programming” (CRC Press, 
-ISBN 9781-4987-11630). Knowledge about the following topics would be  
-helpful: data structures, discrete mathematics, algorithms, computer  
-architecture, operating systems, and networks.
+- Describe two ways in a computer program to store a graph. Explain
+  the advantage and disadvantage of these two ways.
 
- 
+- Describe two sorting algorithms. Explain the advantage and
+  disadvantage of these two algorithms.
 
-Binary tree is a widely used data structure. Why is “binary”
-sufficient? Is trinary tree better? In what ways? Why do most books
-not emphasize trinary tree?
-
- 
-
-Describe two ways in a computer program to store a graph. Explain the 
-advantage and disadvantage of these two ways.
-
- 
-
-Describe two sorting algorithms. Explain the advantage and
-disadvantage of these two algorithms.
-
- 
-
-You need to design sorting algorithms for two different scenarios.
+- You need to design sorting algorithms for two different scenarios.
 
 #. The machine has a very large amount of memory (with uniform access 
    time) and all data can fit into the memory.
@@ -826,228 +670,160 @@ You need to design sorting algorithms for two different scenarios.
    of the data can fit in memory. The rest of the data must reside on 
    much slower disks.
 
-Would the sorting algorithms be different for these two scenarios?
+Will the sorting algorithms be different for these two scenarios?
 Why? How?
 
- 
+- Describe the most important difference between a linked list and a
+  binary tree. Why is this the most important?
 
-Describe the most important difference between a linked list and a
-binary tree. Why is this the most important?
+- What are the differences between a list and an associate array? When
+  do you use one or the other?
 
- 
+- How do you implement an associative array?
 
-What are the differences between a list and an associate array? When  
-would you use one or the other?
+- Two binary tree have the same shape if they have the same numbers of
+  nodes on the left and the right sides at each level. For `n`
+  distinct numbers, there are `n!` different permutations. If these
+  numbers form binary search trees, how many different shapes will
+  there be? Is that `n!`?
 
- 
+- How do you store a very large matrix whose most elements are zero?
+  What matrix operations are easy in this data structure?
+  What operations are difficult? Why?
 
-How would you implement an associative array?
-
- 
-
-Two binary tree have the same shape if they have the same numbers of
-nodes on the left and the right sides at each level. For `n` distinct
-numbers, there are `n!` different permutations. If these numbers form
-binary search trees, how many different shapes will there be? Is that
-`n!`?
-
- 
-
-How would you store a very large matrix whose most elements are zero?
-What matrix operations would be easy in this data structure? What
-operations would be more difficult? Why?
-
- 
 
 Programming (independent of language)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- 
+- What is stack memory? How is it used?
 
-What is stack memory? How is it used?
+- What is heap memory? How is it used?
 
- 
+- When do you use recursion? You can describe general principles or
+  examples. When is recursion better than `for` (or `while`) for
+  solving problems? Hint: the Fibonacci sequence, `f(n) = f(n-1) +
+  f(n-2)`, is not a good example of recursion. Please read Section
+  13.6 in "Intermediate C Programming".
 
-What is heap memory? How is it used?
+- What is memory leak? Why is it a problem?
 
- 
+- What is call by value? What is call by reference?
 
-When would you use recursion? You can describe general principles or  
-examples. When is recursion better than `for` (or `while`) for solving
-problems? Hint: the Fibonacci sequence, `f(n) = f(n-1) + f(n-2)`, is
-not a good example of recursion. Please read Section 13.6 in
-“Intermediate C Programming”.
+- What is unit test? What is integration test?
 
- 
+- What version control tool do you use? What is the purpose of version
+  control?
 
-What is memory leak? Why is it a problem?
+- Explain how you debug programs.
 
- 
-
-What is call by value? What is call by reference?
-
- 
-
-What is unit test? What is integration test?
-
- 
-
-What version control tool do you use? What is the purpose of version
-control?
-
- 
-
-Explain how you debug programs.
-
- 
 
 C Programming
 ~~~~~~~~~~~~~
 
- 
+- What is wrong with this two lines? What problems does this cause?
+
+
 .. code-block:: c
 
-   int  * iptr;  /* what is the size of iptr? */
-   char * cptr;  /* what is the size of cptr? */
+   int * iptr; /* what is the size of iptr? */
+   char * cptr; /* what is the size of cptr? */
 
    char x = 'm';
    int * iptr = &x;
 
-What is wrong with this two lines? What problems could this cause?
 
+- What would happen when `f()` is called?
 
 .. code-block:: c
 
    void f(void)
    {
-      f();
+        f();
    }
 
 
-What would happen when `f()` is called?
-
- 
 
 Object-Oriented Programming (independent of language)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
 
-What is encapsulation? Why is it important?
+- What is encapsulation? Why is it important?
 
- 
+- What is inheritance? How can it be used?
 
-What is inheritance? How can it be used?
+- What is polymorphism? How is it used?
 
- 
+- What are the main differences between a class and a structure in C
+  (or a record in Pascal)?
 
-What is polymorphism? How is it used?
 
- 
-
-What are the main differences between a class and a structure in C
-(or a record in Pascal)?
-
- 
 
 Networking
 ~~~~~~~~~~
 
- 
+- Briefly explain the difference among TCP,  UDP, and HTTP.
 
-Briefly explain the difference between TCP and UDP.
+- If you need to write a pair of programs to send and receive files,
+  what network protocol would you use? Options include (but are not
+  limited to) TCP, UDP, HTTP, SSL, Wifi. Explain your answer.
 
- 
+- What is the fastest network (in terms bytes per second) today? What
+  is the data rate?
 
-If you need to write a pair of programs to send and receive files,
-what network protocol would you use? Options include (but are not
-limited to) TCP, UDP, HTTP, SSL, Wifi. Explain your answer.
-
- 
-
-What is the fastest network (in terms bytes per second) today? What
-is the data rate?
-
- 
-
-What is the data rate (in terms of bytes of second) if a cargo ship
-carries 100,000 of hard disks cruising at 36 km/h?
-
- 
-
-.. note::
-
-   If a candidate knows C++ or Java, the candidate should answer the following questions.
+- What is the data rate (in terms of bytes of second) if a cargo ship
+  carries 100,000 of hard disks cruising at 36 km/h?
 
 
 C++ 
 ~~~
 
- 
+- Explain the purpose of `virtual`.
 
-Explain the purpose of virtual.
+- What is a copy constructor? In what condition can the default copy
+  constructor be used? In what condition must a programmer write a
+  different copy constructor? Hint: understand the difference between
+  shallow and deep copy.
 
- 
+- Is every valid C program also a valid C++ program? Explain your
+  answer. Hint: Many people answer this question without
+  thinking. Consider the keywords in C and in C++.
 
-What is a copy constructor? In what condition can the default copy
-constructor be used? In what condition must a programmer write a
-different copy constructor? Hint: understand the difference between
-shallow and deep copy.
+- Explain the difference of call by value and call by reference for C++  programs.
 
- 
 
-Is every valid C program also a valid C++ program? Explain your
-answer. Hint: Many people answer this question without thinking.
-Consider the keywords in C and in C++.
-
- 
-
-Explain the difference of call by value and call by reference for C++ 
-programs.
-
- 
 
 Java
 ~~~~
 
- 
+- What are the differences between a class and an interface?
 
-What are the differences between a class and an interface?
+- Explain two meanings (there are more than two) of the word final in
+  Java programs.
 
- 
+- What are the differences between int and Integer?
 
-Explain two meanings (there are more than two) of the word final in
-Java programs.
-
- 
-
-What are the differences between int and Integer?
-
- 
-
-In Java, List is an interface and ArrayList is a class. What does
-this mean?
+- In Java, List is an interface and ArrayList is a class. What does
+  this mean?
 
 
-  
+
 
 Machine Learning
 ~~~~~~~~~~~~~~~~
- 
 
-Briefly explain deep learning. Why is it called “deep”?
+- Briefly explain deep learning. Why is it called "deep"?
 
- 
+- Why probability is essential in machine learning?
 
-Why probability is essential in machine learning?
+- What is the difference between supervised learning and reinforcement
+  learning?
 
- 
-
-What is the difference between supervised learning and reinforcement  
-learning?
-
- 
-
-What are the limitations of support vector machines?
+- What are the limitations of support vector machines?
 
 
-  
+
+
+  .. raw:: html
+
+    <iframe width="600" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
+
+

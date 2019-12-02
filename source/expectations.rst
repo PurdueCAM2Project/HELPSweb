@@ -30,7 +30,7 @@ Course Calender
 +-------------+--------------------------------------------------------------------------------------------+
 | **(8/26)**  | Read the `Research Notebook`_ requirements carefully and begin to update your notebook.    |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(9/2)**   | Make sure notebook is updated                                                              |
+| **(9/2)**   | Make sure notebook is updated this is the first week it may be checked.                    |
 +-------------+--------------------------------------------------------------------------------------------+
 |             | `Description of the Problem Presentation`_ given during lab this week and                  |
 | **(9/9)**   | provide Peer Feedback using the link in `Peer Feedback`_.                                  |
@@ -75,7 +75,14 @@ Course Calender
 +-------------+--------------------------------------------------------------------------------------------+
 | **(11/11)** | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(11/18)** | `Method Draft`_ due **Sunday 11/24 @ 11:59PM on BlackBoard**                               |
+| **(11/18)** |                                                                                            |
+|             | Purdue Fall Undergraduate Research Exposition **Monday, November 18, 2019**                |
+|             |                                                                                            |
+|             | Oral presentations: 8:30AM-11:30AM in STEW 214                                             |
+|             |                                                                                            |
+|             | Poster Symposium: 1:30PM-3:30PM in PMU Ballrooms                                           |
+|             |                                                                                            |
+|             | `Method Draft`_ due **Sunday 11/24 @ 11:59PM on BlackBoard**                               |
 |             | (Submission should be PDF and link to Overleaf Project)                                    |
 |             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
@@ -84,14 +91,13 @@ Course Calender
 |             |                                                                                            |
 |             | Make sure notebook is updated                                                              |
 +-------------+--------------------------------------------------------------------------------------------+
-| **(12/2)**  |                                                                                            |
-|             | Second CATME Peer Review Due **Friday 12/6 @ 11:59PM**                                     |
+| **(12/2)**  | Second CATME Peer Review Due **Friday 12/6 @ 5:00PM**                                      |
 |             | (Link will be sent via email)                                                              |
 |             |                                                                                            |
-|             | **Final Group Paper Due Monday 12/8 @ 11:59PM on BlackBoard**                              |
+|             | **Final Group Paper Due Friday 12/6 @ 5:00PM on BlackBoard**                               |
 |             | (Submission should be PDF and link to Overleaf Project)                                    |
 |             |                                                                                            |
-|             | Make sure notebook is updated                                                              |
+|             | Final Notebook Due **Friday 12/6 @ 5:00PM** (Will be checked on Confluence)                |
 +-------------+--------------------------------------------------------------------------------------------+
 | **(12/9)**  | Group Paper Review Due **Friday 12/13 @ 11:59PM on BlackBoard**                            |
 |             |                                                                                            |
@@ -296,30 +302,34 @@ Please read the two forms now and understand what is needed.
 
 To encourage everyone to upload the video early, the reviews will be assigned after you have submitted your video. The earlier you submit your video, the earlier you review the others'.  If you do not want to wait till the final exam week, please submit your video early.
 
-Here are some important things about how to make excellent video.
+Here are some important things about how to make excellent video:
 
-This video is your final exam. You must treat it seriously. You must spend at least 10 hours preparing this video. Practice, practice, and practice again.
-If you make a bad video, everyone knows. Do not intend to fool anyone because nobody can be fooled.
-This is a research team. Everyone is doing something different. Nobody else knows what you are doing. You must provide enough details.
-Read your title and name slowly and clearly. The title must describe YOUR (only your, not anyone else) work. The title must not be "Report", "Progress", "Final Presentation", "CAM2 Report" ...
-Your video must be longer than 15 minutes. If it is shorter than 15 minutes, you have not accomplished enough for a semester. If you are taking a research course, you will receive D, F, or I.
-Focus on what you have accomplished. Nobody cares about your efforts. Nobody cares how much you have learned. Nobody cares how much time you spend. Nobody cares how much you love the project.
-Use white background and black letters. This provides the best contrast.
-If you have no video editing tools, please download https://www.purdue.edu/innovativelearning/supporting-instruction/instructional-technology/camtasia.aspx
-Here is a checklist. You need to clearly explain
-the problems you are solving?
-the reason you are solving these problems? how is your work related to the team's work?
-the relationship between these problems and your team's project?
-the methods you use to solve the problems?
-how do you know your methods are successful or unsuccessful (evaluation)?
-This is a research team. It is understandable that things may not work as planned. If you encounter difficulty, explain the details. What have you done? Why do you do that? What results do you get? Why are the results unexpected? What do you plan to do next? It is unacceptable saying "It does not work" and providing no details.
-where is your work documented and how can the team access your work?
-do you explain everything on your slides? Is anything on any slides unnecessary? Remove all decorations. Everything on your slides must mean something.
+- **This video is your final exam. You must treat it seriously. You must spend at least 10 hours preparing this video.** Practice, practice, and practice again.
+- If you make a bad video, everyone knows. Do not intend to fool anyone because nobody can be fooled.
+- This is a research team. Everyone is doing something different. Nobody else knows what you are doing. You must provide enough details.
+- Read your title and name slowly and clearly. The title must describe YOUR (only your, not anyone else) work. The title must not be "Report", "Progress", "Final Presentation", "CAM2 Report" ...
+- Your video **must be longer than 15 minutes**. If it is shorter than 15 minutes, you have not accomplished enough for a semester. If you are taking a research course, you will receive D, F, or I.
+- Focus on what you have accomplished. Nobody cares about your efforts. Nobody cares how much you have learned. Nobody cares how much time you spend. Nobody cares how much you love the project.
+- Use white background and black letters. This provides the best contrast.
+- If you have no video editing tools, please download https://www.purdue.edu/innovativelearning/supporting-instruction/instructional-technology/camtasia.aspx
+
+Here is a checklist. You need to clearly explain:
+
+- the problems you are solving?
+- the reason you are solving these problems? how is your work related to the team's work?
+- the relationship between these problems and your team's project?
+- the methods you use to solve the problems?
+- how do you know your methods are successful or unsuccessful (evaluation)?
+- This is a research team. It is understandable that things may not work as planned. If you encounter difficulty, explain the details. What have you done? Why do you do that? What results do you get? Why are the results unexpected? What do you plan to do next? It is unacceptable saying "It does not work" and providing no details.
+- where is your work documented and how can the team access your work?
+- do you explain everything on your slides? Is anything on any slides unnecessary? Remove all decorations. Everything on your slides must mean something.
+
+
 Here are some examples for your references:
 
-https://www.youtube.com/watch?v=bwQPSo4oTTA&feature=youtu.be
-https://www.youtube.com/watch?v=jtoQ5eB-GCE&feature=youtu.be
-https://www.youtube.com/watch?v=LVaZqw1iRIU&feature=youtu.be
+- https://www.youtube.com/watch?v=bwQPSo4oTTA&feature=youtu.be
+- https://www.youtube.com/watch?v=jtoQ5eB-GCE&feature=youtu.be
+- https://www.youtube.com/watch?v=LVaZqw1iRIU&feature=youtu.be
 
 
 Peer Feedback
