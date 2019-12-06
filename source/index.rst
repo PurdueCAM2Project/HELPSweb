@@ -21,6 +21,12 @@ efficiency and performance of computing systems. Our research includes
 computer vision, machine learning, cloud and mobile computing,
 software engineering.
 
+|cam2logo|
+
+.. |cam2logo| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg
+   :width: 100%
+
+These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
 
 
 |helps2| |helps1| 
