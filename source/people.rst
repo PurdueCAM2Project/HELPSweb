@@ -1,6 +1,14 @@
 People and Topics
 -----------------
 
+|cam2logo|
+
+.. |cam2logo| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logov4.jpg
+   :width: 100%
+
+These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
+
+
 2020 Spring Schedule
 ~~~~~~~~~~~~~~~~~~~~
 

@@ -6,6 +6,9 @@
 Welcome to Purdue HELPS Laboratory
 ==================================
 
+High-Efficiency and Low-Power Systems (HELPS)
+=============================================
+
 Mission: This research team aims to create leaders.
 ---------------------------------------------------
 

@@ -746,8 +746,7 @@ If you need a letter, please fill `this form <https://docs.google.com/forms/d/e/
 How To Arrange Business Trips
 -----------------------------
 
-Please work with Emily Fuller <fuller87@purdue.edu> in MSEE 268 and
- Christy Millen <millenc@purdue.edu> in MSEE 112.
+Please work with Emily Fuller <fuller87@purdue.edu> in MSEE 268 and Christy Millen <millenc@purdue.edu> in MSEE 112.
 
 Please download
 `Travel Form <https://github.com/PurdueCAM2Project/HELPSweb/blob/master/source/document/travelform.docx?raw=true>`__.
