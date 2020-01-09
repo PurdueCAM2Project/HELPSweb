@@ -15,11 +15,11 @@ Mission: This research team aims to create leaders.
 This team aims to create leaders that can recognize the world's needs
 and develop solutions
 
-The High-Efficiency, Low-Power System Group/HELPS Laboratory in the
-Purdue ECE Department develops the technology to improve the
-efficiency and performance of computing systems. Our research includes
-computer vision, machine learning, cloud and mobile computing,
-software engineering.
+The High-Efficiency, Low-Power System (HELPS) Laboratory in the Purdue
+develops the technology to improve the efficiency and performance of
+computing systems. Our research includes computer vision, machine
+learning, cloud and mobile computing, embedded systems software
+engineering, as well as applications.
 
 |cam2logo|
 

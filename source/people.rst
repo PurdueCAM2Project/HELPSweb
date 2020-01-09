@@ -17,7 +17,7 @@ All meetings are held in EE 013.
 =========== ========== ==================== ==================== 
 Time        Monday     Tuesday              Wednesday            
 =========== ========== ==================== ==================== 
-09:00-10:00            Image Database
+09:00-10:00            
 10:00-11:00            Software Engineering 
 11:00-12:00 
 12:30-13:30 Forest     
@@ -50,6 +50,172 @@ Time        Monday     Tuesday        Wednesday            Friday
 
 Topics
 ~~~~~~
+
+Low-Power Computer Vision
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Many applications of computer vision runs on battery-powered systems,
+susch as mobile phones, drones, IoT (Internet of Things), and edge
+devices.  This project investigates how to reduce the energy
+consumption of computer vision.  The project uses many methods to achieve
+better energy efficiency, such as
+
+- Restructure neural networks. Commonly adopted neural networks are
+  large complex models. Many connections among neurons, however, are
+  not necessary and can be removed. By restructuring the networks, it
+  is possible avoiding large amounts of compuation and save energy.
+
+- Reduce the input space. Many machine learning models are designed
+  for general purposes and can recognize objects of hundreds of
+  classes.  Many applications, however, have only a few classes of
+  objects. For example, it is not possible seeing an elephant in a
+  classroom. Thus, the machine models do not have to detect elephants.
+
+- Utilize hardware features. Transform the mathematical equations for
+  machine models in order to map to hardware features (such as memory
+  hierarchies) efficiently.
+
+
+This project is supported by Facebook, Google, and Xilinx.  
+
+Readings for new members:
+
+- `Low-Power Computer Vision: Status, Challenges, Opportunities <https://engineering.purdue.edu/HELPS/Publications/papers/2019JESTCS.pdf>` ___
+
+- `Three Years of Low-Power Image Recognition Challenge: Introduction to Special Session
+  <https://engineering.purdue.edu/HELPS/Publications/papers/2018DATEGauen>` ___
+  
+	   
+Analysis of Drone Video
+^^^^^^^^^^^^^^^^^^^^^^^
+
+This project creates computer vision solutions recognizing objects
+captured by cameras mounted on drones.  In Fall 2019, the team will
+create a set of video clips for the following purposes:
+
+- Construct three-dimensional geometries of objects: The video clips
+  will capture cardboard boxes of different sizes, together with a
+  wide range of objects and several with known sizes.
+
+- Detect and track multiple moving objects: The clips include moving
+  objects.  The drone itself is also moving. The purpose is to
+  correctly identify these objects and track their movements.
+
+- Segmentation: Create pixel-wise labels of different objects.
+
+- Re-identify people: Determine whether the same person has been
+  before.
+
+This project is supported by `NSF CNS-1925713 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`__
+
+Readings for new members:
+
+- `Vision Meets Drones: A Challenge <https://arxiv.org/pdf/1804.07437.pdf>`__
+
+- `Context Encoding for Semantic Segmentation <http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf>`__
+
+- `Vehicle Re-identification in Aerial Imagery: Dataset and Approach <https://arxiv.org/pdf/1904.01400.pdf>`__
+
+- `Airborne visual tracking and reidentification system <https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117/1.JEI.28.2.023003&casa_token=Rs6JtKyTL6cAAAAA:_5C4cfQ5XkKqoeFqiyXl7r-xNdDH27PTYeq52ag1Va8udjeU3ykDF2-6B082Fdqt9JQHioCPXjE>`__
+
+
+----  
+
+Analyze Human Behavior in Video
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The purpose of this team is to use real-time video analytics to detect
+dangerous behavior or safety violation in workplace (such as
+factories), raise alerts to prevent injury, or provide post-event
+analysis to prevent future occurrences. In Fall 2019, the team will
+focus on solving these problems in an indoor
+environment with multiple cameras:
+
+- Where are the people (including re-identifying the same person in different cameras)?
+
+- Where does each person face?
+
+Readings
+
+- `Person Re-identification by Local Maximal Occurrence Representation and Metric Learning <https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liao_Person_Re-Identification_by_2015_CVPR_paper.pdf>`__
+
+- `An Improved Deep Learning Architecture for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf>`__
+
+- `MARS: A Video Benchmark for Large-Scale Person Re-Identification <https://www.researchgate.net/profile/Liang_Zheng17/publication/308277502_MARS_A_Video_Benchmark_for_Large-Scale_Person_Re-Identification/links/5a1272daa6fdccc2d79b6da3/MARS-A-Video-Benchmark-for-Large-Scale-Person-Re-Identification.pdf>`__
+
+- `Harmonious Attention Network for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Harmonious_Attention_Network_CVPR_2018_paper.pdf>`__
+  
+
+----  
+
+Embedded Vision 1
+^^^^^^^^^^^^^^^^^
+
+Recent progress in computer vision has focused primarily in
+general-purpose object detection using datasets with many (hundreds)
+categories of objects (such as humans, dogs, vehicles, furniture,
+buildings, etc.).  For many applications, however, the number of
+possible objects can be limited. For example, inside an airport
+terminal, elephants or eagles are not expected. This project will use
+**computer graphics** to synthesize images and videos of these
+scenarios. The synthesized data is used to train computer vision
+running on embedded systems (also called **edge devices**).  Doing so
+can reduce network traffic and make the system more
+scalable. Moreover, sensitive information (such as human faces) may be
+detected and protected before the data leaves the cameras.
+
+Readings for new members:
+
+- `Playing for Data: Ground Truth from Computer Games <https://arxiv.org/pdf/1608.02192.pdf>`__
+
+- `Sim4CV: A Photo-Realistic Simulator for Computer Vision Applications <https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1073-7.pdf>`__
+
+- `The ParallelEye Dataset: A Large Collection of Virtual Images for Traffic Vision Research <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451919>`__
+
+
+Embedded Vision 2
+^^^^^^^^^^^^^^^^^
+
+This project investigates computer vision solutions that can perform
+the following tasks in an embedded computer (small enough to be inside
+a typical camera)
+
+- Obtain aggregate information (such as the number of people and their genders)
+
+- Detect faces
+
+- Encrypt the faces before sending the data to storage
+
+The sensitive data (faces) never leaves the camera.  Only authorized
+people with the decryption key can see the faces. The concept is
+illustrated below.
+
+|embeddedprivacy|
+
+
+
+.. |embeddedprivacy| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/embeddedprivacy.png
+   :width: 90%
+
+Readings for new members:
+
+- `An Improved Neural Network Cascade for Face Detection in Large Scene Surveillance <https://www.mdpi.com/2076-3417/8/11/2222/htm>`__
+
+- `WIDER FACE: A Face Detection Benchmark  <http://shuoyang1213.me/WIDERFACE/>`__
+
+- `Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks <https://arxiv.org/abs/1506.01497>`__
+
+- `SSD: Single Shot MultiBox Detector <https://arxiv.org/abs/1512.02325>`__
+
+- `Optimizing the Trade-off between Single-Stage and Two-Stage Object Detectors using Image Difficulty Prediction <https://arxiv.org/abs/1803.08707>`__
+
+- `PyramidBox: A Context-assisted Single Shot Face Detector <https://arxiv.org/abs/1803.07737>`__
+
+- `Real-Time Multi-Scale Face Detector on Embedded Devices <https://www.mdpi.com/1424-8220/19/9/2158/pdf>`__
+
+  
+----
+
 
 Forest Inventory Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -100,93 +266,6 @@ Readings for new members:
 - `Development and Testing of a New Ground Measurement Tool to Assist in Forest GIS Surveys <https://www.mdpi.com/1999-4907/10/8/643/htm>`__
 
 ----
-	   
-Analysis of Drone Video
-^^^^^^^^^^^^^^^^^^^^^^^
-
-This project creates computer vision solutions recognizing objects
-captured by cameras mounted on drones.  In Fall 2019, the team will
-create a set of video clips for the following purposes:
-
-- Construct three-dimensional geometries of objects: The video clips
-  will capture cardboard boxes of different sizes, together with a
-  wide range of objects and several with known sizes.
-
-- Detect and track multiple moving objects: The clips include moving
-  objects.  The drone itself is also moving. The purpose is to
-  correctly identify these objects and track their movements.
-
-- Segmentation: Create pixel-wise labels of different objects.
-
-- Re-identify people: Determine whether the same person has been
-  before.
-
-This project is supported by `NSF CNS-1925713 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`__
-
-Readings for new members:
-
-- `Vision Meets Drones: A Challenge <https://arxiv.org/pdf/1804.07437.pdf>`__
-
-- `Context Encoding for Semantic Segmentation <http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf>`__
-
-- `Vehicle Re-identification in Aerial Imagery: Dataset and Approach <https://arxiv.org/pdf/1904.01400.pdf>`__
-
-- `Airborne visual tracking and reidentification system <https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117/1.JEI.28.2.023003&casa_token=Rs6JtKyTL6cAAAAA:_5C4cfQ5XkKqoeFqiyXl7r-xNdDH27PTYeq52ag1Va8udjeU3ykDF2-6B082Fdqt9JQHioCPXjE>`__
-
-
-----  
-
-Embedded Vision 1
-^^^^^^^^^^^^^^^^^
-
-Recent progress in computer vision has focused primarily in
-general-purpose object detection using datasets with many (hundreds)
-categories of objects (such as humans, dogs, vehicles, furniture,
-buildings, etc.).  For many applications, however, the number of
-possible objects can be limited. For example, inside an airport
-terminal, elephants or eagles are not expected. This project will use
-**computer graphics** to synthesize images and videos of these
-scenarios. The synthesized data is used to train computer vision
-running on embedded systems (also called **edge devices**).  Doing so
-can reduce network traffic and make the system more
-scalable. Moreover, sensitive information (such as human faces) may be
-detected and protected before the data leaves the cameras.
-
-Readings for new members:
-
-- `Playing for Data: Ground Truth from Computer Games <https://arxiv.org/pdf/1608.02192.pdf>`__
-
-- `Sim4CV: A Photo-Realistic Simulator for Computer Vision Applications <https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1073-7.pdf>`__
-
-- `The ParallelEye Dataset: A Large Collection of Virtual Images for Traffic Vision Research <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451919>`__
-
-
-Analyze Human Behavior in Video
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The purpose of this team is to use real-time video analytics to detect
-dangerous behavior or safety violation in workplace (such as
-factories), raise alerts to prevent injury, or provide post-event
-analysis to prevent future occurrences. In Fall 2019, the team will
-focus on solving these problems in an indoor
-environment with multiple cameras:
-
-- Where are the people (including re-identifying the same person in different cameras)?
-
-- Where does each person face?
-
-Readings
-
-- `Person Re-identification by Local Maximal Occurrence Representation and Metric Learning <https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liao_Person_Re-Identification_by_2015_CVPR_paper.pdf>`__
-
-- `An Improved Deep Learning Architecture for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf>`__
-
-- `MARS: A Video Benchmark for Large-Scale Person Re-Identification <https://www.researchgate.net/profile/Liang_Zheng17/publication/308277502_MARS_A_Video_Benchmark_for_Large-Scale_Person_Re-Identification/links/5a1272daa6fdccc2d79b6da3/MARS-A-Video-Benchmark-for-Large-Scale-Person-Re-Identification.pdf>`__
-
-- `Harmonious Attention Network for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Harmonious_Attention_Network_CVPR_2018_paper.pdf>`__
-  
-
-----  
 
 Software Engineering for Machine Learning
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -274,48 +353,6 @@ Reading for new members:
 
 ----
 
-Embedded Vision 2
-^^^^^^^^^^^^^^^^^
-
-This project investigates computer vision solutions that can perform
-the following tasks in an embedded computer (small enough to be inside
-a typical camera)
-
-- Obtain aggregate information (such as the number of people and their genders)
-
-- Detect faces
-
-- Encrypt the faces before sending the data to storage
-
-The sensitive data (faces) never leaves the camera.  Only authorized
-people with the decryption key can see the faces. The concept is
-illustrated below.
-
-|embeddedprivacy|
-
-
-
-.. |embeddedprivacy| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/embeddedprivacy.png
-   :width: 90%
-
-Readings for new members:
-
-- `An Improved Neural Network Cascade for Face Detection in Large Scene Surveillance <https://www.mdpi.com/2076-3417/8/11/2222/htm>`__
-
-- `WIDER FACE: A Face Detection Benchmark  <http://shuoyang1213.me/WIDERFACE/>`__
-
-- `Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks <https://arxiv.org/abs/1506.01497>`__
-
-- `SSD: Single Shot MultiBox Detector <https://arxiv.org/abs/1512.02325>`__
-
-- `Optimizing the Trade-off between Single-Stage and Two-Stage Object Detectors using Image Difficulty Prediction <https://arxiv.org/abs/1803.08707>`__
-
-- `PyramidBox: A Context-assisted Single Shot Face Detector <https://arxiv.org/abs/1803.07737>`__
-
-- `Real-Time Multi-Scale Face Detector on Embedded Devices <https://www.mdpi.com/1424-8220/19/9/2158/pdf>`__
-
-  
-----
 
 
 	   
