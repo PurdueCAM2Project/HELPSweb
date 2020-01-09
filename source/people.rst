@@ -80,10 +80,9 @@ This project is supported by Facebook, Google, and Xilinx.
 
 Readings for new members:
 
-- `Low-Power Computer Vision: Status, Challenges, Opportunities <https://engineering.purdue.edu/HELPS/Publications/papers/2019JESTCS.pdf>` ___
+- `Low-Power Computer Vision: Status, Challenges, Opportunities <https://engineering.purdue.edu/HELPS/Publications/papers/2019JESTCS.pdf>`__
 
-- `Three Years of Low-Power Image Recognition Challenge: Introduction to Special Session
-  <https://engineering.purdue.edu/HELPS/Publications/papers/2018DATEGauen>` ___
+- `Three Years of Low-Power Image Recognition Challenge: Introduction to Special Session <https://engineering.purdue.edu/HELPS/Publications/papers/2018DATEGauen>`__
   
 	   
 Analysis of Drone Video
