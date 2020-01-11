@@ -47,7 +47,6 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    professionalism
    funding
    labmachine
-   expectations
 
 
 
