@@ -33,21 +33,6 @@ the regular meeting time. If your schedule does not fit into a
 particular team, you have to move to another team.
 
 
-2019 Fall Schedule
-~~~~~~~~~~~~~~~~~~
-
-=========== ========== ============== ==================== ==============
-Time        Monday     Tuesday        Wednesday            Friday
-=========== ========== ============== ==================== ==============
-11:00-12:00 Forest                    Software Engineering Image Database
-12:30-13:30            Human Behavior
-13:30-14:30 Drone                     Crowdsourcing        Embedded 2
-14:30-15:30 Embedded 1
-15:30-16:30 
-17:30-18:20                           VIP lecture (EE 129)
-=========== ========== ============== ==================== ==============
-
-
 Topics
 ~~~~~~
 
