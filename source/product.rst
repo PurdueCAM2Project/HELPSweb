@@ -14,6 +14,24 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
 .. list-table::
    :widths: 30 10
 
+   * - Nicholas John Eliopoulos, Yezhi Shen, Minh Luong Nguyen, Vaastav Arora, Yuxin Zhang, Yung-Hsiang Lu, Guofan Shao, and Keith Woeste, **Rapid Tree Diameter Computation with Terrestrial Stereoscopic Photogrammetry**, Journal of Forestry (accepted)
+     - N/A
+
+   * - Yung-Hsiang Lu, George K. Thiruvathukal, Ahmed S. Kaseb, Kent Gauen, Damini Rijhwani, Ryan Dailey, Deeptanshu Malik, Yutong Huang, Sarah Aghajanzadeh, Minghao Guo, **See the World through Network Cameras**, IEEE Computer. pages 30-40, Volume 52, Issue 10, October 2019.
+     - N/A
+
+   * - Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Abhinav Goel, Alexander Goncharenko, XuHanh Nguyen, Eunbyung Park, Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, George K. Thiruvathukal, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, Shaojie Zhuo, **Low-Power Computer Vision: Status, Challenges, Opportunities**, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Pages 411-421, Volume 9, Issue 2, June 2019.
+     - N/A
+
+   * - Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan, Ahmed S. Kaseb, George K. Thiruvathukal, **Cloud Resource Optimization for Processing Multiple Streams of Visual Data**, IEEE Multimedia Magazine, Pages 31-41, Volume 26, Issue 3, July-September 2019.
+     - N/A
+
+   * - Yung-Hsiang Lu, **Low-Power Image Recognition**, Nature Machine Intelligence. Vol 1, Page 199, 2019.
+     - N/A
+
+   * - Yung-Hsiang Lu, Alexander C. Berg, Yiran Chen, **Low-Power Image Recognition Challenge**, AI Magazine Vol 39, No 2, Summer 2018, Pages 87-88.
+     - N/A
+
    * - Anup Mohan,Ahmed S. Kaseb, Yung-Hsiang Lu, Tom Hacker, **Adaptive Resource Management for Analyzing Video Streams from Globally Distributed Network Cameras** IEEE Transactions on Cloud Computing (accepted)
      - `[PDF] <https://drive.google.com/open?id=1vLCkTMueREQ8iSeRiGL6_MZSvLZaerVQ>`__
 
@@ -136,10 +154,22 @@ Special Session on Low-Power Image Recognition Challenges
    * - Yung-Hsiang Lu, Alan M. Kadin, Alexander C. Berg, Thomas M. Conte, Erik P. DeBenedictis, Rachit Garg, Ganesh Gingade, Bichlien Hoang, Yongzhen Huang, Boxun Li, Jingyu Liu, Wei Liu, Huizi Mao, Junran Peng, Tianqi Tang, Elie K. Track, Jingqiu Wang, Tao Wang, Yu Wang, Jun Yao, **Rebooting Computing and Low-Power Image Recognition Challenge**, International Conference on Computer Aided Design 2015 (invited paper in a special session).
      - `[PDF] <https://drive.google.com/open?id=1ciof760jS-mnUaegEPBUF8owaNgJXaAW>`__
 
+   * - Matthew Ardi, Alexander C Berg, Bo Chen, Yen-Kuang Chen, Yiran Chen, Donghyun Kang, Junhyeok Lee, Seungjae Lee, Yang Lu, Yung-Hsiang Lu, Fei Sun, **Special Session: 2018 Low-Power Image Recognition Challenge and Beyond**, IEEE International Conference on Artificial Intelligence Circuits and Systems 2019 .
+     - N/A
+
 Continuous Analysis of Many Cameras (CAM2)
 
 .. list-table::
    :widths: 30 10
+
+   * - Xiao Hu, Haobo Wang, Anirudh Vegesana, Somesh Dube, Kaiwen Yu, Gore Kao, Shuo-Han Chen, Yung-Hsiang Lu, George Thiruvathukal, and Ming Yin, **Crowdsourcing Detection of Sampling Biases in Image Datasets**, The Web Conference 2020.
+     - N/A
+
+   * - Xiao Hu, Haobo Wang, Somesh Due, Anirudh Vegesana, Kaiwen Yu, Yung-Hsiang Lu, and Ming Yin, **Discovering Biases in Image Datasets with the Crowd**, Work-in-Progress, AAAI Conference on Human Computation and Crowdsourcing (HCOMP) 2019.
+     - N/A
+     
+   * - Caleb Tung, Matthew R. Kelleher, Ryan J. Schlueter, Binhan Xu, Yung-Hsiang Lu, George K. Thiruvathukal, Yen-Kuang Chen, Yang Lu, **Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions**, IEEE International Conference on Multimedia Information Processing and Retrieval 2019.
+     - N/A
 
    * - Chittayong Surakitbanharn, Calvin Yau, Guizhen Wang, Aniesh Chawla, Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu, George K. Thiruvathukal, **Cross-referencing social media and public surveillance camera data for disaster response**, IEEE Symposium on Technologies for Homeland Security 2018.
      - N/A
