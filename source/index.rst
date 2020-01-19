@@ -21,9 +21,11 @@ computing systems. Our research includes computer vision, machine
 learning, cloud and mobile computing, embedded systems software
 engineering, as well as applications.
 
-Please join the team's [Linedin Group](https://www.linkedin.com/groups/13599559/)
+Please join the team's
+`Linedin Group <https://www.linkedin.com/groups/13599559/>`__
 
-Many members have taken ECE 264. Everyone is welcome to join the [ECE 264 Group](https://www.linkedin.com/groups/8672695/)
+Many members have taken ECE 264.
+Everyone is welcome to join the `ECE 264 Group <https://www.linkedin.com/groups/8672695/>`__
 
 
 |cam2logo|
