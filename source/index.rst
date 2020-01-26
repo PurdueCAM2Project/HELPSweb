@@ -22,7 +22,7 @@ learning, cloud and mobile computing, embedded systems software
 engineering, as well as applications.
 
 Please join the team's
-`Linedin Group <https://www.linkedin.com/groups/13599559/>`__
+`Linkedin Group <https://www.linkedin.com/groups/13599559/>`__
 
 Many members have taken ECE 264.
 Everyone is welcome to join the `ECE 264 Group <https://www.linkedin.com/groups/8672695/>`__
@@ -41,6 +41,8 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
 |helps0| |helps3| 
 
 |helps4| |helps5|
+
+|helps6| |helps7|
 
 .. toctree::
    :hidden:
@@ -74,5 +76,9 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
 
 .. |helps5| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2vip.jpg
    :width: 52 %
-      
-	   
+
+.. |helps6| image:: https://engineering.purdue.edu/HELPS/Images/Drone_Test.jpg
+   :width: 52 %
+
+.. |helps7| image:: https://engineering.purdue.edu/HELPS/Images/2020_CAM2_Party1.png
+   :width: 52 %
