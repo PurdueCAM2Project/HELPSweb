@@ -28,7 +28,7 @@ Time        Monday     Tuesday              Wednesday
 17:30-18:20                                 VIP lecture (EE 129)
 =========== ========== ==================== ==================== 
 
-Due to the large number of team mebers, it is not possible changing
+Due to the large number of team members, it is not possible to change
 the regular meeting time. If your schedule does not fit into a
 particular team, you have to move to another team.
 
