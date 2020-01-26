@@ -681,7 +681,9 @@ Understand human behavior and obtain aggregate information from video.
 
    * - .. image:: https://drive.google.com/uc?id=15MjIOEr5k1XvctTmnAM3yzy3JduC0MJm
      - `Taher Dohadwala`
+
        Leader
+
      - .. image:: https://avatars3.githubusercontent.com/u/20303922?s=460&v=4
      - `Moiz Rasheed`
 
@@ -689,6 +691,7 @@ Understand human behavior and obtain aggregate information from video.
 
    * - .. image:: https://drive.google.com/uc?id=1wzCPewNOxMyl3QBXAuwVUN_jeLqL8hnK
      - `Wenxi Zhang`
+
      - .. image:: https://media.licdn.com/dms/image/C4E03AQHxkkJzNsdJIQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=stc2udoK3PmShUEkelW3M-XpkalZ4mo9_iHmU7YERJ8
      - `Ethan Glaser`
 
@@ -699,10 +702,11 @@ Understand human behavior and obtain aggregate information from video.
 
    * - .. image:: https://drive.google.com/uc?id=1PJkmhvK36ClMnUlUpWYHRnaAD1bWw8LX
      - `Seungjoon Rhie`
+
      - .. image:: https://drive.google.com/uc?id=12tE6ZiBLraMpfRq_C1HrqtN8Xv5PFEYY
      - `Sara Aghajanzadeh`
  
-    Masters Student
+       Masters Student
 
    * - 
      - Mert Zamir
@@ -710,9 +714,12 @@ Understand human behavior and obtain aggregate information from video.
      - Tong Wang
 
    * - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
-     - `David Michael Barbarash
+     - David Michael Barbarash
 
        Advisor
+       
+     -
+     -
        
    
 Software Engineering
@@ -728,11 +735,9 @@ Create procedure for developing high-quality and reproducible software.
      - `Akhil Chinnakotla`
 
        Leader
+
      - 
      - Connor Chadwick
-
-   * - .. image:: https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG
-     - `Noah Curran`
 
    * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
      - `Ryan Firestone`
@@ -753,13 +758,21 @@ Create procedure for developing high-quality and reproducible software.
      - Jack LeCroy
      -
      - Rohit Reddy Tokala
-     
-   * -
+
+   * - .. image:: https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG
+     - `Noah Curran`
+     -
      - Vishnu Banna
-     - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
-     - George K. Thiruvathukal
      
+   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
+     - George K. Thiruvathukal
+
        Advisor
+
+     -
+     -
+     
+   
      
 Alumni
 ~~~~~~
