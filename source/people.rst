@@ -28,7 +28,7 @@ Time        Monday     Tuesday              Wednesday
 17:30-18:20                                 VIP lecture (EE 129)
 =========== ========== ==================== ==================== 
 
-Due to the large number of team members, it is not possible to change
+Due to the large number of team mebers, it is not possible changing
 the regular meeting time. If your schedule does not fit into a
 particular team, you have to move to another team.
 
@@ -594,6 +594,7 @@ train machine models for another datasets with few labels.
      - `Caleb Tung`
 
        Doctoral Student
+
      -
      -
    
@@ -608,6 +609,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
 
    * - .. image:: https://drive.google.com/uc?id=1mwPyRreZhhwa225Exj_fa5NaG7fV_V5q
      - `Gore Kao`
+
        Leader
 
      - .. image:: https://drive.google.com/uc?id=1Pik3biv3epBSKMobHHiqH8FcG9679ZSu
@@ -635,7 +637,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
    * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
      - `Ashley Kim`
      - 
-     -Esteban Gorostiaga
+     - Esteban Gorostiaga
    
 Forest Inventory
 ################
@@ -707,8 +709,8 @@ Understand human behavior and obtain aggregate information from video.
      - 
      - Tong Wang
 
-   * - .. image::
-     - David Barbarsh
+   * - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
+     - `David Michael Barbarash
 
        Advisor
        
