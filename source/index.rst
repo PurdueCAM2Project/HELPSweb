@@ -56,9 +56,8 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    professionalism
    funding
    labmachine
-
-
-
+   newmember
+   
 .. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
    :width: 45 %
 
