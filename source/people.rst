@@ -471,7 +471,7 @@ Create datasets of drone video, recognize objects, estimate the sizes.
    * - .. image:: https://drive.google.com/uc?id=1M3PTWnGPrRkv2ntr_Furr-gh1VezKSL_
      - Victor Oduduabasi
 
-     - 
+     - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
      - Haobo Wang
 
    * - 
@@ -514,39 +514,21 @@ Detect and encrypt faces to protect privacy using embedded computer.
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/rufat_imanov.jpeg
      - `Rufat Imanov`
 
-     - 
-     - `Edward Pedroza`
-
-   * -
-     - `Brett Weyer`
-
-     - 
+     -
      - `Asa Cutler`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/xin_wang.jpeg
-     - Xin Wang
+     - `Xin Wang`
 
-     - 
-     - Jade Julian
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/xin_du.jpeg
+     - `Xin Du`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/xin_du.jpeg
-     - Xin Du
-     - 
-     - Seyram Samuel Mortoti
+   * - 
+     - `Seyram Samuel Mortoti`
 
-   * - .. image:: https://drive.google.com/uc?id=1bZxvHiZ-H7ACq55FpJQqbJgj8NZjZlcb
-     - Peter Huang
-     - .. image:: https://drive.google.com/uc?id=14-x3C-GKjClfZxBL2ZKI7ASRCTa26b9u
-     - Youngsik Yoon
-
-
-   * - .. image:: https://drive.google.com/uc?id=1iYwls-HfhBTdhomnDydzSjf-TqXVZ5XJ
-     - `Abhinav Goel`
-
-       Doctoral Student
-    
      -
      -
+
    
 Embedded Vision 2
 #################
@@ -637,7 +619,16 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
    * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
      - `Ashley Kim`
      - 
-     - Esteban Gorostiaga
+     - `Esteban Gorostiaga`
+
+   * -
+     - `Phillip Andrew Archuleta`
+    
+     -
+     - `Yukyung Lee'
+
+   * - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
+     - `Ming Yin
    
 Forest Inventory
 ################
@@ -666,7 +657,8 @@ Use computer vision to recognize tree species and estimate their sizes.
      - `Ya Ling Tsai`
 
    * - 
-     - Yi-Fang Hsiung
+     - `Yi-Fang Hsiung`
+
      -
      -
 
@@ -696,30 +688,22 @@ Understand human behavior and obtain aggregate information from video.
      - `Ethan Glaser`
 
    * - 
-     - Noureldin Hendy
+     - `Noureldin Hendy`
      - 
-     - Siddhartha Kumar Senthil Kumar
-
-   * - .. image:: https://drive.google.com/uc?id=1PJkmhvK36ClMnUlUpWYHRnaAD1bWw8LX
-     - `Seungjoon Rhie`
-
-     - .. image:: https://drive.google.com/uc?id=12tE6ZiBLraMpfRq_C1HrqtN8Xv5PFEYY
-     - `Sara Aghajanzadeh`
- 
-       Masters Student
+     - `Siddhartha Kumar Senthil Kumar`
 
    * - 
-     - Mert Zamir
+     - `Mert Zamir`
      - 
-     - Tong Wang
+     - `Tong Wang`
 
    * - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
      - David Michael Barbarash
-
        Advisor
-       
-     -
-     -
+
+     - .. image:: https://drive.google.com/uc?id=12tE6ZiBLraMpfRq_C1HrqtN8Xv5PFEYY
+     - `Sara Aghajanzadeh`
+       Masters Student
        
    
 Software Engineering
@@ -866,7 +850,8 @@ Alumni
      - Shunqiao Huang
    * - Minh Nguyen
      - Dhruv Swarup
-     -
+   * - Ryan Dailey
+     - 
 
 Video by Current and Former Members
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
