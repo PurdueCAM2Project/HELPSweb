@@ -569,7 +569,8 @@ train machine models for another datasets with few labels.
 
    * -
      - Zachery Peter Berg
-     - .. image:: https://media.licdn.com/dms/image/C5603AQHUeEhI5uCp9Q/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=f63UsWOOkgHQdK6rIRXOKJ4IShVMj1Csw1Aq5RQo1XM
+
+     - 
      - `Jackson Moffet`
 
    * - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
@@ -689,7 +690,7 @@ Understand human behavior and obtain aggregate information from video.
    * - .. image:: https://drive.google.com/uc?id=1wzCPewNOxMyl3QBXAuwVUN_jeLqL8hnK
      - `Wenxi Zhang`
 
-     - .. image:: https://media.licdn.com/dms/image/C4E03AQHxkkJzNsdJIQ/profile-displayphoto-shrink_200_200/0?e=1574899200&v=beta&t=stc2udoK3PmShUEkelW3M-XpkalZ4mo9_iHmU7YERJ8
+     - 
      - `Ethan Glaser`
 
    * - 
@@ -699,6 +700,7 @@ Understand human behavior and obtain aggregate information from video.
 
    * - 
      - `Mert Zamir`
+
      - 
      - `Tong Wang`
 
