@@ -625,10 +625,15 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - `Phillip Andrew Archuleta`
     
      -
-     - `Yukyung Lee'
+     - `Yukyung Lee`
 
    * - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
-     - `Ming Yin
+     - `Ming Yin`
+
+       Advisor
+      
+     -
+     -
    
 Forest Inventory
 ################
@@ -850,8 +855,7 @@ Alumni
      - Shunqiao Huang
    * - Minh Nguyen
      - Dhruv Swarup
-   * - Ryan Dailey
-     - 
+     - Ryan Dailey
 
 Video by Current and Former Members
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
