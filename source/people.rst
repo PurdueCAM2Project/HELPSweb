@@ -204,11 +204,11 @@ Readings for new members:
 Forest Inventory Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Use computer vision to calculate the sizes of trees (called diameter
-at breath height, or DBH), recognize the species of trees, and their
-locations.  For Fall 2019, the team has two major goals: (1) handle
-multiple trees in a single frame and (2) handle trees in a nautral
-forest.
+Forest inventory analysis is time consuming and expensive to do manually. The team is researching the use of stereo cameras and video footage to obtain individual tree information efficiently and at a low cost. Our goals this semester are as follows:
+- Generate a 3D reconstruction of a forest plot from video footage
+- Uniquely identify each tree in the 3D reconstruction with a diameter. 
+- Compute the taper of a tree using stereo video
+- Compute the crown height of a tree using stereo video
 
 The following images show the result from a distance sensor and the tree image (before and after denoising).
 
@@ -238,6 +238,14 @@ The following images show how the team measures the diameter at breath height.
 
 .. |forest02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree03.jpeg
    :width: 35%
+
+The following images are snapshots of 3D digital reconstructions of trees from video.
+
+|forest06|
+
+.. |forest06| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/martell_pointcloud_snap_annotated.png
+   :width: 100%
+
 
 Readings for new members:
 
@@ -276,11 +284,7 @@ Readings
 Crowdsourcing
 ^^^^^^^^^^^^^
 
-Computer vision is still not perfect and humans outperform computers
-in many situations. This team builds computer tools (human interfaces)
-for humans to identify unexpected properties (called "bias") in data
-used to train computer programs. These tools are computer games and
-the players (crowds) describe the characteristics in the data.
+Crowdsourcing utilizes the knowledge of humans to complete a task. In the scope of research, we are using the crowd to handle specific tasks that may be hard for a machine to do or improve the work of a machine. This may include tasks such as detecting bias within image datasets using human knowledge rather than machines, since humans are better at distinguishing features within images. This semester, we are utilizing crowdsourcing to help select the most suitable machine model to use for unsupervised domain adaptation. We use the crowd to classify images to datasets and generate a confusion matrix detailing the similarity of images across several datasets.
 
 Reading for new members:
 
