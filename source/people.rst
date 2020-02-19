@@ -556,7 +556,7 @@ train machine models for another datasets with few labels.
 
        Co-leader
 
-   * -
+   * - .. image:: https://drive.google.com/uc?id=1TfZn-I0Mk_lvY-cMontY8f1u9o5Zvc-y
      - `Akshay Pawar`
      -
      - `Damini Rijhwani`
