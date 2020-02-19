@@ -457,41 +457,41 @@ Create datasets of drone video, recognize objects, estimate the sizes.
    :widths: 10 20 10 20
 
    * - .. image:: https://i.ibb.co/4SB910F/20190617-180018.jpg
-     - Avanish Subbiah
+     - `Avanish Subbiah`
 
        Leader
 
      - .. image:: https://drive.google.com/uc?id=1BgdG9XYcrmdMtdSbePpp324jwdnwl_7p
-     - Xiao Hu
+     - `Xiao Hu`
 
        Co-leader
 
    * - .. image:: https://drive.google.com/uc?id=1Yv1UB8v2LEjDsRCaCDilNzI68hoDAOXf
-     - Katherine Sandys
+     - `Katherine Sandys`
 
      - .. image:: https://i.imgur.com/c2lePxA.jpg
-     - Justin Qualley
+     - `Justin Qualley`
 
    * - .. image:: https://drive.google.com/uc?id=1M3PTWnGPrRkv2ntr_Furr-gh1VezKSL_
-     - Victor Oduduabasi
+     - `Victor Oduduabasi`
 
      - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
-     - Haobo Wang
+     - `Haobo Wang`
 
    * - 
-     - Nathan Gizaw
+     - `Nathan Gizaw`
 
      - 
-     - Karthik Maiya
+     - `Karthik Maiya`
 
    * - 
-     - Rushabh Ramesh Ranka
+     - `Rushabh Ramesh Ranka`
 
-     - 
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_tuhin_sarkar.jpg
      - Tuhin Sarkar   
 
    * - .. image:: https://drive.google.com/uc?id=1YunKydNN7OS_vvBubbME4UykfjNh1CgA
-     - Abhinav Goel
+     - `Abhinav Goel`
 
      -
      -
@@ -507,11 +507,11 @@ Detect and encrypt faces to protect privacy using embedded computer.
    :widths: 10 20 10 20
 
    * - .. image:: https://drive.google.com/uc?id=1aHllBZ0vsx_i_5n7P0IQG7ddCvaBcXjZ
-     - Vaastav Arora
+     - `Vaastav Arora`
 
        Leader
      - .. image:: https://drive.google.com/uc?id=1RUriBMS5XchLbjWiRWTwOO2XHCpCrf1R
-     - Siddharth Srinivasan
+     - `Siddharth Srinivasan`
 
        Co-leader
 
@@ -557,22 +557,22 @@ train machine models for another datasets with few labels.
        Co-leader
 
    * -
-     - Akshay Pawar
+     - `Akshay Pawar`
      -
-     - Damini Rijhwani
+     - `Damini Rijhwani`
 
    * -
-     - Hojoung Jang
+     - `Hojoung Jang`
      -
-     - Aditya Chakraborty
+     - `Aditya Chakraborty`
 
    * -
-     - Shristi Saraff
+     - `Shristi Saraff`
      -
-     - Meenakshi Pavithran
+     - `Meenakshi Pavithran`
 
    * -
-     - Zachery Peter Berg
+     - `Zachery Peter Berg`
 
      - 
      - `Jackson Moffet`
@@ -604,7 +604,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
        Co-leader
 
    * - 
-     - Yukyung Lee
+     - `Yukyung Lee`
      - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
      - `Haobo Wang`
 
@@ -628,17 +628,12 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
 
    * -
      - `Phillip Andrew Archuleta`
-    
-     -
-     - `Yukyung Lee`
 
-   * - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
+     - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
      - `Ming Yin`
 
        Advisor
-      
-     -
-     -
+  
    
 Forest Inventory
 ################
@@ -666,7 +661,7 @@ Use computer vision to recognize tree species and estimate their sizes.
      - .. image:: https://i.ibb.co/Jxfdyb8/IMG-9250.jpg
      - `Ya Ling Tsai`
 
-   * - 
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_justin_hsiung.png
      - `Yi-Fang Hsiung`
 
      -
@@ -694,15 +689,15 @@ Understand human behavior and obtain aggregate information from video.
    * - .. image:: https://drive.google.com/uc?id=1wzCPewNOxMyl3QBXAuwVUN_jeLqL8hnK
      - `Wenxi Zhang`
 
-     - 
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_ethan_glaser.png
      - `Ethan Glaser`
 
-   * - 
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_nour_hendy.jpeg
      - `Noureldin Hendy`
      - 
      - `Siddhartha Kumar Senthil Kumar`
 
-   * - 
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_mert_zamir.jpg
      - `Mert Zamir`
 
      - 
@@ -732,35 +727,36 @@ Create procedure for developing high-quality and reproducible software.
        Leader
 
      - 
-     - Connor Chadwick
+     - `Connor Chadwick`
 
    * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
      - `Ryan Firestone`
      - 
-     - Stephen Davis
+     - `Stephen Davis`
 
-   * - 
-     - Seoyoung Lee
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_seoyoung_lee.jpg
+	      :width: 50 %
+     - `Seoyoung Lee`
      -
-     - Amogh Shanbag
+     - `Amogh Shanbag`
 
-   * -
-     - Ryan Chen
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_ryan_chen.jpg
+     - `Ryan Chen`
      -
-     - Ved Dave
+     - `Ved Dave`
 
-   * -
-     - Jack LeCroy
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_jack_lecroy.jpg
+     - `Jack LeCroy`
      -
-     - Rohit Reddy Tokala
+     - `Rohit Reddy Tokala`
 
    * - .. image:: https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG
      - `Noah Curran`
-     -
-     - Vishnu Banna
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_vishnu_banna.jpeg
+     - `Vishnu Banna`
      
    * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
-     - George K. Thiruvathukal
+     - `George K. Thiruvathukal`
 
        Advisor
 
