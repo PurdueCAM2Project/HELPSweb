@@ -4,6 +4,16 @@ HOW TO (For Current Members)
 How To Choose Research Topics
 -----------------------------
 
+Prepare a Research Canvas
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The "Research Model Canvas" (RMC) is inspired by the "Business Model Canvas" in the book "Business Model Generation". The book says, "A business model describes the rationales of how an organization creates, delivers, and captures value." 
+
+The purpose of RMC is to ask several essential questions about a research project. The answers can help the members in the research team, as well as outsiders, understand the most important components of the research project. Although there are common elements to business and research (with research being a business in its own right), there are aspects of research that differ from business, which is why we have created the RMC.
+
+We have prepared a `Research Model Canvas Template in Google Slides <http://bit.ly/research-model-canvas>`__ that you can use to organize a RMC for your project. Regardless of where you are in the research journey, you should consider preparing an RMC, which is a great way to engage your team and organize your research ideas with the goal of realizing maximum impact.  For those of you working with Profs. Lu and Thiruvathukal, you are encouraged to prepare and share your RMC at the earliest opportunity.
+
+
 Choose Now, So That You Can Choose Again
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
