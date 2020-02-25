@@ -401,7 +401,7 @@ Image Database - Suspended for Spring 2020
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://drive.google.com/uc?id=1F38cu70XGcBK2Z-HWBWdcYMAB9EClQZd
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Sripath Mishra`
 
      - .. image:: https://drive.google.com/uc?id=1TfZn-I0Mk_lvY-cMontY8f1u9o5Zvc-y
@@ -659,7 +659,7 @@ Understand human behavior and obtain aggregate information from video.
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_mert_zamir.jpg
      - `Mert Zamir`
 
-     - 
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Tong Wang`
 
    * - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
@@ -700,7 +700,7 @@ Create procedure for developing high-quality and reproducible software.
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_ryan_chen.jpg
      - `Ryan Chen`
-     -
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Ved Dave`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_jack_lecroy.jpg
