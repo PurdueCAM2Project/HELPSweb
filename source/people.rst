@@ -653,7 +653,7 @@ Understand human behavior and obtain aggregate information from video.
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_nour_hendy.jpeg
      - `Noureldin Hendy`
-     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_siddhartha_kumar.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_siddhartha_kumar.jpg
      - `Siddhartha Kumar Senthil Kumar`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_mert_zamir.jpg
@@ -685,17 +685,17 @@ Create procedure for developing high-quality and reproducible software.
 
        Leader
 
-     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_connor_chadwick.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_connor_chadwick.jpg
      - `Connor Chadwick`
 
    * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
      - `Ryan Firestone`
-     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_stephen_davis.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_stephen_davis.jpg
      - `Stephen Davis`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_seoyoung_lee.jpg
      - `Seoyoung Lee`
-     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_amogh_shanbag.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_amogh_shanbag.jpg
      - `Amogh Shanbag`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_ryan_chen.jpg
@@ -705,7 +705,7 @@ Create procedure for developing high-quality and reproducible software.
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_jack_lecroy.jpg
      - `Jack LeCroy`
-     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_rohit_tokala.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_rohit_tokala.jpg
      - `Rohit Reddy Tokala`
 
    * - .. image:: https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG
