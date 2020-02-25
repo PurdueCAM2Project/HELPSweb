@@ -221,23 +221,9 @@ The following images show the result from a distance sensor and the tree image (
 .. |forest04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/treeimage02.png
    :width: 18%
 
-	   
+   
 .. |forest05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/treeimage01.png
    :width: 18%
-
-The following images show how the team measures the diameter at breath height.
-
-|forest00| |forest01| |forest02|
-
-
-.. |forest00| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree01.jpeg
-   :width: 35%
-
-.. |forest01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree02.jpeg
-   :width: 20%
-
-.. |forest02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/measuretree03.jpeg
-   :width: 35%
 
 The following images are snapshots of 3D digital reconstructions of trees from video.
 
@@ -318,31 +304,6 @@ Reading for new members:
 	   
 .. |crowdsource05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceposter.jpg
    :width: 45%
-
-----
-
-Image Database - Suspended
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-This system integrates computer vision and database.  After the
-objects in images are detected, the information is stored in a
-database so that it is searchable.  The team has built a prototype of
-the system processing multiple video streams simultaneously. The team
-will focus on improving the performance (scalability) for lower
-latency as well as investigating new storage systems.
-
-Reading for new members:
-
-- `Recent Advances in Convolutional Neural Networks <https://arxiv.org/abs/1512.07108>`__
-
-- `You Only Look Once: Unified, Real-Time Object Detection <https://arxiv.org/abs/1506.02640>`__
-
-- `YOLOv3: An Incremental Improvement <https://arxiv.org/abs/1804.02767>`__
-
-----
-
-
-
 	   
 Faculty
 ~~~~~~~
@@ -478,13 +439,13 @@ Create datasets of drone video, recognize objects, estimate the sizes.
      - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
      - `Haobo Wang`
 
-   * - 
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Nathan Gizaw`
 
-     - 
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Karthik Maiya`
 
-   * - 
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Rushabh Ramesh Ranka`
 
      - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_tuhin_sarkar.jpg
@@ -506,7 +467,7 @@ Detect and encrypt faces to protect privacy using embedded computer.
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://drive.google.com/uc?id=1aHllBZ0vsx_i_5n7P0IQG7ddCvaBcXjZ
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_vaastav_arora.jpg
      - `Vaastav Arora`
 
        Leader
@@ -515,19 +476,19 @@ Detect and encrypt faces to protect privacy using embedded computer.
 
        Co-leader
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/rufat_imanov.jpeg
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_rufat_imanov.jpeg
      - `Rufat Imanov`
 
-     -
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
      - `Asa Cutler`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/xin_wang.jpeg
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_xin_wang.jpeg
      - `Xin Wang`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/xin_du.jpeg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_xin_du.jpeg
      - `Xin Du`
 
-   * - 
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Seyram Samuel Mortoti`
 
      -
@@ -540,8 +501,6 @@ Embedded Vision 2
 Identify the specific features (called distinctiveness) of
 different visual dataset. Use one dataset with many labels to help
 train machine models for another datasets with few labels.
-
-
 
 .. list-table::
    :widths: 10 20 10 20
@@ -558,23 +517,23 @@ train machine models for another datasets with few labels.
 
    * - .. image:: https://drive.google.com/uc?id=1TfZn-I0Mk_lvY-cMontY8f1u9o5Zvc-y
      - `Akshay Pawar`
-     -
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
      - `Damini Rijhwani`
 
-   * -
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Hojoung Jang`
-     -
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Aditya Chakraborty`
 
-   * -
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
      - `Shristi Saraff`
-     -
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
      - `Meenakshi Pavithran`
 
-   * -
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Zachery Peter Berg`
 
-     - 
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Jackson Moffet`
 
    * - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
@@ -603,7 +562,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - `Kaiwen Yu`
        Co-leader
 
-   * - 
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
      - `Yukyung Lee`
      - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
      - `Haobo Wang`
@@ -616,17 +575,17 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - .. image:: https://drive.google.com/uc?id=1u5dbejyw-62y5x6UPKEtPo3DFd4AtYCc
      - `Anirudh Vegesana`
 
-   * - 
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_andrew_lynn.png
      - Andrew Lynn
      - .. image:: https://drive.google.com/uc?id=1Y7Ew3_OUSKDagQ7nOkRKOpYV1DhrPdi7
      - `Fischer Bordwell`
 
    * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
      - `Ashley Kim`
-     - 
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Esteban Gorostiaga`
 
-   * -
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Phillip Andrew Archuleta`
 
      - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
@@ -694,7 +653,7 @@ Understand human behavior and obtain aggregate information from video.
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_nour_hendy.jpeg
      - `Noureldin Hendy`
-     - 
+     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_siddhartha_kumar.jpg
      - `Siddhartha Kumar Senthil Kumar`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_mert_zamir.jpg
@@ -721,23 +680,22 @@ Create procedure for developing high-quality and reproducible software.
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://i.imgur.com/KJNnNDT.jpg
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_akhil_channakotla.jpg
      - `Akhil Chinnakotla`
 
        Leader
 
-     - 
+     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_connor_chadwick.jpg
      - `Connor Chadwick`
 
    * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
      - `Ryan Firestone`
-     - 
+     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_stephen_davis.jpg
      - `Stephen Davis`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_seoyoung_lee.jpg
-	      :width: 50 %
      - `Seoyoung Lee`
-     -
+     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_amogh_shanbag.jpg
      - `Amogh Shanbag`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_ryan_chen.jpg
@@ -747,7 +705,7 @@ Create procedure for developing high-quality and reproducible software.
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_jack_lecroy.jpg
      - `Jack LeCroy`
-     -
+     - .. image:: image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_rohit_tokala.jpg
      - `Rohit Reddy Tokala`
 
    * - .. image:: https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG
