@@ -417,7 +417,7 @@ Create datasets of drone video, recognize objects, estimate the sizes.
    * - .. image:: https://drive.google.com/uc?id=1Yv1UB8v2LEjDsRCaCDilNzI68hoDAOXf
      - `Katherine Sandys`
 
-     - .. image:: https://i.imgur.com/c2lePxA.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_justin_qualley.png
      - `Justin Qualley`
 
    * - .. image:: https://drive.google.com/uc?id=1M3PTWnGPrRkv2ntr_Furr-gh1VezKSL_
@@ -549,7 +549,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - `Kaiwen Yu`
        Co-leader
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_yukyung_lee.jpg
      - `Yukyung Lee`
      - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
      - `Haobo Wang`
@@ -567,7 +567,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_esteban_gorostiaga.png
      - `Esteban Gorostiaga`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_phillip_archuleta.jpg
      - `Phillip Andrew Archuleta` 
      - .. image:: https://drive.google.com/uc?id=1Y7Ew3_OUSKDagQ7nOkRKOpYV1DhrPdi7
      - `Fischer Bordwell`
