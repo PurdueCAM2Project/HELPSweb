@@ -392,21 +392,8 @@ Graduate Students
      - Shreya Ghosh: Master Student, Data-Driven Civil Infrastructure Decision Making for Improved Citizen Safety, Accessibility, and Economic Opportunity
 
 
-Undergraduate Students and 2019 Fall Teams
+Undergraduate Students and Spring 2020 Teams
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Image Database - Suspended for Spring 2020
-##########################################
-
-.. list-table::
-   :widths: 10 20 10 20
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Sripath Mishra`
-
-     - .. image:: https://drive.google.com/uc?id=1TfZn-I0Mk_lvY-cMontY8f1u9o5Zvc-y
-     - `Akshay Pawar`
-
    
 Drone Video
 ###########
