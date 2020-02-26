@@ -666,7 +666,7 @@ Understand human behavior and obtain aggregate information from video.
 	 
        Advisor
 
-     - .. https://drive.google.com/uc?id=1GzpDueX6W2e4sx0OGfKm51cru34jyEvp
+     - .. image:: image:: https://drive.google.com/uc?id=1GzpDueX6W2e4sx0OGfKm51cru34jyEvp
      - `Sara Aghajanzadeh`
 	 
        Masters Student
