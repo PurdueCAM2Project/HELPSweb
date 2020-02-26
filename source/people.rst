@@ -393,7 +393,7 @@ Graduate Students
 
 
 Undergraduate Students and Spring 2020 Teams
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    
 Drone Video
 ###########
@@ -653,7 +653,7 @@ Understand human behavior and obtain aggregate information from video.
 	 
        Advisor
 
-     - .. image:: image:: https://drive.google.com/uc?id=1GzpDueX6W2e4sx0OGfKm51cru34jyEvp
+     - .. image:: https://drive.google.com/uc?id=1GzpDueX6W2e4sx0OGfKm51cru34jyEvp
      - `Sara Aghajanzadeh`
 	 
        Masters Student
