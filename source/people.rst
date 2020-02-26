@@ -449,7 +449,7 @@ Create datasets of drone video, recognize objects, estimate the sizes.
      - `Rushabh Ramesh Ranka`
 
      - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_tuhin_sarkar.jpg
-     - Tuhin Sarkar   
+     - `Tuhin Sarkar`
 
    * - .. image:: https://drive.google.com/uc?id=1YunKydNN7OS_vvBubbME4UykfjNh1CgA
      - `Abhinav Goel`
@@ -531,9 +531,9 @@ train machine models for another datasets with few labels.
      - `Meenakshi Pavithran`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Zachery Peter Berg`
+     - `Zach Berg`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_jackson_moffet.jpg
      - `Jackson Moffet`
 
    * - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
@@ -553,7 +553,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://drive.google.com/uc?id=1mwPyRreZhhwa225Exj_fa5NaG7fV_V5q
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_gore_kao.jpg
      - `Gore Kao`
 
        Leader
@@ -575,24 +575,23 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - .. image:: https://drive.google.com/uc?id=1u5dbejyw-62y5x6UPKEtPo3DFd4AtYCc
      - `Anirudh Vegesana`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_andrew_lynn.png
-     - Andrew Lynn
-     - .. image:: https://drive.google.com/uc?id=1Y7Ew3_OUSKDagQ7nOkRKOpYV1DhrPdi7
-     - `Fischer Bordwell`
-
    * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
      - `Ashley Kim`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_esteban_gorostiaga.png
      - `Esteban Gorostiaga`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Phillip Andrew Archuleta`
-
-     - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
+     - `Phillip Andrew Archuleta` 
+     - .. image:: https://drive.google.com/uc?id=1Y7Ew3_OUSKDagQ7nOkRKOpYV1DhrPdi7
+     - `Fischer Bordwell`
+	 
+   * - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
      - `Ming Yin`
 
        Advisor
-  
+	   
+     - 
+     -
    
 Forest Inventory
 ################
@@ -663,11 +662,13 @@ Understand human behavior and obtain aggregate information from video.
      - `Tong Wang`
 
    * - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
-     - David Michael Barbarash
+     - `David Michael Barbarash`
+	 
        Advisor
 
-     - .. image:: https://drive.google.com/uc?id=12tE6ZiBLraMpfRq_C1HrqtN8Xv5PFEYY
+     - .. https://drive.google.com/uc?id=1GzpDueX6W2e4sx0OGfKm51cru34jyEvp
      - `Sara Aghajanzadeh`
+	 
        Masters Student
        
    
