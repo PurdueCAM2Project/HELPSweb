@@ -458,7 +458,7 @@ Detect and encrypt faces to protect privacy using embedded computer.
      - `Vaastav Arora`
 
        Leader
-     - .. image:: https://drive.google.com/uc?id=1RUriBMS5XchLbjWiRWTwOO2XHCpCrf1R
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_siddharth_srinivasan.jpg
      - `Siddharth Srinivasan`
 
        Co-leader
@@ -509,10 +509,10 @@ train machine models for another datasets with few labels.
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Hojoung Jang`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_aditya_chakraborty.jpg
      - `Aditya Chakraborty`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_shristi_saraff.jpg
      - `Shristi Saraff`
      - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
      - `Meenakshi Pavithran`
