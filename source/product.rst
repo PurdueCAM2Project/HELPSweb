@@ -14,8 +14,14 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
 .. list-table::
    :widths: 30 10
 
-   * - Nicholas John Eliopoulos, Yezhi Shen, Minh Luong Nguyen, Vaastav Arora, Yuxin Zhang, Yung-Hsiang Lu, Guofan Shao, and Keith Woeste, **Rapid Tree Diameter Computation with Terrestrial Stereoscopic Photogrammetry**, Journal of Forestry (accepted)
-     - N/A
+   * - Nicholas John Eliopoulos, Yezhi Shen, Minh Luong Nguyen, Vaastav Arora, Yuxin Zhang, Yung-Hsiang Lu, Guofan Shao, and Keith Woeste, **Rapid Tree Diameter Computation with Terrestrial Stereoscopic Photogrammetry**, Journal of Forestry.
+     - `[Web] <https://academic.oup.com/jof/advance-article-abstract/doi/10.1093/jofore/fvaa009/5811312>`__
+	 
+   * - Xiao Hu, Haobo Wang, Somesh Dube, Anirudh Vegesana, Kaiwen Yu, Yung-Hsiang Lu, Ming Yin, **Discovering Biases in Image Datasets with the Crown**, Human Computation 2019.
+     - `[PDF] <http://mingyin.org/HCOMP-19/BiasDetection_camera.pdf>`__
+	 
+   * - Xiao Hu, Haobo Wang, Anirudh Vegesana, SOmesh Dube, Kaiwen Yu, Gore Kao, Shuo-Han Chen, Yung-Hsiang Lu, George K. Thiruvathukal, Ming Yin, **Crowdsourcing Detection of Sampling Biases in Image Datasets**, International World Wide Web Conference 2020.
+     - `[PDF] <http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/WWW20/72/9380193f-3c7e-11ea-b454-16dda94fa160/OUT/www20-72.pdf>`__
 
    * - Yung-Hsiang Lu, George K. Thiruvathukal, Ahmed S. Kaseb, Kent Gauen, Damini Rijhwani, Ryan Dailey, Deeptanshu Malik, Yutong Huang, Sarah Aghajanzadeh, Minghao Guo, **See the World through Network Cameras**, IEEE Computer. pages 30-40, Volume 52, Issue 10, October 2019.
      - N/A
