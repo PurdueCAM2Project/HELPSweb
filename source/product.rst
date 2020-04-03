@@ -24,19 +24,19 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
      - `[PDF] <http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/WWW20/72/9380193f-3c7e-11ea-b454-16dda94fa160/OUT/www20-72.pdf>`__
 
    * - Yung-Hsiang Lu, George K. Thiruvathukal, Ahmed S. Kaseb, Kent Gauen, Damini Rijhwani, Ryan Dailey, Deeptanshu Malik, Yutong Huang, Sarah Aghajanzadeh, Minghao Guo, **See the World through Network Cameras**, IEEE Computer. pages 30-40, Volume 52, Issue 10, October 2019.
-     - N/A
+     - `[PDF] <https://arxiv.org/pdf/1904.06775>`__
 
    * - Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Abhinav Goel, Alexander Goncharenko, XuHanh Nguyen, Eunbyung Park, Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, George K. Thiruvathukal, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, Shaojie Zhuo, **Low-Power Computer Vision: Status, Challenges, Opportunities**, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Pages 411-421, Volume 9, Issue 2, June 2019.
-     - N/A
+     - `[PDF] <https://arxiv.org/pdf/1904.07714>`__
 
    * - Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan, Ahmed S. Kaseb, George K. Thiruvathukal, **Cloud Resource Optimization for Processing Multiple Streams of Visual Data**, IEEE Multimedia Magazine, Pages 31-41, Volume 26, Issue 3, July-September 2019.
-     - N/A
+     - `[PDF] <https://arxiv.org/pdf/1901.06347>`__
 
    * - Yung-Hsiang Lu, **Low-Power Image Recognition**, Nature Machine Intelligence. Vol 1, Page 199, 2019.
-     - N/A
+     - `[Web] <https://www.nature.com/articles/s42256-019-0041-4>`__
 
    * - Yung-Hsiang Lu, Alexander C. Berg, Yiran Chen, **Low-Power Image Recognition Challenge**, AI Magazine Vol 39, No 2, Summer 2018, Pages 87-88.
-     - N/A
+     - `[PDF] <https://www.aaai.org/ojs/index.php/aimagazine/article/view/2782/2701>`__
 
    * - Anup Mohan,Ahmed S. Kaseb, Yung-Hsiang Lu, Tom Hacker, **Adaptive Resource Management for Analyzing Video Streams from Globally Distributed Network Cameras** IEEE Transactions on Cloud Computing (accepted)
      - `[PDF] <https://drive.google.com/open?id=1vLCkTMueREQ8iSeRiGL6_MZSvLZaerVQ>`__
