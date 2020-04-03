@@ -28,9 +28,9 @@ Time        Monday     Tuesday              Wednesday
 11:00-12:00 
 12:30-13:30 Forest     
 13:30-14:30 Drone                           Human Behavior        
-14:30-15:30 Embedded 1                      Crowdsourcing
+14:30-15:30 Video Syn.                      Crowdsourcing
 15:30-16:30 Leaders
-16:30-17:30                                 Embedded 2
+16:30-17:30                                 Embedded CV
 17:30-18:20                                 VIP lecture (EE 129)
 =========== ========== ==================== ==================== 
 
@@ -138,8 +138,8 @@ Readings
 
 ----  
 
-Embedded Vision 1
-^^^^^^^^^^^^^^^^^
+Video Synthesis for Machine Learning
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Recent progress in computer vision has focused primarily in
 general-purpose object detection using datasets with many (hundreds)
@@ -163,8 +163,8 @@ Readings for new members:
 - `The ParallelEye Dataset: A Large Collection of Virtual Images for Traffic Vision Research <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451919>`__
 
 
-Embedded Vision 2
-^^^^^^^^^^^^^^^^^
+Embedded Computer Vision
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 This project investigates computer vision solutions that can perform
 the following tasks in an embedded computer (small enough to be inside
@@ -451,8 +451,8 @@ Create datasets of drone video, recognize objects, estimate the sizes.
      -
 
 
-Embedded Vision 1
-#################
+Video Synthesis for Machine Learning
+####################################
 
 Detect and encrypt faces to protect privacy using embedded computer.
 
@@ -488,8 +488,8 @@ Detect and encrypt faces to protect privacy using embedded computer.
      -
 
    
-Embedded Vision 2
-#################
+Embedded Computer Vision
+########################
 
 Identify the specific features (called distinctiveness) of
 different visual dataset. Use one dataset with many labels to help
