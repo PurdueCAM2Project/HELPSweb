@@ -146,7 +146,7 @@ Special Session on Low-Power Image Recognition Challenges
    :widths: 30 10
 
    * - Aditya Chakraborty, Akshay Pawar, Hojoung Jang, Shunqiao Huang, Sripath Mishra, Shuo-Han Chen, Yuan-Hao Chang, George K. Thiruvathukal and Yung-Hsiang Lu, "A Real-Time Feature Indexing System on Live Video Streams," 2020 IEEE 44th Annual Computer Software and Applications Conference (COMPSAC), Madrid, Spain, 2020.
-     - N/A
+     - `[PDF] <https://drive.google.com/file/d/1nAI8hLI9sZvadgQw6JsUMvsAKNQliaNL/view?usp=sharing>`__
    
    * -  Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C.  Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu, Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov, George K.  Thiruvathukal, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, Shaojie Zhuo, **2018 Low-Power Image Recognition Challenge**
      - `[PDF] <https://arxiv.org/abs/1810.01732>`__
