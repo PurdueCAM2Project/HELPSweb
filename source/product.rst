@@ -108,7 +108,7 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
      - `[PDF] <https://drive.google.com/open?id=1aePALvKAOg_E9lhMHcBVGbOW2yKTqe3y>`__
 
    * - Jing Feng, Yung-Hsiang Lu, Byunghoo Jung, Dimitrios Peroulis, and Y. Charlie Hu, **Energy-Efficient Data Dissemination Using Beamforming in Wireless Sensor Networks’** ACMTransactions on Sensor Networks, May 2013.
-     - N/A
+     - `[PDF] <https://dl.acm.org/doi/10.1145/2480730.2480734>`__
 
    * - Douglas Herbert, Vinaitheerthan Sundaram, Yung-Hsiang Lu, Saurabh Bagchi , and Zhiyuan Li, **Adaptive Correctness Monitoring for Wireless Sensor Networks Using Hierarchical Distributed Run-Time Invariant Checking** ACM Transactions on Autonomous and Adaptive Systems, 2(3), September 2007, Article No. 8, 23 pages.
      - `[PDF] <https://drive.google.com/open?id=1Qbbw32kOCItBNppBEX5UuslCE0KnW_Xc>`__
@@ -145,11 +145,11 @@ Special Session on Low-Power Image Recognition Challenges
 .. list-table::
    :widths: 30 10
 
+   * - Aditya Chakraborty, Akshay Pawar, Hojoung Jang, Shunqiao Huang, Sripath Mishra, Shuo-Han Chen, Yuan-Hao Chang, George K. Thiruvathukal and Yung-Hsiang Lu, "A Real-Time Feature Indexing System on Live Video Streams," 2020 IEEE 44th Annual Computer Software and Applications Conference (COMPSAC), Madrid, Spain, 2020.
+     - N/A
+   
    * -  Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C.  Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu, Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov, George K.  Thiruvathukal, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, Shaojie Zhuo, **2018 Low-Power Image Recognition Challenge**
      - `[PDF] <https://arxiv.org/abs/1810.01732>`__
-
-   * - Matthew Ardi, Alexander C Berg, Bo Chen, Yen-Kuang Chen, Yiran Chen, Donghyun Kang, Junhyeok Lee, Seungjae Lee, Yang Lu, Yung-Hsiang Lu, Fei Sun, **Special Session: 2018 Low-Power Image Recognition Challenge and Beyond**, IEEE International Conference on Artificial Intelligence Circuits and Systems 2019
-     - N/A
 
    * - Kent Gauen, Ryan Dailey, Yung-Hsiang Lu, Eunbyung Park, Wei Liu, Alexander C. Berg, Yiran Chen **Three Years of Low-Power Image Recognition Challenge: Introduction to Special Session**, Design Automation and Test in Europe 2018
      - `[PDF] <https://drive.google.com/open?id=1ZV4mC7vhHB9v9lOCJ_r946EbLbhj4Nus>`__
@@ -161,7 +161,7 @@ Special Session on Low-Power Image Recognition Challenges
      - `[PDF] <https://drive.google.com/open?id=1ciof760jS-mnUaegEPBUF8owaNgJXaAW>`__
 
    * - Matthew Ardi, Alexander C Berg, Bo Chen, Yen-Kuang Chen, Yiran Chen, Donghyun Kang, Junhyeok Lee, Seungjae Lee, Yang Lu, Yung-Hsiang Lu, Fei Sun, **Special Session: 2018 Low-Power Image Recognition Challenge and Beyond**, IEEE International Conference on Artificial Intelligence Circuits and Systems 2019 .
-     - N/A
+     - `[Web] <https://ieeexplore.ieee.org/document/8771606>`__
 
 Continuous Analysis of Many Cameras (CAM2)
 
@@ -169,16 +169,16 @@ Continuous Analysis of Many Cameras (CAM2)
    :widths: 30 10
 
    * - Xiao Hu, Haobo Wang, Anirudh Vegesana, Somesh Dube, Kaiwen Yu, Gore Kao, Shuo-Han Chen, Yung-Hsiang Lu, George Thiruvathukal, and Ming Yin, **Crowdsourcing Detection of Sampling Biases in Image Datasets**, The Web Conference 2020.
-     - N/A
+     - `[PDF] <https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1244&context=cs_facpubs>`__
 
    * - Xiao Hu, Haobo Wang, Somesh Due, Anirudh Vegesana, Kaiwen Yu, Yung-Hsiang Lu, and Ming Yin, **Discovering Biases in Image Datasets with the Crowd**, Work-in-Progress, AAAI Conference on Human Computation and Crowdsourcing (HCOMP) 2019.
-     - N/A
+     - `[PDF] <https://mingyin.org/HCOMP-19/BiasDetection_camera.pdf>`__
      
    * - Caleb Tung, Matthew R. Kelleher, Ryan J. Schlueter, Binhan Xu, Yung-Hsiang Lu, George K. Thiruvathukal, Yen-Kuang Chen, Yang Lu, **Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions**, IEEE International Conference on Multimedia Information Processing and Retrieval 2019.
-     - N/A
+     - `[PDF] <https://arxiv.org/abs/1812.11901>`__
 
    * - Chittayong Surakitbanharn, Calvin Yau, Guizhen Wang, Aniesh Chawla, Yinuo Pan, Zhaoya Sun, Sam Yellin, David Ebert, Yung-Hsiang Lu, George K. Thiruvathukal, **Cross-referencing social media and public surveillance camera data for disaster response**, IEEE Symposium on Technologies for Homeland Security 2018.
-     - N/A
+     - `[PDF] <https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1202&context=cs_facpubs>`__
 
    * - Ahmed S. Kaseb, Bo Fu, Anup Mohan, Yung-Hsiang Lu, Amy Reibman, George K. Thiruvathukal, **Analyzing Real-Time Multimedia Content From Network Cameras Using CPUs and GPUs in the Cloud**, IEEE International Conference on Multimedia Information Processing and Retrieval 2018
      - `[PDF] <https://drive.google.com/open?id=1D3fGHIXO0oesMVIs0gSmGUd_dfMmYSvB>`__
@@ -307,7 +307,7 @@ Mobile Systems
      - `[PDF] <https://drive.google.com/open?id=1-2Hgc1ibqFqkuBCCpJ4QAfd_wrzzNOwc>`__
 
    * - Yung-Hsiang Lu, David Ebert, and Edward J Delp, **Resource-Driven Content Adaptation**, Computational Imaging IV, IS&T/SPIE Symposium on Electronic Imaging 2006.
-     - N/A
+     - `[PDF] <https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/PSI60650L.pdf>`__
 
    * - Yung-Hsiang Lu and Edward J. Delp, **An Overview of Problems in Image-Based Location Awareness and Navigation**, Visual Communications and Image Processing 2004, pages 102-109
      - `[PDF] <https://drive.google.com/open?id=1H0mI3mRDPODVPlrpzLVLSU_U0cxeMqAG>`__
@@ -495,19 +495,19 @@ Engineering Education
    :widths: 30 10
 
    * - Tian Qiu, Mengshi Feng, Sitian Lu, Zhuofan Li, Yudi Wu, Carla B.  Zoltowski, and Dr. Yung-Hsiang Lu, **Online Programming System for Code Analysis and Activity Tracking**, American Society for Engineering Education Annual Conference 2017
-     - N/A
+     - `[Web] <https://peer.asee.org/online-programming-system-for-code-analysis-and-activity-tracking>`__
 
    * - Behnaam Aazhang, et al. **Vertically Integrated Projects (VIP) Programs: Multidisciplinary Projects with Homes in Any Discipline**, American Society for Engineering Education Annual Conference 2017
-     - N/A
+     - `[Web] <https://www.asee.org/public/conferences/78/papers/19405/view>`__
 
    * -  Yung-Hsiang Lu, Thomas Hacker, Carla B. Zoltowski, Jan P Allebach, **Cross-Cohort Research Experience for Project Management and Leadership Development**, American Society for Engineering Education Annual Conference 2016
-     - N/A
+     - `[Web] <https://peer.asee.org/cross-cohort-research-experience-for-project-management-and-leadership-development>`__
 
    * - Jinyi Zhang, Fengjian Pan, Mrigank S Jha, Pranav Marla, Kee Wook Lee, David B Nelson, Yung-Hsiang Lu, **A System for Analysis of Code on Cloud as An Educational Service to Students**, American Society for Engineering Education Annual Conference 2016
-     - N/A
+     - `[Web] <https://www.asee.org/public/conferences/64/papers/14906/view>`__
 
    * - Cordelia Brown, Yung-Hsiang Lu, and Samuel Midkiff, **Introducing Parallel Programming in Undergraduate Curriculum**, NSF/TCPP Workshop on Parallel and Distributed Computing Education 2013.
-     - N/A
+     - `[Web] <https://www.researchgate.net/publication/261278712_Introducing_Parallel_Programming_in_Undergraduate_Curriculum>`__
 
    * - Cordelia Brown and Yung-Hsiang Lu, **Teaming in an Engineering Programming Course**, American Society for Engineering Education Annual Conference 2011.
      - `[PDF] <https://drive.google.com/open?id=1Z7ILDX4et5omzsi2GiQx8jk4MuP08yNB>`__
