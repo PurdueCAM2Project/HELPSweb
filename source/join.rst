@@ -4,16 +4,6 @@ Join the Team
 
 The mission of this research team is to create leaders.
 -------------------------------------------------------
-
-.. note:: 
-
-   If you are interested in joining CAM2 during Summer 2020, please refer to 
-   the `New Member Onboarding </newmember>`_ page to apply.
-
-   This team no longer interviews the students that want to
-   join. Instead, the team provides materials below to help students
-   evaluate whether this team is right for them. 
-
 .. warning::
 
    Using an analogy of sports, this research team is Olympics (or

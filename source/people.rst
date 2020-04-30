@@ -1,12 +1,5 @@
 People and Topics
 -----------------
-
-.. note:: 
-
-   If you are interested in joining CAM2 during Summer 2020, please refer to
-   the `New Member Onboarding </newmember>`_ page to apply.
-
-
 |cam2logo|
 
 .. |cam2logo| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg

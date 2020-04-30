@@ -1,17 +1,17 @@
 Summer 2020 Application Process
 -------------------------------
 
+.. warning:: 
+
+   CAM2 is no longer accepting summer applicants due to the capacity of our teams. 
+   An application for next semester will be posted in the near future.
+
 Before you are onboarded, applicants are expected to provide basic information and research which team would be ideal for them. In a real job interview, you are expected to research your company. This research team is no different.
 
 Please read the following requirements carefully:
  * We DO NOT provide financial rewards for SURF students this summer. Students can only get credits from doing research at CAM2. 
  * We DO NOT take students other than Purdue University for 2020 Summer. 
  * ALL members are required to stay on campus for the majority of the summer time. 
-
-If you’re still interested, please read through the `Join CAM2 Page </join>`_ and the `CAM2 Teams Page </people>`_. After filling out the application below, we will contact you to arrange interview by the end of the April.
-
-`Link to Apply <https://docs.google.com/forms/d/e/1FAIpQLSdxoeqF0X2NLiVHCEaH4vjHI3A-e3_GjayVFHo4Mx1tSwobhw/viewform>`_ 
-
 
 New Member Onboarding
 ---------------------
