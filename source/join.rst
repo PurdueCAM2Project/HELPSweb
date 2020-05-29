@@ -40,16 +40,16 @@ The mission of this research team is to create leaders.
    :width: 48 %
 
 
-Dr. Lu (almost every professor) receives too many meaningless messages
-from careless students. In most cases, the students do not even know
-where the messages are sent to. Many messages ask to join Dr. Lu's
-research team even though Dr. Lu has never done anything on the topics
-of the senders' interest. Dr. Lu will not respond to these
-messages. Dr. Lu will respond to only questions from students that are
-already at Purdue or have already received admissions from Purdue. If
-you are not at Purdue, please contact the admission office. Dr. Lu
-will not answer questions like "Can I get an admission to Purdue?" or
-"Can you give me funding?"
+.. Dr. Lu (almost every professor) receives too many meaningless messages
+   from careless students. In most cases, the students do not even know
+   where the messages are sent to. Many messages ask to join Dr. Lu's
+   research team even though Dr. Lu has never done anything on the topics
+   of the senders' interest. Dr. Lu will not respond to these
+   messages. Dr. Lu will respond to only questions from students that are
+   already at Purdue or have already received admissions from Purdue. If
+   you are not at Purdue, please contact the admission office. Dr. Lu
+   will not answer questions like "Can I get an admission to Purdue?" or
+   "Can you give me funding?"
 
 Before you contact Dr. Lu, ask yourself these questions:
 
@@ -61,7 +61,8 @@ Before you contact Dr. Lu, ask yourself these questions:
   
 - Can I contribute to solving the research problems?
   
-Do not send email to Dr. Lu if you have no answer. Don't waste your time. 
+Do not send email to Dr. Lu if you have no answer. 
+.. Don't waste your time. 
 
 Should you do research? Research, like any other activities that
 require long-term efforts (such as marathon, chess, painting...), is
@@ -75,17 +76,16 @@ you? Why?
 
 If you want to talk to Dr. Lu, his office is MSEE 222.
 
-Still want to join?
--------------------
-
+.. Still want to join?
+.. -------------------
 
 This research team gives students (including undergraduate students)
 the true experience of research. You will be given research problems,
 not classroom homework assignments. You need to solve these research
 problems and have contributions to the research community (such as
 research papers, open-source software, data). This is a large research
-team in the number of students. You will get the opportunities
-learning from other students, making life-long friends, solving
+team in the number of students. You will get the opportunity
+to learn from other students, making life-long friends, solving
 problems that are too difficult for small teams.
 For graduate students: This team has many undergraduate students and
 you can get rare experience working with these students solving large
@@ -109,7 +109,8 @@ following requirements:
   counts as a semester). Many students stay in the team for 2 years or
   even longer. Why? They want to solve research problems. If you
   intend to stay for only semester, do not come.  One semester is too
-  short to accomplish anything meaningful. Do not waste your time.
+  short to accomplish anything meaningful. 
+.. Do not waste your time.
   
 - Every new member will receive fast-pace training. This takes the
   efforts of current members.
@@ -119,7 +120,8 @@ following requirements:
   is simple: without taking a research course, new members always
   vanish when their coursework becomes heavy.  
 
-- Teamwork is absolutely critical. If you want to work alone, do not
+- Teamwork is absolutely critical. 
+.. If you want to work alone, do not
   come.  
 
 - Every member must make a commitment to solving research
@@ -138,7 +140,7 @@ following requirements:
   interactions. If you do not want to participate in any social event,
   do not join this research team.
 
-- This is a research team. It is not an amusement park. This team
+..  This is a research team. It is not an amusement park. This team
   solves research problems and does not host tourists. Join this team
   only if you want to solve research problems. Spend at least six
   hours per week on the research project and attend weekly team
@@ -303,7 +305,7 @@ Common Mistakes by Students
 How to Get Financial Support from Dr. Lu?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Understand that Dr. Lu has no obligation giving you financial support. You have to earn it.
+- Understand that Dr. Lu has no obligation to give you financial support. You have to earn it.
   
 - Getting financial support from Dr. Lu will take you a lot of
   efforts. He will not give you money because you send an email.
@@ -385,7 +387,7 @@ have experience doing anything longer than a few weeks. Most students
 cannot comprehend the complexity of any problem that takes more than
 several weeks.
 
-Unfortunately, research is almost the opposite of everything in
+Research is almost the opposite of everything in
 classroom. The following table summarizes the main differences between
 "student thinking" and "researcher thinking":
 
@@ -492,7 +494,7 @@ Before you join this team, answer the following questions. These
 questions help you decide whether this team is right for you.  If you
 cannot answer any of these questions, you are not ready to join this
 team.  Please do not intend to memorize answers. You should
-**understanding**.
+**understand**.
 
 
 .. note::
