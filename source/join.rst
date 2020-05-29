@@ -4,15 +4,7 @@ Join the Team
 
 The mission of this research team is to create leaders.
 -------------------------------------------------------
-.. warning::
-
-   Using an analogy of sports, this research team is Olympics (or
-   World Cup). The team wants only the top performers.  If you want to
-   become an outstanding researcher, you will prosper in this team. If
-   your goal is to do as little as possible and to get credits, this
-   team is not for you.
-
-
+"This is where my skills andknowlege are put into use. You get to understand what you have learnt and why you learnt them. I feel great when I'm actually contributing." - Yezhi Shen
 
 |joinimg0| |joinimg1|
 
