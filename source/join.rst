@@ -4,7 +4,7 @@ Join the Team
 
 The mission of this research team is to create leaders.
 -------------------------------------------------------
-"This is where my skills andknowlege are put into use. You get to understand what you have learnt and why you learnt them. I feel great when I'm actually contributing." - Yezhi Shen
+"This is where my skills andknowlege are put into use. You get to understand what you have learnt and why you learnt them. I feel great when I'm actually contributing." - Yezhi Shen, CAM2 member
 
 |joinimg0| |joinimg1|
 
