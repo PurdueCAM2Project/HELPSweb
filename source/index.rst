@@ -49,8 +49,8 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    :maxdepth: 2
    :caption: Contents:
 
-   join
    people
+   join
    product
    currentmember
    professionalism

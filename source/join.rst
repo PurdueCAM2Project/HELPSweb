@@ -109,8 +109,7 @@ following requirements:
   counts as a semester). Many students stay in the team for 2 years or
   even longer. Why? They want to solve research problems. If you
   intend to stay for only semester, do not come.  One semester is too
-  short to accomplish anything meaningful. 
-.. Do not waste your time.
+  short to accomplish anything meaningful.  Do not waste your time.
   
 - Every new member will receive fast-pace training. This takes the
   efforts of current members.
@@ -120,8 +119,7 @@ following requirements:
   is simple: without taking a research course, new members always
   vanish when their coursework becomes heavy.  
 
-- Teamwork is absolutely critical. 
-.. If you want to work alone, do not
+- Teamwork is absolutely critical.  If you want to work alone, do not
   come.  
 
 - Every member must make a commitment to solving research
@@ -486,6 +484,24 @@ program I purchased. I appreciate your understanding.
      - `pptx <https://engineering.purdue.edu/HELPS/ResearchAdvice/slide/Ownership.pptx>`__
      -  `docx <https://engineering.purdue.edu/HELPS/ResearchAdvice/script/Ownership.docx>`__
 
+   * - Describe Problems
+     - `video <https://youtu.be/Shyu3Hjjt6E>`__
+     - `pptx <https://engineering.purdue.edu/HELPS/ResearchAdvice/slide/Problems.pptx>`__
+     -  `docx <https://engineering.purdue.edu/HELPS/ResearchAdvice/script/Problems.docx>`__
+
+   * - Business Model Canvas
+     - `video <https://youtu.be/abW763jeDVY>`__
+     - `pptx <https://engineering.purdue.edu/HELPS/ResearchAdvice/slide/BusinessCanvas.pptx>`__
+     -  `docx <https://engineering.purdue.edu/HELPS/ResearchAdvice/script/BusinessCanvas.docx>`__
+
+   * - Research Model Canvas
+     - `video <https://youtu.be/QcOicWbjhZ0>`__
+     - `pptx <https://engineering.purdue.edu/HELPS/ResearchAdvice/slide/ResearchCanvas.pptx>`__
+     -  `docx <https://engineering.purdue.edu/HELPS/ResearchAdvice/script/ResearchCanvas.docx>`__
+     
+
+	
+	
 
 Self Assessment
 ---------------
