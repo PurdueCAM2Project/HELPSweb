@@ -3,34 +3,87 @@ Lab Machines
 
 .. https://engineering.purdue.edu/HELPS/Management/lab.html
 
+*Last updated June 10, 2020 by Caleb Tung*
+
 General
 ~~~~~~~
+The HELPS Undergraduate Laboratory is open to all team members in EE 220C. The graduate student office is down the hall in EE 230.
+Undergraduates can also use the VIP Research Lounge in the basement, EE 013, for meetings.
 
-The Lab is EE 220C. EE 230 is an office. You can also use EE 013C for meetings.
+Machine List
+~~~~~~~~~~~~
+*This section is not yet complete.*
 
-Lab Machine Policy (Read Carefully)
+``ee220clnx1.ecn.purdue.edu`` -- *Suited for training deep learning models.*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* NVIDIA Titan Xp GPU - 12 GB graphics memory
+* Intel Xeon W-2145 CPU
+* 64 GB RAM
+* 10 TB storage
+
+ECN manages the computer for us. It runs Ubuntu 18.04 and has CUDA 10 installed. Undergraduates can do their deep learning work on this machine.
+
+``ee220cpc4.ecn.purdue.edu`` -- *Graduate student machine.*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* NVIDIA Tesla K40c GPU - 11 GB graphics memory
+* NVIDIA Titan X Pascal GPU - 12 GB graphics memory
+* Intel Xeon E5-2623 CPU
+* 32 GB RAM
+* 1 TB storage
+
+Abhinav Goel and Caleb Tung manage this computer. It runs Ubuntu 18.04 and has CUDA 10 installed.  Undergraduates that need to use this computer should message Abhinav or Caleb first.
+
+Lab Machine Usage (Read Carefully)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. warning::
 
-   These are general Guidelines for ECN managed computers.
-   Please read carefully. If you do not follow these guidelines then your access may be revoked!
+   Please read carefully. If you do not follow these guidelines, then your access may be revoked!
 
-General Policy
-^^^^^^^^^^^^^^^
+General Guidelines
+^^^^^^^^^^^^^^^^^^
 
-- Do not go to ee220c and login to the machine in person.
-- Do not turn off the machine under any circumstances.
-- Always be conscientious and courteous to others using the machine. Do not hog resources always communicate with others who are using the machine. You can check what processes are running and who is running them using the ``htop`` command.
-- If something is not clear ask! If you do not ask questions, your privileges for the machines may be revoked. Let Ryan know if there are any problems.
+- Don't try to use the machines in person; ``ssh`` in instead from your personal computer.
+- Do not turn off the machines under any circumstances, even if it's to "restart".
+- Always be conscientious and courteous to others using the machine. Don't hog resources - always communicate with others who are using the machine! You can check what processes are running and who is running them using the ``htop`` command.
+- If something is not clear, ask! Let Caleb know if there are any problems.
 
-Anaconda Environment Guidelines
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Accessing the Computers
+^^^^^^^^^^^^^^^^^^^^^^^
 
-- Do not download additional installations of Anaconda. This takes up a lot of space. Use the Anaconda installation resides in ``/local/a/cam2/anaconda3/``.
+Get access to the computers by `submitting this form <https://forms.office.com/Pages/ResponsePage.aspx?id=Ob0wQVN8nEGx5YdY1tY_Ifk2RneX-PJLjTakhteEDc5UMEJOR0tHMEQxWDBUV0VEWTlMWkdYM0Q1OS4u>`_. You'll need to sign into that form with your Purdue email and password.  This might take a day or so to approve via ECN. If it's taking too long, contact Caleb!
+
+Test your login by logging into ``ee220clnx1.ecn.purdue.edu`` with your Purdue username and password: ``ssh <username>@ee220clnx1.ecn.purdue.edu``.
+
+On Windows, the easiest way to use ``ssh`` is via Windows PowerShell. Alternatively, you could set up Windows Subsystem for Linux on your computer.
+
+.. warning::
+
+   You can only log into the lab computers if you're on the campus network! If you're not connected on campus, you'll need to either use `the Purdue VPN <https://engineering.purdue.edu/ECN/Support/KB/Docs/WebVPNforWindows>`_ or first ``ssh``-ing into ``ecegrid.ecn.purdue.edu`` or ``shay.ecn.purdue.edu`` and then using that shell to log into the lab computer.
+   
+Installing Stuff on the Computers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+Anything that requires super-user privileges (i.e. ``sudo``) will need to be installed by ECN. Message Caleb if you need this done!
+ 
+Otherwise, you can install Python goodies into your own Anaconda environment or via ``pip install --user <packagename>``.
+
+Using Anaconda
+^^^^^^^^^^^^^^
+
+- Do not download additional installations of Anaconda. This takes up a lot of space. The base Anaconda installation resides in ``/local/a/cam2/anaconda3/``.
 - Use the Anaconda installations of packages when available. Do not download or attempt to compile packages outside your home directory without permission.
-- If you are not using an Anaconda virtual environment on ``/local/a/cam2/anaconda3/`` anymore, ask Ryan to remove it!
+
+Login and add the following line to your `~/.bashrc` on the computer:
+
+``/local/a/cam2/anaconda3/bin/conda shell.bash hook > /dev/null``
+
+Logout and log back into the machine you should see (base) prepended to your shell as shown below::
+
+  ``(base) <username>@ee220clnx1:~$``
+
+You now have access to Anaconda!
 
 Data Management Guidelines
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -46,86 +99,3 @@ Additional Information for ECN managed computers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your home directory is not on the local machine. It is on shay.ecn.purdue.edu. Installing things in your home directory will quickly use up your allotted 5GB of space. Each team should set up their own shared Anaconda virtual environment with the packages they require (see below for options). Please remove any environment located on ``/local/a/anaconda3/`` when you are done using it by contacting Ryan.
-
-Available Lab Machines
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-ee220clnx1.ecn.purdue.edu Specs
-- 64 gb RAM
-- nVidia Titan
-- Intel Xeon W-2145 (3.7GHz, 4.5 GHz Turbo, 8C, 11MB Cache, HT, (140W))
-
-Accessing and Using the Machines
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Connecting to the Machine
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-- You must have an ECN account and be registered for the computer. If you do not have an ECN account you may request one here.
-- SSH into the machine
-
-  .. code-block::
-
-     ssh <your ecn username>@ee220clnx1.ecn.purdue.edu
-
-- Note you must be within the Purdue network. i.e. the IP address assigned to you must be a Purdue IP. You can use the Purdue VPN (Windows Only) or ssh into your shay account:
-
-  .. code-block::
-
-     ssh <your ecn username>@shay.ecn.purdue.edu
-
-  - For Windows you can use Putty as an SSH client. Or you can install Windows Subsystem for Linux.
-
-  - Linux and OS X have ssh client built in.
-
-Accessing Anaconda
-^^^^^^^^^^^^^^^^^^^^
-
-Anaconda is a "open-source distribution of the Python and R programming languages for scientific computing". More information can be found here. You must set up your virtual environment variables to access the Anaconda Environment. The Anaconda installation resides in ``/local/a/cam2/anaconda3/``. Follow the instructions below to setup your environment for Anaconda.
-
-- In your favorite editor (emacs, vim, nano, etc.) open ``~/.bash_profile`` and paste the following line::
-
-  . /local/a/cam2/anaconda3/etc/profile.d/conda.sh
-
-- Then logout and log back into the machine you should see (base) prepended to your shell as shown below::
-
-  (base) <username>@ee220clnx1:~$
-
-Creating Anaconda Environments
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-There are two methods to create an Anaconda Environment. To see all available environments both on your local drive and on the shared drive you can run ``conda env list``.
-
-- The first method will create an environment in your home directory on the shay.ecn.purdue.edu server. You should be careful when using this method, your home directory has a 5GB limit. This method should not be used for installing large packages or packages that will be used by several members of your team.
-
-  - Send all members the location of where your envs are stored
-
-  - For all users using your environments
-
-    - ``conda create -n <env name>`` This creates conda env in your local
-    - ``conda info --envs`` Lists the envs available
-    - ``conda activate <env name>`` Activates the env
-    - ``conda config --add <envs path>`` Creates condarc file and configures it to the shared envs
-    - ``chmod -R 755 ~/.conda/envs/<env name>`` Gives permissions to your env
-
-- The second method will create an environment that is available to everyone in the group. This can be done by filling out this form.
-
-Note: Both methods will allow you to create conda environments usable by your team members. However, you have limited space in your home directory. If you download several packages, especially frameworks such as Tensorflow and Pytorch, it is best to save space in you local and use the first method. Method 2 will also gives all team members access to all of the owner's files. The owner needs to provide permissions to access the conda environment.
-
-Setting up Linux on your Personal Machine
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-As you work on the project it may be helpful to have your own personal installation of Linux for testing and running code. If you are not running a Unix based operating system such as BSD, Linux, or OS X is will make your life much easier to learn how to use these systems. My personal recommendation is to switch to using these operating systems full time. If you cannot do that there are several options available to run virtual machines.
-
-We recommend that all students use a Debian-based Linux operating systems: Ubuntu, Ubuntu-Mate, Arch are all used in the reearch lab.
-
-Even if you do not plan to use Linux as your day-to-day OS, you should set up a **virtual machine**. 
-We recommend `Oracle Virtualbox (Recommended) <https://www.virtualbox.org/>`__, which can be installed from repository. The professional version is
-also freely available and downloadable from the VirtualBox site.
-
-Tutorials are available `for Windows <https://itsfoss.com/install-linux-in-virtualbox/>`__ and `for Mac <https://www.dev2qa.com/how-to-install-ubuntu-on-virtualbox-mac/>`__. And yes, you can virtualize Linux on a Linux host, too.
-
-If you are a Mac user, you already have most of what you need to do work in the lab as OS X is based on Darwin, which is based on BSD Unix. However, if you want to run Linux side-by-side with OS X, you can instlall `Boot Camp (Mac) <https://support.apple.com/boot-camp>`__.  There is also a `BootCamp tutorial <https://www.macworld.co.uk/how-to/mac/how-install-linux-on-mac-3637265/>`__.
-
-If you want to use OS X directly--which many Mac users prefer to do-- you should install `HomeBrew <https://brew.sh>`__. Homebrew provides a complete package management system for OS X, which gives you access to all of the latest/greatest tools (GNU, Python, Node, etc.). Prof. Thiruvathukal uses this on his Mac systems. Both Prof. Lu and Thiruvathukal use Linux and the command-line for their work. So please don't hesitate to contact us with questions. We prefer our students to spend less time on system adminsistration and more time on research.
-
