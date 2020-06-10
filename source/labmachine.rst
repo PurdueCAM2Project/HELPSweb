@@ -75,9 +75,14 @@ Using Anaconda
 - Do not download additional installations of Anaconda. This takes up a lot of space. The base Anaconda installation resides in ``/local/a/cam2/anaconda3/``.
 - Use the Anaconda installations of packages when available. Do not download or attempt to compile packages outside your home directory without permission.
 
-Login and add the following line to your `~/.bashrc` on the computer:
+Login and add the following to your `~/.bashrc` on the computer:
 
-``/local/a/cam2/anaconda3/bin/conda shell.bash hook > /dev/null``
+.. code-block::
+
+  __conda_setup="$('/local/a/cam2/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+  if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+  fi
 
 Logout and log back into the machine you should see (base) prepended to your shell as shown below::
 
