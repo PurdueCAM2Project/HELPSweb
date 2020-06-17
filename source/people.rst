@@ -8,24 +8,22 @@ People and Topics
 These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
 
 
-2020 Spring Schedule
+2020 Summer Schedule
 ~~~~~~~~~~~~~~~~~~~~
 
-All meetings are held in EE 013.
+All meetings are held online
 
-=========== ========== ==================== ==================== 
-Time        Monday     Tuesday              Wednesday            
-=========== ========== ==================== ==================== 
+=========== ================ ==================== ==================== ============
+Time        Monday           Tuesday              Wednesday            Thursday
+=========== ================ ==================== ==================== ============
 09:00-10:00            
-10:00-11:00            Software Engineering 
-11:00-12:00 
-12:30-13:30 Forest     
-13:30-14:30 Drone                           Human Behavior        
-14:30-15:30 Video Syn.                      Crowdsourcing
-15:30-16:30 Leaders
-16:30-17:30                                 Embedded CV
-17:30-18:20                                 VIP lecture (EE 129)
-=========== ========== ==================== ==================== 
+10:00-11:00 Human Behavior                        Human Behavior                           
+11:00-12:00 Forest Inventory Embedded             Forest Inventory     Embedded 
+12:00-13:00 
+13:00-14:00 Crowdsourcing                         Crowdsourcing    
+14:00-15:00 COVID-19         Drone Video          COVID-19             Drone Video                                  
+15:00-16:00 Solar Sail                            Solar Sail
+=========== ================ ==================== ==================== ============
 
 Due to the large number of team mebers, it is not possible changing
 the regular meeting time. If your schedule does not fit into a
