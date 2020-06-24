@@ -330,9 +330,9 @@ Faculty
        
        Electrical and Computer Engineering, Purdue
 
-   * - .. image:: http://www.stat.purdue.edu/images/Faculty/thumbnail/varao-t.jpg
+   * - .. image:: https://www.stat.purdue.edu/images/Faculty/thumbnail/varao-t.jpg
      - `Vinayak Rao
-       <http://www.stat.purdue.edu/people/faculty/varao>`__
+       <https://www.stat.purdue.edu/people/faculty/varao>`__
        
        Statistics, Purdue
      - .. image:: https://drive.google.com/uc?id=19_-2sKwLTcjoBvjclB8tqlIA56k5QwUq
@@ -346,9 +346,9 @@ Faculty
        <https://thiruvathukal.com>`__
        
        Computer Science, Loyola University Chicago.
-     - .. image:: http://www.stat.purdue.edu/~mdw/images/WardMFO.jpg
+     - .. image:: https://www.stat.purdue.edu/~mdw/images/WardMFO.jpg
      - `Mark Daniel Ward
-       <http://www.stat.purdue.edu/~mdw/>`__
+       <https://www.stat.purdue.edu/~mdw/>`__
        
        Statistics, Purdue
 
@@ -397,83 +397,107 @@ Drone Video
 
 Create datasets of drone video, recognize objects, estimate the sizes.
 
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
+     - `Haobo Wang`
+
+        Leader
+        Master
+
+     - .. image:: https://drive.google.com/uc?id=1u5dbejyw-62y5x6UPKEtPo3DFd4AtYCc
+     - `Anirudh Vegesana`
+
+        Co-Leader
+
+   * - .. image:: https://drive.google.com/uc?id=1BgdG9XYcrmdMtdSbePpp324jwdnwl_7p
+     - `Xiao Hu`
+
+        Master
+
+     - .. image:: https://drive.google.com/uc?id=1RoEXTToeSx6yn4KfBGmXzAUTHW7O2tPS
+     - `Nathan Gizaw`
+
+        Graduate
+
+   * - .. image:: https://drive.google.com/uc?id=13mtPxKNpSsbJYCq5z5U62GhrXdVXCUTd
+     - `Jakob Harbers`
+
+     - .. image:: https://drive.google.com/uc?id=1nIcAJM1CZ4VU0qgI4w0NpqRacCVnjlrL
+     - `Qisen Ma`
+
+   * - .. image:: https://drive.google.com/uc?id=19oIMMFOpQRUFNTuAb01PK_iLI1MQGuBq
+     - `Russell Kim`
+
+     - .. image:: https://drive.google.com/uc?id=1IfOXCEkFi3uSJK7rl9PO91wVdXSsYmTJ
+     - `Trang (Rosie) Tran`
+
+   * - .. image:: https://drive.google.com/uc?id=1lQXqYyzSJG3QxB8QE9EyDFLoIab8hgnX
+     - `Qingyang Wang`
+
+     - .. image:: https://drive.google.com/uc?id=1rk2DaPYBCpzBtOXgVMebUwmsrVddEcoh
+     - `Wei Zakharov`
+
+        Advisor
+
+
+COVID-19
+########
+
+Analyze how crowd densities change in public places over time and due to government policies.
 
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://i.ibb.co/4SB910F/20190617-180018.jpg
-     - `Avanish Subbiah`
+   * - .. image:: https://drive.google.com/uc?id=1RbbxJV5LEmUpPmfMcUU9V457Ww4wtN2t
+     - `Isha Ghodgaonkar`
 
-       Leader
+        CAM2 Leader
 
-     - .. image:: https://drive.google.com/uc?id=1BgdG9XYcrmdMtdSbePpp324jwdnwl_7p
-     - `Xiao Hu`
+     - .. image:: https://drive.google.com/uc?id=1Y7Ew3_OUSKDagQ7nOkRKOpYV1DhrPdi7
+     - `Fischer Bordwell`
 
-       Co-leader
+        CAM2 Leader
 
-   * - .. image:: https://drive.google.com/uc?id=1Yv1UB8v2LEjDsRCaCDilNzI68hoDAOXf
-     - `Katherine Sandys`
+   * - .. image:: https://drive.google.com/uc?id=1GqIgrombZqfiDhKiFHxKOu9GI4p02TlZ
+     - `Mohammed Metwaly`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_justin_qualley.png
-     - `Justin Qualley`
+     - .. image:: https://drive.google.com/uc?id=16PmmIiHYpsMgD3nQEHKX2b2Jt07YOXTx
+     - `Subhankar Chakraborty`
 
-   * - .. image:: https://drive.google.com/uc?id=1M3PTWnGPrRkv2ntr_Furr-gh1VezKSL_
-     - `Victor Oduduabasi`
+   * - .. image:: https://drive.google.com/uc?id=1qX7mOj6Cqhl7DhEap_8_VL028wbWlKmu
+     - `Shane Allcroft`
 
-     - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
-     - `Haobo Wang`
+     - .. image:: https://drive.google.com/uc?id=1Khq96EPWqdhb-3XlHDISqUSTFv8q_3TV
+     - `Minghao Xue`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Nathan Gizaw`
+   * - .. image:: https://drive.google.com/uc?id=11_CQi-ZKxdAkc75aGd7KWCHzWqOG7SYn
+     - `Kohsuke Kimura`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Karthik Maiya`
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_vishnu_banna.jpeg
+     - `Vishnu Banna`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Rushabh Ramesh Ranka`
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_akhil_channakotla.jpg
+     - `Akhil Chinnakotla`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_tuhin_sarkar.jpg
-     - `Tuhin Sarkar`
+     - .. image:: https://drive.google.com/uc?id=1MkJ737PpaPNk0K2V7H6baMLlGC0D3Jey
+     - `XinXin (Ellen) Zhao`
 
    * - .. image:: https://drive.google.com/uc?id=1YunKydNN7OS_vvBubbME4UykfjNh1CgA
      - `Abhinav Goel`
 
-     -
-     -
+        Doctoral
 
+     - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
+     - `George K. Thiruvathukal`
 
-Video Synthesis for Machine Learning
-####################################
+        Advisor
 
-Detect and encrypt faces to protect privacy using embedded computer.
+   * - .. image:: https://drive.google.com/uc?id=1rk2DaPYBCpzBtOXgVMebUwmsrVddEcoh
+     - `Wei Zakharov`
 
-
-.. list-table::
-   :widths: 10 20 10 20
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_vaastav_arora.jpg
-     - `Vaastav Arora`
-
-       Leader
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_siddharth_srinivasan.jpg
-     - `Siddharth Srinivasan`
-
-       Co-leader
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_rufat_imanov.jpeg
-     - `Rufat Imanov`
-
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
-     - `Asa Cutler`
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_xin_wang.jpeg
-     - `Xin Wang`
-
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_xin_du.jpeg
-     - `Xin Du`
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Seyram Samuel Mortoti`
+        Advisor
 
      -
      -
@@ -489,50 +513,40 @@ train machine models for another datasets with few labels.
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://drive.google.com/uc?id=1db-0VtllDb1sU5MeqnmOT9WKNMYsPy5z
-     - `Li Yon Tan`
-
-       Leader
-
-     - .. image:: https://drive.google.com/uc?id=1RbbxJV5LEmUpPmfMcUU9V457Ww4wtN2t
-     - `Isha Ghodgaonkar`
-
-       Co-leader
-
-   * - .. image:: https://drive.google.com/uc?id=1TfZn-I0Mk_lvY-cMontY8f1u9o5Zvc-y
-     - `Akshay Pawar`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
-     - `Damini Rijhwani`
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Hojoung Jang`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_aditya_chakraborty.jpeg
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_aditya_chakraborty.jpeg
      - `Aditya Chakraborty`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_shristi_saraff.jpg
-     - `Shristi Saraff`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
-     - `Meenakshi Pavithran`
+        Leader
+
+     - .. image:: https://drive.google.com/uc?id=1TfZn-I0Mk_lvY-cMontY8f1u9o5Zvc-y
+     - `Akshay Pawar`
+
+        Co-Leader
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_zach_berg.jpg
-     - `Zach Berg`
+     - `Zachery Peter Berg`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_jackson_moffet.jpg
-     - `Jackson Moffet`
+     - .. image:: https://drive.google.com/uc?id=12rvFZU_tTlGv1j80rsu-qzNliHma_ePJ
+     - `Somesh Dube`
 
-   * - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
+   * - .. image:: https://drive.google.com/uc?id=1cfTeOiESJLqN_OjClZoGAP3eQd78ZH1F
+     - `Christopher D. Trippel`
+
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_seoyoung_lee.jpg
+     - `Seoyoung Lee`
+
+   * - .. image:: https://drive.google.com/uc?id=1_r0Pc1UDKx5WCqPAKX3sUq-xRWuKXFu8
+     - `Jason Bagnara`
+
+     - .. image:: https://drive.google.com/uc?id=1rtNrB-sPUJ6gllceGkgXex4gH11xZBmu
      - `Caleb Tung`
 
-       Doctoral Student
-
-     -
-     -
+        Doctoral
    
 Crowdsourcing for Data Bias
 ###########################
 
 Use crowdsourcing to identify unintended bias in visual data and label data.
-
 
 .. list-table::
    :widths: 10 20 10 20
@@ -540,173 +554,190 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_gore_kao.jpg
      - `Gore Kao`
 
-       Leader
+        Leader
 
      - .. image:: https://drive.google.com/uc?id=1Pik3biv3epBSKMobHHiqH8FcG9679ZSu
      - `Kaiwen Yu`
-       Co-leader
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_yukyung_lee.jpg
-     - `Yukyung Lee`
-     - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
-     - `Haobo Wang`
+        Co-Leader
 
-   * - .. image:: https://drive.google.com/uc?id=1BgdG9XYcrmdMtdSbePpp324jwdnwl_7p
-     - `Xiao Hu`
-
-       CAM² Co-leader
-
-     - .. image:: https://drive.google.com/uc?id=1u5dbejyw-62y5x6UPKEtPo3DFd4AtYCc
+   * - .. image:: https://drive.google.com/uc?id=1u5dbejyw-62y5x6UPKEtPo3DFd4AtYCc
      - `Anirudh Vegesana`
 
-   * - .. image:: https://drive.google.com/uc?id=1yUr73JBTlTG0LMew8pqVXA5csNggmuOX
-     - `Ashley Kim`
      - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_esteban_gorostiaga.png
      - `Esteban Gorostiaga`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_phillip_archuleta.jpeg
-     - `Phillip Andrew Archuleta` 
-     - .. image:: https://drive.google.com/uc?id=1Y7Ew3_OUSKDagQ7nOkRKOpYV1DhrPdi7
-     - `Fischer Bordwell`
-	 
+     - `Phillip Andrew Archuleta`
+
+     - .. image:: https://drive.google.com/uc?id=1BgdG9XYcrmdMtdSbePpp324jwdnwl_7p
+     - `Xiao Hu`
+
+        Master
+
+   * - .. image:: https://drive.google.com/uc?id=1t-krvZinKrSk1YT8MRl8R6xoPUHpF8H7
+     - `Haobo Wang`
+
+        Master
+
+     - .. image:: https://drive.google.com/uc?id=1wkP5v4eNjSN7mMAv-ic4uPZMCXIrlevF
+     - `Tianhui Chen`
+
+   * - .. image:: https://drive.google.com/uc?id=1i9ugADcOvo2qYEj1_EbYGjH9cuP3YAqM
+     - `Moya Zhu`
+
+     - .. image:: https://drive.google.com/uc?id=1_ecXQKrjpla0Uh449IqZTwlRWK6um7oo
+     - `Weiyan Hu`
+
    * - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
      - `Ming Yin`
 
-       Advisor
-	   
-     - 
+        Advisor
+        
      -
+     -
+
    
 Forest Inventory
 ################
 
 Use computer vision to recognize tree species and estimate their sizes.
 
-
 .. list-table::
    :widths: 10 20 10 20
-
-   * - .. image:: https://i.ibb.co/y5GW8Hk/Selfie-2.jpg
-     - `David Jarufe`
-     
-       Leader
-
-     - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
-     - `Yezhi Shen`
-
-       CAM² Leader
 
    * - .. image:: https://drive.google.com/uc?id=1GeeVgSnl4Fwf-rlIFlG5LuSohcMMIpTi
      - `Nick Eliopoulos`
 
-       CAM² Co-leader
-     - .. image:: https://i.ibb.co/Jxfdyb8/IMG-9250.jpg
-     - `Ya Ling Tsai`
+        Leader
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_justin_hsiung.png
-     - `Yi-Fang Hsiung`
+     - .. image:: https://drive.google.com/uc?id=1TvC1Iv-ZqAmLfN7JlxWZsa0-PxDVvkLz
+     - `Justin Hsiung`
+
+        Co-Leader
+
+   * - .. image:: https://i.ibb.co/y5GW8Hk/Selfie-2.jpg
+     - `David Jarufe`
+
+     - .. image:: https://drive.google.com/uc?id=1WrLZtXkzgHDQbCC0XLX92C8a8rgS6yMd
+     - `Yezhi Shen`
+
+   * - .. image:: https://drive.google.com/uc?id=1aM0I2cO8jJvLK6Np6HlOu8xXT3gBvhav
+     - `Mimi Chon`
+
+     - .. image:: https://drive.google.com/uc?id=1o14nh0DzvRxqAn2EX6b-1DSFPnhVLcAC
+     - `Shiqi Wang`
+
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
+     - `Shreya Misra`
+
+     - .. image:: https://drive.google.com/uc?id=19_-2sKwLTcjoBvjclB8tqlIA56k5QwUq
+     - `Guofan Shao`
+
+        Advisor
+
+   * - .. image:: https://ag.purdue.edu/ProfileImages/woeste.jpg
+     - `Keith Woeste`
+
+        Advisor
 
      -
      -
+
 
 Human Behavior in Video
 #######################
 
 Understand human behavior and obtain aggregate information from video.
 
-
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://drive.google.com/uc?id=15MjIOEr5k1XvctTmnAM3yzy3JduC0MJm
-     - `Taher Dohadwala`
+   * - .. image:: https://drive.google.com/uc?id=1hqLbYByzVrojeUzDGqro2M2dqG3vITbs
+     - `Siddhartha Senthil Kumar`
 
-       Leader
+        Leader
 
      - .. image:: https://avatars3.githubusercontent.com/u/20303922?s=460&v=4
      - `Moiz Rasheed`
 
-       Co-leader
+        Co-Leader
 
-   * - .. image:: https://drive.google.com/uc?id=1wzCPewNOxMyl3QBXAuwVUN_jeLqL8hnK
-     - `Wenxi Zhang`
+   * - .. image:: https://drive.google.com/uc?id=1V9msPZ7w8RYt3Vhkwa2clMWgrp0k8Ahr
+     - `Mihir Abhyankar`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_ethan_glaser.png
-     - `Ethan Glaser`
+     - .. image:: https://drive.google.com/uc?id=19oIMMFOpQRUFNTuAb01PK_iLI1MQGuBq
+     - `Russell Kim`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_nour_hendy.jpeg
-     - `Noureldin Hendy`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_siddhartha_kumar.jpg
-     - `Siddhartha Kumar Senthil Kumar`
+   * - .. image:: https://drive.google.com/uc?id=1JVh2-U7jyp-YWbG00DWICO2JP3nZwSC6
+     - `Darrell Dai`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_mert_zamir.jpg
-     - `Mert Zamir`
+     - .. image:: https://drive.google.com/uc?id=1iJNUqW4Te-BAj5L35fmhPtDXEYeFus2k
+     - `Apoorva Gupta`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Tong Wang`
+   * - .. image:: https://drive.google.com/uc?id=1Y6FpralE7J6ctiz7MaRPbHQyxceV_ltC
+     - `Colin Witt`
 
-   * - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
-     - `David Michael Barbarash`
-	 
-       Advisor
+     - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
+     - `David Barbarsh`
 
-     - .. image:: https://drive.google.com/uc?id=1GzpDueX6W2e4sx0OGfKm51cru34jyEvp
-     - `Sara Aghajanzadeh`
-	 
-       Masters Student
+        Advisor
        
    
-Software Engineering
-#######################
+Solar Sail
+##########
 
-Create procedure for developing high-quality and reproducible software.
-
+Use computer vision and image processing techniques to analyze the pictures taken by the camera on the proposed NASA Solar Cruiser Mission spacecraft.
 
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_akhil_channakotla.jpg
-     - `Akhil Chinnakotla`
+   * - .. image:: https://drive.google.com/uc?id=1-40Gr0dYHokW-8YCb4WtvBLXXAp81ac0
+     - `Naveen Vivek`
 
-       Leader
+        Leader
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_connor_chadwick.jpg
-     - `Connor Chadwick`
+     - .. image:: https://drive.google.com/uc?id=1t7UolOcoEZB2qhnlKls1CWSKQIwwNBPK
+     - `Kayla Seeley`
 
-   * - .. image:: https://i.postimg.cc/VkM4Gjjj/ezgif-com-crop.jpg
-     - `Ryan Firestone`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_stephen_davis.jpg
-     - `Stephen Davis`
+   * - .. image:: https://drive.google.com/uc?id=1BszO_X7-KDGgBjBYPTa-X-B-3zcpKBw6
+     - `Mark Kosmerl`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_seoyoung_lee.jpg
-     - `Seoyoung Lee`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_amogh_shanbag.jpg
-     - `Amogh Shanbag`
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
+     - `Vandana Prabhu`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_ryan_chen.jpg
-     - `Ryan Chen`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Ved Dave`
+   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image187718
+     - `Anthony G Cofer`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_jack_lecroy.jpg
-     - `Jack LeCroy`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_rohit_tokala.jpg
-     - `Rohit Reddy Tokala`
+        Advisor
 
-   * - .. image:: https://drive.google.com/uc?id=1p5Ad8doE42SN57LXYTdsDtKOjmgGbPfG
-     - `Noah Curran`
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_vishnu_banna.jpeg
-     - `Vishnu Banna`
-     
-   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
-     - `George K. Thiruvathukal`
+     - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image214298
+     - `Alina Alexeenko`
 
-       Advisor
-
-     -
-     -
+        Advisor
      
    
+Autograding
+###########
+
+Create more generalized autograding scripts for grading software.
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - `Swapnil Milind Kelkar`
+
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - `Brandon Xu`
+
+   * - .. image:: https://engineering.purdue.edu/~milind/images/me.jpeg
+     - `Milind Kulkarni`
+
+        Advisor
+        
+     -
+     -
      
 Alumni
 ~~~~~~
@@ -744,7 +775,7 @@ Alumni
    * - Borui Chen
      - Sriram Rangaramanujan
      - James Tay
-   * - Kyle Mcnulty
+   * - Kyle McNulty
      - Seth Bontrager
      - Pranjit Kalita
    * - Subhav Ramachandran
@@ -801,6 +832,48 @@ Alumni
    * - Minh Nguyen
      - Dhruv Swarup
      - Ryan Dailey
+   * - Yukyung Lee
+     - Seyram Samuel Mortoti
+     - Asa Cutler
+   * - Jack LeCroy
+     - Victor Oduduabasi
+     - Taher Dohadwala
+   * - Jackson Moffet
+     - Tong Wang
+     - Katherine Sandys
+   * - Ashley Kim
+     - Meenakshi Pavithran
+     - Justin Qualley
+   * - Ryan Firestone
+     - Yi-Fang Hsiung
+     - Ryan Chen
+   * - Amogh Shanbag
+     - Siddharth Srinivasan
+     - Karthik Maiya
+   * - Li Yon Tan
+     - Sara Aghajanzadeh
+     - Ethan Glaser
+   * - Xin Wang
+     - Damini Rijhwani
+     - Rohit Reddy Tokala
+   * - Rushabh Ramesh Ranka
+     - Ya Ling Tsai
+     - Mert Zamir
+   * - Shristi Saraff
+     - Wenxi Zhang
+     - Hojoung Jang
+   * - Xin Du
+     - Avanish Subbiah
+     - Vaastav Arora
+   * - Tuhin Sarkar
+     - Noureldin Hendy
+     - Siddhartha Kumar Senthil Kumar
+   * - Noah Curran
+     - Connor Chadwick
+     - Stephen Davis
+   * - Ved Dave
+     -
+     -
 
 Video by Current and Former Members
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
