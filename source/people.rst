@@ -716,7 +716,44 @@ Use computer vision and image processing techniques to analyze the pictures take
 
         Advisor
      
-   
+
+TensorFlow
+##########
+
+Reconstruct models for the TensorFlow 2.x Model Garden
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_vishnu_banna.jpeg
+     - `Vishnu Banna`
+
+        Leader
+
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_akhil_channakotla.jpg
+     - `Akhil Chinnakotla`
+
+   * - .. image:: https://drive.google.com/uc?id=15MjIOEr5k1XvctTmnAM3yzy3JduC0MJm
+     - `Taher Dohadwala`
+        
+     - .. image:: https://drive.google.com/uc?id=1u5dbejyw-62y5x6UPKEtPo3DFd4AtYCc
+     - `Anirudh Vegesana`
+
+   * - .. image:: https://drive.google.com/uc?id=1-40Gr0dYHokW-8YCb4WtvBLXXAp81ac0
+     - `Naveen Vivek`
+        
+     - .. image:: https://drive.google.com/uc?id=1IwwbzzztxC6Drdmk8eHEzCAerk742G6i
+     - `Tristan Yan`
+
+   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
+     - `George K. Thiruvathukal`
+
+        Advisor
+
+     -
+     -
+
+
 Autograding
 ###########
 
@@ -738,7 +775,8 @@ Create more generalized autograding scripts for grading software.
         
      -
      -
-     
+
+
 Alumni
 ~~~~~~
 
@@ -837,7 +875,7 @@ Alumni
      - Asa Cutler
    * - Jack LeCroy
      - Victor Oduduabasi
-     - Taher Dohadwala
+     - Ved Dave
    * - Jackson Moffet
      - Tong Wang
      - Katherine Sandys
@@ -871,9 +909,6 @@ Alumni
    * - Noah Curran
      - Connor Chadwick
      - Stephen Davis
-   * - Ved Dave
-     -
-     -
 
 Video by Current and Former Members
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
