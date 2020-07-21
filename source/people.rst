@@ -581,7 +581,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
         Master
 
      - .. image:: https://drive.google.com/uc?id=1_wPHRuqeORLuPRjgoyYW1t7JpMzJHMfF
-     - `Tina Chen`
+     - `Tianhui Chen`
 
    * - .. image:: https://drive.google.com/uc?id=1i9ugADcOvo2qYEj1_EbYGjH9cuP3YAqM
      - `Moya Zhu`
@@ -590,7 +590,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - `Weiyan Hu`
 
    * - .. image:: https://drive.google.com/uc?id=1wkP5v4eNjSN7mMAv-ic4uPZMCXIrlevF
-     - `Tianhui Chen`
+     - `Vincent Chen`
 
      - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
      - `Ming Yin`
