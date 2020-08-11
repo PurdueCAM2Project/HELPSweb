@@ -8,22 +8,23 @@ People and Topics
 These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
 
 
-2020 Summer Schedule
+2020 Fall Schedule
 ~~~~~~~~~~~~~~~~~~~~
 
 All meetings are held online
 
-=========== ================ ==================== ==================== ============
-Time        Monday           Tuesday              Wednesday            Thursday
-=========== ================ ==================== ==================== ============
-09:00-10:00            
-10:00-11:00 Human Behavior                        Human Behavior                           
-11:00-12:00 Forest Inventory Embedded             Forest Inventory     Embedded 
-12:00-13:00 
-13:00-14:00 Crowdsourcing                         Crowdsourcing    
-14:00-15:00 COVID-19         Drone Video          COVID-19             Drone Video                                  
-15:00-16:00 Solar Sail                            Solar Sail
-=========== ================ ==================== ==================== ============
+=========== ============== ============== ============== ============
+Time        Monday         Tuesday        Wednesday      Thursday
+=========== ============== ============== ============== ============
+12:00-13:00                                              Solar Sail
+13:00-13:30
+13:30-14:30 Drone Video
+14:30-15:00
+15:00-16:00                Fair Vision
+16:00-16:30
+16:30-17:30 TensorFlow
+17:30-18:30 COVID-19
+=========== ============== ============== ============== ============
 
 Due to the large number of team mebers, it is not possible changing
 the regular meeting time. If your schedule does not fit into a
@@ -33,50 +34,16 @@ particular team, you have to move to another team.
 Topics
 ~~~~~~
 
-Low-Power Computer Vision
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Many applications of computer vision runs on battery-powered systems,
-susch as mobile phones, drones, IoT (Internet of Things), and edge
-devices.  This project investigates how to reduce the energy
-consumption of computer vision.  The project uses many methods to achieve
-better energy efficiency, such as
-
-- Restructure neural networks. Commonly adopted neural networks are
-  large complex models. Many connections among neurons, however, are
-  not necessary and can be removed. By restructuring the networks, it
-  is possible avoiding large amounts of compuation and save energy.
-
-- Reduce the input space. Many machine learning models are designed
-  for general purposes and can recognize objects of hundreds of
-  classes.  Many applications, however, have only a few classes of
-  objects. For example, it is not possible seeing an elephant in a
-  classroom. Thus, the machine models do not have to detect elephants.
-
-- Utilize hardware features. Transform the mathematical equations for
-  machine models in order to map to hardware features (such as memory
-  hierarchies) efficiently.
-
-
-This project is supported by Facebook, Google, and Xilinx.  
-
-Readings for new members:
-
-- `Low-Power Computer Vision: Status, Challenges, Opportunities <https://engineering.purdue.edu/HELPS/Publications/papers/2019JESTCS.pdf>`__
-
-- `Three Years of Low-Power Image Recognition Challenge: Introduction to Special Session <https://engineering.purdue.edu/HELPS/Publications/papers/2018DATEGauen>`__
-  
-	   
 Analysis of Drone Video
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-This project creates computer vision solutions recognizing objects
-captured by cameras mounted on drones.  In Fall 2019, the team will
-create a set of video clips for the following purposes:
+The lack of diverse and advanced training and test drone video data
+is a critical problem for the development of computer vision technology.
+To solve this issue, our team aims to introduce a high-quality
+annotated drone video database for low power computer vision tasks
+like multiple-object detection, tracking and semantic segmentation.
 
-- Construct three-dimensional geometries of objects: The video clips
-  will capture cardboard boxes of different sizes, together with a
-  wide range of objects and several with known sizes.
+In Fall 2020, the team will create a set of video clips for the following purposes:
 
 - Detect and track multiple moving objects: The clips include moving
   objects.  The drone itself is also moving. The purpose is to
@@ -84,7 +51,7 @@ create a set of video clips for the following purposes:
 
 - Segmentation: Create pixel-wise labels of different objects.
 
-- Re-identify people: Determine whether the same person has been
+- Re-identify people (optional): Determine whether the same person has been
   before.
 
 This project is supported by `NSF CNS-1925713 <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925713>`__
@@ -100,174 +67,44 @@ Readings for new members:
 - `Airborne visual tracking and reidentification system <https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117/1.JEI.28.2.023003&casa_token=Rs6JtKyTL6cAAAAA:_5C4cfQ5XkKqoeFqiyXl7r-xNdDH27PTYeq52ag1Va8udjeU3ykDF2-6B082Fdqt9JQHioCPXjE>`__
 
 
-----  
-
-Analyze Human Behavior in Video
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The purpose of this team is to use real-time video analytics to detect
-dangerous behavior or safety violation in workplace (such as
-factories), raise alerts to prevent injury, or provide post-event
-analysis to prevent future occurrences. In Fall 2019, the team will
-focus on solving these problems in an indoor
-environment with multiple cameras:
-
-- Where are the people (including re-identifying the same person in different cameras)?
-
-- Where does each person face?
-
-Readings
-
-- `Person Re-identification by Local Maximal Occurrence Representation and Metric Learning <https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liao_Person_Re-Identification_by_2015_CVPR_paper.pdf>`__
-
-- `An Improved Deep Learning Architecture for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf>`__
-
-- `MARS: A Video Benchmark for Large-Scale Person Re-Identification <https://www.researchgate.net/profile/Liang_Zheng17/publication/308277502_MARS_A_Video_Benchmark_for_Large-Scale_Person_Re-Identification/links/5a1272daa6fdccc2d79b6da3/MARS-A-Video-Benchmark-for-Large-Scale-Person-Re-Identification.pdf>`__
-
-- `Harmonious Attention Network for Person Re-Identification <http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Harmonious_Attention_Network_CVPR_2018_paper.pdf>`__
-  
-
-----  
-
-Video Synthesis for Machine Learning
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Recent progress in computer vision has focused primarily in
-general-purpose object detection using datasets with many (hundreds)
-categories of objects (such as humans, dogs, vehicles, furniture,
-buildings, etc.).  For many applications, however, the number of
-possible objects can be limited. For example, inside an airport
-terminal, elephants or eagles are not expected. This project will use
-**computer graphics** to synthesize images and videos of these
-scenarios. The synthesized data is used to train computer vision
-running on embedded systems (also called **edge devices**).  Doing so
-can reduce network traffic and make the system more
-scalable. Moreover, sensitive information (such as human faces) may be
-detected and protected before the data leaves the cameras.
-
-Readings for new members:
-
-- `Playing for Data: Ground Truth from Computer Games <https://arxiv.org/pdf/1608.02192.pdf>`__
-
-- `Sim4CV: A Photo-Realistic Simulator for Computer Vision Applications <https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1073-7.pdf>`__
-
-- `The ParallelEye Dataset: A Large Collection of Virtual Images for Traffic Vision Research <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451919>`__
-
-
-Embedded Computer Vision
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-This project investigates computer vision solutions that can perform
-the following tasks in an embedded computer (small enough to be inside
-a typical camera)
-
-- Obtain aggregate information (such as the number of people and their genders)
-
-- Detect faces
-
-- Encrypt the faces before sending the data to storage
-
-The sensitive data (faces) never leaves the camera.  Only authorized
-people with the decryption key can see the faces. The concept is
-illustrated below.
-
-|embeddedprivacy|
-
-
-
-.. |embeddedprivacy| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/embeddedprivacy.png
-   :width: 90%
-
-Readings for new members:
-
-- `An Improved Neural Network Cascade for Face Detection in Large Scene Surveillance <https://www.mdpi.com/2076-3417/8/11/2222/htm>`__
-
-- `WIDER FACE: A Face Detection Benchmark  <http://shuoyang1213.me/WIDERFACE/>`__
-
-- `Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks <https://arxiv.org/abs/1506.01497>`__
-
-- `SSD: Single Shot MultiBox Detector <https://arxiv.org/abs/1512.02325>`__
-
-- `Optimizing the Trade-off between Single-Stage and Two-Stage Object Detectors using Image Difficulty Prediction <https://arxiv.org/abs/1803.08707>`__
-
-- `PyramidBox: A Context-assisted Single Shot Face Detector <https://arxiv.org/abs/1803.07737>`__
-
-- `Real-Time Multi-Scale Face Detector on Embedded Devices <https://www.mdpi.com/1424-8220/19/9/2158/pdf>`__
-
-  
 ----
 
 
-Forest Inventory Analysis
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Forest inventory analysis is time consuming and expensive to do manually. The team is researching the use of stereo cameras and video footage to obtain individual tree information efficiently and at a low cost. Our goals this semester are as follows:
-- Generate a 3D reconstruction of a forest plot from video footage
-- Uniquely identify each tree in the 3D reconstruction with a diameter. 
-- Compute the taper of a tree using stereo video
-- Compute the crown height of a tree using stereo video
-
-The following images show the result from a distance sensor and the tree image (before and after denoising).
-
-|forest03| |forest04| |forest05|
-
-.. |forest03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/distanceimage01.png
-   :width: 59%
-
-	   
-.. |forest04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/treeimage02.png
-   :width: 18%
-
-   
-.. |forest05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/treeimage01.png
-   :width: 18%
-
-The following images are snapshots of 3D digital reconstructions of trees from video.
-
-|forest06|
-
-.. |forest06| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/martell_pointcloud_snap_annotated.png
-   :width: 100%
-
-
-Readings for new members:
-
-- `Forest Inventory and Analysis (FIA) Program of the U.S. Forest Service <https://www.fia.fs.fed.us/>`__
-
-- `Forest Data Collection Using Terrestrial Image-Based Point Clouds From a Handheld Camera Compared to Terrestrial and Personal Laser Scanning <https://ieeexplore.ieee.org/abstract/document/7109840>`__
-
-- `Estimation of Tree Stem Attributes Using Terrestrial Photogrammetry with a Camera Rig <https://www.mdpi.com/1999-4907/7/3/61>`__
-
-- `Development and Testing of a New Ground Measurement Tool to Assist in Forest GIS Surveys <https://www.mdpi.com/1999-4907/10/8/643/htm>`__
-
-----
-
-Software Engineering for Machine Learning
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-This project creates a process for developing **reproducible**
-software used in machine learning. In Fall 2019, the team's focus is
-to create tools that faciliate code review. The tools analyze the
-histories of version control repositories and automatically identify
-possible defects within a pull request. The tools will also collect
-metrics relating to the code review.
-
-Readings
-
-- `Explainable Software Bot Contributions: Case Study of Automated Bug Fixes <https://arxiv.org/pdf/1905.02597.pdf>`__
-
-- `Automated Code Review via Software Repository Mining  <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8330261>`__
-
-- `(Patent)Automated program code analysis and reporting <https://patentimages.storage.googleapis.com/2a/da/ad/e8fa817408f010/US20180275989A1.pdf>`__
-
-- `Software Engineering for Machine Learning: Code Review <https://se4ml.org/software/chapter_cr.html>`__
-
-----
-
-Crowdsourcing
+COVID-19
 ^^^^^^^^^^^^^
 
-Crowdsourcing utilizes the knowledge of humans to complete a task. In the scope of research, we are using the crowd to handle specific tasks that may be hard for a machine to do or improve the work of a machine. This may include tasks such as detecting bias within image datasets using human knowledge rather than machines, since humans are better at distinguishing features within images. This semester, we are utilizing crowdsourcing to help select the most suitable machine model to use for unsupervised domain adaptation. We use the crowd to classify images to datasets and generate a confusion matrix detailing the similarity of images across several datasets.
+COVID-19 examines social distancing over time in countries around the world.
+Currently, there is no existing method to utilize real-world visual data to
+observe social distancing at a worldwide scale. Using people and traffic
+detecting artificial intelligence (computer vision techniques), our team
+analyzes large amounts of data from public cameras around the world to make
+useful descriptive statements about how people are social distancing in response
+to the COVID-19 pandemic.
+
+We also count number of vehicles on the road over time to examine traffic
+patterns as an indirect measure of social distancing.
+
+Our next steps include analyzing cameras at Purdue to see how well students
+are maintaining social distancing, as well as if students arewearing their
+masks or not. You can find more information at https://covid19.purduehelps.org/
+
+
+----
+
+
+Fair Vision
+^^^^^^^^^^^^^
+
+We use crowdsourcing to utilizes the knowledge of humans to complete a task.
+In the scope of research, we are using the crowd to handle specific
+asks that may be hard for a machine to do or improve the work of a machine.
+This may include tasks such as detecting bias within image datasets
+using human knowledge rather than machines, since humans are better
+at distinguishing features within images. This semester, we are utilizing
+crowdsourcing to help select the most suitable machine model to use for
+unsupervised domain adaptation. We use the crowd to classify images to
+datasets and generate a confusion matrix detailing the similarity of
+images across several datasets.
 
 Reading for new members:
 
@@ -288,19 +125,65 @@ Reading for new members:
 
 
 .. |crowdsource02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceexample.png
-   :width: 45%
+  :width: 45%
 
 
 .. |crowdsource03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourcehome.png
-   :width: 45%
+  :width: 45%
 
-	   
+
 .. |crowdsource04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceteam.jpg
-   :width: 45%
+  :width: 45%
 
-	   
+
 .. |crowdsource05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceposter.jpg
-   :width: 45%
+  :width: 45%
+
+
+----
+
+Solar Sail
+^^^^^^^^^^^^^
+
+The Solar Sail Team is soon to be in collaboration with the NASA Marshall Center
+to work on the proposed Solar Cruiser Mission (Oct 2024). The team was started
+in May 2020 and official collaboration is expected to begin January 2021.
+The team is currently working on the imaging of a quadrant of the spacecraft.
+
+The main objective of the team is to design the imaging subsystem of the spacecraft,
+from both a hardware and software perspective. This comprises of the camera,
+lens, mounts, heat transfer system and software interfacing. Understanding of
+optics, space environments, and image processing will prove to be a useful
+tool when working on this team.
+
+The current progress of the team has been camera selection and a functioning
+blur-classification algorithm. Future accomplishments will include lens selection,
+prototyping, testing and component integration.
+
+Reading for new members:
+
+- `Deep Residual Learning for Image Recognition <https://arxiv.org/abs/1512.03385>`__
+- `SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization <https://arxiv.org/abs/1912.05027>`__
+
+
+----
+
+TensorFlow
+^^^^^^^^^^^^^
+
+We are a team that is working to recreate important research works using
+TensorFlow. Our goal is to make sure their results and code are reproducible,
+replicable, and accessible for usage in industry. Our current focus is
+state of the art computer vision technology, and new members will feel
+right at homeif they take the time to understand cutting edge computer
+vision research. Therefore, we suggest new and prospective members to
+use MIT's Intro to `Deep Learning course <http://introtodeeplearning.com>`__ as a refresher.
+
+Reading for new members:
+
+- `Deep Residual Learning for Image Recognition <https://arxiv.org/abs/1512.03385>`__
+- `SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization <https://arxiv.org/abs/1912.05027>`__
+
 	   
 Faculty
 ~~~~~~~
