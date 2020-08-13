@@ -94,7 +94,7 @@ Reading for new members:
 
 |covid01| |covid02|
 
-     |covid03|
+|covid03|
 
 
 .. |covid01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/covid19peopledetect.png
