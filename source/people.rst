@@ -92,6 +92,15 @@ Reading for new members:
 
 - `The Visual Social Distancing Problem <https://arxiv.org/abs/2005.04813>`__
 
+|covid01| |covid02|
+
+
+.. |covid01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/covid19peopledetect.png
+  :width: 45%
+
+.. |covid02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/covid19vehicledetect.png
+  :width: 45%
+
 ----
 
 
