@@ -104,7 +104,7 @@ Reading for new members:
   :width: 45%
 
 .. |covid03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/covid19detectionsovertime.png
-  :width: 60%
+  :width: 80%
 
 ----
 
