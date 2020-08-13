@@ -179,11 +179,14 @@ prototyping, testing and component integration.
 
 Reading for new members:
 
-- `Deep Residual Learning for Image Recognition <https://arxiv.org/abs/1512.03385>`__
-- `SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization <https://arxiv.org/abs/1912.05027>`__
+- `Status of Solar Sail Technology Within NASA <https://reader.elsevier.com/reader/sd/pii/S0273117710007982?token=384C3A9171020945A1733E3F7E1E42455105A1F18146EAAA367F2534B504F6213FE01754897F2428E0DB9EAF0B5B9C81>`__
 
+- `Image Blur Classification and Parameter Identification using Two-stage Deep Belief Networks <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.671.962&rep=rep1&type=pdf>`__
+
+- `Solar Sail Halo Orbit Control using Reflectivity Control Devices <https://www.jstage.jst.go.jp/article/tjsass/57/5/57_279/_pdf/-char/ja >`__
 
 ----
+
 
 TensorFlow
 ^^^^^^^^^^^^^
@@ -201,7 +204,9 @@ Reading for new members:
 - `Deep Residual Learning for Image Recognition <https://arxiv.org/abs/1512.03385>`__
 - `SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization <https://arxiv.org/abs/1912.05027>`__
 
-	   
+----
+	  
+ 
 Faculty
 ~~~~~~~
 
