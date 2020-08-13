@@ -79,10 +79,8 @@ observe social distancing at a worldwide scale. Using people and traffic
 detecting artificial intelligence (computer vision techniques), our team
 analyzes large amounts of data from public cameras around the world to make
 useful descriptive statements about how people are social distancing in response
-to the COVID-19 pandemic.
-
-We also count number of vehicles on the road over time to examine traffic
-patterns as an indirect measure of social distancing.
+to the COVID-19 pandemic. We also count number of vehicles on the road over 
+time to examine traffic patterns as an indirect measure of social distancing.
 
 Our next steps include analyzing cameras at Purdue to see how well students
 are maintaining social distancing, as well as if students arewearing their
