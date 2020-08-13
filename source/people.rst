@@ -94,12 +94,17 @@ Reading for new members:
 
 |covid01| |covid02|
 
+     |covid03|
+
 
 .. |covid01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/covid19peopledetect.png
   :width: 45%
 
 .. |covid02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/covid19vehicledetect.png
   :width: 45%
+
+.. |covid03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/covid19detectionsovertime.png
+  :width: 60%
 
 ----
 
