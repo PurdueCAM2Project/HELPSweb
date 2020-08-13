@@ -66,6 +66,13 @@ Readings for new members:
 
 - `Airborne visual tracking and reidentification system <https://www.spiedigitallibrary.org/journalArticle/Download?fullDOI=10.1117/1.JEI.28.2.023003&casa_token=Rs6JtKyTL6cAAAAA:_5C4cfQ5XkKqoeFqiyXl7r-xNdDH27PTYeq52ag1Va8udjeU3ykDF2-6B082Fdqt9JQHioCPXjE>`__
 
+|dronevideo01| |dronevideo02|
+
+.. |dronevideo01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/dronevideosample.png
+  :width: 45%
+
+.. |dronevideo02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/dronevideosegmentation.png
+  :width: 45%
 
 ----
 
