@@ -183,7 +183,7 @@ Reading for new members:
 
 - `Image Blur Classification and Parameter Identification using Two-stage Deep Belief Networks <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.671.962&rep=rep1&type=pdf>`__
 
-- `Solar Sail Halo Orbit Control using Reflectivity Control Devices <https://www.jstage.jst.go.jp/article/tjsass/57/5/57_279/_pdf/-char/ja >`__
+- `Solar Sail Halo Orbit Control using Reflectivity Control Devices <https://www.jstage.jst.go.jp/article/tjsass/57/5/57_279/_pdf/-char/ja>`__
 
 ----
 
@@ -206,7 +206,7 @@ Reading for new members:
 
 ----
 	  
- 
+
 Faculty
 ~~~~~~~
 
