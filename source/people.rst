@@ -86,6 +86,11 @@ Our next steps include analyzing cameras at Purdue to see how well students
 are maintaining social distancing, as well as if students arewearing their
 masks or not. You can find more information at https://covid19.purduehelps.org/
 
+Reading for new members:
+
+- `Context-Aware Crowd Counting <https://arxiv.org/abs/1811.10452>`__
+
+- `The Visual Social Distancing Problem <https://arxiv.org/abs/2005.04813>`__
 
 ----
 
