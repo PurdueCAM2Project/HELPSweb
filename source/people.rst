@@ -185,6 +185,14 @@ Reading for new members:
 
 - `Solar Sail Halo Orbit Control using Reflectivity Control Devices <https://www.jstage.jst.go.jp/article/tjsass/57/5/57_279/_pdf/-char/ja>`__
 
+|solarsail01| |solarsail02|
+
+.. |solarsail01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/solarsailmain.png
+  :width: 45%
+
+.. |solarsail02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/solarsailkeyfeature.png
+  :width: 45%
+
 ----
 
 
