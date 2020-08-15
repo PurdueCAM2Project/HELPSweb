@@ -219,6 +219,11 @@ Reading for new members:
 - `Deep Residual Learning for Image Recognition <https://arxiv.org/abs/1512.03385>`__
 - `SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization <https://arxiv.org/abs/1912.05027>`__
 
+|tensorflow01|
+
+.. |tensorflow01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/tensorflowyolo.png
+  :width: 45%
+
 ----
 	  
 
