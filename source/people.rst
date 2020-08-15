@@ -222,7 +222,7 @@ Reading for new members:
 |tensorflow01|
 
 .. |tensorflow01| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/tensorflowyolo.png
-  :width: 45%
+  :width: 70%
 
 ----
 	  
