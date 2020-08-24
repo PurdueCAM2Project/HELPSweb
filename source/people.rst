@@ -16,7 +16,7 @@ All meetings are held online
 =========== ============== ============== ============== ============
 Time        Monday         Tuesday        Wednesday      Thursday
 =========== ============== ============== ============== ============
-12:00-13:00                                              Solar Sail
+12:00-13:00
 13:00-13:30
 13:30-14:30 Drone Video
 14:30-15:00
@@ -24,6 +24,7 @@ Time        Monday         Tuesday        Wednesday      Thursday
 16:00-16:30
 16:30-17:30 TensorFlow
 17:30-18:30 COVID-19
+            / Solar Sail
 =========== ============== ============== ============== ============
 
 Due to the large number of team mebers, it is not possible changing
