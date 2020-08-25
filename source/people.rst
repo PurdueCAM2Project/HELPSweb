@@ -677,7 +677,7 @@ Reconstruct models for the TensorFlow 2.x Model Garden
 
         Advisor
 
-   * - .. image::
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Jaeyoun Kim`
 
         Advisor
