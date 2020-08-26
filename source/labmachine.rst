@@ -3,7 +3,7 @@ Lab Machines
 
 .. https://engineering.purdue.edu/HELPS/Management/lab.html
 
-*Last updated August 26, 2020 by Caleb Tung*
+*Last updated August 26, 2020 by Xiao Hu*
 
 General
 ~~~~~~~
@@ -16,26 +16,53 @@ Please watch `this video <https://youtu.be/7j7L4qU9Sc0>`_ to get acquainted with
 
 Machine List
 ~~~~~~~~~~~~
-*This section is not yet complete.*
+*The information in this section will be updated accordingly. Please check the last modified date.*
 
-``ee220clnx1.ecn.purdue.edu`` -- *Suited for training deep learning models.*
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* NVIDIA Titan Xp GPU - 12 GB graphics memory
-* Intel Xeon W-2145 CPU
-* 64 GB RAM
-* 10 TB storage
-
-ECN manages the computer for us. It runs Ubuntu 18.04 and has CUDA 10 installed. Undergraduates can do their deep learning work on this machine.
+**Machine A**
 
 ``ee220cpc4.ecn.purdue.edu`` -- *Graduate student machine.*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * NVIDIA Tesla K40c GPU - 11 GB graphics memory
 * NVIDIA Titan X Pascal GPU - 12 GB graphics memory
-* Intel Xeon E5-2623 CPU
+* Intel Xeon E5-2623 CPU v3 @ 3.00GHz
 * 32 GB RAM
-* 1 TB storage
+* 6.4 TB storage, 385 GB available. 
 
-Abhinav Goel and Caleb Tung manage this computer. It runs Ubuntu 18.04 and has CUDA 10 installed.  Undergraduates that need to use this computer should message Abhinav or Caleb first.
+Abhinav Goel and Caleb Tung manage this computer. It runs Ubuntu 18.04 and has CUDA 10 installed. Undergraduates that need to use this computer should message Abhinav or Caleb first.
+
+**Machine B**
+
+``ee220clnx1.ecn.purdue.edu`` -- *Suited for training deep learning models.*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* NVIDIA Titan Xp GPU - 12 GB graphics memory
+* Intel Xeon W-2145 CPU @ 3.70GHz
+* 64 GB RAM
+* 40 TB storage, 21 TB available. 
+
+ECN manages the computer for us. It runs Ubuntu 18.04 and has CUDA 10 installed. Undergraduates can do their deep learning work on this machine with registration. 
+
+**Machine C**
+
+``128.46.75.41`` -- *Website server for fairvision.net and Autograder.*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller
+* Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz
+* 8 GB RAM
+* 1 TB storage, 715 GB available. 
+
+Xiao Hu and Anirudh Vegesana mages this computer. If your team demands a data server, website server, or any light-weighted operation, please talk to Xiao to make a request. 
+
+**Machine D**
+
+``lpcv.ai`` -- *Website server for lpcv.ai and the evaluation system.*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* Xeon E3-1200 v3/4th Gen Core Processor Graphics Controller
+* Intel(R) Core(TM) i7-4790 CPU @ 3.60G
+* 16 GB RAM
+* 1 TB storage, 398 GB available. 
+
+Xiao Hu and Anirudh Vegesana mages this computer along with the devices around it. DO NOT unplug or modify any device around Machine D! 
+
 
 Lab Machine Usage (Read Carefully)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
