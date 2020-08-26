@@ -3,12 +3,16 @@ Lab Machines
 
 .. https://engineering.purdue.edu/HELPS/Management/lab.html
 
-*Last updated June 10, 2020 by Caleb Tung*
+*Last updated August 26, 2020 by Caleb Tung*
 
 General
 ~~~~~~~
 The HELPS Undergraduate Laboratory is open to all team members in EE 220C. The graduate student office is down the hall in EE 230.
 Undergraduates can also use the VIP Research Lounge in the basement, EE 013, for meetings.
+
+Video
+~~~~~~~
+Please watch `this video <https://youtu.be/7j7L4qU9Sc0>`_ to get acquainted with our lab computers!
 
 Machine List
 ~~~~~~~~~~~~
