@@ -444,7 +444,7 @@ Analyze how crowd densities change in public places over time and due to governm
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019KST5ALC-e932996c6a67-512
      - `Razan Alkawai`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956Z1Q3G-17f338cca6d2-512
      - `Xinglei Liu`
 
      - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
@@ -514,7 +514,7 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UJ4UP1MAA-9b3bf948980e-512
      - `Somesh Dube`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C53B91R-601c3aba3bdf-512
      - `Mohammed Afolabi Fashola`
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956Z133Q-d9d7c17f051a-512
@@ -581,30 +581,24 @@ Use computer vision and image processing techniques to analyze the pictures take
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UFB2NML3F-3630a6a457db-512
      - `Jacob Harmon`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146900S66-58d54e1e8cd1-512
-     - `Kayla Seeley`
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_female.jpg
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PR4DHN-b6f2e2f6e3e5-512
      - `Maria Soare`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YV3T8-c3384cda8019-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YV3T8-c3384cda8019-512
      - `Dante Danaei`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YMZAA-74c335f9580f-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YMZAA-74c335f9580f-512
      - `Alexander Leven`
 
-     - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image187718
+   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image187718
      - `Anthony G Cofer`
 
         Advisor
 
-   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image214298
+     - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image214298
      - `Alina Alexeenko`
 
         Advisor
-
-     -
-     -
      
 
 TensorFlow
@@ -643,7 +637,7 @@ Reconstruct models for the TensorFlow 2.x Model Garden
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-US24F24BB-a94e4b357cc8-512
      - `Ryan Chen`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRA2F2-ea577c6acc44-512
      - `Allen Liu`
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019J4HFCP6-4a8ce3b6b874-512
@@ -667,23 +661,23 @@ Reconstruct models for the TensorFlow 2.x Model Garden
      - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Rthvik Raviprakash`
 
-   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146900S66-58d54e1e8cd1-512
+     - `Kayla Seeley`
+
+     - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
      - `George K. Thiruvathukal`
 
         Advisor
 
-     - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image242327/alter?width=180&height=270
+   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image242327/alter?width=180&height=270
      - `James Davis`
 
         Advisor
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
      - `Jaeyoun Kim`
 
         Advisor
-
-     -
-     -
 
 
 Alumni
