@@ -283,11 +283,21 @@ Faculty
        <https://ag.purdue.edu/fnr/Pages/profile.aspx?strAlias=woeste>`__
        
        Forestry and Natural Resources, Purdue
-     - .. image:: https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg
-     - `Ming Yin
-       <https://www.cs.purdue.edu/people/mingyin>`__
-       
-       Computer Science, Purdue
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019R1W4JRK-9f533b633338-512
+     - `Santiago Torres-Arias
+       <https://badhomb.re>`__
+
+       Electrical and Computer Engineering, Purdue
+
+   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image242327/alter?width=180&height=270
+     - `James Davis
+       <https://davisjam.github.io>`__
+
+       Electrical and Computer Engineering, Purdue
+
+     -
+     -
+
 
 
 Members
@@ -447,7 +457,7 @@ Analyze how crowd densities change in public places over time and due to governm
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956Z1Q3G-17f338cca6d2-512
      - `Xinglei Liu`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013T9MV94M-155a17653069-512
      - `Mihir Abhyankar`
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCD5G5V9U-02f69f6dff32-512
@@ -540,6 +550,14 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - `George K. Thiruvathukal`
 
         Advisor
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019R1W4JRK-9f533b633338-512
+     - `Santiago Torres-Arias`
+
+        Advisor
+
+     -
+     -
 
 
 Solar Sail
@@ -649,7 +667,7 @@ Reconstruct models for the TensorFlow 2.x Model Garden
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YPQ6S-b93c0a5803d7-512
      - `Kruthi Krishnappa`
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PR1P9N-917c9a9a443e-512
      - `Thrishna Bhandari`
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-USEH5LK2S-87c49595361d-512
@@ -658,7 +676,7 @@ Reconstruct models for the TensorFlow 2.x Model Garden
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-USWRHNBN0-fe512d0636ea-512
      - `Ved Dave`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRAR6U-1a87a05e9464-512
      - `Rthvik Raviprakash`
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146900S66-58d54e1e8cd1-512
@@ -674,10 +692,8 @@ Reconstruct models for the TensorFlow 2.x Model Garden
 
         Advisor
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
-     - `Jaeyoun Kim`
-
-        Advisor
+     -
+     -
 
 
 Alumni
