@@ -364,23 +364,18 @@ Create datasets of drone video, recognize objects, estimate the sizes.
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_seoyoung_lee.jpg
      - `Seoyoung Lee`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019BUF442W-e44a6d8ff8d6-512
-     - `Ziyue He`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRB3AL-7a046e1fbcef-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRB3AL-7a046e1fbcef-512
      - `Indraadityan Logamurugan`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C530LEP-84e277558738-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C530LEP-84e277558738-512
      - `Ayden Kocher`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U018X6LL0DD-150255e1e8a6-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U018X6LL0DD-150255e1e8a6-512
      - `Kyler Harrison`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019QHF87PB-5818a3130c9f-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019QHF87PB-5818a3130c9f-512
      - `Hongjiao Qiang`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-USCB3AJTS-1a3919e466a2-512
-     - `Jiahao(Jacob) Xu`
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
      - `Haobo Wang`
@@ -521,8 +516,8 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U012AJR0Q94-6591de67c426-512
      - `Weiyan Hu`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UJ4UP1MAA-9b3bf948980e-512
-     - `Somesh Dube`
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UMNJ9NAKF-17298397961d-512
+     - `Jackson Moffet`
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C53B91R-601c3aba3bdf-512
      - `Mohammed Afolabi Fashola`
@@ -533,31 +528,25 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-US0SR2T51-68d944f07a8f-512
      - `Chibuzo	Ufomba`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UMNJ9NAKF-17298397961d-512
-     - `Jackson Moffet`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
      - `Xiao Hu`
 
         Master
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
      - `Haobo Wang`
 
         Master
 
-     - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
+   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
      - `George K. Thiruvathukal`
 
         Advisor
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019R1W4JRK-9f533b633338-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019R1W4JRK-9f533b633338-512
      - `Santiago Torres-Arias`
 
         Advisor
-
-     -
-     -
 
 
 Solar Sail
