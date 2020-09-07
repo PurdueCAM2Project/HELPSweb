@@ -455,25 +455,31 @@ Analyze how crowd densities change in public places over time and due to governm
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013T9MV94M-155a17653069-512
      - `Mihir Abhyankar`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCD5G5V9U-02f69f6dff32-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-USCB3AJTS-1a3919e466a2-512
+     - `Jiahao(Jacob) Xu`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCD5G5V9U-02f69f6dff32-512
      - `Abhinav Goel`
 
         Doctoral
 
-     - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
+   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
      - `George K. Thiruvathukal`
 
         Advisor
 
-   * - .. image:: https://libapps.s3.amazonaws.com/accounts/103752/profiles/94752/Zakharov__Wei_2016.jpg
+     - .. image:: https://libapps.s3.amazonaws.com/accounts/103752/profiles/94752/Zakharov__Wei_2016.jpg
      - `Wei Zakharov`
 
         Advisor
 
-     - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
+   * - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
      - `David Barbarsh`
 
         Advisor
+
+     -
+     -
 
 
 Fair Vision
