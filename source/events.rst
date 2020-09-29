@@ -17,13 +17,13 @@ Panelists:
    :widths: 10 30
 
    * - .. image:: https://media-exp1.licdn.com/dms/image/C5603AQFnyLcMQH7Jdg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=v8BLh80-s9WM60BJxZEoDGYqbk4UkcWMI5xFU9mlV6g
-     - Erik Rozolis: Solution Architect at ABC Supply, 2015 Purdue and CAM2 Alumni.
+     - Erik Rozolis: Solution Architect at ABC Supply, 2015 Purdue Alumni.
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U5EJAUU86-e1e2d679f5b0-512
-     - Sara Aghajanzadeh: Doctoral Student at UIUC, 2020 Purdue and CAM2 Alumni.
+     - Sara Aghajanzadeh: Doctoral Student at UIUC, 2020 Purdue Alumni.
 
    * - .. image:: https://media-exp1.licdn.com/dms/image/C4E03AQEZn9Z7RAWBww/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=bf8Qpd7LUMaOE13mrd6eA_jHLjbtRYt0i7DFMbyA2uM
-     - Ling Zhang: Master Student at CMU, 2019 Purdue and CAM2 Alumni.
+     - Ling Zhang: Master Student at CMU, 2019 Purdue Alumni.
 
 
 ----
