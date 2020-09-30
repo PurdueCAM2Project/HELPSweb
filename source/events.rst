@@ -25,6 +25,9 @@ Panelists:
    * - .. image:: https://media-exp1.licdn.com/dms/image/C4E03AQEZn9Z7RAWBww/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=bf8Qpd7LUMaOE13mrd6eA_jHLjbtRYt0i7DFMbyA2uM
      - Ling Zhang: Master Student at CMU, 2019 Purdue Alumni.
 
+   * - .. image:: https://media-exp1.licdn.com/dms/image/C5603AQGm8CuNNfRQ_A/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=n3LF91XuyCe3YkecX9OCNJy8PhtFOF9-5dwQn9mlask
+     - Roopasree Naidu: Analyst at Goldman Sachs, 2019 Purdue Alumni.
+
 
 ----
 
