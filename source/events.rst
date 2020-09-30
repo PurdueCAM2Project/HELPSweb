@@ -41,6 +41,15 @@ Moderators:
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_gore_kao.jpg
      - Gore Kao: Purdue CS & ECE Undergraduate (Senior)
 
+Organizers:
+^^^^^^^^^^^^
+
+.. list-table::
+   :widths: 10 30
+
+   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image109726
+     - Yung-Hsiang Lu: Professor, Electrical and Computer Engineering, Purdue
+
 
 ----
 
@@ -75,3 +84,15 @@ Moderators:
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013AAWBRTR-a5ed494d3c6d-512
      - Mohammed Metwaly: Purdue ECE Undergraduate (Senior)
+
+   * - .. image:: https://media-exp1.licdn.com/dms/image/C4E03AQEFJqG_FgHEfg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=8JcVh40vl8F6ult5iiacwdGm0FN3G9FQpSvjenxrqe4
+     -Yueting(Mary) Zhao: Purdue ECE Undergraduate (sophomore)
+
+Organizers:
+^^^^^^^^^^^^
+
+.. list-table::
+   :widths: 10 30
+
+   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image109726
+     - Yung-Hsiang Lu: Professor, Electrical and Computer Engineering, Purdue
