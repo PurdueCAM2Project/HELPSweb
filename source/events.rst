@@ -16,6 +16,9 @@ Panelists:
 .. list-table::
    :widths: 10 30
 
+   * - .. image:: data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+     - Jason Horihan: Architect at Intel Corp, 2005 Purdue Alumni.
+
    * - .. image:: https://media-exp1.licdn.com/dms/image/C5603AQFnyLcMQH7Jdg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=v8BLh80-s9WM60BJxZEoDGYqbk4UkcWMI5xFU9mlV6g
      - Erik Rozolis: Solution Architect at ABC Supply, 2015 Purdue Alumni.
 
@@ -27,6 +30,19 @@ Panelists:
 
    * - .. image:: https://media-exp1.licdn.com/dms/image/C5603AQGm8CuNNfRQ_A/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=n3LF91XuyCe3YkecX9OCNJy8PhtFOF9-5dwQn9mlask
      - Roopasree Naidu: Analyst at Goldman Sachs, 2019 Purdue Alumni.
+
+Moderators:
+^^^^^^^^^^^^
+
+.. list-table::
+   :widths: 10 30
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UFA7C9PND-474757f75640-512
+     - Kaiwen Yu: Purdue ECE Undergraduate (Senior)
+
+
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_gore_kao.jpg
+     - Gore Kao: Purdue CS & ECE Undergraduate (Senior)
 
 
 ----
@@ -53,3 +69,12 @@ Panelists:
 
    * - .. image:: https://media-exp1.licdn.com/dms/image/C4D03AQFJmL9wjbrECw/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=-aho06yxbcURWxZbLsSzv4na1N_Qf3KJBa3z-lsMEpo
      - Minghao Guo: Software Engineer at Amazon, 2018 Purdue Alumni.
+
+Moderators:
+^^^^^^^^^^^
+
+.. list-table::
+   :widths: 10 30
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013AAWBRTR-a5ed494d3c6d-512
+     - Mohammed Metwaly: Purdue ECE Undergraduate (Senior)
