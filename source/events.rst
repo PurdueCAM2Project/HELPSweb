@@ -86,7 +86,7 @@ Moderators:
      - Mohammed Metwaly: Purdue ECE Undergraduate (Senior)
 
    * - .. image:: https://media-exp1.licdn.com/dms/image/C4E03AQEFJqG_FgHEfg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=8JcVh40vl8F6ult5iiacwdGm0FN3G9FQpSvjenxrqe4
-     -Yueting(Mary) Zhao: Purdue ECE Undergraduate (sophomore)
+     - Yueting(Mary) Zhao: Purdue ECE Undergraduate (sophomore)
 
 Organizers:
 ^^^^^^^^^^^^
