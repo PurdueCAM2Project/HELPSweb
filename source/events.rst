@@ -73,6 +73,9 @@ Panelists:
    * - .. image:: https://media-exp1.licdn.com/dms/image/C4E03AQFVFJgzWLCodg/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=4mndWG49FqJinvEUiP3ac9w5zKXsnEJ_NKt3AgG-VjM
      - Neeve Nikoo: Experienced Sales Engineer at Google Cloud, 2015 Purdue Alumni.
 
+   * - .. image:: https://media-exp1.licdn.com/dms/image/C5603AQEnzo2HZIsqlw/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=Pw6XGDNNfCbRO2mDN6M2qF61trpqZkYFrQg_vfvX8o8
+     - Sriram Rangaramanujan: Senior Firmware Engineer at Tesla Motors, 2013 Purdue Alumni.
+
    * - .. image:: https://media-exp1.licdn.com/dms/image/C4D03AQFJmL9wjbrECw/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=-aho06yxbcURWxZbLsSzv4na1N_Qf3KJBa3z-lsMEpo
      - Minghao Guo: Software Engineer at Amazon, 2018 Purdue Alumni.
 
