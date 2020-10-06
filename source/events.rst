@@ -56,7 +56,7 @@ Organizers:
 Panel 2
 ~~~~~~~
 * Time: October 11th 2:00-3:00pm EST
-* Location: Online
+* Location: Online (`this link <https://purdue-edu.zoom.us/j/95082981717>`_)
 
 Panelists:
 ^^^^^^^^^^
