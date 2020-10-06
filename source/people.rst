@@ -283,21 +283,12 @@ Faculty
        <https://ag.purdue.edu/fnr/Pages/profile.aspx?strAlias=woeste>`__
        
        Forestry and Natural Resources, Purdue
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019R1W4JRK-9f533b633338-512
-     - `Santiago Torres-Arias
-       <https://badhomb.re>`__
 
-       Electrical and Computer Engineering, Purdue
-
-   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image242327/alter?width=180&height=270
+     - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image242327/alter?width=180&height=270
      - `James Davis
        <https://davisjam.github.io>`__
 
        Electrical and Computer Engineering, Purdue
-
-     -
-     -
-
 
 
 Members
@@ -339,13 +330,13 @@ Create datasets of drone video, recognize objects, estimate the sizes.
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013AAWB46B-392fde5bc86e-512
-     - `Qingyang Wang`
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UMG8L5Y48-ce573a3f2575-512
+     - `Katherine Sandys`
 
         Leader
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013JB7SAK0-3462787306ad-512
-     - `Russell Kim`
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UM4QYMK1R-ab6c02aa8446-512
+     - `Justin Qualley`
 
         Co-Leader
 
@@ -355,11 +346,11 @@ Create datasets of drone video, recognize objects, estimate the sizes.
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013R3DQT18-b31cb3795928-512
      - `Trang (Rosie) Tran`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UMG8L5Y48-ce573a3f2575-512
-     - `Katherine Sandys`
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013AAWB46B-392fde5bc86e-512
+     - `Qingyang Wang`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UM4QYMK1R-ab6c02aa8446-512
-     - `Justin Qualley`
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013JB7SAK0-3462787306ad-512
+     - `Russell Kim`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_seoyoung_lee.jpg
      - `Seoyoung Lee`
@@ -528,31 +519,24 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C53B91R-601c3aba3bdf-512
      - `Mohammed Afolabi Fashola`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956Z133Q-d9d7c17f051a-512
-     - `Andrew Smith`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-US0SR2T51-68d944f07a8f-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-US0SR2T51-68d944f07a8f-512
      - `Chibuzo	Ufomba`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
      - `Xiao Hu`
 
         Master
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
      - `Haobo Wang`
 
         Master
 
-   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
+     - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
      - `George K. Thiruvathukal`
 
         Advisor
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019R1W4JRK-9f533b633338-512
-     - `Santiago Torres-Arias`
-
-        Advisor
 
 
 Solar Sail
