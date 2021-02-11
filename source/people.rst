@@ -20,7 +20,7 @@ Time    Monday         Tuesday        Wednesday      Thursday     Friday
 13:30    Drone Video
 14:00
 14:30    COVID-19
-15:00                   Fair Vision
+15:00                   Auto Drone
 15:30                                                              Program Analysis
 16:00    TensorFlow     Solar Sail
 16:30 
