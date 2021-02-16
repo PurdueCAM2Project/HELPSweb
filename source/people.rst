@@ -226,10 +226,12 @@ Reading for new members:
 
 
 Program Analysis
-^^^^^^^^^^^^^	  
+^^^^^^^^^^^^^^^^^^^	  
 
-We are a team that is working on creating a grading system to grade the assigment,
+We are a team that is working on creating a grading system to grade the
+assigment,
 while also provide some useful function to analyze program.
+
 ----
 
 
