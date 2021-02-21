@@ -2,8 +2,7 @@ Spring 2021 Application Process
 -------------------------------
 .. attention::
 
-    CAM2 is open to applicants through VIP courses and emails. For now, we still have positions for Drone Video and Fair Vision.
-    If you'd like to join CAM2 but not with VIP, please email one of CAM2 leaders - Kaiwen Yu(yu872@purdue.edu) and Gore Kao(gkao@purdue.edu) and remember to cc the other one.
+    CAM2 is currently CLOSED to any new applicants for 2021 Spring semester. Thank you for your interest and we will be open for new members in the summer and 2021 Fall semester in the future.
 
 Before you are onboarded, applicants are expected to provide basic information and research which team would be ideal for them. In a real job interview, you are expected to research your company. This research team is no different.
 
