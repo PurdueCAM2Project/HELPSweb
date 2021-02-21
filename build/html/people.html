@@ -91,11 +91,11 @@
 <li class="toctree-l2"><a class="reference internal" href="#spring-schedule">2021 Spring Schedule</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#topics">Topics</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#analysis-of-drone-video">Analysis of Drone Video</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#autonomous-drones">Autonomous Drones</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#covid-19-not-recruiting">COVID-19 (Not recruiting)</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#fair-vision">Fair Vision</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#solar-sail">Solar Sail</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#tensorflow">TensorFlow</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#program-analysis">Program Analysis</a></li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="#faculty">Faculty</a></li>
@@ -285,6 +285,39 @@ before.</p></li>
 <p><a class="reference internal" href="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/dronevideosample.png"><img alt="dronevideo01" src="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/dronevideosample.png" style="width: 45%;" /></a> <a class="reference internal" href="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/dronevideosegmentation.png"><img alt="dronevideo02" src="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/dronevideosegmentation.png" style="width: 45%;" /></a></p>
 </div>
 <hr class="docutils" />
+<div class="section" id="autonomous-drones">
+<h3>Autonomous Drones<a class="headerlink" href="#autonomous-drones" title="Permalink to this headline">¶</a></h3>
+<p>Although there are more and more simulators coming out there, which can help researchers
+test functionalities of their drones in a virtual environment, experiments in the real
+environment are still needed since some of the conditions that drones may encounter with
+cannot be simulated, at least for now. Our team is working to create a competition where
+drones are designed to perform autonomous flying, tracking targets, identifying information,
+and reidentification after losing target.</p>
+<p>Specifically, the competition will be on a field where there are miniature cities built with
+cardboard boxes and Legos. There are multiple programmable mobile robots moving in a pre-designed
+pattern in the mini-city. There will be QR codes displayed by screens on stationary “buildings”
+and on one of the mobile robots. QR codes will change for every certain amount of time. Only the
+robot with QR code shown is the target that the drone is supposed to track, and the other robots
+are distractors. The drone need to fly autonomously, tracking the robot with QR codes, and identify
+as many QR codes as possible in given time. After the target robot goes through a “tunnel”, gets
+obstructed by “buildings”, or get together with other distractor robots, the drone needs to perform
+reidentification to continue tracking.</p>
+<p>For this semester, our team is doing preparation work for the competition including improving
+details of the rules, designing referee system, doing prototype experiments with hardware (eg. robots, screens)
+involved in the competition.</p>
+<p>Related readings:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://ieeexplore-ieee-org.ezproxy.lib.purdue.edu/stamp/stamp.jsp?tp=&amp;arnumber=7429411">Any Object Tracking and Following by a Flying Drone</a></p></li>
+<li><p><a class="reference external" href="https://dl-acm-org.ezproxy.lib.purdue.edu/doi/pdf/10.1145/3055635.3056657">Autonomous Tracking of Hexacopter on Moving Mobile Robot Using Gazebo ROS Simulation</a></p></li>
+<li><p><a class="reference external" href="https://docs.px4.io/master/en/concept/architecture.html">PX4 Architectural Overview | PX4 User Guide</a></p></li>
+<li><p><a class="reference external" href="https://docs.px4.io">docs.px4.io</a></p></li>
+</ul>
+<p>PX4 is the Professional Autopilot. Developed by world-class developers from industry and academia,
+and supported by an active world wide community,it powers all kinds of vehicles from racing and
+cargo drones through to ground vehicles and submersibles.</p>
+<p><a class="reference internal" href="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/AutonomousDrones1.png"><img alt="AutoDrone1" src="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/AutonomousDrones1.png" style="width: 45%;" /></a></p>
+</div>
+<hr class="docutils" />
 <div class="section" id="covid-19-not-recruiting">
 <h3>COVID-19 (Not recruiting)<a class="headerlink" href="#covid-19-not-recruiting" title="Permalink to this headline">¶</a></h3>
 <p>COVID-19 examines social distancing over time in countries around the world.
@@ -369,13 +402,6 @@ use MIT’s Intro to <a class="reference external" href="http://introtodeeplearn
 <li><p><a class="reference external" href="https://arxiv.org/abs/1912.05027">SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization</a></p></li>
 </ul>
 <p><a class="reference internal" href="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/tensorflowyolov3.png"><img alt="tensorflow01" src="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/tensorflowyolov3.png" style="width: 70%;" /></a></p>
-</div>
-<hr class="docutils" />
-<div class="section" id="program-analysis">
-<h3>Program Analysis<a class="headerlink" href="#program-analysis" title="Permalink to this headline">¶</a></h3>
-<p>We are a team that is working on creating a grading system to grade the
-assigment,
-while also provide some useful function to analyze program.</p>
 </div>
 </div>
 <hr class="docutils" />
