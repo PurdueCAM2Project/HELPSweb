@@ -416,7 +416,7 @@ Create datasets of drone video, recognize objects, estimate the sizes.
 Program Analysis
 ################
 
-Placeholder Description
+Create a grading system, perform program analysis, and provide a recommendation for future learning.
 
 .. list-table::
    :widths: 10 20 10 20
@@ -424,7 +424,7 @@ Placeholder Description
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01J807GM1V-11caa664a5b6-512
      - `Shan Huang`
 
-        Leader
+        Co-Leader
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JG04C7DL-1a21863d0333-512
      - `Jonathan Doorn`
@@ -460,7 +460,7 @@ Placeholder Description
 Autonomous Drone
 ################
 
-Placeholder Description
+Drone tracking changing QR codes on the ground.
 
 .. list-table::
    :widths: 10 20 10 20
@@ -550,28 +550,23 @@ Use computer vision and image processing techniques to analyze the pictures take
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01LUHNR91V-d8481a8330a2-512
      - `William Joseph Oberley`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PR4DHN-b6f2e2f6e3e5-512
-     - `Maria Soare`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01M68G3813-6b87d692690a-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01M68G3813-6b87d692690a-512
      - `Hamzah Kamel Ayman`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01MN036BA5-95146071e1e2-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01MN036BA5-95146071e1e2-512
      - `Pume Tuchinda`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01KP571NTB-4d0871831d94-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01KP571NTB-4d0871831d94-512
      - `Greivin Mauricio Martinez`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01L0BEHNN4-7e5579ae3054-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01L0BEHNN4-7e5579ae3054-512
      - `Grace Marie Yeh`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146F0GEQ3-945adcebb0ba-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146F0GEQ3-945adcebb0ba-512
      - `Naveen Vivek`
 
         CAM2 Leader
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01KLJYMULQ-gb53d13fc6d1-512
-     - `Katherine L Fowee`
 
    * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image187718
      - `Anthony G Cofer`
@@ -717,31 +712,6 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - `George K. Thiruvathukal`
 
         Advisor
-
-
-Solar Sail (Camera Project)
-###########################
-
-.. list-table::
-   :widths: 10 20 10 20
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015SC4P6J0-6470d09a4f65-512
-     - `Connor David Proudman`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015L8QM2CT-fb7768acdfd5-512
-     - `Shashwat Punjani`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U014W4727JL-4b797562f800-512
-     - `Mark Kosmerl`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015UA3ASF5-c8435de59c71-512
-     - `Jinit Gandhi`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015C1KGJF9-f86c7860476b-512
-     - `Riley Harwood`
-
-     -
-     -
 
 Alumni
 ~~~~~~
@@ -919,6 +889,12 @@ Alumni
      - Gore Kao
    * - Kaiwen Yu
      - Shreya Ghosh
+     - Connor David Proudman
+   * - Shashwat Punjani
+     - Mark Kosmerl
+     - Jinit Gandhi
+   * - Riley Harwood
+     - Maria Soare
      -
 
 
