@@ -349,9 +349,6 @@ Graduate Students
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U4TRCF5J9-d2a18a0710be-512
      - Caleb Tung: Doctoral Student, Using Contextual Information from Network Cameras to Improve and Evaluate Computer Vision Solutions
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/shreya_ghosh.jpg
-     - Shreya Ghosh: Master Student, Data-Driven Civil Infrastructure Decision Making for Improved Citizen Safety, Accessibility, and Economic Opportunity
-
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
      - Xiao Hu: Master Student
 
@@ -370,48 +367,33 @@ Create datasets of drone video, recognize objects, estimate the sizes.
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UMG8L5Y48-ce573a3f2575-512
-     - `Katherine Sandys`
-
-        Leader
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UM4QYMK1R-ab6c02aa8446-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UM4QYMK1R-ab6c02aa8446-512
      - `Justin Qualley`
 
-        Co-Leader
+       Leader
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013JB7QXCN-9e0b55dba65c-512
-     - `Jakob Harbers`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013R3DQT18-b31cb3795928-512
-     - `Trang (Rosie) Tran`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013AAWB46B-392fde5bc86e-512
-     - `Qingyang Wang`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013JB7SAK0-3462787306ad-512
-     - `Russell Kim`
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_seoyoung_lee.jpg
-     - `Seoyoung Lee`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRB3AL-7a046e1fbcef-512
-     - `Indraadityan Logamurugan`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C530LEP-84e277558738-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C530LEP-84e277558738-512
      - `Ayden Kocher`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U018X6LL0DD-150255e1e8a6-512
-     - `Kyler Harrison`
+       Co-Leader
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019QHF87PB-5818a3130c9f-512
-     - `Hongjiao Qiang`
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRB3AL-7a046e1fbcef-512
+     - `Indraadityan Logamurugan`
 
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JJ4UJS6Q-180225892e5d-512
+     - `Matthew Wen`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
-     - `Haobo Wang`
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01HE082H34-1ab906ff5d81-512
+     - `Anand Chari`
 
-        Master
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01HSJSEFA5-b8232fab637f-512
+     - `Yasin Kubilay Sahin`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JC623C83-e8218d4332bf-512
+     - `Gary Zancanelli`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01H784TRC6-e30798075603-512
+     - `Ziteng Jiao`
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
      - `Xiao Hu`
@@ -431,6 +413,79 @@ Create datasets of drone video, recognize objects, estimate the sizes.
      -
      -
 
+Program Analysis
+################
+
+Placeholder Description
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01J807GM1V-11caa664a5b6-512
+     - `Shan Huang`
+
+        Leader
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JG04C7DL-1a21863d0333-512
+     - `Jonathan Doorn`
+
+        Co-Leader
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JKLE5SCD-29088d17c7c4-512
+     - `Yu Liang`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JNNYU9MY-f563fafb9fdb-512
+     - `Brandon Wolter`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JNV0QFEF-8588bc42e1c5-512
+     - `Jake Kisabeth`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01KCJB9C4Q-20b09220615a-512
+     - `Xinyuan Cai`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JS37G3U3-609304665e10-512
+     - `Yinhan Chen`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01GZ6WTLNT-78ef311ce5ac-512
+     - `Daniel Chun`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JUN55Q9K-fdd6ac829f14-512
+     - `Zhaoyu Jin`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JVEE1P54-891c74aa1d68-512
+     - `Aravind Kumar Machiry`
+
+        Advisor
+
+Autonomous Drone
+################
+
+Placeholder Description
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019QHF87PB-5818a3130c9f-512
+     - `Hongjiao (Oliver) Qiang`
+
+        Leader
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01HL51N3SQ-34361b9eeb9a-512
+     - `Justin Chan`
+
+        Co-Leader
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JC008RQS-9aee006575e0-512
+     - `Riya Mehta`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01J8SV746R-0bbc30244390-512
+     - `Advait Mallela`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019KST5ALC-f9c8b48afba1-512
+     - `Razan Alkawai`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01LXA6F6BW-37ea71ee3893-512
+     - `Alex Ishac`
 
 COVID-19
 ########
@@ -448,72 +503,173 @@ Analyze how crowd densities change in public places over time and due to governm
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013R9FA8N7-0e0cc785a59d-512
      - `Shane Allcroft`
 
-        Co-Leader
+        CAM2 Co-Leader
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UFARG05PC-889bd7148939-512
-     - `Isha Ghodgaonkar`
-
-     - .. image:: https://camo.githubusercontent.com/3137cdae2cc22cee50f67cfc0e9f30964f1593f6/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3159374577335f4f55534b44616751376e4f6b524b4f7059563144687250646937
-     - `Fischer Bordwell`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0143MQMSBB-0ffb7862d0db-512
-     - `Kohsuke Kimura`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013JB7TL30-a1eb8b3ba90b-512
-     - `Minghao Xue`
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_akhil_channakotla.jpg
-     - `Akhil Chinnakotla`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01484WN7GT-d89f8b3f0d2b-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01484WN7GT-d89f8b3f0d2b-512
      - `XinXin (Ellen) Zhao`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-USCB3AJTS-1a3919e466a2-512
+     - `Jiahao(Jacob) Xu`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_zach_berg.jpg
      - `Zachery Peter Berg`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UHRBXC9L2-d9b80bf4c3b8-512
-     - `Akshay Pawar`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013JB7Q9DL-e5ce5b5ad5a8-512
-     - `Jason Bagnara`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019KST5ALC-e932996c6a67-512
-     - `Razan Alkawai`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956Z1Q3G-17f338cca6d2-512
-     - `Xinglei Liu`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U013T9MV94M-155a17653069-512
-     - `Mihir Abhyankar`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-USCB3AJTS-1a3919e466a2-512
-     - `Jiahao(Jacob) Xu`
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCD5G5V9U-02f69f6dff32-512
-     - `Abhinav Goel`
+     - `Xinglei Liu`
 
-        Doctoral
 
    * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
      - `George K. Thiruvathukal`
 
         Advisor
 
-     - .. image:: https://libapps.s3.amazonaws.com/accounts/103752/profiles/94752/Zakharov__Wei_2016.jpg
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956Z1Q3G-17f338cca6d2-512
      - `Wei Zakharov`
 
         Advisor
 
-   * - .. image:: https://ag.purdue.edu/ProfileImages/dbarbara.jpg
-     - `David Barbarsh`
+Solar Sail
+##########
+
+Use computer vision and image processing techniques to analyze the pictures taken by the camera on the proposed NASA Solar Cruiser Mission spacecraft.
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01M68G4L93-638bba07b1c9-512
+     - `Diego Avila Garcia`
+
+        Leader
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01M2HL6Y22-3ea1c8995c60-512
+     - `Jack Myers`
+
+        Co-Leader
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01LUHNR91V-d8481a8330a2-512
+     - `William Joseph Oberley`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PR4DHN-b6f2e2f6e3e5-512
+     - `Maria Soare`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01M68G3813-6b87d692690a-512
+     - `Hamzah Kamel Ayman`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01MN036BA5-95146071e1e2-512
+     - `Pume Tuchinda`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01KP571NTB-4d0871831d94-512
+     - `Greivin Mauricio Martinez`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01L0BEHNN4-7e5579ae3054-512
+     - `Grace Marie Yeh`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146F0GEQ3-945adcebb0ba-512
+     - `Naveen Vivek`
+
+        CAM2 Leader
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01KLJYMULQ-gb53d13fc6d1-512
+     - `Katherine L Fowee`
+
+   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image187718
+     - `Anthony G Cofer`
 
         Advisor
 
-     -
-     -
+     - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image214298
+     - `Alina Alexeenko`
 
+        Advisor
 
-Fair Vision
+TensorFlow
+##########
+
+Reconstruct models for the TensorFlow 2.x Model Garden
+
+.. list-table::
+   :widths: 10 20 10 20
+
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_vishnu_banna.jpeg
+     - `Vishnu Banna`
+
+        Leader
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YPQ6S-b93c0a5803d7-512
+     - `Kruthi Krishnappa`
+
+        Co-Leader
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146F0GEQ3-945adcebb0ba-512
+     - `Naveen Vivek`
+
+        CAM2 Leader
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UD8PE6F2Q-695570338839-512
+     - `Anirudh Vegesana`
+
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_akhil_channakotla.jpg
+     - `Akhil Chinnakotla`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015ZLR3ZEU-7875ae9ce6d5-512
+     - `Zhengxin (Tristan) Yan`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146900S66-58d54e1e8cd1-512
+     - `Kayla Seeley`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UFCA3E0LE-b0ad9b003454-512
+     - `Hojoung (Brian) Jang`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-USEH5LK2S-87c49595361d-512
+     - `Jack Lecroy`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-USWRHNBN0-fe512d0636ea-512
+     - `Ved Dave`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRA2F2-ea577c6acc44-512
+     - `Allen Liu`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019J4HFCP6-4a8ce3b6b874-512
+     - `David Li`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PR1P9N-917c9a9a443e-512
+     - `Thrishna Bhandari`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01GZ6WT3CP-6aab525cd2bc-512
+     - `KyungMin Ko`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01J3R05M32-781e460f9513-512
+     - `Jacob Zietek`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01HE6A2DA7-c422322087f2-512
+     - `Abhirakshak Raja`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01HE086TNW-58117ee95bb7-512
+     - `Siyu Wu`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01GZ6WNUJK-a54d62ef320f-512
+     - `Feny Patel`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01HAT2GNFP-b1a235f23cd2-512
+     - `Ethan Suleman`
+
+     - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image242327/alter?width=180&height=270
+     - `James Davis`
+
+        Advisor
+
+   * - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
+     - `George K. Thiruvathukal`
+
+        Advisor
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U016USXHYKA-g11319b75bac-512
+     - `Jaeyoun Kim`
+
+        Advisor
+
+Fair Vision (Suspended)
 ###########################
 
 Use crowdsourcing to identify unintended bias in visual data and label data.
@@ -534,41 +690,26 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_gore_kao.jpg
      - `Gore Kao`
 
-        CAM2 Leader
-
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-UFA7C9PND-474757f75640-512
      - `Kaiwen Yu`
 
-        CAM2 Leader
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UD8PE6F2Q-695570338839-512
      - `Anirudh Vegesana`
 
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_esteban_gorostiaga.png
-     - `Esteban Gorostiaga`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U011X32ML4B-87f1ade71550-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U011X32ML4B-87f1ade71550-512
      - `Tianhui Chen`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U012AJR0Q94-6591de67c426-512
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U012AJR0Q94-6591de67c426-512
      - `Weiyan Hu`
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UMNJ9NAKF-17298397961d-512
-     - `Jackson Moffet`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019C53B91R-601c3aba3bdf-512
-     - `Mohammed Afolabi Fashola`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-US0SR2T51-68d944f07a8f-512
-     - `Chibuzo	Ufomba`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
-     - `Xiao Hu`
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
+     - `Haobo Wang`
 
         Master
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
-     - `Haobo Wang`
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
+     - `Xiao Hu`
 
         Master
 
@@ -578,33 +719,20 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
         Advisor
 
 
-
-Solar Sail
-##########
-
-Use computer vision and image processing techniques to analyze the pictures taken by the camera on the proposed NASA Solar Cruiser Mission spacecraft.
+Solar Sail (Camera Project)
+###########################
 
 .. list-table::
    :widths: 10 20 10 20
 
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146F0GEQ3-945adcebb0ba-512
-     - `Naveen Vivek`
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015SC4P6J0-6470d09a4f65-512
+     - `Connor David Proudman`
 
-        Leader
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U014QRHCXNE-effe49155a28-512
-     - `Alan Jeffrey Gelman`
-
-        Co-Leader
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015L8QM2CT-fb7768acdfd5-512
+     - `Shashwat Punjani`
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U014W4727JL-4b797562f800-512
      - `Mark Kosmerl`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015SC4P6J0-6470d09a4f65-512
-     - `Connor David Proudman`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015L8QM2CT-fb7768acdfd5-512
-     - `Shashwat Punjani`
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015UA3ASF5-c8435de59c71-512
      - `Jinit Gandhi`
@@ -612,108 +740,8 @@ Use computer vision and image processing techniques to analyze the pictures take
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015C1KGJF9-f86c7860476b-512
      - `Riley Harwood`
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015ZLR3ZEU-7875ae9ce6d5-512
-     - `Zhengwin(Tristan) Yan`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UFB2NML3F-3630a6a457db-512
-     - `Jacob Harmon`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PR4DHN-b6f2e2f6e3e5-512
-     - `Maria Soare`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YV3T8-c3384cda8019-512
-     - `Dante Danaei`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YMZAA-74c335f9580f-512
-     - `Alexander Leven`
-
-   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image187718
-     - `Anthony G Cofer`
-
-        Advisor
-
-     - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image214298
-     - `Alina Alexeenko`
-
-        Advisor
-     
-
-TensorFlow
-##########
-
-Reconstruct models for the TensorFlow 2.x Model Garden
-
-.. list-table::
-   :widths: 10 20 10 20
-
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_vishnu_banna.jpeg
-     - `Vishnu Banna`
-
-        Leader
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UD8PE6F2Q-695570338839-512
-     - `Anirudh Vegesana`
-
-        Co-leader
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146F0GEQ3-945adcebb0ba-512
-     - `Naveen Vivek`
-        
-     - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_akhil_channakotla.jpg
-     - `Akhil Chinnakotla`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146900S66-58d54e1e8cd1-512
-     - `Kayla Seeley`
-        
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U015ZLR3ZEU-7875ae9ce6d5-512
-     - `Tristan Yan`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UFCA3E0LE-b0ad9b003454-512
-     - `Hojoung(Brian) Jang`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-US24F24BB-a94e4b357cc8-512
-     - `Ryan Chen`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRA2F2-ea577c6acc44-512
-     - `Allen Liu`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U019J4HFCP6-4a8ce3b6b874-512
-     - `David Li`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PR92V6-34da2b9f3068-512
-     - `Minjun(Jess) Zhang`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956YPQ6S-b93c0a5803d7-512
-     - `Kruthi Krishnappa`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PR1P9N-917c9a9a443e-512
-     - `Thrishna Bhandari`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-USEH5LK2S-87c49595361d-512
-     - `Jack Lecroy`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-USWRHNBN0-fe512d0636ea-512
-     - `Ved Dave`
-
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01A1PRAR6U-1a87a05e9464-512
-     - `Rthvik Raviprakash`
-
-   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U0146900S66-58d54e1e8cd1-512
-     - `Kayla Seeley`
-
-     - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
-     - `George K. Thiruvathukal`
-
-        Advisor
-
-   * - .. image:: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image242327/alter?width=180&height=270
-     - `James Davis`
-
-        Advisor
-
      -
      -
-
 
 Alumni
 ~~~~~~
@@ -837,7 +865,7 @@ Alumni
      - Mert Zamir
    * - Shristi Saraff
      - Wenxi Zhang
-     - Hojoung Jang
+     - Jack Lecroy
    * - Xin Du
      - Avanish Subbiah
      - Vaastav Arora
@@ -855,16 +883,43 @@ Alumni
      - Yezhi Shen
    * - Shiqi Wang
      - Shreya Misra
-     - Siddhartha Senthil Kumar
-   * - Moiz Rasheed
-     - Mihir Abhyankar
+     - Moiz Rasheed
+   * - Mihir Abhyankar
      - Russell Kim
-   * - Darrell Dai
-     - Apoorva Gupta
+     - Darrell Dai
+   * - Apoorva Gupta
      - Colin Witt
-   * - Swapnil Milind Kelkar
-     - Brandon Xu
-     - Sara Aghajanzadeh
+     - Swapnil Milind Kelkar
+   * - Brandon Xu
+     - Jakob Harbers
+     - Kyler Harrison
+   * - Mohammed Afolabi Fashola
+     - Chibuzo Ufomba
+     - Alan Jeffrey Gelman
+   * - Trang (Rosie) Tran
+     - Qingyang Wang
+     - Jason Bagnara
+   * - Tianhui Chen
+     - Akshay Pawar
+     - Minghao Xue
+   * - Minjun (Jess) Zhang
+     - Fischer Bordwell
+     - Seoyoung Lee
+   * - Katherine Sandys
+     - Jacob Harmon
+     - Dante Danaei
+   * - Isha Ghodgaonkar
+     - David Barbarsh
+     - Alexander Leven
+   * - Rthvik Raviprakash
+     - Kohsuke Kimura
+     - Esteban Gorostiaga
+   * - Phillip Andrew Archuleta
+     - Moya Zhu
+     - Gore Kao
+   * - Kaiwen Yu
+     - Shreya Ghosh
+     -
 
 
 Video by Current and Former Members
