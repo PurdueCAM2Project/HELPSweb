@@ -509,7 +509,7 @@ Analyze how crowd densities change in public places over time and due to governm
      - `XinXin (Ellen) Zhao`
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-USCB3AJTS-1a3919e466a2-512
-     - `Jiahao(Jacob) Xu`
+     - `Jiahao (Jacob) Xu`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_zach_berg.jpg
      - `Zachery Peter Berg`
@@ -809,24 +809,21 @@ Alumni
    * - Yukyung Lee
      - Seyram Samuel Mortoti
      - Asa Cutler
-   * - Jack LeCroy
-     - Victor Oduduabasi
-     - Ved Dave
-   * - Jackson Moffet
+   * - Victor Oduduabasi
+     - Jackson Moffet
      - Tong Wang
-     - Stephen Davis
-   * - Ashley Kim
+   * - Stephen Davis
+     - Ashley Kim
      - Meenakshi Pavithran
-     - Connor Chadwick
-   * - Ryan Firestone
+   * - Connor Chadwick
+     - Ryan Firestone
      - Yi-Fang Hsiung
-     - Ryan Chen
-   * - Amogh Shanbag
+   * - Ryan Chen
+     - Amogh Shanbag
      - Siddharth Srinivasan
-     - Karthik Maiya
-   * - Li Yon Tan
+   * - Karthik Maiya
+     - Li Yon Tan
      - Sara Aghajanzadeh
-     - Ethan Glaser
    * - Xin Wang
      - Damini Rijhwani
      - Rohit Reddy Tokala
@@ -835,66 +832,66 @@ Alumni
      - Mert Zamir
    * - Shristi Saraff
      - Wenxi Zhang
-     - Jack Lecroy
-   * - Xin Du
-     - Avanish Subbiah
+     - Xin Du
+   * - Avanish Subbiah
      - Vaastav Arora
-   * - Tuhin Sarkar
-     - Noureldin Hendy
+     - Tuhin Sarkar
+   * - Noureldin Hendy
      - Siddhartha Kumar Senthil Kumar
-   * - Noah Curran
-     - Nathan Gizaw
+     - Noah Curran
+   * - Nathan Gizaw
      - Subhankar Chakraborty
-   * - Aditya Chakraborty
-     - Christopher D. Trippel
+     - Aditya Chakraborty
+   * - Christopher D. Trippel
      - Nick	Eliopoulos
-   * - Justin Hsiung
-     - David Jarufe
+     - Justin Hsiung
+   * - David Jarufe
      - Yezhi Shen
-   * - Shiqi Wang
-     - Shreya Misra
+     - Shiqi Wang
+   * - Shreya Misra
      - Moiz Rasheed
-   * - Mihir Abhyankar
-     - Russell Kim
+     - Mihir Abhyankar
+   * - Russell Kim
      - Darrell Dai
-   * - Apoorva Gupta
-     - Colin Witt
+     - Apoorva Gupta
+   * - Colin Witt
      - Swapnil Milind Kelkar
-   * - Brandon Xu
-     - Jakob Harbers
+     - Brandon Xu
+   * - Jakob Harbers
      - Kyler Harrison
-   * - Mohammed Afolabi Fashola
-     - Chibuzo Ufomba
+     - Mohammed Afolabi Fashola
+   * - Chibuzo Ufomba
      - Alan Jeffrey Gelman
-   * - Trang (Rosie) Tran
-     - Qingyang Wang
+     - Trang (Rosie) Tran
+   * - Qingyang Wang
      - Jason Bagnara
-   * - Tianhui Chen
-     - Akshay Pawar
+     - Tianhui Chen
+   * - Akshay Pawar
      - Minghao Xue
-   * - Minjun (Jess) Zhang
-     - Fischer Bordwell
+     - Minjun (Jess) Zhang
+   * - Fischer Bordwell
      - Seoyoung Lee
-   * - Katherine Sandys
-     - Jacob Harmon
+     - Katherine Sandys
+   * - Jacob Harmon
      - Dante Danaei
-   * - Isha Ghodgaonkar
-     - David Barbarsh
+     - Isha Ghodgaonkar
+   * - David Barbarsh
      - Alexander Leven
-   * - Rthvik Raviprakash
-     - Kohsuke Kimura
+     - Rthvik Raviprakash
+   * - Kohsuke Kimura
      - Esteban Gorostiaga
-   * - Phillip Andrew Archuleta
-     - Moya Zhu
+     - Phillip Andrew Archuleta
+   * - Moya Zhu
      - Gore Kao
-   * - Kaiwen Yu
-     - Shreya Ghosh
+     - Kaiwen Yu
+   * - Shreya Ghosh
      - Connor David Proudman
-   * - Shashwat Punjani
-     - Mark Kosmerl
+     - Shashwat Punjani
+   * - Mark Kosmerl
      - Jinit Gandhi
-   * - Riley Harwood
-     - Maria Soare
+     - Riley Harwood
+   * - Maria Soare
+     -
      -
 
 
