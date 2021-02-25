@@ -509,7 +509,7 @@ Analyze how crowd densities change in public places over time and due to governm
      - `XinXin (Ellen) Zhao`
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-USCB3AJTS-1a3919e466a2-512
-     - `Jiahao(Jacob) Xu`
+     - `Jiahao (Jacob) Xu`
 
    * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_zach_berg.jpg
      - `Zachery Peter Berg`
@@ -809,33 +809,30 @@ Alumni
    * - Yukyung Lee
      - Seyram Samuel Mortoti
      - Asa Cutler
-   * - Jack LeCroy
-     - Victor Oduduabasi
-     - Ved Dave
-   * - Jackson Moffet
+   * - Victor Oduduabasi
+     - Jackson Moffet
      - Tong Wang
-     - Stephen Davis
-   * - Ashley Kim
+   * - Stephen Davis
+     - Ashley Kim
      - Meenakshi Pavithran
-     - Connor Chadwick
-   * - Ryan Firestone
+   * - Connor Chadwick
+     - Ryan Firestone
      - Yi-Fang Hsiung
-     - Ryan Chen
-   * - Amogh Shanbag
+   * - Ryan Chen
+     - Amogh Shanbag
      - Siddharth Srinivasan
-     - Karthik Maiya
-   * - Li Yon Tan
+   * - Karthik Maiya
+     - Li Yon Tan
      - Sara Aghajanzadeh
-     - Ethan Glaser
-   * - Xin Wang
+   * - Ethan Glaser
+     - Xin Wang
      - Damini Rijhwani
-     - Rohit Reddy Tokala
-   * - Rushabh Ramesh Ranka
+   * - Rohit Reddy Tokala
+     - Rushabh Ramesh Ranka
      - Ya Ling Tsai
-     - Mert Zamir
-   * - Shristi Saraff
+   * - Mert Zamir
+     - Shristi Saraff
      - Wenxi Zhang
-     - Jack Lecroy
    * - Xin Du
      - Avanish Subbiah
      - Vaastav Arora

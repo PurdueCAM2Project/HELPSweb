@@ -42,7 +42,6 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
 
 |helps4| |helps5|
 
-|helps6| |helps7|
 
 .. toctree::
    :hidden:
@@ -57,7 +56,7 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    funding
    labmachine
    newmember
-   
+
 .. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
    :width: 45 %
 
@@ -76,8 +75,3 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
 .. |helps5| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2vip.jpg
    :width: 52 %
 
-.. |helps6| image:: https://engineering.purdue.edu/HELPS/Images/Drone_Test.jpg
-   :width: 52 %
-
-.. |helps7| image:: https://engineering.purdue.edu/HELPS/Images/2020_CAM2_Party1.png
-   :width: 52 %
