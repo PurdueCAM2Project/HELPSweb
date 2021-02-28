@@ -515,7 +515,7 @@ Analyze how crowd densities change in public places over time and due to governm
      - `Zachery Peter Berg`
 
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCD5G5V9U-02f69f6dff32-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956Z1Q3G-17f338cca6d2-512
      - `Xinglei Liu`
 
 
@@ -524,7 +524,7 @@ Analyze how crowd densities change in public places over time and due to governm
 
         Advisor
 
-     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01956Z1Q3G-17f338cca6d2-512
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-UG39SAHJ4-46d2edd2256a-512
      - `Wei Zakharov`
 
         Advisor
