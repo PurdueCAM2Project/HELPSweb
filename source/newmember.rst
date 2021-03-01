@@ -1,3 +1,6 @@
+New Member Onboarding
+==============================
+
 Spring 2021 Application Process
 -------------------------------
 .. attention::
@@ -17,6 +20,3 @@ New members are encouraged to perform a few tasks to make onboarding a smooth pr
  * Provide your Github username. Every team uses Github to manage their software. If you do not have a Github account, you must create one. If you are not familiar with Git, you will have many opportunities to learn how to use it as you perform your research.
 
 In addition to these actions, your team leader may have you provide additional information or create an account for another platform. If you want access to your team’s channel on Slack, contact your team leader to be invited.
-
-Please fill out this Google Form to provide the above information.
-https://forms.gle/npZ9PxHgZyt2crKZA

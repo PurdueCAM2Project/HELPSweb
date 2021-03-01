@@ -100,7 +100,7 @@ For this semester, our team is doing preparation work for the competition includ
 details of the rules, designing referee system, doing prototype experiments with hardware (eg. robots, screens) 
 involved in the competition.
 
-Related readings:
+Reading for new members:
 
 - `Any Object Tracking and Following by a Flying Drone <https://ieeexplore-ieee-org.ezproxy.lib.purdue.edu/stamp/stamp.jsp?tp=&arnumber=7429411>`__
 
@@ -156,57 +156,6 @@ Reading for new members:
 
 .. |covid03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/covid19detectionsovertime.png
   :width: 80%
-
-----
-
-
-Fair Vision
-^^^^^^^^^^^^^
-
-We use crowdsourcing to utilizes the knowledge of humans to complete a task.
-In the scope of research, we are using the crowd to handle specific
-asks that may be hard for a machine to do or improve the work of a machine.
-This may include tasks such as detecting bias within image datasets
-using human knowledge rather than machines, since humans are better
-at distinguishing features within images. This semester, we are utilizing
-crowdsourcing to help select the most suitable machine model to use for
-unsupervised domain adaptation. We use the crowd to classify images to
-datasets and generate a confusion matrix detailing the similarity of
-images across several datasets.
-
-Reading for new members:
-
-- `Unbiased look at dataset bias <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.944.9518&rep=rep1&type=pdf>`__
-
-- `Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations <https://arxiv.org/abs/1602.07332>`__
-
-- `VQA: Visual Question Answering <https://arxiv.org/abs/1505.00468>`__
-
-- `Crowdsourcing in Computer Vision (Chapters 1 and 2) <https://drive.google.com/file/d/1vuTRkuU9DLPI4zJvAWqRrYX2R7PlWUtS/view>`__
-
-- `Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification <http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf>`__
-
-|crowdsource03| |crowdsource02|
-
-|crowdsource05| |crowdsource04|
-
-
-
-.. |crowdsource02| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceexample.png
-  :width: 45%
-
-
-.. |crowdsource03| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourcehome.png
-  :width: 45%
-
-
-.. |crowdsource04| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceteam.jpg
-  :width: 45%
-
-
-.. |crowdsource05| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/crowdsourceposter.jpg
-  :width: 45%
-
 
 ----
 
