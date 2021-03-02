@@ -1,4 +1,4 @@
-Past Project
+Past Projects
 =====================
 Fair Vision
 -------------
