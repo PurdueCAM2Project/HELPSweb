@@ -31,12 +31,12 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
 
    * - Yung-Hsiang Lu, George K. Thiruvathukal, Ahmed S. Kaseb, Kent Gauen, Damini Rijhwani, Ryan Dailey, Deeptanshu Malik, Yutong Huang, Sarah Aghajanzadeh, Minghao Guo, **See the World through Network Cameras**, IEEE Computer. pages 30-40, Volume 52, Issue 10, October 2019.
      - `[PDF] <https://arxiv.org/pdf/1904.06775>`__
+     
+   * - Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan, Ahmed S. Kaseb, George K. Thiruvathukal, **Cloud Resource Optimization for Processing Multiple Streams of Visual Data**, IEEE Multimedia Magazine, Pages 31-41, Volume 26, Issue 3, July-September 2019.
+     - `[PDF] <https://arxiv.org/pdf/1901.06347>`__
 
    * - Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Abhinav Goel, Alexander Goncharenko, XuHanh Nguyen, Eunbyung Park, Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, George K. Thiruvathukal, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, Shaojie Zhuo, **Low-Power Computer Vision: Status, Challenges, Opportunities**, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Pages 411-421, Volume 9, Issue 2, June 2019.
      - `[PDF] <https://arxiv.org/pdf/1904.07714>`__
-
-   * - Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan, Ahmed S. Kaseb, George K. Thiruvathukal, **Cloud Resource Optimization for Processing Multiple Streams of Visual Data**, IEEE Multimedia Magazine, Pages 31-41, Volume 26, Issue 3, July-September 2019.
-     - `[PDF] <https://arxiv.org/pdf/1901.06347>`__
 
    * - Yung-Hsiang Lu, **Low-Power Image Recognition**, Nature Machine Intelligence. Vol 1, Page 199, 2019.
      - `[Web] <https://www.nature.com/articles/s42256-019-0041-4>`__
