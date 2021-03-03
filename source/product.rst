@@ -14,6 +14,12 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
 .. list-table::
    :widths: 30 10
 
+   * -  Abhinav Goel, Sara Aghajanzadeh, Caleb Tung, Shuo-Han Chen,
+        George K. Thiruvathukal, Yung-Hsiang Lu, **Modular Neural Networks
+        for Low-Power Image Classification on Embedded Devices**, ACM Transactions on
+        Design Automation of Electronic Systems, October 2020.
+     -  `[DOI] <https://doi.org/10.1145/3408062>`__
+
    * - Nicholas John Eliopoulos, Yezhi Shen, Minh Luong Nguyen, Vaastav Arora, Yuxin Zhang, Yung-Hsiang Lu, Guofan Shao, and Keith Woeste, **Rapid Tree Diameter Computation with Terrestrial Stereoscopic Photogrammetry**, Journal of Forestry, Volume 118, Issue 4, July 2020.
      - `[Web] <https://academic.oup.com/jof/advance-article-abstract/doi/10.1093/jofore/fvaa009/5811312>`__
 	 
