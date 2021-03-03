@@ -31,7 +31,7 @@ Everyone is welcome to join the `ECE 264 Group <https://www.linkedin.com/groups/
 |cam2logo|
 
 .. |cam2logo| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg
-   :width: 100%
+   :width: 75%
 
 These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
 
