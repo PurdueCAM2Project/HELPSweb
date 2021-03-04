@@ -3,7 +3,7 @@ People and Topics
 |cam2logo|
 
 .. |cam2logo| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg
-   :width: 100%
+   :width: 50%
 
 These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
 
@@ -29,6 +29,13 @@ Time    Monday         Tuesday        Wednesday      Thursday     Friday
 Due to the large number of team members, it is not possible changing
 the regular meeting time. If your schedule does not fit into a
 particular team, you have to move to another team.
+
+.. raw:: html
+
+       <iframe src="https://calendar.google.com/calendar/embed?src=k7h268ji8rhp6u9emai80p13oo%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK" style="border:solid 1px #777" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+
+|
+
 
 
 Topics
