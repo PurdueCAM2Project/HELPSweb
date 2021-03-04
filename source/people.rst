@@ -305,7 +305,7 @@ Graduate Students
      - Haobo Wang: Master Student
 
 
-Undergraduate Students and Spring 2020 Teams
+Undergraduate Students and Spring 2021 Teams
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    
 Drone Video
