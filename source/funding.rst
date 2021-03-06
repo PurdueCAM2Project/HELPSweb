@@ -106,10 +106,10 @@ Sponsors
 .. |sponsorhp| image:: https://1000logos.net/wp-content/uploads/2017/02/HP-Logo.png
    :width: 15 %
 
-.. |sponsorintel| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Intel-logo.svg/1280px-Intel-logo.svg.png
-   :width: 15 %			     
+.. |sponsorintel| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/intel_logo.png
+   :width: 15 %
 
-.. |sponsoramazon| image:: https://pmcvariety.files.wordpress.com/2018/01/amazon-logo.jpg?w=1000
+.. |sponsoramazon| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/amazon_logo.png
    :width: 15 %			     	   
 
 .. |sponsormicrosoft| image:: http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2qVsJ?ver=3f74

@@ -1,4 +1,4 @@
-Join the Team
+Photo Gallery
 ========================================
 
 |joinimg0| |joinimg1|
@@ -38,12 +38,3 @@ Join the Team
 |joinimg4| |joinimg5|
 
 |joinimg6| |joinimg7|
-
-
-
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
-
-
