@@ -289,6 +289,26 @@ Faculty
 
        Electrical and Computer Engineering, Purdue
 
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UG39SAHJ4-46d2edd2256a-512
+     - `Wei Zakharov
+       <https://guides.lib.purdue.edu/prf.php?account_id=103752>`__
+
+       Library Science, Purdue
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01737UR9B8-8aea7000b71d-512
+     - `Qiang Qiu
+       <https://web.ics.purdue.edu/~qqiu>`__
+
+       Electrical and Computer Engineering, Purdue
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JVEE1P54-891c74aa1d68-512
+     - `Aravind Machiry
+       <https://machiry.github.io>`__
+
+       Electrical and Computer Engineering, Purdue
+
+     -
+     -
 
 Members
 ~~~~~~~
@@ -849,25 +869,3 @@ Alumni
    * - Riley Harwood
      - Maria Soare
      -
-
-
-Video by Current and Former Members
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/7Ao2zCYV9I8" frameborder="0" allowfullscreen></iframe>
-
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/1LGjSqQ953A" frameborder="0" allowfullscreen></iframe>
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/oPeKHUHpU2c" frameborder="0" allowfullscreen></iframe>
-
-	   
-    
-
