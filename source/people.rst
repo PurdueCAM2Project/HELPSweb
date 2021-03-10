@@ -166,6 +166,30 @@ Reading for new members:
 
 ----
 
+
+Program analysis
+^^^^^^^^^^^^^^^^^
+
+Program analysis aims to build a system that can do more program analysis instead
+of a simple grading system. Currently, there are a lot of platforms for grading 
+systems but none of them provide features like memory issue checking, error message 
+suggestions and so on features. Also, we plan to impelement an easier way for user 
+to custom their own test cases.
+
+Our current team is made up of backend and frontend subteams. Frontend is in charge
+of the UI design for submission and login pages. Backend is responsible for the 
+establishment of database and grading. Our semester goal to make a fully functional 
+grading system. Our next step is to try to implement those features to analyze programs.
+
+Reading for new members:
+
+- `Web framework: Django <https://www.djangoproject.com/>`__
+
+- `Python Library: PeeWee <http://docs.peewee-orm.com/en/latest/>`__
+
+----
+
+
 Solar Sail
 ^^^^^^^^^^^^^
 
@@ -424,6 +448,12 @@ Create a grading system, perform program analysis, and provide a recommendation 
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01GZ6WTLNT-78ef311ce5ac-512
      - `Daniel Chun`
+
+   * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01NS0LH44A-66d3f832f834-512
+     - `Anant Burman`
+
+     - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01MK4NLB63-97cf77b7efca-512
+     - `Alex Gieson`
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JUN55Q9K-fdd6ac829f14-512
      - `Zhaoyu Jin`
