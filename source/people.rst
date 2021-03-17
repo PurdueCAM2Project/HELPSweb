@@ -11,28 +11,13 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
 2021 Spring Schedule
 ~~~~~~~~~~~~~~~~~~~~
 
-All meetings are held online (1 Hour, Eastern Time)
-
-======= ============== ============== ============== ============ =================
-Time    Monday         Tuesday        Wednesday      Thursday     Friday
-======= ============== ============== ============== ============ =================
-13:00
-13:30    Drone Video
-14:00
-14:30    COVID-19
-15:00                   Auto Drone
-15:30                                                              Program Analysis
-16:00    TensorFlow     Solar Sail
-16:30 
-======= ============== ============== ============== ============ =================
-
 Due to the large number of team members, it is not possible changing
 the regular meeting time. If your schedule does not fit into a
 particular team, you have to move to another team.
 
 .. raw:: html
 
-       <iframe src="https://calendar.google.com/calendar/embed?src=k7h268ji8rhp6u9emai80p13oo%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK" style="border:solid 1px #777" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+       <iframe src="https://calendar.google.com/calendar/embed?src=k7h268ji8rhp6u9emai80p13oo%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 |
 
