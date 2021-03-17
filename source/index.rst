@@ -42,15 +42,15 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    :caption: Contents:
 
    people
-   pastproject
-   socialinformation
    product
-   events
-   professionalism
    funding
+   professionalism
    labmachine
-   newmember
+   events
+   socialinformation
    photogallery
+   pastproject
+   newmember
 
 .. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
    :width: 45 %
