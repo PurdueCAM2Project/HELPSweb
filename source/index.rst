@@ -29,11 +29,7 @@ engineering, as well as applications.
 These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
 
 
-|helps2| |helps1| 
-
-|helps0| |helps3| 
-
-|helps4| |helps5|
+|helps0|
 
 
 .. toctree::
@@ -52,21 +48,6 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    pastproject
    newmember
 
-.. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
+
+.. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
    :width: 45 %
-
-.. |helps1| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
-   :width: 45 %
-
-.. |helps2| image:: https://engineering.purdue.edu/HELPS/Images/20190323.jpg
-   :width: 45 %
-
-.. |helps3| image:: https://engineering.purdue.edu/HELPS/Images/2019DaminiVint.png
-   :width: 45 %
-
-.. |helps4| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/hackathon1.jpg
-   :width: 38 %
-
-.. |helps5| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2vip.jpg
-   :width: 52 %
-

@@ -5,7 +5,15 @@ Photo Gallery
 
 |joinimg2| |joinimg3|
 
+|joinimg4| |joinimg5|
 
+|joinimg6| |joinimg7|
+
+|joinimg8| |joinimg9|
+
+|joinimg10| |joinimg11|
+
+|joinimg12|
 
 .. |joinimg0| image:: https://engineering.purdue.edu/HELPS/Images/2018game01.jpg
    :width: 45 %
@@ -34,7 +42,19 @@ Photo Gallery
 .. |joinimg7| image:: https://engineering.purdue.edu/HELPS/Images/201803team.jpg
    :width: 48 %
 
+.. |joinimg8| image:: https://engineering.purdue.edu/HELPS/Images/20190413.jpg
+   :width: 45 %
 
-|joinimg4| |joinimg5|
+.. |joinimg9| image:: https://engineering.purdue.edu/HELPS/Images/20190323.jpg
+   :width: 45 %
 
-|joinimg6| |joinimg7|
+.. |joinimg10| image:: https://engineering.purdue.edu/HELPS/Images/2019DaminiVint.png
+   :width: 45 %
+
+.. |joinimg11| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/hackathon1.jpg
+   :width: 38 %
+
+.. |joinimg12| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2vip.jpg
+   :width: 52 %
+
+

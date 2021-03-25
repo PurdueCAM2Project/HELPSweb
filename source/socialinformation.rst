@@ -13,23 +13,19 @@ Videos
 ~~~~~~
 .. raw:: html
 
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
+    <iframe width = "100%" height = "400" src="https://www.youtube.com/embed/P2vtsGbZdWk" frameborder="0" allowfullscreen></iframe>
 
-Video by Current and Former Members
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. raw:: html
 
-
-  .. raw:: html
-
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/7Ao2zCYV9I8" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height = "400" src="https://www.youtube.com/embed/7Ao2zCYV9I8" frameborder="0" allowfullscreen></iframe>
 
 
-  .. raw:: html
+.. raw:: html
 
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/1LGjSqQ953A" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height = "400" src="https://www.youtube.com/embed/1LGjSqQ953A" frameborder="0" allowfullscreen></iframe>
 
-  .. raw:: html
+.. raw:: html
 
-    <iframe width="600" height = "400" src="https://www.youtube.com/embed/oPeKHUHpU2c" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height = "400" src="https://www.youtube.com/embed/oPeKHUHpU2c" frameborder="0" allowfullscreen></iframe>
 
 

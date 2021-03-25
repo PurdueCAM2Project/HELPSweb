@@ -138,8 +138,8 @@ Collaborators
 .. |collaboratoranl| image:: http://chainreaction.anl.gov/wp-content/themes/innovation/imgs/logos/anl-logo.png
    :width: 20 %			     	   
 
-.. |collaboratornus| image:: http://nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png
-   :width: 15 %			     	   			      
+.. |collaboratornus| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/nus_logo.png
+   :width: 15 %
 
 .. |collaboratorstanford| image:: https://1000logos.net/wp-content/uploads/2018/02/Stanford-Logo.png
    :width: 20 %			     	   			      
