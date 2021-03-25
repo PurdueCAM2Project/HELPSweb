@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Purdue HELPS Laboratory'
-copyright = '2019, Purdue HELPS Laboratory'
+copyright = '2021, Purdue HELPS Laboratory'
 author = 'Purdue HELPS Laboratory'
 
 # The short X.Y version
