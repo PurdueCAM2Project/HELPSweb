@@ -152,10 +152,10 @@ Reading for new members:
 ----
 
 
-Program analysis
+Program Analysis
 ^^^^^^^^^^^^^^^^^
 
-Program analysis aims to build a system that can do more program analysis instead
+Program Analysis aims to build a system that can do more program analysis instead
 of a simple grading system. Currently, there are a lot of platforms for grading 
 systems but none of them provide features like memory issue checking, error message 
 suggestions and so on features. Also, we plan to impelement an easier way for user 
