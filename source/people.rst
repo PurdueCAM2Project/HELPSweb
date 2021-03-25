@@ -710,177 +710,177 @@ Alumni
 .. list-table::
    :widths: 20 20 20
 
-   * - Achinthya Soordelu
-     - Aditya Chakraborty
-     - Ahmed Kaseb
-   * - Ajay Gopakumar
-     - Akshay Pawar
-     - Alan Jeffrey Gelman
-   * - Alexander Leven
-     - Amogh Shanbag
-     - Andrew Green
-   * - Anthony Fennell
-     - Anthony Kang
-     - Aparna Pidaparthi
-   * - Apoorva Gupta
-     - Asa Cutler
-     - Ashley Kim
-   * - Avanish Subbiah
-     - Bolun Zhang
-     - Borui Chen
-   * - Brandon Xu
-     - Cailey Farrell
-     - Changyu Li
-   * - Chau Minh Nguyen
-     - Chibuzo Ufomba
-     - Christopher Jovanovic
-   * - Colin Witt
-     - Connor Chadwick
-     - Connor David Proudman
-   * - Damini Rijhwani
-     - Daniel Dilger
-     - Dante Danaei
-   * - Darrell Dai
-     - David Barbarsh
-     - David Jarufe
-   * - Deepika Aggrawal
-     - Deeptanshu Malik
-     - Dhruv Swarup
-   * - Ehren Marschall
-     - Erik Rozolis
-     - Esteban Gorostiaga
-   * - Ethan Glaser
-     - Everett Berry
-     - Fang Hsiung
-   * - Fengjian Pan
-     - Fischer Bordwell
-     - Gore Kao
-   * - Hanwen Huang
-     - Hanyang Liu
-     - Hao Zou
-   * - He Li
-     - Huanyi Guo
-     - Hussni Mohd Zakir
-   * - Isha Ghodgaonkar
-     - Jackson Moffet
-     - Jacob Harmon
-   * - Jakob Harbers
-     - James Lee
-     - James Tay
+   * - Mihir Abhyankar
+     - Deepika Aggrawal
+     - Sara Aghajanzadeh
+   * - Mohamad Alani
+     - Yukun An
+     - Phillip Andrew Archuleta
+   * - Vaastav Arora
+     - Nirmal Asokan
+     - Mehmet Alp Aysan
    * - Jason Bagnara
-     - Jay Patel
-     - Jeanne Deng
-   * - Jenil Patel
-     - Jiaju Yue
-     - Jiancheng Wang
+     - David Barbarsh
+     - Everett Berry
+   * - Seth Bontrager
+     - Fischer Bordwell
+     - Connor Chadwick
+   * - Aditya Chakraborty
+     - Subhankar Chakraborty
+     - Wengyan Chan
+   * - Borui Chen
+     - Qingshuang Chen
+     - Ryan Chen
+   * - Tianhui Chen
+     - Yuhao Chen
+     - Sanghyun Cho
+   * - Noah Curran
+     - Asa Cutler
+     - Darrell Dai
+   * - Ryan Dailey
+     - Dante Danaei
+     - Stephen Davis
+   * - Jeanne Deng
+     - Daniel Dilger
+     - Xin Du
+   * - Wenzhong Duan
+     - Cailey Farrell
+     - Mohammed Afolabi Fashola
+   * - Anthony Fennell
+     - Ryan Firestone
+     - Matthew Fitzgerald
    * - Jinit Gandhi
-     - John Laiman
-     - Joseph Sweeney
-   * - Juncheng Tang
+     - Alan Jeffrey Gelman
+     - Isha Ghodgaonkar
+   * - Shreya Ghosh
+     - Robert Gitau
+     - Nathan Gizaw
+   * - Ethan Glaser
+     - Ajay Gopakumar
+     - Esteban Gorostiaga
+   * - Andrew Green
+     - Huanyi Guo
+     - Mina Guo
+   * - Apoorva Gupta
+     - Jakob Harbers
+     - Meera Haridasa
+   * - Jacob Harmon
+     - Kyler Harrison
+     - Riley Harwood
+   * - Noureldin Hendy
+     - Fang Hsiung
      - Justin Hsiung
-     - Kaiwen Yu
-   * - Karthik Maiya
-     - Katherine Sandys
+   * - Zhanxiang Hua
+     - Hanwen Huang
+     - Shunqiao Huang
+   * - Weiqing Huang
+     - Yutong Huang
+     - Spencer Huston
+   * - David Jarufe
+     - Nanxin Jin
+     - Christopher Jovanovic
+   * - Pranjit Kalita
+     - Anthony Kang
+     - Gore Kao
+   * - Ahmed Kaseb
+     - Swapnil Milind Kelkar
+     - Ashley Kim
+   * - Russell Kim
+     - Woojin Kim
      - Kohsuke Kimura
+   * - Youngsol Koh
+     - Mark Kosmerl
+     - Siddhartha Kumar Senthil Kumar
+   * - John Laiman
+     - James Lee
+     - Seoyoung Lee
+   * - Yukyung Lee
+     - Alexander Leven
+     - Changyu Li
+   * - He Li
+     - Weizhi Li
+     - Yifan Li
+   * - Hanyang Liu
+     - Sitian Lu
+     - Karthik Maiya
+   * - Milos Malesevic
+     - Deeptanshu Malik
+     - Ehren Marschall
    * - Kyle Martin
      - Kyle McNulty
-     - Kyler Harrison
-   * - Li Yon Tan
-     - Lucas Neumann
-     - Lucas Wiles
-   * - Maria Soare
-     - Mark Kosmerl
-     - Matthew Fitzgerald
-   * - Meenakshi Pavithran
-     - Meera Haridasa
-     - Mehmet Alp Aysan
-   * - Mert Zamir
-     - Mihir Abhyankar
-     - Milos Malesevic
-   * - Mina Guo
-     - Minghao Xue
-     - Minh Nguyen
-   * - Minjun (Jess) Zhang
-     - Mohamad Alani
-     - Mohammed Afolabi Fashola
-   * - Moiz Rasheed
-     - Moya Zhu
-     - Nanxin Jin
-   * - Nathan Gizaw
-     - Nick     Eliopoulos
-     - Nirmal Asokan
-   * - Noah Curran
-     - Noureldin Hendy
-     - Phillip Andrew Archuleta
-   * - Pranjit Kalita
-     - Qingshuang Chen
-     - Qingyang Wang
-   * - Ramyak Singh
-     - Riley Harwood
-     - Robert Gitau
-   * - Rohit Reddy Tokala
-     - Rthvik Raviprakash
-     - Rushabh Ramesh Ranka
-   * - Russell Kim
-     - Ryan Chen
-     - Ryan Dailey
-   * - Ryan Firestone
-     - Ryan Schlueter
-     - Sam Yellin
-   * - Sanghyun Cho
-     - Sara Aghajanzadeh
-     - Seoyoung Lee
-   * - Seth Bontrager
+     - Shreya Misra
+   * - Jackson Moffet
      - Seyram Samuel Mortoti
-     - Shashwat Punjani
-   * - Shengli Sui
-     - Shiqi Wang
-     - Shreya Ghosh
-   * - Shreya Misra
-     - Shristi Saraff
-     - Shunqiao Huang
-   * - Siddharth Srinivasan
-     - Siddhartha Kumar Senthil Kumar
-     - Sihao Yin
-   * - Sitian Lu
-     - Spencer Huston
-     - Sriram Rangaramanujan
-   * - Stephen Davis
-     - Subhankar Chakraborty
-     - Subhav Ramachandran
-   * - Swapnil Milind Kelkar
-     - Tianhui Chen
-     - Tong Wang
-   * - Trang (Rosie) Tran
-     - Trippel
-     - Tuhin Sarkar
-   * - Vaastav Arora
-     - Vadim Nikiforov
+     - Lucas Neumann
+   * - Chau Minh Nguyen
+     - Minh Nguyen
+     - Nick     Eliopoulos
+   * - Vadim Nikiforov
      - Victor Oduduabasi
-   * - Weiqing Huang
-     - Weizhi Li
-     - Wengyan Chan
-   * - Wenxi Zhang
-     - Wenzhong Duan
-     - Woojin Kim
-   * - Xin Du
-     - Xin Wang
-     - Ya Ling Tsai
+     - Fengjian Pan
+   * - Jay Patel
+     - Jenil Patel
+     - Meenakshi Pavithran
+   * - Akshay Pawar
+     - Aparna Pidaparthi
+     - Connor David Proudman
    * - Yash Pundlik
-     - Yexin Wang
+     - Shashwat Punjani
+     - Subhav Ramachandran
+   * - Sriram Rangaramanujan
+     - Rushabh Ramesh Ranka
+     - Moiz Rasheed
+   * - Rthvik Raviprakash
+     - Damini Rijhwani
+     - Erik Rozolis
+   * - Katherine Sandys
+     - Shristi Saraff
+     - Tuhin Sarkar
+   * - Ryan Schlueter
+     - Amogh Shanbag
      - Yezhi Shen
-   * - Yifan Li
-     - Youngsol Koh
-     - Yuhao Chen
-   * - Yukun An
-     - Yukyung Lee
-     - Yutong Huang
-   * - Yuxiang Zi
+   * - Ramyak Singh
+     - Maria Soare
+     - Achinthya Soordelu
+   * - Siddharth Srinivasan
+     - Avanish Subbiah
+     - Shengli Sui
+   * - Dhruv Swarup
+     - Joseph Sweeney
+     - Li Yon Tan
+   * - Zhi Kai Tan
+     - Juncheng Tang
+     - James Tay
+   * - Rohit Reddy Tokala
+     - Trang (Rosie) Tran
+     - Trippel
+   * - Ya Ling Tsai
+     - Chibuzo Ufomba
+     - Jiancheng Wang
+   * - Qingyang Wang
+     - Shiqi Wang
+     - Tong Wang
+   * - Xin Wang
+     - Yexin Wang
+     - Lucas Wiles
+   * - Colin Witt
+     - Brandon Xu
+     - Minghao Xue
+   * - Sam Yellin
+     - Sihao Yin
+     - Kaiwen Yu
+   * - Jiaju Yue
+     - Hussni Mohd Zakir
+     - Mert Zamir
+   * - Zhifan Zeng
+     - Bolun Zhang
+     - Minjun (Jess) Zhang
+   * - Wenxi Zhang
      - Yuxin Zhang
      - Zaiwei Zhang
-   * - Zhanxiang Hua
-     - Zhenming Zhang
+   * - Zhenming Zhang
      - Zhenming Zhao
-   * - Zhi Kai Tan
-     - Zhifan Zeng
+     - Moya Zhu
+   * - Yuxiang Zi
+     - Hao Zou
      - 
