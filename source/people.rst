@@ -711,176 +711,176 @@ Alumni
    :widths: 20 20 20
 
    * - Achinthya Soordelu
-     - James Lee
-     - He Li
-   * - Anthony Fennell
-     - Jenil Patel
-     - Ehren Marschall
-   * - Fengjian Pan
-     - Nirmal Asokan
-     - Sanghyun Cho
-   * - Shengli Sui
-     - Woojin Kim
-     - Ajay Gopakumar
-   * - Jiancheng Wang
-     - Sitian Lu
-     - Juncheng Tang
-   * - Milos Malesevic
-     - Mina Guo
-     - Hanyang Liu
-   * - Zhenming Zhang
-     - Zaiwei Zhang
-     - Jiaju Yue
-   * - Huanyi Guo
-     - Jeanne Deng
-     - Zhenming Zhao
-   * - Anthony Kang
-     - Qingshuang Chen
-     - Yuhao Chen
-   * - Borui Chen
-     - Sriram Rangaramanujan
-     - James Tay
-   * - Kyle McNulty
-     - Seth Bontrager
-     - Pranjit Kalita
-   * - Subhav Ramachandran
-     - Everett Berry
-     - Erik Rozolis
-   * - Bolun Zhang
-     - Andrew Green
-     - Yukun An
-   * - Daniel Dilger
-     - Yexin Wang
-     - Zhifan Zeng
-   * - Joseph Sweeney
-     - Ryan Schlueter
-     - John Laiman
-   * - Jay Patel
-     - Yutong Huang
-     - Yuxiang Zi
-   * - Zhanxiang Hua
-     - Weizhi Li
-     - Yash Pundlik
-   * - Ramyak Singh
-     - Nanxin Jin
-     - Kyle Martin
-   * - Hao Zou
-     - Sam Yellin
-     - Wenzhong Duan
-   * - Aparna Pidaparthi
-     - Changyu Li
-     - Deepika Aggrawal
-   * - Hanwen Huang
-     - Hussni Mohd Zakir
-     - Sihao Yin
-   * - Weiqing Huang
-     - Christopher Jovanovic
+     - Aditya Chakraborty
      - Ahmed Kaseb
-   * - Wengyan Chan
-     - Meera Haridasa
-     - Deeptanshu Malik
-   * - Vadim Nikiforov
-     - Matthew Fitzgerald
-     - Youngsol Koh
-   * - Mehmet Alp Aysan
-     - Cailey Farrell
-     - Yifan Li
-   * - Lucas Neumann
-     - Robert Gitau
-     - Zhi Kai Tan
-   * - Spencer Huston
-     - Mohamad Alani
-     - Lucas Wiles
-   * - Yuxin Zhang
-     - Chau Minh Nguyen
-     - Shunqiao Huang
-   * - Minh Nguyen
-     - Dhruv Swarup
-     - Ryan Dailey
-   * - Yukyung Lee
-     - Seyram Samuel Mortoti
-     - Asa Cutler
-   * - Victor Oduduabasi
-     - Jackson Moffet
-     - Tong Wang
-   * - Stephen Davis
-     - Ashley Kim
-     - Meenakshi Pavithran
-   * - Connor Chadwick
-     - Ryan Firestone
-     - Yi-Fang Hsiung
-   * - Ryan Chen
-     - Amogh Shanbag
-     - Siddharth Srinivasan
-   * - Karthik Maiya
-     - Li Yon Tan
-     - Sara Aghajanzadeh
-   * - Ethan Glaser
-     - Xin Wang
-     - Damini Rijhwani
-   * - Rohit Reddy Tokala
-     - Rushabh Ramesh Ranka
-     - Ya Ling Tsai
-   * - Mert Zamir
-     - Shristi Saraff
-     - Wenxi Zhang
-   * - Xin Du
-     - Avanish Subbiah
-     - Vaastav Arora
-   * - Tuhin Sarkar
-     - Noureldin Hendy
-     - Siddhartha Kumar Senthil Kumar
-   * - Noah Curran
-     - Nathan Gizaw
-     - Subhankar Chakraborty
-   * - Aditya Chakraborty
-     - Christopher D. Trippel
-     - Nick	Eliopoulos
-   * - Justin Hsiung
-     - David Jarufe
-     - Yezhi Shen
-   * - Shiqi Wang
-     - Shreya Misra
-     - Moiz Rasheed
-   * - Mihir Abhyankar
-     - Russell Kim
-     - Darrell Dai
-   * - Apoorva Gupta
-     - Colin Witt
-     - Swapnil Milind Kelkar
-   * - Brandon Xu
-     - Jakob Harbers
-     - Kyler Harrison
-   * - Mohammed Afolabi Fashola
-     - Chibuzo Ufomba
-     - Alan Jeffrey Gelman
-   * - Trang (Rosie) Tran
-     - Qingyang Wang
-     - Jason Bagnara
-   * - Tianhui Chen
+   * - Ajay Gopakumar
      - Akshay Pawar
-     - Minghao Xue
-   * - Minjun (Jess) Zhang
-     - Fischer Bordwell
-     - Seoyoung Lee
-   * - Katherine Sandys
-     - Jacob Harmon
-     - Dante Danaei
-   * - Isha Ghodgaonkar
-     - David Barbarsh
-     - Alexander Leven
-   * - Rthvik Raviprakash
-     - Kohsuke Kimura
-     - Esteban Gorostiaga
-   * - Phillip Andrew Archuleta
-     - Moya Zhu
-     - Gore Kao
-   * - Kaiwen Yu
-     - Shreya Ghosh
+     - Alan Jeffrey Gelman
+   * - Alexander Leven
+     - Amogh Shanbag
+     - Andrew Green
+   * - Anthony Fennell
+     - Anthony Kang
+     - Aparna Pidaparthi
+   * - Apoorva Gupta
+     - Asa Cutler
+     - Ashley Kim
+   * - Avanish Subbiah
+     - Bolun Zhang
+     - Borui Chen
+   * - Brandon Xu
+     - Cailey Farrell
+     - Changyu Li
+   * - Chau Minh Nguyen
+     - Chibuzo Ufomba
+     - Christopher Jovanovic
+   * - Colin Witt
+     - Connor Chadwick
      - Connor David Proudman
-   * - Shashwat Punjani
+   * - Damini Rijhwani
+     - Daniel Dilger
+     - Dante Danaei
+   * - Darrell Dai
+     - David Barbarsh
+     - David Jarufe
+   * - Deepika Aggrawal
+     - Deeptanshu Malik
+     - Dhruv Swarup
+   * - Ehren Marschall
+     - Erik Rozolis
+     - Esteban Gorostiaga
+   * - Ethan Glaser
+     - Everett Berry
+     - Fang Hsiung
+   * - Fengjian Pan
+     - Fischer Bordwell
+     - Gore Kao
+   * - Hanwen Huang
+     - Hanyang Liu
+     - Hao Zou
+   * - He Li
+     - Huanyi Guo
+     - Hussni Mohd Zakir
+   * - Isha Ghodgaonkar
+     - Jackson Moffet
+     - Jacob Harmon
+   * - Jakob Harbers
+     - James Lee
+     - James Tay
+   * - Jason Bagnara
+     - Jay Patel
+     - Jeanne Deng
+   * - Jenil Patel
+     - Jiaju Yue
+     - Jiancheng Wang
+   * - Jinit Gandhi
+     - John Laiman
+     - Joseph Sweeney
+   * - Juncheng Tang
+     - Justin Hsiung
+     - Kaiwen Yu
+   * - Karthik Maiya
+     - Katherine Sandys
+     - Kohsuke Kimura
+   * - Kyle Martin
+     - Kyle McNulty
+     - Kyler Harrison
+   * - Li Yon Tan
+     - Lucas Neumann
+     - Lucas Wiles
+   * - Maria Soare
      - Mark Kosmerl
-     - Jinit Gandhi
-   * - Riley Harwood
-     - Maria Soare
-     -
+     - Matthew Fitzgerald
+   * - Meenakshi Pavithran
+     - Meera Haridasa
+     - Mehmet Alp Aysan
+   * - Mert Zamir
+     - Mihir Abhyankar
+     - Milos Malesevic
+   * - Mina Guo
+     - Minghao Xue
+     - Minh Nguyen
+   * - Minjun (Jess) Zhang
+     - Mohamad Alani
+     - Mohammed Afolabi Fashola
+   * - Moiz Rasheed
+     - Moya Zhu
+     - Nanxin Jin
+   * - Nathan Gizaw
+     - Nick     Eliopoulos
+     - Nirmal Asokan
+   * - Noah Curran
+     - Noureldin Hendy
+     - Phillip Andrew Archuleta
+   * - Pranjit Kalita
+     - Qingshuang Chen
+     - Qingyang Wang
+   * - Ramyak Singh
+     - Riley Harwood
+     - Robert Gitau
+   * - Rohit Reddy Tokala
+     - Rthvik Raviprakash
+     - Rushabh Ramesh Ranka
+   * - Russell Kim
+     - Ryan Chen
+     - Ryan Dailey
+   * - Ryan Firestone
+     - Ryan Schlueter
+     - Sam Yellin
+   * - Sanghyun Cho
+     - Sara Aghajanzadeh
+     - Seoyoung Lee
+   * - Seth Bontrager
+     - Seyram Samuel Mortoti
+     - Shashwat Punjani
+   * - Shengli Sui
+     - Shiqi Wang
+     - Shreya Ghosh
+   * - Shreya Misra
+     - Shristi Saraff
+     - Shunqiao Huang
+   * - Siddharth Srinivasan
+     - Siddhartha Kumar Senthil Kumar
+     - Sihao Yin
+   * - Sitian Lu
+     - Spencer Huston
+     - Sriram Rangaramanujan
+   * - Stephen Davis
+     - Subhankar Chakraborty
+     - Subhav Ramachandran
+   * - Swapnil Milind Kelkar
+     - Tianhui Chen
+     - Tong Wang
+   * - Trang (Rosie) Tran
+     - Trippel
+     - Tuhin Sarkar
+   * - Vaastav Arora
+     - Vadim Nikiforov
+     - Victor Oduduabasi
+   * - Weiqing Huang
+     - Weizhi Li
+     - Wengyan Chan
+   * - Wenxi Zhang
+     - Wenzhong Duan
+     - Woojin Kim
+   * - Xin Du
+     - Xin Wang
+     - Ya Ling Tsai
+   * - Yash Pundlik
+     - Yexin Wang
+     - Yezhi Shen
+   * - Yifan Li
+     - Youngsol Koh
+     - Yuhao Chen
+   * - Yukun An
+     - Yukyung Lee
+     - Yutong Huang
+   * - Yuxiang Zi
+     - Yuxin Zhang
+     - Zaiwei Zhang
+   * - Zhanxiang Hua
+     - Zhenming Zhang
+     - Zhenming Zhao
+   * - Zhi Kai Tan
+     - Zhifan Zeng
+     - 
