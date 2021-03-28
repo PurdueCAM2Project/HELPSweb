@@ -335,10 +335,10 @@ Graduate Students
      - Caleb Tung: Doctoral Student, Using Contextual Information from Network Cameras to Improve and Evaluate Computer Vision Solutions
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
-     - Xiao Hu: Graduate Student. Real-time UAV multi-object tracking with 3D Localization
+     - Xiao Hu: Master Student. Real-time UAV multi-object tracking with 3D Localization
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
-     - Haobo Wang: Graduate Student
+     - Haobo Wang: Master Student
 
 
 Undergraduate Students and Spring 2021 Teams
