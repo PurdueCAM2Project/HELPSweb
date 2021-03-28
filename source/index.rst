@@ -42,7 +42,6 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    funding
    professionalism
    labmachine
-   events
    socialinformation
    photogallery
    pastproject
