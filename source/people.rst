@@ -335,10 +335,10 @@ Graduate Students
      - Caleb Tung: Doctoral Student, Using Contextual Information from Network Cameras to Improve and Evaluate Computer Vision Solutions
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
-     - Xiao Hu: Master Student. Real-time UAV multi-object tracking with 3D Localization
+     - Xiao Hu: Master Student, Real-time UAV multi-object tracking with 3D Localization
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
-     - Haobo Wang: Master Student
+     - Haobo Wang: Master Student, Preserve deep learning accuracy for video in bandwidth limited multicamera network with priority scheduling
 
 
 Undergraduate Students and Spring 2021 Teams
@@ -383,7 +383,7 @@ Create datasets of drone video, recognize objects, estimate the sizes.
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
      - `Xiao Hu`
 
-        Master
+        Graduate Student
 
      - .. image:: https://libapps.s3.amazonaws.com/accounts/103752/profiles/94752/Zakharov__Wei_2016.jpg
      - `Wei Zakharov`
@@ -692,12 +692,12 @@ Use crowdsourcing to identify unintended bias in visual data and label data.
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-UCDFV8J1W-3a9e8b006ec4-512
      - `Haobo Wang`
 
-        Master
+        Graduate Student
 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
      - `Xiao Hu`
 
-        Master
+        Graduate Student
 
      - .. image:: https://avatars1.githubusercontent.com/u/651504?s=460&v=4
      - `George K. Thiruvathukal`
