@@ -71,26 +71,23 @@ Readings for new members:
 
 Autonomous Drones
 ^^^^^^^^^^^^^^^^^
-Although there are more and more simulators coming out there, which can help researchers
-test functionalities of their drones in a virtual environment, experiments in the real 
-environment are still needed since some of the conditions that drones may encounter with 
-cannot be simulated, at least for now. Our team is working to create a competition where 
-drones are designed to perform autonomous flying, tracking targets, identifying information, 
-and reidentification after losing target.
+Although there are more and more simulators coming out there, which can help researchers test 
+functionalities of their drones in a virtual environment, experiments in the real environment 
+are still needed since some of the conditions that drones may encounter with cannot be simulated, 
+at least for now. Our team is working to create a competition where drones are designed to perform 
+autonomous flying, tracking and reidentification.
 
-Specifically, the competition will be on a field where there are miniature cities built with
-cardboard boxes and Legos. There are multiple programmable mobile robots moving in a pre-designed 
-pattern in the mini-city. There will be QR codes displayed by screens on stationary “buildings” 
-and on one of the mobile robots. QR codes will change for every certain amount of time. Only the 
-robot with QR code shown is the target that the drone is supposed to track, and the other robots 
-are distractors. The drone need to fly autonomously, tracking the robot with QR codes, and identify 
-as many QR codes as possible in given time. After the target robot goes through a “tunnel”, gets
-obstructed by “buildings”, or get together with other distractor robots, the drone needs to perform 
-reidentification to continue tracking.
+Specifically, the competition will be on a field where there are miniature cities built with cardboard 
+boxes and Legos. Drones will fly above the field. There are multiple programmable mobile robots moving 
+in a pre-designed pattern in the mini-city. Only one is the target and the others are all distractors. 
+Competitors are supposed to make drones fly autonomously, following the target robot. We will use 
+motion capture system to determine whether the drone is tracking and following the correct robot. The 
+drone should also be able to re-identify its target after obstructions happen. For example, after the 
+target robot goes through a tunnel, or after target robot get together with other distractors.
 
-For this semester, our team is doing preparation work for the competition including improving 
-details of the rules, designing referee system, doing prototype experiments with hardware (eg. robots, screens) 
-involved in the competition.
+For this semester, our team is doing preparation work for the competition including developing the 
+rules, creating the infrastructures, designing the referee system, doing prototype experiments with 
+hardware (eg. robots, drones) involved in the competition.
 
 Reading for new members:
 
