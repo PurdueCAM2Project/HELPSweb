@@ -409,7 +409,7 @@ Create a grading system, perform program analysis, and provide a recommendation 
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01J807GM1V-11caa664a5b6-512
      - `Shan Huang`
 
-        Co-Leader
+        Leader
 
      - .. image:: https://ca.slack-edge.com/T02T4RJGC-U01JG04C7DL-1a21863d0333-512
      - `Jonathan Doorn`
