@@ -10,7 +10,6 @@ High-Efficiency and Low-Power Systems (HELPS)
 =============================================
 
 Mission: This research team aims to create leaders.
----------------------------------------------------
 
 This team aims to create leaders that can recognize the world's needs
 and develop solutions
@@ -21,15 +20,18 @@ computing systems. Our research includes computer vision, machine
 learning, cloud and mobile computing, embedded systems software
 engineering, as well as applications.
 
-|cam2logo|
+.. raw:: html
 
-.. |cam2logo| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg
-   :width: 50%
+    <div style="margin: 30px; text-align: center;">
+         <img style="max-width: 50%; text-align: center;" src="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg"/>
+         <p style="margin: 20px">These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.</p>
+    </div>
 
-These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
 
 
 |helps0|
+
+.. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
 
 
 .. toctree::
@@ -48,5 +50,3 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    newmember
 
 
-.. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
-   :width: 45 %
