@@ -25,7 +25,8 @@ engineering, as well as applications.
 
 .. |cam2logo| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg
    :width: 50%
-
+   :align: middle
+   
 These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
 
 
@@ -46,7 +47,7 @@ These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.
    photogallery
    pastproject
    newmember
-
+   history
 
 .. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
-   :width: 45 %
+   :width: 100 %
