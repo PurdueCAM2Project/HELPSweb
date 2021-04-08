@@ -1,11 +1,12 @@
 People and Topics
 -----------------
-|cam2logo|
 
-.. |cam2logo| image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg
-   :width: 50%
 
-These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.	   
+.. raw:: html
+
+    <div style="margin: 30px; text-align: center;">
+        <img style="max-width: 50%; text-align: center;" src="https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/cam2logo4v2.jpg"/>
+    </div>
 
 
 2021 Spring Schedule
