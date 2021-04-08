@@ -31,9 +31,6 @@ engineering, as well as applications.
 
 |helps0|
 
-.. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
-
-
 .. toctree::
    :hidden:
    :maxdepth: 2
@@ -50,3 +47,4 @@ engineering, as well as applications.
    newmember
 
 
+.. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
