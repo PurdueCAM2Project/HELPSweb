@@ -59,7 +59,7 @@ Graduate Students
    * - .. image:: https://ca.slack-edge.com/T02T4RJGC-UAA4XRCDD-6551ccfac7cb-512
      - Xiao Hu: Master Student, Real-time UAV multi-object tracking with 3D Localization
 
-   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_placeholder_male.jpg
+   * - .. image:: https://raw.githubusercontent.com/PurdueCAM2Project/HELPSweb/master/source/images/member_nick_eliopoulos.jpg
      - Nick Eliopoulos: Doctoral Student, Energy Efficient Hierarchical Neural Networks for Video
 
 
