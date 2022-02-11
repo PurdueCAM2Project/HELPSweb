@@ -29,6 +29,7 @@ if errorlevel 9009 (
 
 md ".\docs"
 md ".\docs\.doctrees"
+copy NUL ".\docs\.nojekyll"
 copy ".\CNAME." ".\docs"
 xcopy /s /e /i /y /q ".\%BUILDDIR%\html" ".\docs"
 xcopy /s /e /i /y /q ".\%BUILDDIR%\doctrees" ".\docs\.doctrees"
