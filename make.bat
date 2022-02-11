@@ -27,11 +27,11 @@ if errorlevel 9009 (
 
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS%
 
-if exist ".\docs" rmdir ".\docs" /q /s
 md ".\docs"
 md ".\docs\.doctrees"
-xcopy /s /e /i /y ".\%BUILDDIR%\html" ".\docs"
-xcopy /s /e /i /y ".\%BUILDDIR%\doctrees" ".\docs\.doctrees"
+copy ".\CNAME." ".\docs"
+xcopy /s /e /i /y /q ".\%BUILDDIR%\html" ".\docs"
+xcopy /s /e /i /y /q ".\%BUILDDIR%\doctrees" ".\docs\.doctrees"
 goto end
 
 :help
