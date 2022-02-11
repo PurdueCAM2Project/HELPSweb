@@ -151,6 +151,9 @@ Special Session on Low-Power Image Recognition Challenges
 .. list-table::
    :widths: 30 10
 
+   * - Abhinav Goel, Caleb Tung, Xiao Hu, George K. Thiruvathukal, James C. Davis, Yung-Hsiang Lu, **Efficient Computer Vision on Edge Devices with Pipeline-Parallel Hierarchical Neural Networks**, 27th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022.
+     - `[PDF] <https://arxiv.org/pdf/2109.13356.pdf>`__
+
    * - Aditya Chakraborty, Akshay Pawar, Hojoung Jang, Shunqiao Huang, Sripath Mishra, Shuo-Han Chen, Yuan-Hao Chang, George K. Thiruvathukal and Yung-Hsiang Lu, "A Real-Time Feature Indexing System on Live Video Streams," 2020 IEEE 44th Annual Computer Software and Applications Conference (COMPSAC), Madrid, Spain, 2020.
      - `[PDF] <https://drive.google.com/file/d/1nAI8hLI9sZvadgQw6JsUMvsAKNQliaNL/view?usp=sharing>`__
    

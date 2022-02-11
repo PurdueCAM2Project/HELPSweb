@@ -31,7 +31,7 @@ Diversity
 ~~~~~~~~~~
 
 Our research group includes members from diverse backgrounds and experiences. We follow the principles of the IEEE Special Technical Community
-in Broadening Participation (`stcbp.org <https://stcbp.org>`__) to improve improve inclusion of diverse people, especially those from underrepresented populations.
+in Broadening Participation (`stcbp.org <https://stcbp.org>`__) to encourage inclusion of people from underrepresented groups.
 
 
 
