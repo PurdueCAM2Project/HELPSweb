@@ -3,22 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Purdue HELPS Laboratory
-==================================
-
 High-Efficiency and Low-Power Systems (HELPS)
 =============================================
 
-Mission: This research team aims to create leaders.
-
-This team aims to create leaders that can recognize the world's needs
-and develop solutions
+About
+=====
 
 The High-Efficiency, Low-Power System (HELPS) Laboratory in the Purdue
 develops the technology to improve the efficiency and performance of
 computing systems. Our research includes computer vision, machine
 learning, cloud and mobile computing, embedded systems software
 engineering, as well as applications.
+
+Mission
+=======
+
+The mission of our team is to **create leaders**. We are always looking for undergraduate and graduate students willing to contribute to energy-efficient computing research. Above all, we want to give students opportunities to grow as researchers and leaders.
+
+**Great research is enabled by mentorship**. Our laboratory aims to cultivate an environment where all students have opportunities to lead and mentor other students. Constructive feedback is essential, and senior members provide junior researchers guidance.
 
 .. raw:: html
 
@@ -27,8 +29,6 @@ engineering, as well as applications.
          <p style="margin: 20px">These projects form the CAM2 (Continuous Analysis of Many CAMeras) family.</p>
     </div>
 
-
-
 |helps0|
 
 .. toctree::
@@ -36,7 +36,7 @@ engineering, as well as applications.
    :maxdepth: 2
    :caption: Contents:
 
-   people
+   people_Spring2022
    product
    funding
    professionalism
@@ -45,6 +45,5 @@ engineering, as well as applications.
    photogallery
    pastproject
    newmember
-
 
 .. |helps0| image:: https://engineering.purdue.edu/HELPS/Images/201809team.jpg
