@@ -27,9 +27,9 @@ if errorlevel 9009 (
 
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS%
 
-md ".\docs"
+md ".\docs\.doctrees"
 xcopy /s /e /i /y ".\%BUILDDIR%\html" ".\docs"
-xcopy /s /e /i /y ".\%BUILDDIR%\doctrees" ".\docs"
+xcopy /s /e /i /y ".\%BUILDDIR%\doctrees" ".\docs\.doctrees"
 goto end
 
 :help
