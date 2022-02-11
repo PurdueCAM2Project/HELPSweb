@@ -46,5 +46,3 @@ While still in the virtual environment:
 Then open up a web browser and visit http://localhost:8000
 
 If everything looks good, push to a new branch and submit a pull request.
-
-
