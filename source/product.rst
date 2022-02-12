@@ -4,10 +4,8 @@ Products
 Publications
 ------------
 
-
 Journal Papers
 ~~~~~~~~~~~~~~~
-
 
 These papers are protected by copyrights. The copyright owners (such as ACM and IEEE) allow authors to post own papers to the public for personal and noncommercial uses.
 
@@ -143,16 +141,27 @@ These papers are protected by copyrights. The copyright owners (such as ACM and 
 Conference Papers
 ~~~~~~~~~~~~~~~~~
 
-These papers are protected by copyrights. The copyright owners (such as ACM and IEEE) allow authors to post own papers to the public for personal and noncommercial uses.
-
-
-Special Session on Low-Power Image Recognition Challenges
+These papers are protected by copyright. The copyright owners (such as ACM and IEEE) allow authors to post papers to the public for personal and noncommercial uses.
 
 .. list-table::
    :widths: 30 10
 
    * - Abhinav Goel, Caleb Tung, Xiao Hu, George K. Thiruvathukal, James C. Davis, Yung-Hsiang Lu, **Efficient Computer Vision on Edge Devices with Pipeline-Parallel Hierarchical Neural Networks**, 27th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022.
      - `[PDF] <https://arxiv.org/pdf/2109.13356.pdf>`__
+
+   * - Xiao Hu, Ayden Kocher, Ziteng Jiao, Yung-Hsiang Lu et al., **Efficient Object Tracking for UAV Video**, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2022.
+     - Awaiting Decision
+
+   * - Xiao Hu, Anirudh Vegesana, Ayden Kocher, Ziteng Jiao,  Abhinav Goel, Caleb Tung, Nick Eliopoulos, Yung-Hsiang Lu, **Optical Flow Oriented Multi-Object Tracking on UAV**, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2022.
+     - Awaiting Decision
+
+   * - Nick Eliopoulos, Abhinav Goel, James C. Davis, George K. Thiruvathukal, Yung-Hsiang Lu, **Improving Hierarchical Neural Networks on Class-Imbalanced Datasets**, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2022.
+     - Awaiting Decision
+
+Special Session on Low-Power Image Recognition Challenges
+
+.. list-table::
+   :widths: 30 10
 
    * - Aditya Chakraborty, Akshay Pawar, Hojoung Jang, Shunqiao Huang, Sripath Mishra, Shuo-Han Chen, Yuan-Hao Chang, George K. Thiruvathukal and Yung-Hsiang Lu, "A Real-Time Feature Indexing System on Live Video Streams," 2020 IEEE 44th Annual Computer Software and Applications Conference (COMPSAC), Madrid, Spain, 2020.
      - `[PDF] <https://drive.google.com/file/d/1nAI8hLI9sZvadgQw6JsUMvsAKNQliaNL/view?usp=sharing>`__
