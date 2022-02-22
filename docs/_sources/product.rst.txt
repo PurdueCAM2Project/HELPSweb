@@ -4,16 +4,14 @@ Products
 Publications
 ------------
 
-
 Journal Papers
 ~~~~~~~~~~~~~~~
-
 
 These papers are protected by copyrights. The copyright owners (such as ACM and IEEE) allow authors to post own papers to the public for personal and noncommercial uses.
 
 .. list-table::
    :widths: 30 10
-
+   
    * -  Abhinav Goel, Sara Aghajanzadeh, Caleb Tung, Shuo-Han Chen,
         George K. Thiruvathukal, Yung-Hsiang Lu, **Modular Neural Networks
         for Low-Power Image Classification on Embedded Devices**, ACM Transactions on
@@ -159,6 +157,19 @@ These papers are protected by copyright. The copyright owners (such as ACM and I
 
    * - Nick Eliopoulos, Abhinav Goel, James C. Davis, George K. Thiruvathukal, Yung-Hsiang Lu, **Improving Hierarchical Neural Networks on Class-Imbalanced Datasets**, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2022.
      - Awaiting Decision
+	 
+   * - Abhinav Goel, Caleb Tung, Xiao Hu, Haobo Wang, James C. Davis, George K. Thiruvathukal, Yung-Hsiang Lu, **Low-Power Multi-Camera Object Re-Identification using Hierarchical Neural Networks**, IEEE / ACM International Symposium on Lower Power Electronics and Design (ISLPED), 2021.
+     - `[PDF] <https://arxiv.org/pdf/2106.10588.pdf>`__
+	 
+   * - Abhinav Goel, Caleb Tung, Sara Aghajanzadeh, Isha Ghodgaonkar, Shreya Ghosh, George K. Thiruvathukal, and Yung-Hsiang Lu, **Low-power object counting with hierarchical neural networks**, IEEE / ACM International Symposium on Low Power Electronics and Design (ISLPED), 2020. 
+     - `[PDF] <https://dl.acm.org/doi/pdf/10.1145/3370748.3406569>`__
+	 
+   * - Abhinav Goel, Caleb Tung, Yung-Hsiang Lu, George K. Thiruvathukal, **A Survey of Methods for Low-Power Deep Learning and Computer Vision**, IEEE 6th World Forum on Internet of Things (WF-IoT), 2020.
+     - `[PDF] <https://arxiv.org/abs/2003.11066>`__
+   
+   * - Sara Aghajanzadeh, Roopasree Naidu, Shuo-Han Chen, Caleb Tung, Abhinav Goel, Yung-Hsiang Lu, George K. Thiruvathukal, **Camera Placement Meeting Restrictions of Computer Vision**, IEEE International Conference on Image Processing (ICIP), 2020.
+     - `[PDF] <https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1250&context=cs_facpubs>`__   
+
 
 Special Session on Low-Power Image Recognition Challenges
 
